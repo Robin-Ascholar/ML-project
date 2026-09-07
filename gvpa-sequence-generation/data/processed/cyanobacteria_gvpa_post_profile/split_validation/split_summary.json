@@ -1,0 +1,20 @@
+{
+  "method": "connected components of all MMseqs2 hits at threshold",
+  "deterministic": true,
+  "identity_threshold": 0.95,
+  "coverage_threshold": 0.8,
+  "total_sequences": 165,
+  "total_components": 15,
+  "split_counts": {
+    "train": 139,
+    "valid": 13,
+    "test": 13
+  },
+  "split_component_counts": {
+    "train": 1,
+    "valid": 4,
+    "test": 10
+  },
+  "max_cross_split_identity_at_required_coverage": 0.944,
+  "cross_split_pairs_at_or_above_threshold": 0
+}

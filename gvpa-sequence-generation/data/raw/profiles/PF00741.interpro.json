@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "accession": "PF00741",
+    "entry_id": null,
+    "type": "family",
+    "go_terms": null,
+    "source_database": "pfam",
+    "member_databases": null,
+    "integrated": "IPR000638",
+    "hierarchy": null,
+    "name": {
+      "name": "Gas vesicle protein",
+      "short": "Gas_vesicle"
+    },
+    "description": [
+      {
+        "text": "<p>This family includes gas vesicle proteins such as GvpJ [[cite:PUB00014923]].</p>",
+        "llm": false,
+        "checked": false,
+        "updated": false
+      }
+    ],
+    "wikipedia": [
+      {
+        "title": "GvpA",
+        "extract": "<p><b>GvpA</b> is a gas vesicle structural protein found in different phyla of bacteria and archaea for example in <i>Halobacterium salinarum</i> or <i>Haloferax mediterranei</i>. Gas vesicles are small, hollow, gas filled protein structures found in several cyanobacterial and archaebacterial microorganisms. They allow the positioning of the bacteria at a favourable depth for growth.</p>",
+        "thumbnail": null
+      }
+    ],
+    "literature": {
+      "PUB00014923": {
+        "PMID": 15126480,
+        "ISBN": null,
+        "volume": "186",
+        "issue": "10",
+        "year": 2004,
+        "title": "Complexity of gas vesicle biogenesis in Halobacterium sp. strain NRC-1: identification of five new proteins.",
+        "URL": null,
+        "raw_pages": "3182-6",
+        "medline_journal": "J Bacteriol",
+        "ISO_journal": "J. Bacteriol.",
+        "authors": [
+          "Shukla HD",
+          "DasSarma S."
+        ],
+        "DOI_URL": "http://dx.doi.org/10.1128/JB.186.10.3182-3186.2004"
+      }
+    },
+    "set_info": null,
+    "overlaps_with": null,
+    "counters": {
+      "subfamilies": 0,
+      "domain_architectures": 11,
+      "interactions": 0,
+      "matches": 6553,
+      "pathways": 0,
+      "proteins": 6553,
+      "proteomes": 1769,
+      "sets": 0,
+      "structural_models": {
+        "alphafold": 3506
+      },
+      "structures": 2,
+      "taxa": 2681
+    },
+    "entry_annotations": {
+      "hmm": 0,
+      "logo": 0,
+      "alignment:seed": 67,
+      "alignment:full": 3004
+    },
+    "cross_references": {},
+    "is_llm": false,
+    "is_reviewed_llm": false,
+    "is_updated_llm": false,
+    "representative_structure": null
+  }
+}

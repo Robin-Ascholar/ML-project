@@ -1,0 +1,13 @@
+{
+  "candidate_sequences": 655,
+  "heldout_sequences": 26,
+  "blue_train_sequences": 139,
+  "candidate_taxonomic_domains": {
+    "Bacteria": 444,
+    "Archaea": 210,
+    "Unclassified": 1
+  },
+  "candidate_length_min": 65,
+  "candidate_length_max": 100,
+  "selection_rule": "only exclusion reason is not_cyanobacteria_by_ncbi_lineage"
+}

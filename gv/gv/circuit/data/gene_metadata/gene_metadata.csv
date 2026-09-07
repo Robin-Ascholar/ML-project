@@ -1,0 +1,80 @@
+sequence_id,source,protein_type,anchor_gene_id,nucleotide_acc,organism,genomic_position,product_annotation,length_aa,retrieval_date
+GeneContext_gvpA_NC_010366.1_38996_39218,Gene context mining (anchor-based),gvpA,5954621,NC_010366.1,Halobacterium salinarum R1,38996_39218,hypothetical protein,73,2025-12-25
+GeneContext_gvpA_NZ_CP042241.1_35422_35644,Gene context mining (anchor-based),gvpA,41183441,NZ_CP042241.1,Salarchaeum sp. JOR-1,35422_35644,hypothetical protein,73,2025-12-25
+GeneContext_gvpA_NZ_AP026945.1_3229983_3230172,Gene context mining (anchor-based),gvpA,305507279,NZ_AP026945.1,Limnospira platensis NIES-39,3229983_3230172,hypothetical protein,62,2025-12-25
+GeneContext_gvpA_NZ_AP026945.1_3230284_3230518,Gene context mining (anchor-based),gvpA,305507279,NZ_AP026945.1,Limnospira platensis NIES-39,3230284_3230518,hypothetical protein,77,2025-12-25
+GeneContext_gvpA_NZ_JXYX01000004.1_176447_176642,Gene context mining (anchor-based),gvpA,66706977,NZ_JXYX01000004.1,Microcystis aeruginosa NIES-88,176447_176642,hypothetical protein,64,2025-12-25
+GeneContext_gvpA_NZ_JXYX01000004.1_<211094_211283,Gene context mining (anchor-based),gvpA,66706977,NZ_JXYX01000004.1,Microcystis aeruginosa NIES-88,<211094_211283,hypothetical protein,62,2025-12-25
+GeneContext_gvpA_NZ_LR882952.1_1337908_1338142,Gene context mining (anchor-based),gvpA,77287373,NZ_LR882952.1,Planktothrix agardhii,1337908_1338142,hypothetical protein,77,2025-12-26
+GeneContext_gvpA_NZ_CP020114.1_976282_976465,Gene context mining (anchor-based),gvpA,78016220,NZ_CP020114.1,Nodularia spumigena UHCC 0039,976282_976465,hypothetical protein,60,2025-12-26
+GeneContext_gvpF_NC_010366.1_38568_38838,Gene context mining (anchor-based),gvpF,5954621,NC_010366.1,Halobacterium salinarum R1,38568_38838,hypothetical protein,89,2025-12-25
+GeneContext_gvpF_NZ_JXYX01000004.1_197450_197720,Gene context mining (anchor-based),gvpF,66706977,NZ_JXYX01000004.1,Microcystis aeruginosa NIES-88,197450_197720,hypothetical protein,89,2025-12-25
+GeneContext_gvpF_NZ_JXYX01000004.1_210397_210649,Gene context mining (anchor-based),gvpF,66706977,NZ_JXYX01000004.1,Microcystis aeruginosa NIES-88,210397_210649,hypothetical protein,83,2025-12-25
+GeneContext_gvpF_NZ_CP146626.1_162036_162306,Gene context mining (anchor-based),gvpF,89343663,NZ_CP146626.1,Halobacterium salinarum,162036_162306,hypothetical protein,89,2025-12-25
+GeneContext_gvpF_NZ_CP070375.1_96334_96604,Gene context mining (anchor-based),gvpF,62883399,NZ_CP070375.1,Halobacterium sp. GSL-19,96334_96604,hypothetical protein,89,2025-12-26
+GeneContext_gvpF_NZ_CP085883.1_42656_42926,Gene context mining (anchor-based),gvpF,68695200,NZ_CP085883.1,Halobacterium salinarum NRC-34001,42656_42926,hypothetical protein,89,2025-12-26
+GeneContext_gvpF_NZ_CP070335.2_85958_86228,Gene context mining (anchor-based),gvpF,62888164,NZ_CP070335.2,Halobacterium sp. BOL4-2,85958_86228,hypothetical protein,89,2025-12-26
+GeneContext_gvpF_NZ_CP128378.2_259427_259697,Gene context mining (anchor-based),gvpF,89333074,NZ_CP128378.2,Halobacterium salinarum,259427_259697,hypothetical protein,89,2025-12-26
+GeneContext_gvpF_NC_010368.1_80731_81001,Gene context mining (anchor-based),gvpF,5954946,NC_010368.1,Halobacterium salinarum R1,80731_81001,hypothetical protein,89,2025-12-26
+GeneContext_gvpF_NZ_CP148057.1_170048_170318,Gene context mining (anchor-based),gvpF,89350584,NZ_CP148057.1,Halobacterium salinarum,170048_170318,hypothetical protein,89,2025-12-26
+GeneContext_gvpF_NZ_JACJTO010000039.1_22338_22605,Gene context mining (anchor-based),gvpF,78219535,NZ_JACJTO010000039.1,Aphanizomenon flos-aquae FACHB-1287,22338_22605,hypothetical protein,88,2025-12-26
+GeneContext_gvpF_NZ_LR882952.1_1307152_1307413,Gene context mining (anchor-based),gvpF,77287373,NZ_LR882952.1,Planktothrix agardhii,1307152_1307413,hypothetical protein,86,2025-12-26
+GeneContext_gvpG_NC_010366.1_1158_1332,Gene context mining (anchor-based),gvpG,5954621,NC_010366.1,Halobacterium salinarum R1,1158_1332,hypothetical protein,57,2025-12-25
+GeneContext_gvpG_NZ_CP085883.1_58152_58317,Gene context mining (anchor-based),gvpG,68695200,NZ_CP085883.1,Halobacterium salinarum NRC-34001,58152_58317,hypothetical protein,54,2025-12-26
+GeneContext_gvpG_NZ_CP070335.2_101454_101619,Gene context mining (anchor-based),gvpG,62888164,NZ_CP070335.2,Halobacterium sp. BOL4-2,101454_101619,hypothetical protein,54,2025-12-26
+GeneContext_gvpG_NZ_JANQDJ010000044.1_67267_67444,Gene context mining (anchor-based),gvpG,83684850,NZ_JANQDJ010000044.1,Umezakia ovalisporum Ak1311,67267_67444,hypothetical protein,58,2025-12-26
+GeneContext_gvpG_NZ_JANQDJ010000044.1_72033_72189,Gene context mining (anchor-based),gvpG,83684850,NZ_JANQDJ010000044.1,Umezakia ovalisporum Ak1311,72033_72189,hypothetical protein,51,2025-12-26
+GeneContext_gvpG_NC_010368.1_96227_96392,Gene context mining (anchor-based),gvpG,5954946,NC_010368.1,Halobacterium salinarum R1,96227_96392,hypothetical protein,54,2025-12-26
+GeneContext_gvpK_NC_010366.1_16075_16351,Gene context mining (anchor-based),gvpK,5954621,NC_010366.1,Halobacterium salinarum R1,16075_16351,hypothetical protein,91,2025-12-25
+GeneContext_gvpK_NZ_AP026945.1_3217939_3218251,Gene context mining (anchor-based),gvpK,305507279,NZ_AP026945.1,Limnospira platensis NIES-39,3217939_3218251,hypothetical protein,103,2025-12-25
+GeneContext_gvpK_NZ_AP026945.1_3229573_3229891,Gene context mining (anchor-based),gvpK,305507279,NZ_AP026945.1,Limnospira platensis NIES-39,3229573_3229891,hypothetical protein,105,2025-12-25
+GeneContext_gvpK_NZ_JXYX01000004.1_185987_186320,Gene context mining (anchor-based),gvpK,66706977,NZ_JXYX01000004.1,Microcystis aeruginosa NIES-88,185987_186320,hypothetical protein,110,2025-12-25
+GeneContext_gvpK_NZ_JXYX01000004.1_188448_188757,Gene context mining (anchor-based),gvpK,66706977,NZ_JXYX01000004.1,Microcystis aeruginosa NIES-88,188448_188757,hypothetical protein,102,2025-12-25
+GeneContext_gvpK_NZ_CP070375.1_104352_104670,Gene context mining (anchor-based),gvpK,62883399,NZ_CP070375.1,Halobacterium sp. GSL-19,104352_104670,hypothetical protein,105,2025-12-26
+GeneContext_gvpK_NZ_CP128378.2_251361_251679,Gene context mining (anchor-based),gvpK,89333074,NZ_CP128378.2,Halobacterium salinarum,251361_251679,hypothetical protein,105,2025-12-26
+GeneContext_gvpK_NZ_JANQDJ010000044.1_77086_77419,Gene context mining (anchor-based),gvpK,83684850,NZ_JANQDJ010000044.1,Umezakia ovalisporum Ak1311,77086_77419,hypothetical protein,110,2025-12-26
+GeneContext_gvpK_NZ_CP047242.1_1388682_1388997,Gene context mining (anchor-based),gvpK,58722718,NZ_CP047242.1,Trichormus variabilis 0441,1388682_1388997,hypothetical protein,104,2025-12-26
+GeneContext_gvpK_NZ_CP047242.1_1394679_1394958,Gene context mining (anchor-based),gvpK,58722718,NZ_CP047242.1,Trichormus variabilis 0441,1394679_1394958,hypothetical protein,92,2025-12-26
+GeneContext_gvpK_NZ_KE384633.1_148832_149153,Gene context mining (anchor-based),gvpK,78014088,NZ_KE384633.1,Dolichospermum circinale AWQC131C,148832_149153,hypothetical protein,106,2025-12-26
+GeneContext_gvpK_NZ_CP148057.1_161982_162300,Gene context mining (anchor-based),gvpK,89350584,NZ_CP148057.1,Halobacterium salinarum,161982_162300,hypothetical protein,105,2025-12-26
+GeneContext_gvpK_NZ_JACJTO010000039.1_1944_2304,Gene context mining (anchor-based),gvpK,78219535,NZ_JACJTO010000039.1,Aphanizomenon flos-aquae FACHB-1287,1944_2304,hypothetical protein,119,2025-12-26
+GeneContext_gvpK_NZ_LR882952.1_1308201_1308477,Gene context mining (anchor-based),gvpK,77287373,NZ_LR882952.1,Planktothrix agardhii,1308201_1308477,hypothetical protein,91,2025-12-26
+GeneContext_gvpO_NC_010366.1_15671_16079,Gene context mining (anchor-based),gvpO,5954621,NC_010366.1,Halobacterium salinarum R1,15671_16079,hypothetical protein,135,2025-12-25
+GeneContext_gvpO_NZ_JXYX01000004.1_175373_175739,Gene context mining (anchor-based),gvpO,66706977,NZ_JXYX01000004.1,Microcystis aeruginosa NIES-88,175373_175739,hypothetical protein,121,2025-12-25
+GeneContext_gvpO_NZ_CP146626.1_150352_150751,Gene context mining (anchor-based),gvpO,89343663,NZ_CP146626.1,Halobacterium salinarum,150352_150751,hypothetical protein,132,2025-12-25
+GeneContext_gvpO_NZ_CP070375.1_84654_85053,Gene context mining (anchor-based),gvpO,62883399,NZ_CP070375.1,Halobacterium sp. GSL-19,84654_85053,hypothetical protein,132,2025-12-26
+GeneContext_gvpO_NZ_CP085883.1_30972_31371,Gene context mining (anchor-based),gvpO,68695200,NZ_CP085883.1,Halobacterium salinarum NRC-34001,30972_31371,hypothetical protein,132,2025-12-26
+GeneContext_gvpO_NZ_CP070335.2_74274_74673,Gene context mining (anchor-based),gvpO,62888164,NZ_CP070335.2,Halobacterium sp. BOL4-2,74274_74673,hypothetical protein,132,2025-12-26
+GeneContext_gvpO_NZ_CP128378.2_270978_271377,Gene context mining (anchor-based),gvpO,89333074,NZ_CP128378.2,Halobacterium salinarum,270978_271377,hypothetical protein,132,2025-12-26
+GeneContext_gvpO_NZ_CP065936.1_76310_76697,Gene context mining (anchor-based),gvpO,92779206,NZ_CP065936.1,Cylindrospermopsis raciborskii Cr2010,76310_76697,hypothetical protein,128,2025-12-26
+GeneContext_gvpO_NC_010368.1_69047_69446,Gene context mining (anchor-based),gvpO,5954946,NC_010368.1,Halobacterium salinarum R1,69047_69446,hypothetical protein,132,2025-12-26
+GeneContext_gvpO_NZ_CP148057.1_181599_181998,Gene context mining (anchor-based),gvpO,89350584,NZ_CP148057.1,Halobacterium salinarum,181599_181998,hypothetical protein,132,2025-12-26
+GeneContext_gvpO_NZ_JACJTO010000039.1_37136_37541,Gene context mining (anchor-based),gvpO,78219535,NZ_JACJTO010000039.1,Aphanizomenon flos-aquae FACHB-1287,37136_37541,hypothetical protein,134,2025-12-26
+GeneContext_gvpN_NZ_CP042241.1_30045_30498,Gene context mining (anchor-based),gvpN,41183441,NZ_CP042241.1,Salarchaeum sp. JOR-1,30045_30498,hypothetical protein,150,2025-12-25
+GeneContext_gvpN_NZ_JXYX01000004.1_202495_202987,Gene context mining (anchor-based),gvpN,66706977,NZ_JXYX01000004.1,Microcystis aeruginosa NIES-88,202495_202987,hypothetical protein,163,2025-12-25
+GeneContext_gvpN_NZ_CP146626.1_170052_170487,Gene context mining (anchor-based),gvpN,89343663,NZ_CP146626.1,Halobacterium salinarum,170052_170487,hypothetical protein,144,2025-12-25
+GeneContext_gvpN_NZ_CP085883.1_50672_51107,Gene context mining (anchor-based),gvpN,68695200,NZ_CP085883.1,Halobacterium salinarum NRC-34001,50672_51107,hypothetical protein,144,2025-12-26
+GeneContext_gvpN_NZ_CP070335.2_93974_94409,Gene context mining (anchor-based),gvpN,62888164,NZ_CP070335.2,Halobacterium sp. BOL4-2,93974_94409,hypothetical protein,144,2025-12-26
+GeneContext_gvpN_NZ_CP065936.1_72214_72640,Gene context mining (anchor-based),gvpN,92779206,NZ_CP065936.1,Cylindrospermopsis raciborskii Cr2010,72214_72640,hypothetical protein,141,2025-12-26
+GeneContext_gvpN_NZ_JANQDJ010000044.1_86946_87447,Gene context mining (anchor-based),gvpN,83684850,NZ_JANQDJ010000044.1,Umezakia ovalisporum Ak1311,86946_87447,hypothetical protein,166,2025-12-26
+GeneContext_gvpN_NC_010368.1_88747_89182,Gene context mining (anchor-based),gvpN,5954946,NC_010368.1,Halobacterium salinarum R1,88747_89182,hypothetical protein,144,2025-12-26
+GeneContext_gvpJ_NZ_AP026945.1_3235711_3235849,Gene context mining (anchor-based),gvpJ,305507279,NZ_AP026945.1,Limnospira platensis NIES-39,3235711_3235849,hypothetical protein,45,2025-12-25
+GeneContext_gvpJ_NZ_AP026945.1_3237255_3237393,Gene context mining (anchor-based),gvpJ,305507279,NZ_AP026945.1,Limnospira platensis NIES-39,3237255_3237393,hypothetical protein,45,2025-12-25
+GeneContext_gvpJ_NZ_AP026945.1_3249527_3249671,Gene context mining (anchor-based),gvpJ,305507279,NZ_AP026945.1,Limnospira platensis NIES-39,3249527_3249671,hypothetical protein,47,2025-12-25
+GeneContext_gvpJ_NZ_AP026945.1_3250094_3250238,Gene context mining (anchor-based),gvpJ,305507279,NZ_AP026945.1,Limnospira platensis NIES-39,3250094_3250238,hypothetical protein,47,2025-12-25
+GeneContext_gvpJ_NZ_JXYX01000004.1_209580_209709,Gene context mining (anchor-based),gvpJ,66706977,NZ_JXYX01000004.1,Microcystis aeruginosa NIES-88,209580_209709,hypothetical protein,42,2025-12-25
+GeneContext_gvpJ_NZ_CP146626.1_136822_136966,Gene context mining (anchor-based),gvpJ,89343663,NZ_CP146626.1,Halobacterium salinarum,136822_136966,hypothetical protein,47,2025-12-25
+GeneContext_gvpJ_NZ_CP070375.1_71124_71268,Gene context mining (anchor-based),gvpJ,62883399,NZ_CP070375.1,Halobacterium sp. GSL-19,71124_71268,hypothetical protein,47,2025-12-26
+GeneContext_gvpJ_NZ_CP128378.2_284763_284907,Gene context mining (anchor-based),gvpJ,89333074,NZ_CP128378.2,Halobacterium salinarum,284763_284907,hypothetical protein,47,2025-12-26
+GeneContext_gvpJ_NZ_JANQDJ010000044.1_71549_71672,Gene context mining (anchor-based),gvpJ,83684850,NZ_JANQDJ010000044.1,Umezakia ovalisporum Ak1311,71549_71672,hypothetical protein,40,2025-12-26
+GeneContext_gvpJ_NZ_CP148057.1_195384_195528,Gene context mining (anchor-based),gvpJ,89350584,NZ_CP148057.1,Halobacterium salinarum,195384_195528,hypothetical protein,47,2025-12-26
+GeneContext_gvpC_NZ_CP146626.1_134948_135722,Gene context mining (anchor-based),gvpC,89343663,NZ_CP146626.1,Halobacterium salinarum,134948_135722,hypothetical protein,257,2025-12-25
+GeneContext_gvpC_NZ_CP070375.1_69250_70024,Gene context mining (anchor-based),gvpC,62883399,NZ_CP070375.1,Halobacterium sp. GSL-19,69250_70024,hypothetical protein,257,2025-12-26
+GeneContext_gvpC_NZ_CP065936.1_43154_44060,Gene context mining (anchor-based),gvpC,92779206,NZ_CP065936.1,Cylindrospermopsis raciborskii Cr2010,43154_44060,hypothetical protein,301,2025-12-26
+GeneContext_gvpC_NZ_CP065936.1_75102_76284,Gene context mining (anchor-based),gvpC,92779206,NZ_CP065936.1,Cylindrospermopsis raciborskii Cr2010,75102_76284,hypothetical protein,393,2025-12-26
+GeneContext_gvpC_NZ_CP047242.1_1395714_1396962,Gene context mining (anchor-based),gvpC,58722718,NZ_CP047242.1,Trichormus variabilis 0441,1395714_1396962,hypothetical protein,415,2025-12-26
+GeneContext_gvpC_NZ_LR882952.1_1335982_1336585,Gene context mining (anchor-based),gvpC,77287373,NZ_LR882952.1,Planktothrix agardhii,1335982_1336585,hypothetical protein,200,2025-12-26
+GeneContext_gvpC_NZ_LR882952.1_1337248_1337887,Gene context mining (anchor-based),gvpC,77287373,NZ_LR882952.1,Planktothrix agardhii,1337248_1337887,hypothetical protein,212,2025-12-26
+GeneContext_gvpC_NZ_CP020114.1_975457_976252,Gene context mining (anchor-based),gvpC,78016220,NZ_CP020114.1,Nodularia spumigena UHCC 0039,975457_976252,hypothetical protein,264,2025-12-26
+GeneContext_gvpC_NZ_CP020114.1_993674_994292,Gene context mining (anchor-based),gvpC,78016220,NZ_CP020114.1,Nodularia spumigena UHCC 0039,993674_994292,hypothetical protein,205,2025-12-26
+GeneContext_gvpC_NZ_CP020114.1_999169_1000087,Gene context mining (anchor-based),gvpC,78016220,NZ_CP020114.1,Nodularia spumigena UHCC 0039,999169_1000087,hypothetical protein,305,2025-12-26

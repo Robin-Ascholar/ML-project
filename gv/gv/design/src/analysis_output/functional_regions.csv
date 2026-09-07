@@ -1,0 +1,10 @@
+position,consensus,entropy,note,region_type,property_shift
+1,A,2.3908624043190496,部分保守，可能存在物种特异性适应,species_specific_adaptive,
+9,S,2.1355232129048733,部分保守，可能存在物种特异性适应,species_specific_adaptive,
+45,V,1.8827556819423383,部分保守，可能存在物种特异性适应,species_specific_adaptive,
+46,V,1.7211462770156798,部分保守，可能存在物种特异性适应,species_specific_adaptive,
+47,V,1.6659231403390988,部分保守，可能存在物种特异性适应,species_specific_adaptive,
+23,,2.3261892776379316,理化性质突变+中度变异，可能产生新功能界面,novel_functional_candidate,mixed_hydrophobic -> strong_hydrophobic
+28,,3.0352907450264004,理化性质突变+中度变异，可能产生新功能界面,novel_functional_candidate,mixed_hydrophobic -> strong_hydrophobic
+38,,2.423397416526998,理化性质突变+中度变异，可能产生新功能界面,novel_functional_candidate,mixed_hydrophobic -> strong_hydrophobic
+46,,1.7211462770156798,理化性质突变+中度变异，可能产生新功能界面,novel_functional_candidate,mixed_hydrophobic -> strong_hydrophobic

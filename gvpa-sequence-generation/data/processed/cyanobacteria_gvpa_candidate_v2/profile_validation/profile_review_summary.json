@@ -1,0 +1,11 @@
+{
+  "reviewed": 30,
+  "rescued": 9,
+  "excluded": 21,
+  "strict_core_profile_score_floor": 124.8,
+  "length_range": [
+    50,
+    100
+  ],
+  "decision_rule": "PF00741 GA pass AND core-profile score >= strict-set minimum AND length pass AND explicit GvpA or PRK09371 support AND canonical amino acids"
+}

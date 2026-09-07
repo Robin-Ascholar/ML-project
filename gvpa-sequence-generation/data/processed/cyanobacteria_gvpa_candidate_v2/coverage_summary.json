@@ -1,0 +1,16 @@
+{
+  "ncbi_candidate_accessions": 1141,
+  "ncbi_candidate_unique_sequences": 241,
+  "ncbi_strict_unique_sequences": 156,
+  "course_strict_unique_sequences": 144,
+  "course_overlap_with_ncbi_strict": 143,
+  "course_coverage_of_ncbi_strict": 0.9167,
+  "new_strict_sequences": 13,
+  "combined_strict_candidate_sequences": 157,
+  "new_mag_sequences": 2,
+  "review_sequences": 30,
+  "uniprot_records": 135,
+  "uniprot_unique_sequences": 62,
+  "uniprot_reviewed_records": 10,
+  "uniprot_unique_not_covered_by_ncbi_strict": 4
+}

@@ -1,0 +1,2077 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/processed/cyanobacteria_gvpa_candidate_v2/profile_validation/GvpA_core95.hmm
+# target sequence database:        data/processed/cyanobacteria_gvpa_candidate_v2/strict_included.fasta
+# per-seq hits tabular output:     data/processed/cyanobacteria_gvpa_candidate_v2/profile_validation/GvpA_core95_strict157.tbl
+# Max sensitivity mode:            on [all heuristic filters off]
+# number of worker threads:        4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       core95_representatives.mafft  [M=72]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    9.9e-49  156.8   5.9    1.1e-48  156.7   5.9    1.0  1  WP_190432663.1  taxid=450526 organism=Trichocoleus source=cou
+      1e-48  156.8   6.5    1.1e-48  156.7   6.5    1.0  1  WP_072717742.1  taxid=54304 organism=Planktothrix source=cour
+      1e-48  156.8   6.1    1.1e-48  156.7   6.1    1.0  1  WP_171572203.1  taxid=2803751 organism=Leptolyngbya sp. Cla-1
+    1.1e-48  156.7   6.1    1.2e-48  156.6   6.1    1.0  1  WP_190553740.1  taxid=450526 organism=Trichocoleus source=cou
+    1.4e-48  156.3   6.3    1.6e-48  156.2   6.3    1.0  1  WP_431662249.1  taxid=1620699 organism=Pantanalinema source=c
+    1.5e-48  156.3   6.9    1.6e-48  156.2   6.9    1.0  1  WP_036534731.1  taxid=1501145 organism=Neosynechococcus sphag
+    1.6e-48  156.2   6.4    1.8e-48  156.0   6.4    1.0  1  WP_088893383.1  taxid=1962290 organism=Leptolyngbya ohadii so
+    1.7e-48  156.1   6.8    1.8e-48  156.0   6.8    1.0  1  WP_479716902.1  taxid=3698976 organism=Calyptranema fuscum so
+    1.7e-48  156.1   6.3    1.9e-48  156.0   6.3    1.0  1  WP_069965561.1  taxid=1185872 organism=Desertifilum source=co
+    1.7e-48  156.1   6.1    1.8e-48  156.0   6.1    1.0  1  WP_446859740.1  taxid=2636038 organism=unclassified Phormides
+    1.8e-48  156.0   6.0    1.9e-48  155.9   6.0    1.0  1  WP_204152466.1  taxid=2767772 organism=Leptolyngbya sp. CCY15
+    1.8e-48  156.0   6.3    1.9e-48  155.9   6.3    1.0  1  WP_106257461.1  taxid=3028117 organism=Cyanophyceae source=co
+    1.9e-48  156.0   6.6      2e-48  155.8   6.6    1.0  1  WP_015171018.1  taxid=3028117 organism=Cyanophyceae source=co
+      2e-48  155.9   6.4    2.1e-48  155.8   6.4    1.0  1  WP_190643620.1  taxid=3028117 organism=Cyanophyceae source=co
+    2.2e-48  155.7   6.6    2.4e-48  155.6   6.6    1.0  1  WP_430686742.1  taxid=3423363 organism=Leptolyngbya sp. AN02s
+    2.3e-48  155.7   6.8    2.5e-48  155.6   6.8    1.0  1  WP_039726782.1  taxid=3028117 organism=Cyanophyceae source=co
+    2.3e-48  155.7   7.1    2.5e-48  155.5   7.1    1.0  1  WP_083620231.1  taxid=1678310 organism=Planktothrix serta sou
+    2.4e-48  155.6   6.3    2.6e-48  155.5   6.3    1.0  1  WP_026789190.1  taxid=54304 organism=Planktothrix source=cour
+    2.4e-48  155.6   7.2    2.6e-48  155.5   7.2    1.0  1  WP_324704072.1  taxid=2886103 organism=Lyngbya sp. CCY1209 so
+    2.4e-48  155.6   6.3    2.6e-48  155.5   6.3    1.0  1  WP_162425313.1  taxid=2056239 organism=Myxacorys source=cours
+    2.5e-48  155.5   7.0    2.8e-48  155.4   7.0    1.0  1  WP_009768191.1  taxid=1890438 organism=Leptolyngbyaceae sourc
+    2.7e-48  155.4   6.4    2.9e-48  155.3   6.4    1.0  1  WP_190627385.1  taxid=3028117 organism=Cyanophyceae source=co
+    2.7e-48  155.4   7.0      3e-48  155.3   7.0    1.0  1  WP_268609013.1  taxid=3065396 organism=Thermocoleostomius sin
+    2.7e-48  155.4   6.7      3e-48  155.3   6.7    1.0  1  WP_015146561.1  taxid=1892254 organism=Oscillatoriaceae sourc
+    2.8e-48  155.4   6.5    3.1e-48  155.3   6.5    1.0  1  WP_075598971.1  taxid=1922337 organism=Leptolyngbya sp. 'hens
+    2.9e-48  155.3   7.0    3.1e-48  155.2   7.0    1.0  1  WP_265902100.1  taxid=3045815 organism=Trichothermofontia sou
+    2.9e-48  155.3   6.6    3.2e-48  155.2   6.6    1.0  1  WP_224341338.1  taxid=2931930 organism=Kovacikia minuta sourc
+      3e-48  155.3   5.7    3.3e-48  155.2   5.7    1.0  1  WP_334789054.1  taxid=1180 organism=Nostoc sp. source=course_
+      3e-48  155.3   5.7    3.3e-48  155.2   5.7    1.0  1  WP_461927368.1  taxid=1180 organism=Nostoc sp. source=ncbi_di
+      3e-48  155.3   6.0    3.3e-48  155.2   6.0    1.0  1  WP_254567340.1  taxid=1150 organism=Oscillatoriales source=co
+    3.1e-48  155.3   6.2    3.3e-48  155.1   6.2    1.0  1  WP_322681236.1  taxid=2593658 organism=unclassified Nostoc so
+    3.2e-48  155.2   7.4    3.4e-48  155.1   7.4    1.0  1  WP_190483017.1  taxid=2692859 organism=Pseudanabaena sp. FACH
+    3.3e-48  155.1   5.0    3.7e-48  155.0   5.0    1.0  1  WP_015080752.1  taxid=1161 organism=Nostocales source=course_
+    3.4e-48  155.1   7.0    3.7e-48  155.0   7.0    1.0  1  WP_008311322.1  taxid=1173264 organism=Leptolyngbya sp. PCC 6
+    3.5e-48  155.1   6.8    3.9e-48  154.9   6.8    1.0  1  WP_068510916.1  taxid=3028117 organism=Cyanophyceae source=co
+    3.7e-48  155.0   6.8      4e-48  154.9   6.8    1.0  1  WP_190774558.1  taxid=2650499 organism=unclassified Leptolyng
+    3.7e-48  155.0   6.5    4.1e-48  154.9   6.5    1.0  1  WP_261225443.1  taxid=2953691 organism=Ancylothrix sp. D3o so
+    3.7e-48  155.0   6.8    4.1e-48  154.9   6.8    1.0  1  WP_190503885.1  taxid=3028117 organism=Cyanophyceae source=co
+    3.8e-48  155.0   6.6    4.1e-48  154.9   6.6    1.0  1  WP_190575773.1  taxid=1620700 organism=Alkalinema source=cour
+    3.8e-48  155.0   5.7    4.1e-48  154.8   5.7    1.0  1  WP_283757384.1  taxid=3082944 organism=Roseofilum casamattae 
+    3.8e-48  155.0   6.6    4.2e-48  154.8   6.6    1.0  1  WP_073608715.1  taxid=3028117 organism=Cyanophyceae source=co
+    4.1e-48  154.9   6.6    4.4e-48  154.8   6.6    1.0  1  WP_193963479.1  taxid=2628167 organism=unclassified Nodosilin
+    4.1e-48  154.9   6.1    4.5e-48  154.7   6.1    1.0  1  WP_488739600.1  taxid=3712868 organism=Roseofilum sp. KMC-1 s
+    4.1e-48  154.9   7.3    4.5e-48  154.7   7.3    1.0  1  WP_190377542.1  taxid=2650499 organism=unclassified Leptolyng
+    4.2e-48  154.8   6.6    4.5e-48  154.7   6.6    1.0  1  WP_193875962.1  taxid=1828648 organism=Oculatella sp. LEGE 06
+    4.3e-48  154.8   6.5    4.6e-48  154.7   6.5    1.0  1  WP_330483830.1  taxid=3088355 organism=Tumidithrix source=cou
+    4.6e-48  154.7   5.6    5.1e-48  154.6   5.6    1.0  1  WP_334710560.1  taxid=1180 organism=Nostoc sp. source=course_
+    4.6e-48  154.7   6.0    5.1e-48  154.6   6.0    1.0  1  WP_073640805.1  taxid=3028117 organism=Cyanophyceae source=co
+    4.6e-48  154.7   5.6    5.1e-48  154.6   5.6    1.0  1  WP_012408764.1  taxid=1177 organism=Nostoc source=course_stri
+    4.8e-48  154.7   5.2    5.2e-48  154.5   5.2    1.0  1  WP_287627019.1  taxid=3407010 organism=unclassified Microcyst
+    4.9e-48  154.6   6.0    5.4e-48  154.5   6.0    1.0  1  WP_138500607.1  taxid=2575443 organism=Nostoc sp. PA-18-2419 
+      5e-48  154.6   6.9    5.4e-48  154.5   6.9    1.0  1  WP_009626980.1  taxid=3028117 organism=Cyanophyceae source=co
+      5e-48  154.6   6.5    5.4e-48  154.5   6.5    1.0  1  WP_322732512.1  taxid=3075376 organism=Nostoc sp. ChiQUE01b s
+      5e-48  154.6   6.5    5.6e-48  154.4   6.5    1.0  1  WP_099068598.1  taxid=1162 organism=Nostocaceae source=course
+      5e-48  154.6   5.2    5.5e-48  154.4   5.2    1.0  1  WP_045871251.1  taxid=1161 organism=Nostocales source=course_
+    5.2e-48  154.5   7.2    5.7e-48  154.4   7.2    1.0  1  WP_019501601.1  taxid=3687900 organism=Portococcus stanieri s
+    5.4e-48  154.5   6.0      6e-48  154.3   6.0    1.0  1  WP_335049349.1  taxid=1180 organism=Nostoc sp. source=course_
+    5.5e-48  154.5   6.8    5.9e-48  154.3   6.8    1.0  1  ABU55390.1      taxid=463197 organism=Limnospira maxima OUCLX
+    5.5e-48  154.5   7.3    5.9e-48  154.3   7.3    1.0  1  WP_039752851.1  taxid=119859 organism=Tolypothrichaceae sourc
+    5.8e-48  154.4   4.7    6.4e-48  154.3   4.7    1.0  1  WP_334779866.1  taxid=1180 organism=Nostoc sp. source=course_
+    5.8e-48  154.4   6.9    6.3e-48  154.3   6.9    1.0  1  WP_017300094.1  taxid=3028117 organism=Cyanophyceae source=co
+    5.9e-48  154.4   6.4    6.4e-48  154.2   6.4    1.0  1  WP_283753117.1  taxid=1233426 organism=Roseofilum source=cour
+    5.9e-48  154.4   6.6    6.4e-48  154.2   6.6    1.0  1  WP_488204244.1  taxid=2908845 organism=Thainema salinarum sou
+      6e-48  154.3   7.0    6.5e-48  154.2   7.0    1.0  1  WP_439345357.1  taxid=3454632 organism=Vacuolonema iberomarro
+    6.1e-48  154.3   7.0    6.6e-48  154.2   7.0    1.0  1  GAB4386638.1    taxid=3121617 organism=Elainellaceae cyanobac
+    6.2e-48  154.3   7.1    6.8e-48  154.2   7.1    1.0  1  WP_036004549.1  taxid=2547451 organism=Leptolyngbya sp. NK1-1
+    6.5e-48  154.2   6.7      7e-48  154.1   6.7    1.0  1  WP_007357596.1  taxid=1150 organism=Oscillatoriales source=co
+    6.6e-48  154.2   7.1    7.2e-48  154.1   7.1    1.0  1  WP_015167036.1  taxid=3687901 organism=Pseudanabaenococcus ha
+    6.7e-48  154.2   7.3    7.3e-48  154.1   7.3    1.0  1  WP_169617606.1  taxid=2546229 organism=Nodosilinea sp. P-1105
+    6.9e-48  154.1   5.8    7.6e-48  154.0   5.8    1.0  1  WP_163931998.1  taxid=1162 organism=Nostocaceae source=course
+    7.4e-48  154.0   6.3    8.2e-48  153.9   6.3    1.0  1  WP_086756007.1  taxid=1161 organism=Nostocales source=course_
+    7.5e-48  154.0   5.4    8.2e-48  153.9   5.4    1.0  1  WP_017803923.1  taxid=70799 organism=Nodularia spumigena sour
+      8e-48  153.9   5.0    9.1e-48  153.7   5.0    1.0  1  WP_458646425.1  taxid=446679 organism=Nostoc sphaeroides sour
+    8.2e-48  153.9   7.1    8.9e-48  153.8   7.1    1.0  1  WP_287280996.1  taxid=2607796 organism=Okeania sp. SIO2G5 sou
+    8.2e-48  153.9   5.4    8.9e-48  153.8   5.4    1.0  1  WP_057178839.1  taxid=1161 organism=Nostocales source=course_
+    8.2e-48  153.9   6.2      9e-48  153.8   6.2    1.0  1  WP_292781623.1  taxid=2593658 organism=unclassified Nostoc so
+    8.6e-48  153.8   5.4    9.4e-48  153.7   5.4    1.0  1  WP_200989004.1  taxid=156213 organism=Anabaenopsis elenkinii 
+    8.9e-48  153.8   6.6    9.7e-48  153.7   6.6    1.0  1  WP_271944488.1  taxid=1233426 organism=Roseofilum source=cour
+    8.9e-48  153.8   4.5    9.7e-48  153.7   4.5    1.0  1  WP_010996411.1  taxid=1161 organism=Nostocales source=course_
+    9.7e-48  153.7   4.2    1.1e-47  153.5   4.2    1.0  1  WP_193897365.1  taxid=1828603 organism=Dolichospermum sp. LEG
+    1.1e-47  153.5   7.0    1.2e-47  153.4   7.0    1.0  1  WP_293124005.1  taxid=2607821 organism=Moorena sp. SIO4G3 sou
+    1.2e-47  153.4   5.2    1.3e-47  153.3   5.2    1.0  1  WP_190387978.1  taxid=1175 organism=Aphanizomenon source=cour
+    1.2e-47  153.4   4.8    1.3e-47  153.3   4.8    1.0  1  WP_287674806.1  taxid=3407010 organism=unclassified Microcyst
+    1.3e-47  153.3   6.3    1.4e-47  153.2   6.3    1.0  1  WP_042152734.1  taxid=1160 organism=Planktothrix agardhii sou
+    1.3e-47  153.3   5.1    1.4e-47  153.1   5.1    1.0  1  WP_107805940.1  taxid=3028117 organism=Cyanophyceae source=co
+    1.4e-47  153.1   4.5    1.6e-47  153.0   4.5    1.0  1  WP_063873375.1  taxid=1161 organism=Nostocales source=course_
+    1.5e-47  153.1   6.5    1.6e-47  153.0   6.5    1.0  1  WP_235277851.1  taxid=1914529 organism=Synechococcus sp. Nb3U
+    1.5e-47  153.1   6.9    1.6e-47  152.9   6.9    1.0  1  WP_169262979.1  taxid=383614 organism=Brasilonema source=cour
+    1.5e-47  153.0   7.1    1.6e-47  152.9   7.1    1.0  1  WP_287130436.1  taxid=2714958 organism=Candidatus Cyanaurora 
+    1.6e-47  153.0   4.3    1.7e-47  152.9   4.3    1.0  1  WP_413173344.1  taxid=197653 organism=Anabaena azotica source
+    1.7e-47  152.9   7.0    1.9e-47  152.7   7.0    1.0  1  WP_015164085.1  taxid=3457544 organism=Thalassoporum mexicanu
+    1.8e-47  152.8   6.5    1.9e-47  152.7   6.5    1.0  1  GAB4214070.1    taxid=2478492 organism=Synechococcales cyanob
+    1.8e-47  152.8   4.8      2e-47  152.6   4.8    1.0  1  WP_425589715.1  taxid=3407010 organism=unclassified Microcyst
+    1.9e-47  152.8   4.8      2e-47  152.6   4.8    1.0  1  WP_011316976.1  taxid=1162 organism=Nostocaceae source=course
+    1.9e-47  152.7   6.2    2.1e-47  152.6   6.2    1.0  1  WP_190828481.1  taxid=2806730 organism=Iningainema tapete sou
+      2e-47  152.6   7.0    2.2e-47  152.5   7.0    1.0  1  WP_190804824.1  taxid=3028117 organism=Cyanophyceae source=co
+    2.1e-47  152.6   4.8    2.2e-47  152.5   4.8    1.0  1  WP_002735503.1  taxid=1301283 organism=Oscillatoriophycideae 
+    2.2e-47  152.5   4.5    2.4e-47  152.4   4.5    1.0  1  WP_335059862.1  taxid=1180 organism=Nostoc sp. source=course_
+    2.2e-47  152.5   6.6    2.4e-47  152.4   6.6    1.0  1  WP_377962562.1  taxid=3114804 organism=Almyronema source=cour
+    2.3e-47  152.4   7.0    2.6e-47  152.3   7.0    1.0  1  WP_414362100.1  taxid=2626047 organism=unclassified Synechoco
+    2.4e-47  152.4   7.4    2.6e-47  152.3   7.4    1.0  1  WP_011429717.1  taxid=3028117 organism=Cyanophyceae source=co
+    2.5e-47  152.4   6.0    2.7e-47  152.2   6.0    1.0  1  WP_016922591.1  taxid=1223 organism=Prochlorothrix hollandica
+    2.7e-47  152.2   4.8    2.9e-47  152.1   4.8    1.0  1  WP_461930966.1  taxid=1180 organism=Nostoc sp. source=ncbi_di
+    2.7e-47  152.2   7.4      3e-47  152.1   7.4    1.0  1  WP_414404485.1  taxid=2626047 organism=unclassified Synechoco
+    3.1e-47  152.1   6.3    3.3e-47  151.9   6.3    1.0  1  WP_038082255.1  taxid=1161 organism=Nostocales source=course_
+    3.1e-47  152.1   5.0    3.4e-47  151.9   5.0    1.0  1  WP_280652748.1  taxid=75695 organism=Umezakia ovalisporum sou
+    3.2e-47  152.0   4.8    3.6e-47  151.9   4.8    1.0  1  WP_472408654.1  taxid=1125 organism=Microcystis source=ncbi_d
+    3.2e-47  152.0   4.8    3.6e-47  151.9   4.8    1.0  1  WP_425311603.1  taxid=1125 organism=Microcystis source=course
+    3.2e-47  152.0   5.0    3.5e-47  151.9   5.0    1.0  1  WP_063873374.1  taxid=3028117 organism=Cyanophyceae source=co
+    3.3e-47  152.0   5.0    3.6e-47  151.8   5.0    1.0  1  WP_054470142.1  taxid=132607 organism=Planktothricoides sourc
+    3.5e-47  151.9   6.5    3.8e-47  151.8   6.5    1.0  1  WP_017721725.1  taxid=331992 organism=Kamptonema formosum sou
+    3.5e-47  151.9   7.0    3.8e-47  151.7   7.0    1.0  1  WP_017721733.1  taxid=331992 organism=Kamptonema formosum sou
+    3.6e-47  151.8   4.1      4e-47  151.7   4.1    1.0  1  WP_193980327.1  taxid=3396149 organism=Floridanema source=cou
+    3.9e-47  151.7   4.7    4.2e-47  151.6   4.7    1.0  1  WP_190463961.1  taxid=1301283 organism=Oscillatoriophycideae 
+      4e-47  151.7   5.5    4.3e-47  151.6   5.5    1.0  1  WP_408963110.1  taxid=3088171 organism=Planktothrix sp. sourc
+      4e-47  151.7   6.1    4.5e-47  151.5   6.1    1.0  1  WP_201320714.1  taxid=1357935 organism=Pseudanabaena sp. lw08
+    4.2e-47  151.6   7.3    4.6e-47  151.5   7.3    1.0  1  WP_190775818.1  taxid=2650499 organism=unclassified Leptolyng
+    4.6e-47  151.5   4.5      5e-47  151.4   4.5    1.0  1  WP_054464971.1  taxid=132607 organism=Planktothricoides sourc
+    4.8e-47  151.4   5.8      6e-47  151.1   5.8    1.1  1  WP_293061633.1  taxid=2607784 organism=Okeania sp. SIO2B3 sou
+    5.6e-47  151.2   4.7    6.1e-47  151.1   4.7    1.0  1  WP_271933955.1  taxid=70799 organism=Nodularia spumigena sour
+    5.8e-47  151.2   5.9    6.4e-47  151.0   5.9    1.0  1  WP_194056178.1  taxid=1828651 organism=Sphaerospermopsis sp. 
+    6.1e-47  151.1   7.5    7.1e-47  150.9   7.5    1.1  1  WP_293160100.1  taxid=2607791 organism=Okeania sp. SIO2C9 sou
+    6.4e-47  151.0   6.4    6.9e-47  150.9   6.4    1.0  1  WP_190464766.1  taxid=1301283 organism=Oscillatoriophycideae 
+    6.4e-47  151.0   7.7    6.9e-47  150.9   7.7    1.0  1  WP_168569945.1  taxid=1492710 organism=Oxynema source=course_
+    6.5e-47  151.0   4.9    7.1e-47  150.9   4.9    1.0  1  WP_017803924.1  taxid=70799 organism=Nodularia spumigena sour
+    6.6e-47  151.0   4.6    7.2e-47  150.9   4.6    1.0  1  WP_193955741.1  taxid=1126 organism=Microcystis aeruginosa so
+    7.6e-47  150.8   4.6    8.3e-47  150.7   4.6    1.0  1  WP_084989880.1  taxid=1126 organism=Microcystis aeruginosa so
+    7.7e-47  150.8   4.3    8.4e-47  150.7   4.3    1.0  1  WP_413173348.1  taxid=197653 organism=Anabaena azotica source
+    8.1e-47  150.7   5.0    8.8e-47  150.6   5.0    1.0  1  ABG51547.1      taxid=203124 organism=Trichodesmium erythraeu
+    9.2e-47  150.5   4.5      1e-46  150.4   4.5    1.0  1  WP_272058300.1  taxid=70799 organism=Nodularia spumigena sour
+      1e-46  150.4   5.8    1.3e-46  150.1   5.8    1.1  1  WP_293100807.1  taxid=2607790 organism=Okeania sp. SIO2F4 sou
+    1.1e-46  150.3   5.8    1.3e-46  150.1   5.8    1.1  1  WP_426542028.1  taxid=3692514 organism=Dapis purpurea source=
+    1.1e-46  150.3   7.0    1.4e-46  150.0   7.0    1.2  1  WP_293126616.1  taxid=2607772 organism=Okeania sp. SIO1I7 sou
+    1.1e-46  150.3   5.8    1.4e-46  150.0   5.8    1.1  1  WP_426585015.1  taxid=3692516 organism=Dapis brunnea source=c
+    1.2e-46  150.2   4.6    1.3e-46  150.0   4.6    1.0  1  WP_441007279.1  taxid=1126 organism=Microcystis aeruginosa so
+    1.2e-46  150.1   7.9    1.3e-46  150.0   7.9    1.0  1  WP_324632560.1  taxid=2886104 organism=Phormidium sp. CCY1219
+    1.5e-46  149.9   5.2    1.6e-46  149.8   5.2    1.0  1  WP_096607388.1  taxid=1954172 organism=Calothrix sp. NIES-210
+    1.6e-46  149.8   4.4    1.7e-46  149.7   4.4    1.0  1  WP_193959329.1  taxid=1828687 organism=Microcystis sp. LEGE 0
+    1.7e-46  149.7   5.6    1.8e-46  149.6   5.6    1.0  1  WP_015229078.1  taxid=292566 organism=Dactylococcopsis salina
+    1.8e-46  149.6   5.7      2e-46  149.5   5.7    1.0  1  WP_335072082.1  taxid=1180 organism=Nostoc sp. source=course_
+      2e-46  149.5   5.3    2.3e-46  149.3   5.3    1.0  1  WP_413173345.1  taxid=197653 organism=Anabaena azotica source
+      2e-46  149.5   5.6    2.2e-46  149.3   5.6    1.0  1  WP_272092571.1  taxid=70799 organism=Nodularia spumigena sour
+    2.1e-46  149.4   5.8    2.2e-46  149.3   5.8    1.0  1  WP_413173347.1  taxid=197653 organism=Anabaena azotica source
+    2.2e-46  149.3   4.1    2.5e-46  149.2   4.1    1.0  1  ABG51546.1      taxid=203124 organism=Trichodesmium erythraeu
+    2.3e-46  149.3   4.6    2.5e-46  149.2   4.6    1.0  1  WP_272074942.1  taxid=70799 organism=Nodularia spumigena sour
+    2.7e-46  149.0   5.2    2.9e-46  148.9   5.2    1.0  1  WP_280793164.1  taxid=2971766 organism=Anabaenopsis sp. FSS-4
+      3e-46  148.9   6.0    3.5e-46  148.7   6.0    1.0  1  WP_413173346.1  taxid=197653 organism=Anabaena azotica source
+    3.5e-46  148.7   5.8    3.8e-46  148.6   5.8    1.0  1  WP_015224598.1  taxid=65093 organism=Halothece sp. PCC 7418 s
+    5.1e-46  148.1   5.8    6.3e-46  147.9   5.8    1.1  1  WP_293087767.1  taxid=2607811 organism=Okeania sp. SIO3B5 sou
+    5.1e-46  148.1   5.8    6.3e-46  147.9   5.8    1.1  1  WP_202218625.1  taxid=2720165 organism=Okeania sp. KiyG1 sour
+    5.8e-46  148.0   5.0    6.3e-46  147.9   5.0    1.0  1  WP_392535573.1  taxid=3349875 organism=Nostoc sp. C117 source
+    6.9e-46  147.7   4.3    7.6e-46  147.6   4.3    1.0  1  WP_103666325.1  taxid=2043171 organism=Pseudanabaena sp. BC14
+    7.3e-46  147.7   7.6    8.1e-46  147.5   7.6    1.0  1  WP_414395174.1  taxid=2964533 organism=Synechococcus sp. O70.
+    1.1e-45  147.1   5.9    1.2e-45  146.9   5.9    1.0  1  WP_298916699.1  taxid=340711 organism=uncultured Nostoc sp. s
+    6.7e-44  141.4   6.0    7.3e-44  141.2   6.0    1.0  1  WP_323244924.1  taxid=70799 organism=Nodularia spumigena sour
+    1.4e-39  127.5   4.4    1.5e-39  127.4   4.4    1.0  1  WP_153228363.1  taxid=2490939 organism=Anabaena sp. YBS01 sou
+    9.9e-39  124.8   4.8    1.1e-38  124.7   4.8    1.0  1  WP_330936551.1  taxid=77022 organism=Cylindrospermopsis racib
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_190432663.1  taxid=450526 organism=Trichocoleus source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  156.7   5.9   1.1e-48   1.1e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 156.7 bits;  conditional E-value: 1.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlt++aavpa
+                WP_190432663.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTTQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_072717742.1  taxid=54304 organism=Planktothrix source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  156.7   6.5   1.1e-48   1.1e-48       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 156.7 bits;  conditional E-value: 1.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiellaieariviasvetylkyaeavGlt++aavpav
+                WP_072717742.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTSQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_171572203.1  taxid=2803751 organism=Leptolyngbya sp. Cla-17 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  156.7   6.1   1.1e-48   1.1e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 156.7 bits;  conditional E-value: 1.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGlt++aavpa
+                WP_171572203.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_190553740.1  taxid=450526 organism=Trichocoleus source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  156.6   6.1   1.2e-48   1.2e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 156.6 bits;  conditional E-value: 1.2e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlt++aavpa
+                WP_190553740.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTTQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_431662249.1  taxid=1620699 organism=Pantanalinema source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  156.2   6.3   1.6e-48   1.6e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 156.2 bits;  conditional E-value: 1.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlt++aavpa
+                WP_431662249.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTTQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_036534731.1  taxid=1501145 organism=Neosynechococcus sphagnicola source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  156.2   6.9   1.6e-48   1.6e-48       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 156.2 bits;  conditional E-value: 1.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlta+aavpav
+                WP_036534731.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTAQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_088893383.1  taxid=1962290 organism=Leptolyngbya ohadii source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  156.0   6.4   1.8e-48   1.8e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 156.0 bits;  conditional E-value: 1.8e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaiear+viasvetylkyaeavGlta+aavpa
+                WP_088893383.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_479716902.1  taxid=3698976 organism=Calyptranema fuscum source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  156.0   6.8   1.8e-48   1.8e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 156.0 bits;  conditional E-value: 1.8e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlta+aavpa
+                WP_479716902.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_069965561.1  taxid=1185872 organism=Desertifilum source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  156.0   6.3   1.9e-48   1.9e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 156.0 bits;  conditional E-value: 1.9e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlt++aavpa
+                WP_069965561.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_446859740.1  taxid=2636038 organism=unclassified Phormidesmis source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  156.0   6.1   1.8e-48   1.8e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 156.0 bits;  conditional E-value: 1.8e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGlt++aavp+
+                WP_446859740.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_204152466.1  taxid=2767772 organism=Leptolyngbya sp. CCY15150 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.9   6.0   1.9e-48   1.9e-48       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.9 bits;  conditional E-value: 1.9e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlt++aavpa
+                WP_204152466.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTSQAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_106257461.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.9   6.3   1.9e-48   1.9e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.9 bits;  conditional E-value: 1.9e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiell+ieariviasvetylkyaeavGlta+aavpa
+                WP_106257461.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLSIEARIVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_015171018.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.8   6.6     2e-48     2e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.8 bits;  conditional E-value: 2e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiella+eariviasvetylkyaeavGlt++aavpa
+                WP_015171018.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_190643620.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.8   6.4   2.1e-48   2.1e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.8 bits;  conditional E-value: 2.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaiear+viasvetylkyaeavGlt++aavpa
+                WP_190643620.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTTQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_430686742.1  taxid=3423363 organism=Leptolyngbya sp. AN02str source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.6   6.6   2.4e-48   2.4e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.6 bits;  conditional E-value: 2.4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaiear+viasvetylkyaeavGlt++aavpa
+                WP_430686742.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_039726782.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.6   6.8   2.5e-48   2.5e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.6 bits;  conditional E-value: 2.5e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaiear+viasvetylkyaeavGlta+aavpa
+                WP_039726782.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_083620231.1  taxid=1678310 organism=Planktothrix serta source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.5   7.1   2.5e-48   2.5e-48       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.5 bits;  conditional E-value: 2.5e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiel+aieariviasvetylkyaeavGlta+aavpav
+                WP_083620231.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELIAIEARIVIASVETYLKYAEAVGLTAQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_026789190.1  taxid=54304 organism=Planktothrix source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.5   6.3   2.6e-48   2.6e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.5 bits;  conditional E-value: 2.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell+ieariviasvetylkyaeavGlta+aavp+
+                WP_026789190.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSIEARIVIASVETYLKYAEAVGLTAQAAVPS 71
+                                  9*********************************************************************8 PP
+
+>> WP_324704072.1  taxid=2886103 organism=Lyngbya sp. CCY1209 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.5   7.2   2.6e-48   2.6e-48       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.5 bits;  conditional E-value: 2.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiella+ear+viasvetylkyaeavGlta+aavpav
+                WP_324704072.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTAQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_162425313.1  taxid=2056239 organism=Myxacorys source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.5   6.3   2.6e-48   2.6e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.5 bits;  conditional E-value: 2.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlt++aavp+
+                WP_162425313.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_009768191.1  taxid=1890438 organism=Leptolyngbyaceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.4   7.0   2.8e-48   2.8e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.4 bits;  conditional E-value: 2.8e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaiear+viasvetylkyaeavGlta+aavpa
+                WP_009768191.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_190627385.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.3   6.4   2.9e-48   2.9e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.3 bits;  conditional E-value: 2.9e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasv+tylkyaeavGlta+aavpa
+                WP_190627385.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVDTYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_268609013.1  taxid=3065396 organism=Thermocoleostomius sinensis source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.3   7.0     3e-48     3e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.3 bits;  conditional E-value: 3e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiella+ear+viasvetylkyaeavGlta+aavpa
+                WP_268609013.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_015146561.1  taxid=1892254 organism=Oscillatoriaceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.3   6.7     3e-48     3e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.3 bits;  conditional E-value: 3e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkg+vid+WvrvslvGiellaieariviasvetylkyaeavGlt++aavpa
+                WP_015146561.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDVWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_075598971.1  taxid=1922337 organism=Leptolyngbya sp. 'hensonii' source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.3   6.5   3.1e-48   3.1e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.3 bits;  conditional E-value: 3.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiella+eariviasvetylkyaeavGlta+aavp+
+                WP_075598971.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTAQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_265902100.1  taxid=3045815 organism=Trichothermofontia source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.2   7.0   3.1e-48   3.1e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.2 bits;  conditional E-value: 3.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiella+eariviasvetylkyaeavGlta+aavpa
+                WP_265902100.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_224341338.1  taxid=2931930 organism=Kovacikia minuta source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.2   6.6   3.2e-48   3.2e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.2 bits;  conditional E-value: 3.2e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiell+iear+viasvetylkyaeavGlta+aavpa
+                WP_224341338.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLSIEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_334789054.1  taxid=1180 organism=Nostoc sp. source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.2   5.7   3.3e-48   3.3e-48       1      72 []       1      72 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.2 bits;  conditional E-value: 3.3e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiellaieariviasvetylkyaeavGlt+saavpav
+                WP_334789054.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_461927368.1  taxid=1180 organism=Nostoc sp. source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.2   5.7   3.3e-48   3.3e-48       1      72 []       1      72 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.2 bits;  conditional E-value: 3.3e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiellaieariviasvetylkyaeavGlt+saavpav
+                WP_461927368.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_254567340.1  taxid=1150 organism=Oscillatoriales source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.2   6.0   3.3e-48   3.3e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.2 bits;  conditional E-value: 3.3e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkg+vid+WvrvslvGiellaieariviasvetylkyaeavGlt++aavpa
+                WP_254567340.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDLWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_322681236.1  taxid=2593658 organism=unclassified Nostoc source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.1   6.2   3.3e-48   3.3e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.1 bits;  conditional E-value: 3.3e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkg+vid+WvrvslvGiellaieariviasvetylkyaeavGlta+aavpa
+                WP_322681236.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDLWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_190483017.1  taxid=2692859 organism=Pseudanabaena sp. FACHB-2040 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.1   7.4   3.4e-48   3.4e-48       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.1 bits;  conditional E-value: 3.4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiella+ear+viasvetylkyaeavGlta+aavpav
+                WP_190483017.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTAQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_015080752.1  taxid=1161 organism=Nostocales source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.0   5.0   3.7e-48   3.7e-48       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.0 bits;  conditional E-value: 3.7e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiellaieariviasvetylkyaeavGlt+saavpa
+                WP_015080752.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_008311322.1  taxid=1173264 organism=Leptolyngbya sp. PCC 6406 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.0   7.0   3.7e-48   3.7e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.0 bits;  conditional E-value: 3.7e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiel+aiear+viasvetylkyaeavGlta+aavpa
+                WP_008311322.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELIAIEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_068510916.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.9   6.8   3.9e-48   3.9e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.9 bits;  conditional E-value: 3.9e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiella+ear+viasvetylkyaeavGlt++aavpa
+                WP_068510916.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTTQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_190774558.1  taxid=2650499 organism=unclassified Leptolyngbya source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.9   6.8     4e-48     4e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.9 bits;  conditional E-value: 4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkg+v+daWvrvslvGiellaieariviasvetylkyaeavGlta+aavp+
+                WP_190774558.1  1 MAVEKVNSSSSLAEVVDRILDKGVVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTAQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_261225443.1  taxid=2953691 organism=Ancylothrix sp. D3o source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.9   6.5   4.1e-48   4.1e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.9 bits;  conditional E-value: 4.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlta+aavp+
+                WP_261225443.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTAQAAVPT 71
+                                  9********************************************************************97 PP
+
+>> WP_190503885.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.9   6.8   4.1e-48   4.1e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.9 bits;  conditional E-value: 4.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaiear+viasvetylkyaeavGlta+aavp+
+                WP_190503885.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTAQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_190575773.1  taxid=1620700 organism=Alkalinema source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.9   6.6   4.1e-48   4.1e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.9 bits;  conditional E-value: 4.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiell+iear+viasvetylkyaeavGlt++aavpa
+                WP_190575773.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLSIEARVVIASVETYLKYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_283757384.1  taxid=3082944 organism=Roseofilum casamattae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.8   5.7   4.1e-48   4.1e-48       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.8 bits;  conditional E-value: 4.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnssssl ev+drildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlt++aavpav
+                WP_283757384.1  1 MAVEKVNSSSSLGEVIDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTTQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_073608715.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.8   6.6   4.2e-48   4.2e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.8 bits;  conditional E-value: 4.2e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiellaiear+viasv+tylkyaeavGlta+aavpa
+                WP_073608715.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVDTYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_193963479.1  taxid=2628167 organism=unclassified Nodosilinea source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.8   6.6   4.4e-48   4.4e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.8 bits;  conditional E-value: 4.4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaieariviasv+tylkyaeavGlta+aavpa
+                WP_193963479.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVDTYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_488739600.1  taxid=3712868 organism=Roseofilum sp. KMC-1 source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.7   6.1   4.5e-48   4.5e-48       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.7 bits;  conditional E-value: 4.5e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnssssl evvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGlta+aavpav
+                WP_488739600.1  1 MAVEKVNSSSSLGEVVDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTAQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_190377542.1  taxid=2650499 organism=unclassified Leptolyngbya source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.7   7.3   4.5e-48   4.5e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.7 bits;  conditional E-value: 4.5e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiella+ear+viasvetylkyaeavGlta+aavpa
+                WP_190377542.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_193875962.1  taxid=1828648 organism=Oculatella sp. LEGE 06141 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.7   6.6   4.5e-48   4.5e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.7 bits;  conditional E-value: 4.5e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiella+eariviasvetylkyaeavGlt++aavp+
+                WP_193875962.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_330483830.1  taxid=3088355 organism=Tumidithrix source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.7   6.5   4.6e-48   4.6e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.7 bits;  conditional E-value: 4.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell+iear+viasvetylkyaeavGlt+saavpa
+                WP_330483830.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSIEARVVIASVETYLKYAEAVGLTTSAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_334710560.1  taxid=1180 organism=Nostoc sp. source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.6   5.6   5.1e-48   5.1e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.6 bits;  conditional E-value: 5.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell+ieariviasvetyl+yaeavGlt++aavp+
+                WP_334710560.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSIEARIVIASVETYLRYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_073640805.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.6   6.0   5.1e-48   5.1e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.6 bits;  conditional E-value: 5.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiellaieariviasvetyl+yaeavGlt++aavp+
+                WP_073640805.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLRYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_012408764.1  taxid=1177 organism=Nostoc source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.6   5.6   5.1e-48   5.1e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.6 bits;  conditional E-value: 5.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell+ieariviasvetyl+yaeavGlt++aavp+
+                WP_012408764.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSIEARIVIASVETYLRYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_287627019.1  taxid=3407010 organism=unclassified Microcystis (in: cyanobacteria) source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.5   5.2   5.2e-48   5.2e-48       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.5 bits;  conditional E-value: 5.2e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlt+saavpa
+                WP_287627019.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_138500607.1  taxid=2575443 organism=Nostoc sp. PA-18-2419 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.5   6.0   5.4e-48   5.4e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.5 bits;  conditional E-value: 5.4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiella+eariviasvetyl+yaeavGlt++aavp+
+                WP_138500607.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAVEARIVIASVETYLRYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_009626980.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.5   6.9   5.4e-48   5.4e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.5 bits;  conditional E-value: 5.4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell+iear+viasvetylkyaeavGltasaavpa
+                WP_009626980.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSIEARVVIASVETYLKYAEAVGLTASAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_322732512.1  taxid=3075376 organism=Nostoc sp. ChiQUE01b source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.5   6.5   5.4e-48   5.4e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.5 bits;  conditional E-value: 5.4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkg+vid+WvrvslvGiella+eariviasvetylkyaeavGlta+aavpa
+                WP_322732512.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDLWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_099068598.1  taxid=1162 organism=Nostocaceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.4   6.5   5.6e-48   5.6e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.4 bits;  conditional E-value: 5.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiella+eariviasvetyl+yaeavGlt++aavpa
+                WP_099068598.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAVEARIVIASVETYLRYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_045871251.1  taxid=1161 organism=Nostocales source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.4   5.2   5.5e-48   5.5e-48       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.4 bits;  conditional E-value: 5.5e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlt+saavpa
+                WP_045871251.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_019501601.1  taxid=3687900 organism=Portococcus stanieri source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.4   7.2   5.7e-48   5.7e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.4 bits;  conditional E-value: 5.7e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkg+vidaWvrvslvGiellaiear+viasvetylkyaeavGlt+saavpa
+                WP_019501601.1  1 MAVEKVNSSSSLAEVVDRILDKGVVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTTSAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_335049349.1  taxid=1180 organism=Nostoc sp. source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.3   6.0     6e-48     6e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.3 bits;  conditional E-value: 6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell+ieariviasvetyl+yaeavGlt++aavp+
+                WP_335049349.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSIEARIVIASVETYLRYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************8 PP
+
+>> ABU55390.1  taxid=463197 organism=Limnospira maxima OUCLXC source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.3   6.8   5.9e-48   5.9e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.3 bits;  conditional E-value: 5.9e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell++ear+viasvetylkyaeavGlta+aavp+
+                    ABU55390.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSVEARVVIASVETYLKYAEAVGLTAQAAVPS 71
+                                  9*********************************************************************8 PP
+
+>> WP_039752851.1  taxid=119859 organism=Tolypothrichaceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.3   7.3   5.9e-48   5.9e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.3 bits;  conditional E-value: 5.9e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkg+vid+WvrvslvGiella+eariviasvetylkyaeavGlta+aavpa
+                WP_039752851.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDVWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_334779866.1  taxid=1180 organism=Nostoc sp. source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.3   4.7   6.4e-48   6.4e-48       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.3 bits;  conditional E-value: 6.4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiellaieariviasvetylkyaea+Glt+saavpa
+                WP_334779866.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAIGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_017300094.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.3   6.9   6.3e-48   6.3e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.3 bits;  conditional E-value: 6.3e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaiear+viasv+tylkyaeavGlta+aavpa
+                WP_017300094.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARVVIASVDTYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_283753117.1  taxid=1233426 organism=Roseofilum source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.2   6.4   6.4e-48   6.4e-48       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.2 bits;  conditional E-value: 6.4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnssssl evvdrildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlta+aavpav
+                WP_283753117.1  1 MAVEKVNSSSSLGEVVDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTAQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_488204244.1  taxid=2908845 organism=Thainema salinarum source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.2   6.6   6.4e-48   6.4e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.2 bits;  conditional E-value: 6.4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiella+ear+viasvetylkyaeavGlta+aavp+
+                WP_488204244.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTAQAAVPN 71
+                                  9********************************************************************96 PP
+
+>> WP_439345357.1  taxid=3454632 organism=Vacuolonema iberomarrocanum source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.2   7.0   6.5e-48   6.5e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.2 bits;  conditional E-value: 6.5e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkg+v+daWvrvslvGiella+eariviasvetylkyaeavGlta+aavp+
+                WP_439345357.1  1 MAVEKVNSSSSLAEVVDRILDKGVVVDAWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTAQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> GAB4386638.1  taxid=3121617 organism=Elainellaceae cyanobacterium source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.2   7.0   6.6e-48   6.6e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.2 bits;  conditional E-value: 6.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiella+ear+viasvetylkyaeavGlta+aavp+
+                  GAB4386638.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTAQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_036004549.1  taxid=2547451 organism=Leptolyngbya sp. NK1-12 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.2   7.1   6.8e-48   6.8e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.2 bits;  conditional E-value: 6.8e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiell++ear+viasvetylkyaeavGlta+aavpa
+                WP_036004549.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLSVEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_007357596.1  taxid=1150 organism=Oscillatoriales source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.1   6.7     7e-48     7e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.1 bits;  conditional E-value: 7e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvr+slvGiel+aieariviasvetylkyaeavGlt++aavp+
+                WP_007357596.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRISLVGIELIAIEARIVIASVETYLKYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************8 PP
+
+>> WP_015167036.1  taxid=3687901 organism=Pseudanabaenococcus habilitatus source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.1   7.1   7.2e-48   7.2e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.1 bits;  conditional E-value: 7.2e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiell+iear+viasvetylkyaeavGltasaavpa
+                WP_015167036.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLSIEARVVIASVETYLKYAEAVGLTASAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_169617606.1  taxid=2546229 organism=Nodosilinea sp. P-1105 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.1   7.3   7.3e-48   7.3e-48       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.1 bits;  conditional E-value: 7.3e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaiear+viasv+tylkyaeavGlta+aavpav
+                WP_169617606.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARVVIASVDTYLKYAEAVGLTAQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_163931998.1  taxid=1162 organism=Nostocaceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.0   5.8   7.6e-48   7.6e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.0 bits;  conditional E-value: 7.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiell+ieariviasvetyl+yaeavGlt++aavp+
+                WP_163931998.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLSIEARIVIASVETYLRYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_086756007.1  taxid=1161 organism=Nostocales source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.9   6.3   8.2e-48   8.2e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.9 bits;  conditional E-value: 8.2e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiella+eariviasvetyl+yaeavGlt++aavp+
+                WP_086756007.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAVEARIVIASVETYLRYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************7 PP
+
+>> WP_017803923.1  taxid=70799 organism=Nodularia spumigena source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.9   5.4   8.2e-48   8.2e-48       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.9 bits;  conditional E-value: 8.2e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiel+aieariviasvetylkyaeavGlt+saavpa
+                WP_017803923.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELIAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_458646425.1  taxid=446679 organism=Nostoc sphaeroides source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.7   5.0   9.1e-48   9.1e-48       1      71 [.      21      91 .]      21      91 .] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.7 bits;  conditional E-value: 9.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiellaieariviasvetylkyaeavGlt+saavpa
+                WP_458646425.1 21 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAVPA 91
+                                  9********************************************************************97 PP
+
+>> WP_287280996.1  taxid=2607796 organism=Okeania sp. SIO2G5 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.8   7.1   8.9e-48   8.9e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.8 bits;  conditional E-value: 8.9e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkg+v+daWvrvslvGiellaiear+viasv+tylkyaeavGlta+aavpa
+                WP_287280996.1  1 MAVEKVNSSSSLAEVVDRILDKGVVVDAWVRVSLVGIELLAIEARVVIASVDTYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_057178839.1  taxid=1161 organism=Nostocales source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.8   5.4   8.9e-48   8.9e-48       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.8 bits;  conditional E-value: 8.9e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiella+eariviasvetylkyaeavGlt+saavpa
+                WP_057178839.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_292781623.1  taxid=2593658 organism=unclassified Nostoc source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.8   6.2     9e-48     9e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.8 bits;  conditional E-value: 9e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiell+ieariviasvetyl+yaeavGlt++aavp+
+                WP_292781623.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLSIEARIVIASVETYLRYAEAVGLTSQAAVPS 71
+                                  9*********************************************************************8 PP
+
+>> WP_200989004.1  taxid=156213 organism=Anabaenopsis elenkinii source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.7   5.4   9.4e-48   9.4e-48       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.7 bits;  conditional E-value: 9.4e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlt+saavpa
+                WP_200989004.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTKSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_271944488.1  taxid=1233426 organism=Roseofilum source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.7   6.6   9.7e-48   9.7e-48       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.7 bits;  conditional E-value: 9.7e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnssssl evvdrildkgiv+daWvrvslvGiellaiear+viasvetylkyaeavGlta+aavpav
+                WP_271944488.1  1 MAVEKVNSSSSLGEVVDRILDKGIVVDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTAQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_010996411.1  taxid=1161 organism=Nostocales source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.7   4.5   9.7e-48   9.7e-48       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.7 bits;  conditional E-value: 9.7e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlt+saa+pa
+                WP_010996411.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAMPA 71
+                                  9********************************************************************97 PP
+
+>> WP_193897365.1  taxid=1828603 organism=Dolichospermum sp. LEGE 00240 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.5   4.2   1.1e-47   1.1e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.5 bits;  conditional E-value: 1.1e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvs+vGiellaieariviasvetylkyaeavGlt+saavpa
+                WP_193897365.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSFVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_293124005.1  taxid=2607821 organism=Moorena sp. SIO4G3 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.4   7.0   1.2e-47   1.2e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.4 bits;  conditional E-value: 1.2e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+d+WvrvslvGiellaiear+viasv+tylkyaeavGlta+aavpa
+                WP_293124005.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDVWVRVSLVGIELLAIEARVVIASVDTYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_190387978.1  taxid=1175 organism=Aphanizomenon source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.3   5.2   1.3e-47   1.3e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.3 bits;  conditional E-value: 1.3e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvG+ellaieariviasvetylkyaeavGlt+saavpa
+                WP_190387978.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGVELLAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_287674806.1  taxid=3407010 organism=unclassified Microcystis (in: cyanobacteria) source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.3   4.8   1.3e-47   1.3e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.3 bits;  conditional E-value: 1.3e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiella+ear+viasvetylkyaeavGlt+saavpa
+                WP_287674806.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLALEARVVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_042152734.1  taxid=1160 organism=Planktothrix agardhii source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.2   6.3   1.4e-47   1.4e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.2 bits;  conditional E-value: 1.4e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell+iea+iviasvetylkyaeavGlta+aavp+
+                WP_042152734.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSIEAKIVIASVETYLKYAEAVGLTAQAAVPS 71
+                                  9*********************************************************************8 PP
+
+>> WP_107805940.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.1   5.1   1.4e-47   1.4e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.1 bits;  conditional E-value: 1.4e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiel+aieariviasvetylkyaea+Glt+saavpa
+                WP_107805940.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELIAIEARIVIASVETYLKYAEAIGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_063873375.1  taxid=1161 organism=Nostocales source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.0   4.5   1.6e-47   1.6e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.0 bits;  conditional E-value: 1.6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiellaieariviasvetylkyaeavGlt+saavpa
+                WP_063873375.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_235277851.1  taxid=1914529 organism=Synechococcus sp. Nb3U1 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.0   6.5   1.6e-47   1.6e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.0 bits;  conditional E-value: 1.6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiellaiear+v+asvetylkyaeavGlta+aa+pa
+                WP_235277851.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARVVVASVETYLKYAEAVGLTATAAAPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_169262979.1  taxid=383614 organism=Brasilonema source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.9   6.9   1.6e-47   1.6e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.9 bits;  conditional E-value: 1.6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkg+vid+WvrvslvGiella+eariv+asvetylkyaeavGlta+aavpa
+                WP_169262979.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDVWVRVSLVGIELLAVEARIVLASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_287130436.1  taxid=2714958 organism=Candidatus Cyanaurora vandensis source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.9   7.1   1.6e-47   1.6e-47       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.9 bits;  conditional E-value: 1.6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiel+aieariviasvetylkyaeavGlt++aa+pav
+                WP_287130436.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELIAIEARIVIASVETYLKYAEAVGLTSTAAAPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_413173344.1  taxid=197653 organism=Anabaena azotica source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.9   4.3   1.7e-47   1.7e-47       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.9 bits;  conditional E-value: 1.7e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlt+saa+p 
+                WP_413173344.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAMPM 71
+                                  9*******************************************************************995 PP
+
+>> WP_015164085.1  taxid=3457544 organism=Thalassoporum mexicanum source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.7   7.0   1.9e-47   1.9e-47       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.7 bits;  conditional E-value: 1.9e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiell+iear+v+asvetylkyaeavGlt+saavpa
+                WP_015164085.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLSIEARVVVASVETYLKYAEAVGLTTSAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> GAB4214070.1  taxid=2478492 organism=Synechococcales cyanobacterium source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.7   6.5   1.9e-47   1.9e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.7 bits;  conditional E-value: 1.9e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiellaiear+v+asvetylkyaeavGlt++aa+pa
+                  GAB4214070.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARVVVASVETYLKYAEAVGLTTTAAAPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_425589715.1  taxid=3407010 organism=unclassified Microcystis (in: cyanobacteria) source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.6   4.8     2e-47     2e-47       1      71 [.      10      80 .]      10      80 .] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.6 bits;  conditional E-value: 2e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiella+ear+viasvetylkyaeavGlt+saavpa
+                WP_425589715.1 10 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLALEARVVIASVETYLKYAEAVGLTQSAAVPA 80
+                                  9********************************************************************97 PP
+
+>> WP_011316976.1  taxid=1162 organism=Nostocaceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.6   4.8     2e-47     2e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.6 bits;  conditional E-value: 2e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiellaieariv+asvetylkyaeavGlt+saa+pa
+                WP_011316976.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVVASVETYLKYAEAVGLTQSAAMPA 71
+                                  9********************************************************************97 PP
+
+>> WP_190828481.1  taxid=2806730 organism=Iningainema tapete source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.6   6.2   2.1e-47   2.1e-47       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.6 bits;  conditional E-value: 2.1e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkg+vid+WvrvslvGiel+aieariv+asvetylkyaeavGlt++aavpav
+                WP_190828481.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDLWVRVSLVGIELIAIEARIVLASVETYLKYAEAVGLTTQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_190804824.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.5   7.0   2.2e-47   2.2e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.5 bits;  conditional E-value: 2.2e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiellaiear+v+asvetylkyaeavGlta+aa+pa
+                WP_190804824.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARVVVASVETYLKYAEAVGLTATAAAPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_002735503.1  taxid=1301283 organism=Oscillatoriophycideae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.5   4.8   2.2e-47   2.2e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.5 bits;  conditional E-value: 2.2e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiellaiear+viasvetylkyaeavGlt+saavpa
+                WP_002735503.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_335059862.1  taxid=1180 organism=Nostoc sp. source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.4   4.5   2.4e-47   2.4e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.4 bits;  conditional E-value: 2.4e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiellaieariviasvetylkyaea+Glt+sa+vpa
+                WP_335059862.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAIGLTQSASVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_377962562.1  taxid=3114804 organism=Almyronema source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.4   6.6   2.4e-47   2.4e-47       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.4 bits;  conditional E-value: 2.4e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaevvdrildkgividaW rvslvGiella+eariviasv+tylkyaeavGlta+aavpav
+                WP_377962562.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWARVSLVGIELLAVEARIVIASVDTYLKYAEAVGLTAQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_414362100.1  taxid=2626047 organism=unclassified Synechococcus source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.3   7.0   2.6e-47   2.6e-47       1      72 []       1      72 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.3 bits;  conditional E-value: 2.6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiellaiear+v+asvetylkyaeavGlt++aa+pav
+                WP_414362100.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARVVVASVETYLKYAEAVGLTTTAAAPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_011429717.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.3   7.4   2.6e-47   2.6e-47       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.3 bits;  conditional E-value: 2.6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiellaiear+v+asvetylkyaeavGlta+aa+pav
+                WP_011429717.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARVVVASVETYLKYAEAVGLTATAAAPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_016922591.1  taxid=1223 organism=Prochlorothrix hollandica source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.2   6.0   2.7e-47   2.7e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.2 bits;  conditional E-value: 2.7e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaW rvslvGiel++ieariviasvetylkyaeavGlta+aavpa
+                WP_016922591.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWARVSLVGIELISIEARIVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_461930966.1  taxid=1180 organism=Nostoc sp. source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.1   4.8   2.9e-47   2.9e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.1 bits;  conditional E-value: 2.9e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgiv+daWvr+slvGiellaieariviasvetylkyaeavGlt+sa+vpa
+                WP_461930966.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRISLVGIELLAIEARIVIASVETYLKYAEAVGLTQSASVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_414404485.1  taxid=2626047 organism=unclassified Synechococcus source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.1   7.4     3e-47     3e-47       1      72 []       1      72 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.1 bits;  conditional E-value: 3e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiellaiear+v+asvetylkyaeavGlta+aa+pav
+                WP_414404485.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARVVVASVETYLKYAEAVGLTATAAAPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_038082255.1  taxid=1161 organism=Nostocales source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.9   6.3   3.3e-47   3.3e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.9 bits;  conditional E-value: 3.3e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkg+vid+W rvslvGiella+ear+viasvetylkyaeavGlta+aavpa
+                WP_038082255.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDLWARVSLVGIELLAVEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_280652748.1  taxid=75695 organism=Umezakia ovalisporum source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.9   5.0   3.4e-47   3.4e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.9 bits;  conditional E-value: 3.4e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgiv+daW rvslvGiellaiear+viasvetylkyaeavGlt+saavpa
+                WP_280652748.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_472408654.1  taxid=1125 organism=Microcystis source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.9   4.8   3.6e-47   3.6e-47       1      71 [.      10      80 .]      10      80 .] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.9 bits;  conditional E-value: 3.6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiellaiear+viasvetylkyaeavGlt+saavpa
+                WP_472408654.1 10 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAVPA 80
+                                  9********************************************************************97 PP
+
+>> WP_425311603.1  taxid=1125 organism=Microcystis source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.9   4.8   3.6e-47   3.6e-47       1      71 [.      10      80 .]      10      80 .] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.9 bits;  conditional E-value: 3.6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiellaiear+viasvetylkyaeavGlt+saavpa
+                WP_425311603.1 10 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAVPA 80
+                                  9********************************************************************97 PP
+
+>> WP_063873374.1  taxid=3028117 organism=Cyanophyceae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.9   5.0   3.5e-47   3.5e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.9 bits;  conditional E-value: 3.5e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiel+aieariviasvetylkyaeavGlt+saavpa
+                WP_063873374.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELIAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_054470142.1  taxid=132607 organism=Planktothricoides source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.8   5.0   3.6e-47   3.6e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.8 bits;  conditional E-value: 3.6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiella+ear+viasvetylkyaeavGlt+saavpa
+                WP_054470142.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAVEARVVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_017721725.1  taxid=331992 organism=Kamptonema formosum source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.8   6.5   3.8e-47   3.8e-47       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.8 bits;  conditional E-value: 3.8e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkg+vid+W rvslvGiella+ear+viasvetylkyaeavGlt++aavpav
+                WP_017721725.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDLWARVSLVGIELLAVEARVVIASVETYLKYAEAVGLTSQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_017721733.1  taxid=331992 organism=Kamptonema formosum source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.7   7.0   3.8e-47   3.8e-47       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.7 bits;  conditional E-value: 3.8e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkg+vid+W rvslvGiella+ear+viasvetylkyaeavGlt++aavpav
+                WP_017721733.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDIWARVSLVGIELLAVEARVVIASVETYLKYAEAVGLTSQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_193980327.1  taxid=3396149 organism=Floridanema source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.7   4.1     4e-47     4e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.7 bits;  conditional E-value: 4e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiellaiear+viasvetylkyaeavGlt+saa+pa
+                WP_193980327.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAMPA 71
+                                  9********************************************************************97 PP
+
+>> WP_190463961.1  taxid=1301283 organism=Oscillatoriophycideae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.6   4.7   4.2e-47   4.2e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.6 bits;  conditional E-value: 4.2e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgiv+daW rvslvGiellaiear+viasvetylkyaeavGlt+saa+pa
+                WP_190463961.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAMPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_408963110.1  taxid=3088171 organism=Planktothrix sp. source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.6   5.5   4.3e-47   4.3e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.6 bits;  conditional E-value: 4.3e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mave vnsssslaev+drildkgividaWvrvslvGiella+eariviasvetylky+eavGlta+aavp+
+                WP_408963110.1  1 MAVEPVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAVEARIVIASVETYLKYSEAVGLTAQAAVPS 71
+                                  9*********************************************************************8 PP
+
+>> WP_201320714.1  taxid=1357935 organism=Pseudanabaena sp. lw0831 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.5   6.1   4.5e-47   4.5e-47       1      72 []       1      72 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.5 bits;  conditional E-value: 4.5e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell+iear+viasv+tylkyaea+Gltasaa+pav
+                WP_201320714.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSIEARVVIASVDTYLKYAEAIGLTASAATPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_190775818.1  taxid=2650499 organism=unclassified Leptolyngbya source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.5   7.3   4.6e-47   4.6e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.5 bits;  conditional E-value: 4.6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkg+v+daWvrvslvGiellaieariviasvetylkyaeavGlta+aa+p 
+                WP_190775818.1  1 MAVEKVNSSSSLAEVVDRILDKGVVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTATAAAPV 71
+                                  9*******************************************************************996 PP
+
+>> WP_054464971.1  taxid=132607 organism=Planktothricoides source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.4   4.5     5e-47     5e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.4 bits;  conditional E-value: 5e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaevvdrildkg+v+daWvrv lvGiell+iear+viasvetylkyaeavGlt+++avpa
+                WP_054464971.1  1 MAVEKMNSSSSLAEVVDRILDKGVVVDAWVRVFLVGIELLSIEARVVIASVETYLKYAEAVGLTSQSAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_293061633.1  taxid=2607784 organism=Okeania sp. SIO2B3 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.1   5.8     6e-47     6e-47       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.1 bits;  conditional E-value: 6e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkg+vidaWvrvslvGiella+eariviasvetylkyaeavGlta aa+p 
+                WP_293061633.1  1 MAVEKVNSSSSLAEVVDRILDKGVVIDAWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTALAAAPG 71
+                                  9*******************************************************************996 PP
+
+>> WP_271933955.1  taxid=70799 organism=Nodularia spumigena source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.1   4.7   6.1e-47   6.1e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.1 bits;  conditional E-value: 6.1e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiel+aieariviasvetylkyaea+Glt+saavpa
+                WP_271933955.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELIAIEARIVIASVETYLKYAEAIGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_194056178.1  taxid=1828651 organism=Sphaerospermopsis sp. LEGE 08334 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.0   5.9   6.4e-47   6.4e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.0 bits;  conditional E-value: 6.4e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiell +eariviasvetylkyaeavGlt+saavpa
+                WP_194056178.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLVVEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_293160100.1  taxid=2607791 organism=Okeania sp. SIO2C9 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.9   7.5   7.1e-47   7.1e-47       1      72 []       1      72 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.9 bits;  conditional E-value: 7.1e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaevvdrildkg+vidaWvrvslvGiella+eariviasvetylkyaeavGlta aa+pav
+                WP_293160100.1  1 MAVEKVNSSSSLAEVVDRILDKGVVIDAWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTALAAAPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_190464766.1  taxid=1301283 organism=Oscillatoriophycideae source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.9   6.4   6.9e-47   6.9e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.9 bits;  conditional E-value: 6.9e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkg+vid+W rvslvGiella+ear+v+asvetylkyaeavGlt++aavpa
+                WP_190464766.1  1 MAVEKVNSSSSLAEVIDRILDKGVVIDLWARVSLVGIELLAVEARVVVASVETYLKYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_168569945.1  taxid=1492710 organism=Oxynema source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.9   7.7   6.9e-47   6.9e-47       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.9 bits;  conditional E-value: 6.9e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaevvdrildkg+vid+W rvslvGiella+eariv+asvetylkyaeavGlta+aavpav
+                WP_168569945.1  1 MAVEKVNSSSSLAEVVDRILDKGVVIDVWARVSLVGIELLAVEARIVVASVETYLKYAEAVGLTAQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_017803924.1  taxid=70799 organism=Nodularia spumigena source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.9   4.9   7.1e-47   7.1e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.9 bits;  conditional E-value: 7.1e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+ns+sslaev+drildkgividaWvrvslvGiel+aieariviasvetylkyaea+Glt+saavpa
+                WP_017803924.1  1 MAVEKTNSTSSLAEVIDRILDKGIVIDAWVRVSLVGIELIAIEARIVIASVETYLKYAEAIGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_193955741.1  taxid=1126 organism=Microcystis aeruginosa source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.9   4.6   7.2e-47   7.2e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.9 bits;  conditional E-value: 7.2e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  m+vek+nsssslaev+drildkgividaW rvslvGiellaiear+viasvetylkyaeavGlt+saavpa
+                WP_193955741.1  1 MSVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  99*******************************************************************97 PP
+
+>> WP_084989880.1  taxid=1126 organism=Microcystis aeruginosa source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.7   4.6   8.3e-47   8.3e-47       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.7 bits;  conditional E-value: 8.3e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiellaiear+viasvetylkyaeavGlt+sa+vpa
+                WP_084989880.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSASVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_413173348.1  taxid=197653 organism=Anabaena azotica source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.7   4.3   8.4e-47   8.4e-47       1      69 [.       1      69 [.       1      72 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 150.7 bits;  conditional E-value: 8.4e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaav 69
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlt+saa+
+                WP_413173348.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAI 69
+                                  9******************************************************************97 PP
+
+>> ABG51547.1  taxid=203124 organism=Trichodesmium erythraeum IMS101 source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.6   5.0   8.8e-47   8.8e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.6 bits;  conditional E-value: 8.8e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkg+v+daWvr+slvGiell+ieariviasvetylkyaeavGlt+ aa pa
+                    ABG51547.1  1 MAVEKVNSSSSLAEVIDRILDKGVVVDAWVRLSLVGIELLTIEARIVIASVETYLKYAEAVGLTTLAAEPA 71
+                                  9********************************************************************98 PP
+
+>> WP_272058300.1  taxid=70799 organism=Nodularia spumigena source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.4   4.5     1e-46     1e-46       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.4 bits;  conditional E-value: 1e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiel+aieariviasvetylkyaeavGlt+saavpa
+                WP_272058300.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWDRVSLVGIELIAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_293100807.1  taxid=2607790 organism=Okeania sp. SIO2F4 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.1   5.8   1.3e-46   1.3e-46       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.1 bits;  conditional E-value: 1.3e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaevvdrildkg+vidaWvrvslvGiella+ear+viasvetylkyaeavGlta aa+p 
+                WP_293100807.1  1 MAVEKINSSSSLAEVVDRILDKGVVIDAWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTALAAAPG 71
+                                  9*******************************************************************996 PP
+
+>> WP_426542028.1  taxid=3692514 organism=Dapis purpurea source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.1   5.8   1.3e-46   1.3e-46       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.1 bits;  conditional E-value: 1.3e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaevvdrildkg+vidaWvrvslvGiella+ear+viasvetylkyaeavGlta aa+p 
+                WP_426542028.1  1 MAVEKINSSSSLAEVVDRILDKGVVIDAWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTALAAAPG 71
+                                  9*******************************************************************996 PP
+
+>> WP_293126616.1  taxid=2607772 organism=Okeania sp. SIO1I7 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.0   7.0   1.4e-46   1.4e-46       1      71 [.       1      71 [.       1      76 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.0 bits;  conditional E-value: 1.4e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkg+vidaWvrvslvGiella+eariviasvetylkyaeavGlta aa+p 
+                WP_293126616.1  1 MAVEKVNSSSSLAEVVDRILDKGVVIDAWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTALAAAPG 71
+                                  9*******************************************************************996 PP
+
+>> WP_426585015.1  taxid=3692516 organism=Dapis brunnea source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.0   5.8   1.4e-46   1.4e-46       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.0 bits;  conditional E-value: 1.4e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaevvdrildkg+vidaWvrvslvGiella+ear+viasvetylkyaeavGlta aa+p 
+                WP_426585015.1  1 MAVEKINSSSSLAEVVDRILDKGVVIDAWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTALAAAPG 71
+                                  9*******************************************************************996 PP
+
+>> WP_441007279.1  taxid=1126 organism=Microcystis aeruginosa source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.0   4.6   1.3e-46   1.3e-46       1      71 [.      10      80 .]      10      80 .] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.0 bits;  conditional E-value: 1.3e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiellaiear+viasvetylkyaeavGlt+sa+vpa
+                WP_441007279.1 10 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSASVPA 80
+                                  9********************************************************************97 PP
+
+>> WP_324632560.1  taxid=2886104 organism=Phormidium sp. CCY1219 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  150.0   7.9   1.3e-46   1.3e-46       1      72 []       1      72 []       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 150.0 bits;  conditional E-value: 1.3e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaevvdrildkg+vid+W rvslvGiel+aiear+v+asvetylkyaeavGlt++aavpav
+                WP_324632560.1  1 MAVEKVNSSSSLAEVVDRILDKGVVIDVWARVSLVGIELIAIEARVVVASVETYLKYAEAVGLTSQAAVPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_096607388.1  taxid=1954172 organism=Calothrix sp. NIES-2100 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  149.8   5.2   1.6e-46   1.6e-46       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 149.8 bits;  conditional E-value: 1.6e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvn+ssslaev+d+ildkgi++daWvrvslvGiella+ear+viasvetyl+yaeavGlt++aavpa
+                WP_096607388.1  1 MAVEKVNASSSLAEVIDHILDKGIIVDAWVRVSLVGIELLALEARVVIASVETYLRYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_193959329.1  taxid=1828687 organism=Microcystis sp. LEGE 08355 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  149.7   4.4   1.7e-46   1.7e-46       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 149.7 bits;  conditional E-value: 1.7e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiellaiea +viasvetylkyaeavGlt+saavpa
+                WP_193959329.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAIEAHVVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_015229078.1  taxid=292566 organism=Dactylococcopsis salina source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  149.6   5.6   1.8e-46   1.8e-46       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 149.6 bits;  conditional E-value: 1.8e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nssssl evvdrildkg+v+d+WvrvslvGiella+ear+viasvetylkyaeavGlt+saavpa
+                WP_015229078.1  1 MAVEKTNSSSSLGEVVDRILDKGVVVDLWVRVSLVGIELLAVEARVVIASVETYLKYAEAVGLTSSAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_335072082.1  taxid=1180 organism=Nostoc sp. source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  149.5   5.7     2e-46     2e-46       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 149.5 bits;  conditional E-value: 2e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnssssl+ev+drildkgivid+W+r+slvGiell+ieariviasvetylkya+avGlt+saavpa
+                WP_335072082.1  1 MAVEKVNSSSSLVEVIDRILDKGIVIDVWIRISLVGIELLTIEARIVIASVETYLKYAQAVGLTQSAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_413173345.1  taxid=197653 organism=Anabaena azotica source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  149.3   5.3   2.3e-46   2.3e-46       1      69 [.       1      69 [.       1      71 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 149.3 bits;  conditional E-value: 2.3e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaav 69
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlt+saa+
+                WP_413173345.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAM 69
+                                  9******************************************************************96 PP
+
+>> WP_272092571.1  taxid=70799 organism=Nodularia spumigena source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  149.3   5.6   2.2e-46   2.2e-46       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 149.3 bits;  conditional E-value: 2.2e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslv iel+aieariviasvetylkyaeavGlt+saavpa
+                WP_272092571.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVRIELIAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_413173347.1  taxid=197653 organism=Anabaena azotica source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  149.3   5.8   2.2e-46   2.2e-46       1      69 [.       1      69 [.       1      72 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 149.3 bits;  conditional E-value: 2.2e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaav 69
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlt+saa+
+                WP_413173347.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAI 69
+                                  9******************************************************************97 PP
+
+>> ABG51546.1  taxid=203124 organism=Trichodesmium erythraeum IMS101 source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  149.2   4.1   2.5e-46   2.5e-46       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 149.2 bits;  conditional E-value: 2.5e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkg+v+daW+r+slvGiell+ieariv+asvetylkyaeavGlt+ aa+p 
+                    ABG51546.1  1 MAVEKVNSSSSLAEVIDRILDKGVVVDAWIRLSLVGIELLTIEARIVVASVETYLKYAEAVGLTTLAAAPG 71
+                                  9*******************************************************************996 PP
+
+>> WP_272074942.1  taxid=70799 organism=Nodularia spumigena source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  149.2   4.6   2.5e-46   2.5e-46       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 149.2 bits;  conditional E-value: 2.5e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW r slvGiel+aieariviasvetylkyaeavGlt+saavpa
+                WP_272074942.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARASLVGIELIAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_280793164.1  taxid=2971766 organism=Anabaenopsis sp. FSS-46 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  148.9   5.2   2.9e-46   2.9e-46       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 148.9 bits;  conditional E-value: 2.9e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslv iellaieariviasvetylkyaeavGlt+saavpa
+                WP_280793164.1  1 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVSIELLAIEARIVIASVETYLKYAEAVGLTQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_413173346.1  taxid=197653 organism=Anabaena azotica source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  148.7   6.0   3.5e-46   3.5e-46       1      69 [.       1      69 [.       1      71 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 148.7 bits;  conditional E-value: 3.5e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaav 69
+                                  mavek+nsssslaev+drildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlt+saa+
+                WP_413173346.1  1 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAI 69
+                                  9******************************************************************96 PP
+
+>> WP_015224598.1  taxid=65093 organism=Halothece sp. PCC 7418 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  148.6   5.8   3.8e-46   3.8e-46       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 148.6 bits;  conditional E-value: 3.8e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nssssl evvdrildkg+v+d+WvrvslvGiella+ear+v+asvetylkyaeavGlt+saavpa
+                WP_015224598.1  1 MAVEKTNSSSSLGEVVDRILDKGVVVDLWVRVSLVGIELLAVEARVVVASVETYLKYAEAVGLTSSAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_293087767.1  taxid=2607811 organism=Okeania sp. SIO3B5 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  147.9   5.8   6.3e-46   6.3e-46       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 147.9 bits;  conditional E-value: 6.3e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkg+vidaWvr+slvGiella+eariviasvetylkyaeavGlta a  pa
+                WP_293087767.1  1 MAVEKVNSSSSLAEVVDRILDKGVVIDAWVRLSLVGIELLAVEARIVIASVETYLKYAEAVGLTALAGSPA 71
+                                  9*******************************************************************998 PP
+
+>> WP_202218625.1  taxid=2720165 organism=Okeania sp. KiyG1 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  147.9   5.8   6.3e-46   6.3e-46       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 147.9 bits;  conditional E-value: 6.3e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkg+vidaWvr+slvGiella+eariviasvetylkyaeavGlta a  pa
+                WP_202218625.1  1 MAVEKVNSSSSLAEVVDRILDKGVVIDAWVRLSLVGIELLAVEARIVIASVETYLKYAEAVGLTALAGSPA 71
+                                  9*******************************************************************998 PP
+
+>> WP_392535573.1  taxid=3349875 organism=Nostoc sp. C117 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  147.9   5.0   6.3e-46   6.3e-46       1      71 [.       1      71 []       1      71 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 147.9 bits;  conditional E-value: 6.3e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildk+ v+daWvrvslvGiellaieariviasvetylkyaeavGl++saavpa
+                WP_392535573.1  1 MAVEKTNSSSSLAEVIDRILDKSTVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLRQSAAVPA 71
+                                  9********************************************************************97 PP
+
+>> WP_103666325.1  taxid=2043171 organism=Pseudanabaena sp. BC1403 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  147.6   4.3   7.6e-46   7.6e-46       1      71 [.       1      71 [.       1      72 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 147.6 bits;  conditional E-value: 7.6e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvsl Giel++iear+viasvetylkyaeavGlt+s+av++
+                WP_103666325.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLGGIELFSIEARVVIASVETYLKYAEAVGLTTSTAVNK 71
+                                  9*******************************************************************975 PP
+
+>> WP_414395174.1  taxid=2964533 organism=Synechococcus sp. O70.2 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  147.5   7.6   8.1e-46   8.1e-46       1      72 []       1      72 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 147.5 bits;  conditional E-value: 8.1e-46
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpav 72
+                                  mavekvnsssslaev+drildkgiv+daWvrvslv iellaiear+v+asvetylkyaeavGlta+aa+pav
+                WP_414395174.1  1 MAVEKVNSSSSLAEVIDRILDKGIVVDAWVRVSLVRIELLAIEARVVVASVETYLKYAEAVGLTATAAAPAV 72
+                                  9*********************************************************************95 PP
+
+>> WP_298916699.1  taxid=340711 organism=uncultured Nostoc sp. source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  146.9   5.9   1.2e-45   1.2e-45       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 146.9 bits;  conditional E-value: 1.2e-45
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  m++ekvnssssl+ev+drildkgivid+W+r+slvGiell+ieariviasvetylkya+avGlt+saavpa
+                WP_298916699.1  1 MVIEKVNSSSSLVEVIDRILDKGIVIDVWIRISLVGIELLTIEARIVIASVETYLKYAQAVGLTQSAAVPA 71
+                                  99********************************************************************8 PP
+
+>> WP_323244924.1  taxid=70799 organism=Nodularia spumigena source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  141.2   6.0   7.3e-44   7.3e-44       1      71 [.       1      70 []       1      70 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 141.2 bits;  conditional E-value: 7.3e-44
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+dril+ gividaWvrvslvGiel+aieariviasvetylkyaeavGlt+saavpa
+                WP_323244924.1  1 MAVEKTNSSSSLAEVIDRILE-GIVIDAWVRVSLVGIELIAIEARIVIASVETYLKYAEAVGLTQSAAVPA 70
+                                  9*******************6.9**********************************************97 PP
+
+>> WP_153228363.1  taxid=2490939 organism=Anabaena sp. YBS01 source=course_strict_v1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  127.4   4.4   1.5e-39   1.5e-39      12      71 ..       2      61 .]       1      61 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 127.4 bits;  conditional E-value: 1.5e-39
+  core95_representatives.mafft 12 laevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  laev+drildkgiv+daWvrvslvGiellaieariv+asvetylkyaeavGlt+saa+pa
+                WP_153228363.1  2 LAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVVASVETYLKYAEAVGLTQSAAMPA 61
+                                  9*********************************************************97 PP
+
+>> WP_330936551.1  taxid=77022 organism=Cylindrospermopsis raciborskii source=ncbi_discovery_20260907
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  124.7   4.8   1.1e-38   1.1e-38      14      71 ..       2      59 .]       1      59 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 124.7 bits;  conditional E-value: 1.1e-38
+  core95_representatives.mafft 14 evvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  ev+drildkgiv+daWvrvslvGiella+eariviasvetylkyaeavGlt+saavpa
+                WP_330936551.1  2 EVIDRILDKGIVVDAWVRVSLVGIELLAVEARIVIASVETYLKYAEAVGLTQSAAVPA 59
+                                  9*******************************************************97 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (72 nodes)
+Target sequences:                        157  (11497 residues searched)
+Passed MSV filter:                       157  (1); expected 157.0 (1)
+Passed bias filter:                      157  (1); expected 157.0 (1)
+Passed Vit filter:                       157  (1); expected 157.0 (1)
+Passed Fwd filter:                       157  (1); expected 157.0 (1)
+Initial search space (Z):                157  [actual number of targets]
+Domain search space  (domZ):             157  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.01
+# Mc/sec: 77.18
+//
+[ok]

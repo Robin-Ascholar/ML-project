@@ -1,0 +1,1142 @@
+uid,accession_version,title,organism,taxid,length,source_database,updated_date,found_by_annotation_query,found_by_prk09371_query
+14521,CAA00064.1,gas vesicle protein A [Pseudanabaena],Pseudanabaena,1152,72,insd,1993/02/10,True,True
+43392,CAA29467.1,gvpA gas vesicle protein [Microchaete diplosiphon],Microchaete diplosiphon,1197,71,insd,1996/10/01,False,True
+43393,CAA29468.1,gvpB gas vesicle protein [Microchaete diplosiphon],Microchaete diplosiphon,1197,71,insd,1996/10/01,False,True
+58403,CAA40898.1,"gas vesicle protein, partial [Pseudanabaena galeata PCC 6901]",Pseudanabaena galeata PCC 6901,47918,72,insd,2016/07/14,True,True
+72630,SVIA,gas-vesicle protein - Microcystis sp,Microcystis sp.,1127,70,pir,1993/06/30,False,True
+97673,S15168,gas-vesicle protein - Pseudanabaena sp,Pseudanabaena sp.,1153,72,pir,1999/08/20,False,True
+121860,P10397.3,RecName: Full=Gas vesicle protein A; Short=GvpA; AltName: Full=Gas vesicle structural protein; Short=GVP,Dolichospermum flos-aquae,1166,71,swiss_prot,2026/09/02,True,True
+121861,P07060.2,RecName: Full=Gas vesicle protein A; Short=GVP; Short=GvpA,Microchaete diplosiphon,1197,71,swiss_prot,2026/09/02,True,True
+121863,P08412.3,RecName: Full=Gas vesicle protein A; Short=GvpA; AltName: Full=Gas vesicle structural protein,Microcystis sp. 'BC 84/1',1128,71,swiss_prot,2026/09/02,True,True
+121864,P22453.2,RecName: Full=Gas vesicle protein A; Short=GvpA,Pseudanabaena galeata PCC 6901,47918,72,swiss_prot,2025/06/18,True,True
+142017,AAA82499.1,gas vesicle protein A [Dolichospermum flos-aquae],Dolichospermum flos-aquae,1166,71,insd,1995/11/29,False,True
+142018,AAA82497.1,gas vesicle protein A [Dolichospermum flos-aquae],Dolichospermum flos-aquae,1166,71,insd,1995/11/29,False,True
+255836,AAB23331.1,"GvpA=structural gas vesicle protein {N-terminal} [Anabaena flos-aquae, Peptide Partial, 70 aa]",Dolichospermum flos-aquae,1166,70,insd,1992/11/24,False,True
+255837,AAB23332.1,"GvpA=structural gas vesicle protein {N-terminal} [Calothrix, Peptide Partial, 70 aa]",Calothrix,1186,70,insd,1992/11/24,False,True
+255838,AAB23333.1,"GvpA=structural gas vesicle protein {N-terminal} [Pseudanabaena, Peptide Partial, 71 aa]",Pseudanabaena,1152,71,insd,1992/11/24,False,True
+255839,AAB23334.1,"GvpA=structural gas vesicle protein {N-terminal} [Oscillatoria agardhii, green, Peptide Partial, 62 aa]",Planktothrix agardhii,1160,62,insd,1992/11/24,False,True
+595968,AAA58708.1,gas vesicle protein A [Dolichospermum flos-aquae CCAP 1403/13F],Dolichospermum flos-aquae CCAP 1403/13F,315271,71,insd,1995/01/04,True,True
+595969,AAA58709.1,gas vesicle protein A [Dolichospermum flos-aquae CCAP 1403/13F],Dolichospermum flos-aquae CCAP 1403/13F,315271,71,insd,1995/01/04,True,True
+2144932,SVXC,gas-vesicle protein - Calothrix sp. (strain PCC 7601),Calothrix sp.,1187,71,pir,2000/06/16,False,True
+6119599,CAB59543.1,gas vesicle protein GvpA [Planktothrix rubescens],Planktothrix rubescens,59512,72,insd,2016/07/26,True,True
+6119600,CAB59544.1,gas vesicle protein GvpA [Planktothrix rubescens],Planktothrix rubescens,59512,72,insd,2016/07/26,True,True
+6119605,CAB59548.1,gas vesicle protein GvpA [Planktothrix rubescens],Planktothrix rubescens,59512,72,insd,2016/07/26,True,True
+6119609,CAB59551.1,gas vesicle protein GvpA [Planktothrix rubescens],Planktothrix rubescens,59512,72,insd,2016/07/26,True,True
+6119610,CAB59552.1,gas vesicle protein GvpA [Planktothrix rubescens],Planktothrix rubescens,59512,72,insd,2016/07/26,True,True
+6119615,CAB59555.1,gas vesicle protein GvpA [Planktothrix rubescens],Planktothrix rubescens,59512,72,insd,2005/04/15,True,True
+6119634,CAB59559.1,GvpA protein [Planktothrix rubescens CCAP 1459/22],Planktothrix rubescens CCAP 1459/22,329571,72,insd,2005/04/15,True,True
+6119639,CAB59562.1,GvpA protein [Planktothrix rubescens CCAP 1459/22],Planktothrix rubescens CCAP 1459/22,329571,72,insd,2016/07/26,True,True
+6119647,CAB59517.1,GvpA protein [Planktothrix agardhii NIVA-CYA 29],Planktothrix agardhii NIVA-CYA 29,329548,72,insd,2005/04/15,True,True
+6119656,CAB59523.1,GvpA protein [Planktothrix agardhii NIVA-CYA 137],Planktothrix agardhii NIVA-CYA 137,329554,72,insd,2016/07/26,True,True
+17131344,BAB73952.1,gas vesicle protein [Nostoc sp. PCC 7120 = FACHB-418],Nostoc sp. PCC 7120 = FACHB-418,103690,71,insd,2016/10/07,False,True
+17131345,BAB73953.1,gas vesicle protein [Nostoc sp. PCC 7120 = FACHB-418],Nostoc sp. PCC 7120 = FACHB-418,103690,71,insd,2016/10/07,True,True
+22095744,Q8XFU1.3,RecName: Full=Gas vesicle protein A; Short=GvpA,Nostoc sp. PCC 7120 = FACHB-418,103690,71,swiss_prot,2026/06/10,True,True
+30515685,AAP34328.1,GvpA1 [Nodularia spumigena],Nodularia spumigena,70799,71,insd,2003/05/10,False,True
+30515686,AAP34329.1,GvpA2 [Nodularia spumigena],Nodularia spumigena,70799,71,insd,2003/05/10,False,True
+31296500,AAP46538.1,GvpA1 [Nodularia spumigena],Nodularia spumigena,70799,71,insd,2003/06/01,False,True
+31296501,AAP46539.1,GvpA2 [Nodularia spumigena],Nodularia spumigena,70799,71,insd,2003/06/01,False,True
+31296505,AAP46542.1,GvpA1 [Nodularia spumigena],Nodularia spumigena,70799,71,insd,2003/06/01,False,True
+31296506,AAP46543.1,GvpA2 [Nodularia spumigena],Nodularia spumigena,70799,71,insd,2003/06/01,False,True
+32448668,AAP82455.1,gas vesicle protein A1 [Microcystis sp. FACHB-854],Microcystis sp. FACHB-854,236300,71,insd,2016/07/25,False,True
+32448672,AAP82458.1,gas vesicle protein A2 [Microcystis sp. FACHB-854],Microcystis sp. FACHB-854,236300,71,insd,2006/10/03,False,True
+38348657,CAE11898.1,structural protein GvpAI [Microcystis aeruginosa PCC 7806],Microcystis aeruginosa PCC 7806,267872,71,insd,2004/04/05,False,True
+38348658,CAE11899.1,structural protein GvpAII [Microcystis aeruginosa PCC 7806],Microcystis aeruginosa PCC 7806,267872,71,insd,2004/04/05,False,True
+38348659,CAE11900.1,structural protein GvpAIII [Microcystis aeruginosa PCC 7806],Microcystis aeruginosa PCC 7806,267872,71,insd,2004/04/05,False,True
+45827678,AAP82457.2,gas vesicle protein A1 [Microcystis sp. FACHB-854],Microcystis sp. FACHB-854,236300,71,insd,2006/10/03,False,True
+61225457,P0A3G0.2,RecName: Full=Gas vesicle protein A; Short=GvpA; AltName: Full=Gas vesicle structural protein,Planktothrix agardhii,1160,72,swiss_prot,2026/09/02,True,True
+61225460,P0A3G1.2,RecName: Full=Gas vesicle protein A; Short=GVP; Short=GvpA,Planktothrix rubescens,59512,72,swiss_prot,2025/06/18,True,True
+63148627,AAY34442.1,gas vesicle structural protein [Microcystis sp. BC 8401],Microcystis sp. BC 8401,328048,71,insd,2005/06/01,False,True
+63148637,AAY34452.1,gas vesicle structural protein [Microcystis sp. BC 8401],Microcystis sp. BC 8401,328048,71,insd,2005/06/01,False,True
+70907720,CAJ15636.1,major gas vesicle [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/14,True,True
+71152833,AAZ29490.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152835,AAZ29491.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152837,AAZ29492.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152839,AAZ29493.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152841,AAZ29494.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152843,AAZ29495.1,major gas vesicle protein [Dolichospermum solitarium 'BC Ana 0026'],Dolichospermum solitarium 'BC Ana 0026',320668,71,insd,2005/07/31,True,True
+71152845,AAZ29496.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152847,AAZ29497.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152849,AAZ29498.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152851,AAZ29499.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152853,AAZ29500.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152855,AAZ29501.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152857,AAZ29502.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152859,AAZ29503.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152861,AAZ29504.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152863,AAZ29505.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+71152865,AAZ29506.1,major gas vesicle protein [Dolichospermum lemmermannii],Dolichospermum lemmermannii,54295,71,insd,2005/07/31,True,True
+75700025,ABA19701.1,Gas vesicle protein GVPa [Trichormus variabilis ATCC 29413],Trichormus variabilis ATCC 29413,240292,148,insd,2014/01/28,True,False
+75700028,ABA19704.1,Gas vesicle protein GVPa [Trichormus variabilis ATCC 29413],Trichormus variabilis ATCC 29413,240292,71,insd,2014/01/28,True,True
+75700029,ABA19705.1,Gas vesicle protein GVPa [Trichormus variabilis ATCC 29413],Trichormus variabilis ATCC 29413,240292,71,insd,2014/01/28,True,True
+86554075,ABC99033.1,gas vesicle protein A [Synechococcus sp. JA-3-3Ab],Synechococcus sp. JA-3-3Ab,321327,72,insd,2014/01/31,True,True
+86557831,ABD02788.1,gas vesicle protein A [Synechococcus sp. JA-2-3B'a(2-13)],Synechococcus sp. JA-2-3B'a(2-13),321332,72,insd,2014/01/31,True,True
+110167004,ABG51544.1,gas vesicle protein GVPa [Trichodesmium erythraeum IMS101],Trichodesmium erythraeum IMS101,203124,62,insd,2024/05/10,True,False
+110167005,ABG51545.1,gas vesicle protein GVPa [Trichodesmium erythraeum IMS101],Trichodesmium erythraeum IMS101,203124,54,insd,2024/05/10,True,False
+110167006,ABG51546.1,gas vesicle protein GVPa [Trichodesmium erythraeum IMS101],Trichodesmium erythraeum IMS101,203124,75,insd,2024/05/10,True,True
+110167007,ABG51547.1,gas vesicle protein GVPa [Trichodesmium erythraeum IMS101],Trichodesmium erythraeum IMS101,203124,72,insd,2024/05/10,True,True
+110167012,ABG51552.1,gas vesicle protein GVPa [Trichodesmium erythraeum IMS101],Trichodesmium erythraeum IMS101,203124,103,insd,2024/05/10,True,False
+110167016,ABG51556.1,gas vesicle protein GVPa [Trichodesmium erythraeum IMS101],Trichodesmium erythraeum IMS101,203124,104,insd,2024/05/10,True,False
+117394902,ABK34496.1,gas vesicle protein A1 [uncultured Microcystis sp.],uncultured Microcystis sp.,269212,71,insd,2008/05/28,False,True
+117394903,ABK34497.1,gas vesicle protein A2 [uncultured Microcystis sp.],uncultured Microcystis sp.,269212,71,insd,2008/05/28,False,True
+117394904,ABK34498.1,gas vesicle protein A3 [uncultured Microcystis sp.],uncultured Microcystis sp.,269212,71,insd,2008/05/28,False,True
+117395047,ABK34514.1,gas vesicle protein A1 [uncultured Microcystis sp.],uncultured Microcystis sp.,269212,71,insd,2008/05/28,False,True
+117395048,ABK34515.1,gas vesicle protein A2 [uncultured Microcystis sp.],uncultured Microcystis sp.,269212,71,insd,2008/05/28,False,True
+117671505,ABK56839.1,gas vesicle protein A1 [Microcystis sp. FACHB-910],Microcystis sp. FACHB-910,411373,71,insd,2008/05/27,False,True
+117671506,ABK56840.1,gas vesicle protein A2 [Microcystis sp. FACHB-910],Microcystis sp. FACHB-910,411373,71,insd,2008/05/27,False,True
+117671509,ABK56842.1,gas vesicle protein A1 [Microcystis sp. FACHB-916],Microcystis sp. FACHB-916,411374,71,insd,2008/05/27,False,True
+117671510,ABK56843.1,gas vesicle protein A2 [Microcystis sp. FACHB-916],Microcystis sp. FACHB-916,411374,71,insd,2008/05/27,False,True
+117671511,ABK56844.1,gas vesicle protein A3 [Microcystis sp. FACHB-916],Microcystis sp. FACHB-916,411374,71,insd,2008/05/27,False,True
+117671514,ABK56846.1,gas vesicle protein A1 [Microcystis sp. FACHB-927],Microcystis sp. FACHB-927,411375,71,insd,2008/05/27,False,True
+117671515,ABK56847.1,gas vesicle protein A2 [Microcystis sp. FACHB-927],Microcystis sp. FACHB-927,411375,71,insd,2008/05/27,False,True
+117671516,ABK56848.1,gas vesicle protein A3 [Microcystis sp. FACHB-927],Microcystis sp. FACHB-927,411375,71,insd,2008/05/27,False,True
+117671519,ABK56850.1,gas vesicle protein A1 [Microcystis sp. FACHB-929],Microcystis sp. FACHB-929,411376,71,insd,2008/05/27,False,True
+117671520,ABK56851.1,gas vesicle protein A2 [Microcystis sp. FACHB-929],Microcystis sp. FACHB-929,411376,71,insd,2008/05/27,False,True
+117671521,ABK56852.1,gas vesicle protein A3 [Microcystis sp. FACHB-929],Microcystis sp. FACHB-929,411376,71,insd,2008/05/27,False,True
+117671522,ABK56853.1,gas vesicle protein A4 [Microcystis sp. FACHB-929],Microcystis sp. FACHB-929,411376,71,insd,2008/05/27,False,True
+117671525,ABK56855.1,gas vesicle protein A1 [Microcystis sp. FACHB-930],Microcystis sp. FACHB-930,411377,71,insd,2008/05/27,False,True
+117671526,ABK56856.1,gas vesicle protein A2 [Microcystis sp. FACHB-930],Microcystis sp. FACHB-930,411377,71,insd,2008/05/27,False,True
+117671527,ABK56857.1,gas vesicle protein A3 [Microcystis sp. FACHB-930],Microcystis sp. FACHB-930,411377,71,insd,2008/05/27,False,True
+123501932,Q2JKK1.1,RecName: Full=Gas vesicle protein A; Short=GvpA,Synechococcus sp. JA-2-3B'a(2-13),321332,72,swiss_prot,2026/01/28,True,True
+123507196,Q2JW39.1,RecName: Full=Gas vesicle protein A; Short=GvpA,Synechococcus sp. JA-3-3Ab,321327,72,swiss_prot,2026/01/28,True,True
+156186239,ABU55390.1,gas vesicle structural protein [Limnospira maxima OUCLXC],Limnospira maxima OUCLXC,463197,72,insd,2007/08/27,True,True
+159025977,CAO88768.1,gvpA3 [Microcystis aeruginosa PCC 7806],Microcystis aeruginosa PCC 7806,267872,71,insd,2016/07/26,False,True
+159025978,CAO88769.1,gvpA2 [Microcystis aeruginosa PCC 7806],Microcystis aeruginosa PCC 7806,267872,71,insd,2016/07/26,False,True
+159025979,CAO88770.1,gvpA1 [Microcystis aeruginosa PCC 7806],Microcystis aeruginosa PCC 7806,267872,71,insd,2016/07/26,False,True
+161784169,ABX79574.1,"gas vesicle structural protein, partial [Arthrospira sp. PCC 9901]",Arthrospira sp. PCC 9901,478446,63,insd,2016/07/26,False,True
+166088872,BAG03580.1,gas vesicle protein GvpAI [Microcystis aeruginosa NIES-843],Microcystis aeruginosa NIES-843,449447,71,insd,2016/10/07,False,True
+166088873,BAG03581.1,gas vesicle protein GvpAII [Microcystis aeruginosa NIES-843],Microcystis aeruginosa NIES-843,449447,71,insd,2016/10/07,False,True
+166088874,BAG03582.1,gas vesicle protein GvpAIII [Microcystis aeruginosa NIES-843],Microcystis aeruginosa NIES-843,449447,71,insd,2016/10/07,False,True
+186464962,ACC80763.1,gas vesicle protein GvpA [Nostoc punctiforme PCC 73102],Nostoc punctiforme PCC 73102,63737,73,insd,2019/09/10,True,True
+189042459,B0JPK6.1,RecName: Full=Gas vesicle protein A; Short=GvpA,Microcystis aeruginosa NIES-843,449447,71,swiss_prot,2026/09/02,False,True
+209491481,EDZ91859.1,gas vesicle protein GVPa [Limnospira maxima CS-328],Limnospira maxima CS-328,513049,127,insd,2008/10/15,True,False
+209491484,EDZ91862.1,gas vesicle protein GVPa [Limnospira maxima CS-328],Limnospira maxima CS-328,513049,72,insd,2008/10/15,True,True
+226740541,B2J663.1,RecName: Full=Gas vesicle protein A; Short=GvpA,Nostoc punctiforme PCC 73102,63737,73,swiss_prot,2025/06/18,True,True
+291568759,BAI91031.1,gas vesicle protein GvpA [Limnospira platensis NIES-39],Limnospira platensis NIES-39,696747,72,insd,2016/10/07,True,True
+300333371,CBN58418.1,gas vesicle synthesis protein GvpA [Kamptonema sp. PCC 6506],Kamptonema sp. PCC 6506,272129,72,insd,2010/09/21,False,True
+300333374,CBN58421.1,gas vesicle protein GVPa [Kamptonema sp. PCC 6506],Kamptonema sp. PCC 6506,272129,131,insd,2010/09/21,True,False
+333455304,EGK83956.1,gas vesicle protein GVPa [Microcoleus vaginatus FGP-2],Microcoleus vaginatus FGP-2,756067,144,insd,2011/05/19,True,False
+333455305,EGK83957.1,Gas vesicle structural protein [Microcoleus vaginatus FGP-2],Microcoleus vaginatus FGP-2,756067,154,insd,2011/05/19,False,True
+356578547,AET14647.1,GvpA1 [Limnospira indica PCC 8005],Limnospira indica PCC 8005,376219,72,insd,2012/09/06,False,True
+356578549,AET14649.1,GvpA2 [Limnospira indica PCC 8005],Limnospira indica PCC 8005,376219,72,insd,2012/09/06,False,True
+356578551,AET14651.1,GvpA3 [Limnospira indica PCC 8005],Limnospira indica PCC 8005,376219,72,insd,2012/09/06,False,True
+356578568,AET14663.1,GvpA [Limnospira platensis PCC 7345],Limnospira platensis PCC 7345,129975,72,insd,2012/09/06,True,True
+356578571,AET14665.1,GvpA [Arthrospira sp. PCC 9108],Arthrospira sp. PCC 9108,147317,72,insd,2012/09/06,True,True
+356578574,AET14667.1,GvpA [Arthrospira sp. PCC 9444],Arthrospira sp. PCC 9444,1111456,72,insd,2012/09/06,True,True
+356578577,AET14669.1,GvpA [Arthrospira sp. Moz. 2.1],Arthrospira sp. Moz. 2.1,1111455,72,insd,2012/09/06,True,True
+356578580,AET14671.1,GvpA2 [Limnospira indica PCC 8005],Limnospira indica PCC 8005,376219,72,insd,2012/09/06,False,True
+356578583,AET14673.1,GvpA2 [Limnospira indica PCC 8005],Limnospira indica PCC 8005,376219,72,insd,2012/09/06,False,True
+389677572,CCH93490.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9432],Microcystis aeruginosa PCC 9432,1160280,71,insd,2012/05/28,True,True
+389677573,CCH93491.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9432],Microcystis aeruginosa PCC 9432,1160280,71,insd,2012/05/28,True,True
+389677574,CCH93492.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9432],Microcystis aeruginosa PCC 9432,1160280,71,insd,2012/05/28,True,True
+389719808,CCH96397.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9717],Microcystis aeruginosa PCC 9717,1160286,71,insd,2012/05/28,True,True
+389719809,CCH96398.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9717],Microcystis aeruginosa PCC 9717,1160286,71,insd,2012/05/28,True,True
+389719810,CCH96399.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9717],Microcystis aeruginosa PCC 9717,1160286,71,insd,2012/05/28,True,True
+389764356,CCI09309.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 7941],Microcystis aeruginosa PCC 7941,213618,71,insd,2012/05/28,True,True
+389764357,CCI09310.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 7941],Microcystis aeruginosa PCC 7941,213618,71,insd,2012/05/28,True,True
+389790403,CCI13715.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9806],Microcystis aeruginosa PCC 9806,1160282,71,insd,2012/05/28,True,True
+389790404,CCI13716.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9806],Microcystis aeruginosa PCC 9806,1160282,71,insd,2012/05/28,True,True
+389800244,CCI20367.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9807],Microcystis aeruginosa PCC 9807,1160283,71,insd,2012/05/28,True,True
+389824057,CCI27343.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9808],Microcystis aeruginosa PCC 9808,1160284,71,insd,2012/05/28,True,True
+389832095,CCI24575.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9809],Microcystis aeruginosa PCC 9809,1160285,71,insd,2012/05/28,True,True
+389832108,CCI24570.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9809],Microcystis aeruginosa PCC 9809,1160285,71,insd,2012/05/28,True,True
+389835284,CCI33633.1,Gas vesicle structural protein A [Microcystis sp. T1-4],Microcystis sp. T1-4,1160279,71,insd,2012/05/28,True,True
+389835285,CCI33634.1,Gas vesicle structural protein A [Microcystis sp. T1-4],Microcystis sp. T1-4,1160279,71,insd,2012/05/28,True,True
+389881350,CCI38078.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9701],Microcystis aeruginosa PCC 9701,721123,71,insd,2012/05/28,True,True
+389881351,CCI38079.1,Gas vesicle structural protein A [Microcystis aeruginosa PCC 9701],Microcystis aeruginosa PCC 9701,721123,71,insd,2012/05/28,True,True
+406716506,EKD11655.1,gas vesicle protein GVPa [Limnospira platensis C1],Limnospira platensis C1,459495,112,insd,2012/09/27,True,False
+406716510,EKD11659.1,hypothetical protein SPLC1_S010560 [Limnospira platensis C1],Limnospira platensis C1,459495,61,insd,2012/09/27,False,True
+407269602,EKF01075.1,gas vesicle protein [Tolypothrix sp. PCC 7601],Tolypothrix sp. PCC 7601,1188,71,insd,2015/03/27,False,True
+407269603,EKF01076.1,gas vesicle protein [Tolypothrix sp. PCC 7601],Tolypothrix sp. PCC 7601,1188,71,insd,2015/03/27,False,True
+407270110,EKF01577.1,gas vesicle protein [Tolypothrix sp. PCC 7601],Tolypothrix sp. PCC 7601,1188,71,insd,2015/03/27,False,True
+410709879,EKQ67390.1,Gas vesicle protein [Leptolyngbyaceae cyanobacterium JSC-12],Leptolyngbyaceae cyanobacterium JSC-12,864702,72,insd,2021/02/18,False,True
+413971509,AFW95598.1,gas vesicle protein GvpA [Anabaena sp. 90],Anabaena sp. 90,46234,71,insd,2014/01/31,True,True
+413971510,AFW95599.1,gas vesicle protein GvpA [Anabaena sp. 90],Anabaena sp. 90,46234,71,insd,2014/01/31,True,True
+413971511,AFW95600.1,gas vesicle protein GvpA [Anabaena sp. 90],Anabaena sp. 90,46234,71,insd,2014/01/31,True,True
+413971512,AFW95601.1,gas vesicle protein GvpA [Anabaena sp. 90],Anabaena sp. 90,46234,71,insd,2014/01/31,True,True
+413971513,AFW95602.1,gas vesicle protein GvpA [Anabaena sp. 90],Anabaena sp. 90,46234,71,insd,2014/01/31,True,True
+413971514,AFW95603.1,gas vesicle protein GvpA [Anabaena sp. 90],Anabaena sp. 90,46234,71,insd,2014/01/31,True,True
+413971515,AFW95604.1,gas vesicle protein GvpA [Anabaena sp. 90],Anabaena sp. 90,46234,71,insd,2014/01/31,True,True
+427984307,AFY65451.1,gas vesicle protein GVPa [Geitlerinema sp. PCC 7407],Geitlerinema sp. PCC 7407,1173025,72,insd,2019/09/11,True,True
+427984310,AFY65454.1,gas vesicle protein GVPa [Geitlerinema sp. PCC 7407],Geitlerinema sp. PCC 7407,1173025,132,insd,2019/09/11,True,False
+427988853,AFY69108.1,gas vesicle protein GVPa [Thalassoporum mexicanum PCC 7367],Thalassoporum mexicanum PCC 7367,82654,114,insd,2013/07/22,True,False
+427988856,AFY69111.1,Gas vesicle structural protein [Thalassoporum mexicanum PCC 7367],Thalassoporum mexicanum PCC 7367,82654,73,insd,2013/07/22,False,True
+427993682,AFY72377.1,Gas vesicle protein [Pseudanabaenococcus habilitatus PCC 7502],Pseudanabaenococcus habilitatus PCC 7502,1173263,72,insd,2013/07/22,False,True
+427999068,AFY79911.1,Gas vesicle protein [Oxynema acuminatum PCC 6304],Oxynema acuminatum PCC 6304,56110,72,insd,2013/07/22,False,True
+428689423,AFZ42717.1,gas vesicle protein GVPa [Halothece sp. PCC 7418],Halothece sp. PCC 7418,65093,128,insd,2019/09/11,True,False
+428689426,AFZ42720.1,gas vesicle protein GVPa [Halothece sp. PCC 7418],Halothece sp. PCC 7418,65093,72,insd,2019/09/11,True,True
+428693923,AFZ50073.1,Gas vesicle protein [Dactylococcopsis salina PCC 8305],Dactylococcopsis salina PCC 8305,13035,72,insd,2013/07/22,False,True
+428693928,AFZ50078.1,Gas vesicle protein [Dactylococcopsis salina PCC 8305],Dactylococcopsis salina PCC 8305,13035,72,insd,2013/07/22,False,True
+440174066,ELP53435.1,gas vesicle structural protein [Microcystis aeruginosa TAIHU98],Microcystis aeruginosa TAIHU98,1134457,71,insd,2013/01/03,False,True
+440174642,ELP54011.1,gas vesicle structural protein [Microcystis aeruginosa TAIHU98],Microcystis aeruginosa TAIHU98,1134457,71,insd,2013/01/03,False,True
+440175500,ELP54869.1,gas vesicle structural protein [Microcystis aeruginosa TAIHU98],Microcystis aeruginosa TAIHU98,1134457,71,insd,2013/01/03,False,True
+443018702,ELS32909.1,gas vesicle protein GVPa [Pseudanabaena biceps PCC 7429],Pseudanabaena biceps PCC 7429,927668,72,insd,2013/01/18,True,True
+443018705,ELS32912.1,gas vesicle protein GVPa [Pseudanabaena biceps PCC 7429],Pseudanabaena biceps PCC 7429,927668,108,insd,2013/01/18,True,False
+443330912,ELS45596.1,gas vesicle structural protein [Microcystis aeruginosa FACHB-905 = DIANCHI905],Microcystis aeruginosa FACHB-905 = DIANCHI905,267865,71,insd,2013/01/22,False,True
+443330913,ELS45597.1,gas vesicle structural protein [Microcystis aeruginosa FACHB-905 = DIANCHI905],Microcystis aeruginosa FACHB-905 = DIANCHI905,267865,71,insd,2013/01/22,False,True
+488823097,WP_002735503.1,MULTISPECIES: gas vesicle structural protein GvpA [Oscillatoriophycideae],Oscillatoriophycideae,1301283,71,refseq,2023/03/20,True,True
+493666253,WP_006616598.1,MULTISPECIES: gas vesicle structural protein GvpA [Bacteria],Bacteria,2,72,refseq,2025/08/09,True,True
+494599342,WP_007357596.1,MULTISPECIES: gas vesicle structural protein GvpA [Oscillatoriales],Oscillatoriales,1150,72,refseq,2025/11/27,True,True
+495586743,WP_008311322.1,gas vesicle structural protein GvpA [Leptolyngbya sp. PCC 6406],Leptolyngbya sp. PCC 6406,1173264,72,refseq,2023/03/20,True,True
+497312763,WP_009626980.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2023/12/16,True,True
+497453993,WP_009768191.1,MULTISPECIES: gas vesicle structural protein GvpA [Leptolyngbyaceae],Leptolyngbyaceae,1890438,72,refseq,2023/03/20,True,True
+499305636,WP_010996411.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostocales],Nostocales,1161,71,refseq,2023/03/20,True,True
+499636242,WP_011316976.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostocaceae],Nostocaceae,1162,71,refseq,2023/05/06,True,True
+499748983,WP_011429717.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2025/12/21,True,True
+499931179,WP_011611913.1,gas vesicle protein GvpJ [Trichodesmium erythraeum],Trichodesmium erythraeum,1206,75,refseq,2026/03/02,False,True
+499931180,WP_011611914.1,gas vesicle protein GvpJ [Trichodesmium erythraeum],Trichodesmium erythraeum,1206,72,refseq,2026/03/09,False,True
+501377198,WP_012408764.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostoc],Nostoc,1177,73,refseq,2023/05/06,True,True
+504893650,WP_015080752.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostocales],Nostocales,1161,71,refseq,2023/03/20,True,True
+504959459,WP_015146561.1,MULTISPECIES: gas vesicle structural protein GvpA [Oscillatoriaceae],Oscillatoriaceae,1892254,72,refseq,2023/03/20,True,True
+504976983,WP_015164085.1,gas vesicle structural protein GvpA [Thalassoporum mexicanum],Thalassoporum mexicanum,3457544,73,refseq,2025/08/21,True,True
+504979934,WP_015167036.1,gas vesicle structural protein GvpA [Pseudanabaenococcus habilitatus],Pseudanabaenococcus habilitatus,3687901,72,refseq,2026/02/27,True,True
+504983916,WP_015171018.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2023/10/06,True,True
+505037496,WP_015224598.1,gas vesicle structural protein GvpA [Halothece sp. PCC 7418],Halothece sp. PCC 7418,65093,72,refseq,2023/03/20,True,True
+505041976,WP_015229078.1,gas vesicle structural protein GvpA [Dactylococcopsis salina],Dactylococcopsis salina,292566,72,refseq,2023/03/20,True,True
+513471164,EPF18918.1,Gas vesicle structural protein [Microcystis aeruginosa SPC777],Microcystis aeruginosa SPC777,482300,71,insd,2013/08/22,False,True
+513471165,EPF18919.1,Gas vesicle structural protein [Microcystis aeruginosa SPC777],Microcystis aeruginosa SPC777,482300,71,insd,2013/08/22,False,True
+513471166,EPF18920.1,Gas vesicle structural protein [Microcystis aeruginosa SPC777],Microcystis aeruginosa SPC777,482300,71,insd,2013/08/22,False,True
+515489323,WP_016922591.1,gas vesicle structural protein GvpA [Prochlorothrix hollandica],Prochlorothrix hollandica,1223,71,refseq,2023/03/20,True,True
+515869481,WP_017300094.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2023/03/20,True,True
+515891966,WP_017322549.1,gas vesicle structural protein GvpA [Chlorogloeopsis sp.],Chlorogloeopsis sp.,28069,73,refseq,2026/09/04,True,False
+516331066,WP_017721725.1,gas vesicle structural protein GvpA [Kamptonema formosum],Kamptonema formosum,331992,72,refseq,2025/09/18,True,True
+516331074,WP_017721733.1,gas vesicle structural protein GvpA [Kamptonema formosum],Kamptonema formosum,331992,72,refseq,2025/09/18,True,True
+516414525,WP_017803923.1,gas vesicle structural protein GvpA [Nodularia spumigena],Nodularia spumigena,70799,71,refseq,2023/03/20,True,True
+516414526,WP_017803924.1,gas vesicle structural protein GvpA [Nodularia spumigena],Nodularia spumigena,70799,71,refseq,2023/03/20,True,True
+518331394,WP_019501601.1,gas vesicle structural protein GvpA [Portococcus stanieri],Portococcus stanieri,3687900,72,refseq,2026/02/26,True,True
+585120930,AHJ27872.1,gas vesicle protein [Nodularia spumigena CCY9414],Nodularia spumigena CCY9414,313624,71,insd,2014/04/03,False,True
+585120931,AHJ27873.1,gas vesicle protein [Nodularia spumigena CCY9414],Nodularia spumigena CCY9414,313624,71,insd,2014/04/03,False,True
+585122932,AHJ29874.1,gas vesicle protein [Nodularia spumigena CCY9414],Nodularia spumigena CCY9414,313624,71,insd,2014/04/03,False,True
+585304848,CDM94358.1,Gas vesicle structural protein A [Limnospira indica PCC 8005],Limnospira indica PCC 8005,376219,72,insd,2023/07/14,True,True
+585304852,CDM94362.1,Gas vesicle structural protein A [Limnospira indica PCC 8005],Limnospira indica PCC 8005,376219,72,insd,2023/07/14,True,True
+647980535,KDR57539.1,gas vesicle synthesis protein GvpA [Limnospira platensis str. Paraca],Limnospira platensis str. Paraca,634502,72,insd,2014/06/06,False,True
+652393343,WP_026789190.1,MULTISPECIES: gas vesicle structural protein GvpA [Planktothrix],Planktothrix,54304,72,refseq,2023/03/20,True,True
+658297848,KEI66243.1,GvpA [Planktothrix agardhii NIVA-CYA 126/8],Planktothrix agardhii NIVA-CYA 126/8,388467,72,insd,2014/06/23,True,True
+691246408,KGF72140.1,gas vesicle synthesis protein GvpA [Neosynechococcus sphagnicola sy1],Neosynechococcus sphagnicola sy1,1497020,72,insd,2014/09/29,False,True
+718248123,GAL94792.1,hypothetical protein N44_03647 [Microcystis aeruginosa NIES-44],Microcystis aeruginosa NIES-44,449439,71,insd,2023/08/04,False,True
+718248125,GAL94794.1,gas vesicle synthesis protein GvpA [Microcystis aeruginosa NIES-44],Microcystis aeruginosa NIES-44,449439,71,insd,2023/08/04,False,True
+728924158,KHG40388.1,gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae 2012/KM1/D3],Aphanizomenon flos-aquae 2012/KM1/D3,1532906,71,insd,2014/12/04,False,True
+728924159,KHG40389.1,gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae 2012/KM1/D3],Aphanizomenon flos-aquae 2012/KM1/D3,1532906,71,insd,2014/12/04,False,True
+728924160,KHG40390.1,gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae 2012/KM1/D3],Aphanizomenon flos-aquae 2012/KM1/D3,1532906,71,insd,2014/12/04,False,True
+738045655,WP_036004549.1,gas vesicle structural protein GvpA [Leptolyngbya sp. NK1-12],Leptolyngbya sp. NK1-12,2547451,72,refseq,2023/10/20,True,True
+738625137,WP_036534731.1,gas vesicle structural protein GvpA [Neosynechococcus sphagnicola],Neosynechococcus sphagnicola,1501145,72,refseq,2023/03/20,True,True
+740241190,WP_038082255.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostocales],Nostocales,1161,72,refseq,2024/12/13,True,True
+748152455,WP_039726782.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2025/03/02,True,True
+748179307,WP_039752851.1,MULTISPECIES: gas vesicle structural protein GvpA [Tolypothrichaceae],Tolypothrichaceae,119859,72,refseq,2023/03/20,True,True
+748750319,WP_040008434.1,"gas vesicle structural protein GvpA, partial [Cylindrospermopsis raciborskii]",Cylindrospermopsis raciborskii,77022,54,refseq,2023/03/20,True,True
+797210304,WP_045871251.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostocales],Nostocales,1161,71,refseq,2023/03/20,True,True
+807216088,KKD38181.1,gas vesicle synthesis protein GvpA [Limnoraphis robusta CS-951],Limnoraphis robusta CS-951,1637645,71,insd,2015/07/17,False,True
+815934758,KKI99300.1,gas vesicle synthesis protein GvpA [Prochlorothrix hollandica PCC 9006 = CALU 1027],Prochlorothrix hollandica PCC 9006 = CALU 1027,317619,71,insd,2016/11/01,False,True
+815965717,AKE64862.1,Gas vesicle structural protein (GVP) [Microcystis aeruginosa NIES-2549],Microcystis aeruginosa NIES-2549,1641812,71,insd,2015/08/31,False,True
+923467562,KOR33831.1,gas vesicle synthesis protein GvpA [Planktothricoides sp. SR001],Planktothricoides sp. SR001,1705388,71,insd,2015/08/31,False,True
+923472140,KOR37871.1,gas vesicle synthesis protein GvpA [Planktothricoides sp. SR001],Planktothricoides sp. SR001,1705388,72,insd,2015/08/31,False,True
+924288629,ALB40393.1,gas vesicle synthesis protein GvpA [Anabaena sp. WA102],Anabaena sp. WA102,1647413,71,insd,2017/03/31,False,True
+924288630,ALB40394.1,gas vesicle synthesis protein GvpA [Anabaena sp. WA102],Anabaena sp. WA102,1647413,71,insd,2017/03/31,False,True
+924288631,ALB40395.1,gas vesicle synthesis protein GvpA [Anabaena sp. WA102],Anabaena sp. WA102,1647413,71,insd,2017/03/31,False,True
+924288632,ALB40396.1,gas vesicle synthesis protein GvpA [Anabaena sp. WA102],Anabaena sp. WA102,1647413,71,insd,2017/03/31,False,True
+924288633,ALB40397.1,gas vesicle synthesis protein GvpA [Anabaena sp. WA102],Anabaena sp. WA102,1647413,71,insd,2017/03/31,False,True
+924288634,ALB40398.1,gas vesicle synthesis protein GvpA [Anabaena sp. WA102],Anabaena sp. WA102,1647413,71,insd,2017/03/31,False,True
+924288635,ALB40399.1,gas vesicle synthesis protein GvpA [Anabaena sp. WA102],Anabaena sp. WA102,1647413,71,insd,2017/03/31,False,True
+932875979,BAS56031.1,Gas vesicle protein [Leptolyngbya boryana IAM M-101],Leptolyngbya boryana IAM M-101,411966,72,insd,2015/11/18,False,True
+932882619,BAS62379.1,Gas vesicle protein [Leptolyngbya boryana dg5],Leptolyngbya boryana dg5,1260963,72,insd,2015/11/18,False,True
+935598281,WP_054464971.1,MULTISPECIES: gas vesicle structural protein GvpA [Planktothricoides],Planktothricoides,132607,72,refseq,2023/12/16,True,True
+935609832,WP_054470142.1,MULTISPECIES: gas vesicle structural protein GvpA [Planktothricoides],Planktothricoides,132607,71,refseq,2024/07/11,True,True
+948281304,KRH95680.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis sp. CR12],Cylindrospermopsis sp. CR12,1747196,71,insd,2015/11/05,False,True
+948281305,KRH95681.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis sp. CR12],Cylindrospermopsis sp. CR12,1747196,71,insd,2015/11/05,False,True
+948281306,KRH95682.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis sp. CR12],Cylindrospermopsis sp. CR12,1747196,71,insd,2015/11/05,False,True
+948281307,KRH95683.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis sp. CR12],Cylindrospermopsis sp. CR12,1747196,71,insd,2015/11/05,False,True
+950122579,WP_057178839.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostocales],Nostocales,1161,71,refseq,2023/03/20,True,True
+950361816,CEJ46246.1,Gas vesicle structural protein (GVP) [Umezakia ovalisporum],Umezakia ovalisporum,75695,71,insd,2015/11/09,False,True
+965634138,BAU13710.1,gas vesicle structural protein [Leptolyngbya sp. NIES-3755],Leptolyngbya sp. NIES-3755,1752064,72,insd,2015/12/09,False,True
+965634141,BAU13713.1,gas vesicle protein GvpA [Leptolyngbya sp. NIES-3755],Leptolyngbya sp. NIES-3755,1752064,110,insd,2015/12/09,True,False
+984537755,BAU42735.1,Gas vesicle structural protein [Leptolyngbya sp. O-77],Leptolyngbya sp. O-77,1080068,72,insd,2016/01/29,False,True
+1002149689,KXS91087.1,gas vesicle synthesis protein GvpA [Microcystis aeruginosa NIES-88],Microcystis aeruginosa NIES-88,449441,71,insd,2016/03/01,False,True
+1002149690,KXS91088.1,gas vesicle synthesis protein GvpA [Microcystis aeruginosa NIES-88],Microcystis aeruginosa NIES-88,449441,71,insd,2016/03/01,False,True
+1015662573,AMW28935.1,gas vesicle synthesis protein GvpA [Limnospira platensis YZ],Limnospira platensis YZ,1738638,72,insd,2018/12/18,False,True
+1020315383,KZL49098.1,gas vesicle synthesis protein GvpA [Nodularia spumigena CENA596],Nodularia spumigena CENA596,1819295,71,insd,2016/04/19,False,True
+1020315384,KZL49099.1,gas vesicle synthesis protein GvpA [Nodularia spumigena CENA596],Nodularia spumigena CENA596,1819295,71,insd,2016/04/19,False,True
+1028120077,WP_063873374.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,71,refseq,2023/03/20,True,True
+1028120078,WP_063873375.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostocales],Nostocales,1161,71,refseq,2023/03/20,True,True
+1039169806,OBQ14911.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. AL93],Anabaena sp. AL93,1678133,71,insd,2016/06/20,False,True
+1039169807,OBQ14912.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. AL93],Anabaena sp. AL93,1678133,71,insd,2016/06/20,False,True
+1039169808,OBQ14913.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. AL93],Anabaena sp. AL93,1678133,71,insd,2016/06/20,False,True
+1039169809,OBQ14914.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. AL93],Anabaena sp. AL93,1678133,60,insd,2016/06/20,False,True
+1039169829,OBQ14924.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. WA113],Anabaena sp. WA113,1710889,71,insd,2016/06/20,False,True
+1039169830,OBQ14925.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. WA113],Anabaena sp. WA113,1710889,60,insd,2016/06/20,False,True
+1039169879,OBQ14951.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. AL93],Anabaena sp. AL93,1678133,71,insd,2016/06/20,False,True
+1039170005,OBQ15027.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. WA113],Anabaena sp. WA113,1710889,71,insd,2016/06/20,False,True
+1039170006,OBQ15028.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. WA113],Anabaena sp. WA113,1710889,71,insd,2016/06/20,False,True
+1039170234,OBQ15186.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae LD13],Aphanizomenon flos-aquae LD13,1710894,71,insd,2016/06/20,False,True
+1039170440,OBQ15340.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. WA113],Anabaena sp. WA113,1710889,71,insd,2016/06/20,False,True
+1039170441,OBQ15341.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. WA113],Anabaena sp. WA113,1710889,71,insd,2016/06/20,False,True
+1039170442,OBQ15342.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. WA113],Anabaena sp. WA113,1710889,71,insd,2016/06/20,False,True
+1039172733,OBQ17371.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. WA113],Anabaena sp. WA113,1710889,71,insd,2016/06/20,False,True
+1039172734,OBQ17372.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. WA113],Anabaena sp. WA113,1710889,71,insd,2016/06/20,False,True
+1039173685,OBQ18273.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. WA113],Anabaena sp. WA113,1710889,71,insd,2016/06/20,False,True
+1039179963,OBQ24396.1,"MAG: gas vesicle synthesis protein GvpA, partial [Aphanizomenon flos-aquae MDT14a]",Aphanizomenon flos-aquae MDT14a,1710895,66,insd,2016/06/20,False,True
+1039180512,OBQ24916.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae MDT14a],Aphanizomenon flos-aquae MDT14a,1710895,71,insd,2016/06/20,False,True
+1039180513,OBQ24917.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae MDT14a],Aphanizomenon flos-aquae MDT14a,1710895,60,insd,2016/06/20,False,True
+1039180767,OBQ25151.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae MDT14a],Aphanizomenon flos-aquae MDT14a,1710895,71,insd,2016/06/20,False,True
+1039180815,OBQ25194.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae MDT14a],Aphanizomenon flos-aquae MDT14a,1710895,71,insd,2016/06/20,False,True
+1039180903,OBQ25276.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae MDT14a],Aphanizomenon flos-aquae MDT14a,1710895,71,insd,2016/06/20,False,True
+1039185415,OBQ29391.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae MDT14a],Aphanizomenon flos-aquae MDT14a,1710895,71,insd,2016/06/20,False,True
+1039185424,OBQ29396.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae MDT14a],Aphanizomenon flos-aquae MDT14a,1710895,71,insd,2016/06/20,False,True
+1039188507,OBQ31885.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae WA102],Aphanizomenon flos-aquae WA102,1710896,71,insd,2016/06/20,False,True
+1039188508,OBQ31886.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae WA102],Aphanizomenon flos-aquae WA102,1710896,60,insd,2016/06/20,False,True
+1039197310,OBQ38399.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae WA102],Aphanizomenon flos-aquae WA102,1710896,71,insd,2016/06/20,False,True
+1039197311,OBQ38400.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae WA102],Aphanizomenon flos-aquae WA102,1710896,71,insd,2016/06/20,False,True
+1039199448,OBQ40380.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. CRKS33],Anabaena sp. CRKS33,1710888,71,insd,2016/06/20,False,True
+1039200439,OBQ41312.1,MAG: gas vesicle synthesis protein GvpA [Anabaena sp. MDT14b],Anabaena sp. MDT14b,1710886,56,insd,2016/06/20,False,True
+1039202286,OBQ43054.1,"MAG: gas vesicle synthesis protein GvpA, partial [Aphanizomenon flos-aquae WA102]",Aphanizomenon flos-aquae WA102,1710896,66,insd,2016/06/20,False,True
+1039202287,OBQ43055.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae WA102],Aphanizomenon flos-aquae WA102,1710896,71,insd,2016/06/20,False,True
+1039202288,OBQ43056.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae WA102],Aphanizomenon flos-aquae WA102,1710896,71,insd,2016/06/20,False,True
+1039202289,OBQ43057.1,MAG: gas vesicle synthesis protein GvpA [Aphanizomenon flos-aquae WA102],Aphanizomenon flos-aquae WA102,1710896,71,insd,2016/06/20,False,True
+1040645164,OBU77499.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii CS-505],Cylindrospermopsis raciborskii CS-505,533240,71,insd,2016/06/24,False,True
+1040645165,OBU77500.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii CS-505],Cylindrospermopsis raciborskii CS-505,533240,71,insd,2016/06/24,False,True
+1040645166,OBU77501.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii CS-505],Cylindrospermopsis raciborskii CS-505,533240,71,insd,2016/06/24,False,True
+1049319744,OCQ97936.1,gas vesicle synthesis protein GvpA [Oscillatoriales cyanobacterium USR001],Oscillatoriales cyanobacterium USR001,1880991,72,insd,2016/08/03,False,True
+1052160791,AOC53259.1,hypothetical protein amyaer_2548 [Microcystis aeruginosa NIES-2481],Microcystis aeruginosa NIES-2481,1698524,60,insd,2016/08/15,False,True
+1052160792,AOC53260.1,Gas vesicle structural protein [Microcystis aeruginosa NIES-2481],Microcystis aeruginosa NIES-2481,1698524,60,insd,2016/08/15,False,True
+1053312896,OCY15548.1,MAG: gas vesicle synthesis protein GvpA [Microcystis aeruginosa CACIAM 03],Microcystis aeruginosa CACIAM 03,1885576,71,insd,2016/08/17,False,True
+1053312897,OCY15549.1,MAG: gas vesicle synthesis protein GvpA [Microcystis aeruginosa CACIAM 03],Microcystis aeruginosa CACIAM 03,1885576,71,insd,2016/08/17,False,True
+1057115164,WP_068510916.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2023/10/06,True,True
+1059446011,ODH03157.1,gas vesicle synthesis protein GvpA [Nostoc sp. KVJ20],Nostoc sp. KVJ20,457944,73,insd,2016/08/25,False,True
+1064239636,ODV36874.1,hypothetical protein BFG60_3721 [Microcystis aeruginosa NIES-98],Microcystis aeruginosa NIES-98,267869,71,insd,2016/09/14,False,True
+1064239637,ODV36875.1,gas vesicle synthesis protein GvpA [Microcystis aeruginosa NIES-98],Microcystis aeruginosa NIES-98,267869,71,insd,2016/09/14,False,True
+1065017409,WP_069474504.1,"gas vesicle structural protein GvpA, partial [Microcystis aeruginosa]",Microcystis aeruginosa,1126,70,refseq,2023/03/20,True,True
+1072775698,WP_069965561.1,MULTISPECIES: gas vesicle structural protein GvpA [Desertifilum],Desertifilum,1185872,75,refseq,2025/08/16,True,True
+1095469123,OHY32179.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii MVCC14],Cylindrospermopsis raciborskii MVCC14,940191,71,insd,2016/11/01,False,True
+1095469124,OHY32180.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii MVCC14],Cylindrospermopsis raciborskii MVCC14,940191,71,insd,2016/11/01,False,True
+1095469125,OHY32181.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii MVCC14],Cylindrospermopsis raciborskii MVCC14,940191,71,insd,2016/11/01,False,True
+1095472780,OHY35691.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii CS-508],Cylindrospermopsis raciborskii CS-508,533243,71,insd,2016/11/01,False,True
+1101219143,OIP67793.1,MAG: gas vesicle synthesis protein GvpA [Oscillatoriales cyanobacterium CG2_30_40_61],Oscillatoriales cyanobacterium CG2_30_40_61,1805291,72,insd,2016/11/09,False,True
+1101231227,OIP78823.1,MAG: gas vesicle synthesis protein GvpA [Oscillatoriales cyanobacterium CG2_30_44_21],Oscillatoriales cyanobacterium CG2_30_44_21,1805292,72,insd,2016/11/09,False,True
+1108371933,CUM61313.1,Gas vesicle structural protein A [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+1108770361,CUR34535.1,Gas vesicle structural protein A [Planktothrix tepida PCC 9214],Planktothrix tepida PCC 9214,671072,71,insd,2016/11/28,True,True
+1108772922,CUR30766.1,Gas vesicle structural protein A [Planktothrix tepida PCC 9214],Planktothrix tepida PCC 9214,671072,72,insd,2016/11/28,True,True
+1111738751,OJJ25181.1,gas vesicle synthesis protein GvpA [Roseofilum reptotaenium AO1-A],Roseofilum reptotaenium AO1-A,1925591,72,insd,2016/12/07,False,True
+1115273581,OKH36948.1,gas vesicle synthesis protein GvpA [Nostoc calcicola FACHB-389],Nostoc calcicola FACHB-389,1357508,73,insd,2016/12/14,False,True
+1115284617,OKH47756.1,gas vesicle synthesis protein GvpA [Phormidium tenue NIES-30],Phormidium tenue NIES-30,549789,72,insd,2016/12/14,False,True
+1119825227,WP_072717742.1,MULTISPECIES: gas vesicle structural protein GvpA [Planktothrix],Planktothrix,54304,72,refseq,2023/03/20,True,True
+1121296891,WP_073608715.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2023/03/20,True,True
+1121332906,WP_073640805.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,73,refseq,2026/06/02,True,True
+1129072016,OLP18007.1,gas vesicle synthesis protein GvpA [Leptolyngbya sp. 'hensonii'],Leptolyngbya sp. 'hensonii',1922337,72,insd,2017/01/06,False,True
+1130430224,WP_075598971.1,gas vesicle structural protein GvpA [Leptolyngbya sp. 'hensonii'],Leptolyngbya sp. 'hensonii',1922337,72,refseq,2023/03/20,True,True
+1152216003,SKB14388.1,Gas vesicle structural protein A [Planktothrix sp. PCC 11201],Planktothrix sp. PCC 11201,1729650,72,insd,2017/03/04,True,True
+1158732350,OPF18085.1,gas vesicle structural protein [Microcystis aeruginosa KW],Microcystis aeruginosa KW,1960155,71,insd,2017/03/13,False,True
+1158732351,OPF18086.1,gas vesicle structural protein [Microcystis aeruginosa KW],Microcystis aeruginosa KW,1960155,71,insd,2017/03/13,False,True
+1159210309,OPH08566.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii CENA302],Cylindrospermopsis raciborskii CENA302,1170768,71,insd,2017/03/14,False,True
+1159210310,OPH08567.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii CENA302],Cylindrospermopsis raciborskii CENA302,1170768,71,insd,2017/03/14,False,True
+1159210311,OPH08568.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii CENA302],Cylindrospermopsis raciborskii CENA302,1170768,71,insd,2017/03/14,False,True
+1180100503,WP_083620231.1,gas vesicle structural protein GvpA [Planktothrix serta],Planktothrix serta,1678310,72,refseq,2023/03/20,True,True
+1181757958,ARI81312.1,GvpA1 [Microcystis aeruginosa PCC 7806SL],Microcystis aeruginosa PCC 7806SL,1903187,71,insd,2018/06/13,False,True
+1181757959,ARI81313.1,GvpA2 [Microcystis aeruginosa PCC 7806SL],Microcystis aeruginosa PCC 7806SL,1903187,71,insd,2018/06/13,False,True
+1181757961,ARI81315.1,GvpA3 [Microcystis aeruginosa PCC 7806SL],Microcystis aeruginosa PCC 7806SL,1903187,71,insd,2018/06/13,False,True
+1183779258,WP_084989880.1,gas vesicle structural protein GvpA [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,refseq,2023/03/20,True,True
+1187445021,OSO88134.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii CENA303],Cylindrospermopsis raciborskii CENA303,1170769,71,insd,2017/04/28,False,True
+1187445022,OSO88135.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii CENA303],Cylindrospermopsis raciborskii CENA303,1170769,71,insd,2017/04/28,False,True
+1187445023,OSO88136.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii CENA303],Cylindrospermopsis raciborskii CENA303,1170769,71,insd,2017/04/28,False,True
+1194461545,OUC15086.1,MAG: gas vesicle synthesis protein GvpA [Alkalinema sp. CACIAM 70d],Alkalinema sp. CACIAM 70d,1934309,72,insd,2017/05/18,False,True
+1195999434,OUL21771.1,gas vesicle synthesis protein GvpA [Nostoc sp. T09],Nostoc sp. T09,1932621,73,insd,2017/05/22,False,True
+1196009860,OUL31908.1,gas vesicle synthesis protein GvpA [Nostoc sp. RF31YmG],Nostoc sp. RF31YmG,1932668,73,insd,2017/05/22,False,True
+1196014374,OUL36268.1,gas vesicle synthesis protein GvpA [Nostoc sp. 106C],Nostoc sp. 106C,1932667,73,insd,2017/05/22,False,True
+1197820018,WP_086756007.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostocales],Nostocales,1161,73,refseq,2024/04/07,True,True
+1209853600,GAX41487.1,gas vesicle protein GvpA [Tolypothrix sp. NIES-4075],Tolypothrix sp. NIES-4075,2005459,72,insd,2023/08/08,True,True
+1210091077,BAY10213.1,gas vesicle protein GvpA [Calothrix sp. NIES-2098],Calothrix sp. NIES-2098,1954171,73,insd,2022/12/15,True,True
+1210096003,BAY15137.1,gas vesicle protein GvpA [Anabaenopsis circularis NIES-21],Anabaenopsis circularis NIES-21,1085406,73,insd,2022/12/15,True,True
+1210108544,BAY27674.1,gas vesicle protein GvpA [Calothrix sp. NIES-2100],Calothrix sp. NIES-2100,1954172,72,insd,2022/12/15,True,True
+1210108656,BAY27786.1,gas vesicle synthesis protein GvpA [Calothrix sp. NIES-2100],Calothrix sp. NIES-2100,1954172,71,insd,2022/12/15,False,True
+1210108657,BAY27787.1,gas vesicle synthesis protein GvpA [Calothrix sp. NIES-2100],Calothrix sp. NIES-2100,1954172,107,insd,2022/12/15,False,True
+1210110091,BAY29219.1,gas vesicle synthesis protein GvpA [Nostoc carneum NIES-2107],Nostoc carneum NIES-2107,1973483,71,insd,2022/12/15,False,True
+1210110092,BAY29220.1,gas vesicle synthesis protein GvpA [Nostoc carneum NIES-2107],Nostoc carneum NIES-2107,1973483,71,insd,2022/12/15,False,True
+1210112476,BAY31604.1,gas vesicle synthesis protein GvpA [Nostoc carneum NIES-2107],Nostoc carneum NIES-2107,1973483,71,insd,2022/12/15,False,True
+1210125607,BAY44721.1,gas vesicle protein GvpA [Scytonema sp. HK-05],Scytonema sp. HK-05,1137095,145,insd,2022/12/15,True,True
+1210138694,BAY57799.1,gas vesicle structural protein [Leptolyngbya boryana NIES-2135],Leptolyngbya boryana NIES-2135,1973484,72,insd,2022/12/15,False,True
+1210138697,BAY57802.1,gas vesicle protein GvpA [Leptolyngbya boryana NIES-2135],Leptolyngbya boryana NIES-2135,1973484,131,insd,2022/12/15,True,False
+1210140996,BAY60097.1,gas vesicle synthesis protein GvpA [Calothrix brevissima NIES-22],Calothrix brevissima NIES-22,1973478,71,insd,2022/12/15,False,True
+1210145780,BAY64881.1,gas vesicle synthesis protein GvpA [Calothrix brevissima NIES-22],Calothrix brevissima NIES-22,1973478,71,insd,2022/12/15,False,True
+1210145781,BAY64882.1,gas vesicle synthesis protein GvpA [Calothrix brevissima NIES-22],Calothrix brevissima NIES-22,1973478,71,insd,2022/12/15,False,True
+1210148786,BAY67878.1,gas vesicle synthesis protein GvpA [Trichormus variabilis NIES-23],Trichormus variabilis NIES-23,1973479,71,insd,2022/12/15,False,True
+1210148787,BAY67879.1,gas vesicle synthesis protein GvpA [Trichormus variabilis NIES-23],Trichormus variabilis NIES-23,1973479,71,insd,2022/12/15,False,True
+1210159724,BAY78810.1,gas vesicle protein GvpA [Nostoc linckia NIES-25],Nostoc linckia NIES-25,1091006,73,insd,2022/12/15,True,True
+1210169633,BAY88708.1,gas vesicle synthesis protein GvpA [Microchaete diplosiphon NIES-3275],Microchaete diplosiphon NIES-3275,1973485,71,insd,2022/12/15,False,True
+1210171424,BAY90499.1,gas vesicle synthesis protein GvpA [Microchaete diplosiphon NIES-3275],Microchaete diplosiphon NIES-3275,1973485,71,insd,2022/12/15,False,True
+1210171425,BAY90500.1,gas vesicle synthesis protein GvpA [Microchaete diplosiphon NIES-3275],Microchaete diplosiphon NIES-3275,1973485,71,insd,2022/12/15,False,True
+1210179729,BAY98789.1,gas vesicle synthesis protein GvpA [Tolypothrix tenuis PCC 7101],Tolypothrix tenuis PCC 7101,231146,71,insd,2022/12/15,False,True
+1210181654,BAZ00715.1,gas vesicle synthesis protein GvpA [Tolypothrix tenuis PCC 7101],Tolypothrix tenuis PCC 7101,231146,71,insd,2022/12/15,False,True
+1210181655,BAZ00716.1,gas vesicle synthesis protein GvpA [Tolypothrix tenuis PCC 7101],Tolypothrix tenuis PCC 7101,231146,71,insd,2022/12/15,False,True
+1210207374,BAZ26415.1,gas vesicle protein GvpA [Kalymmatonema gypsitolerans NIES-4073],Kalymmatonema gypsitolerans NIES-4073,2005464,157,insd,2022/12/15,False,True
+1210256359,BAZ75361.1,gas vesicle synthesis protein GvpA [Aulosira laxa NIES-50],Aulosira laxa NIES-50,1541988,71,insd,2022/12/15,False,True
+1210256360,BAZ75362.1,gas vesicle synthesis protein GvpA [Aulosira laxa NIES-50],Aulosira laxa NIES-50,1541988,71,insd,2022/12/15,False,True
+1210258291,BAZ77293.1,gas vesicle synthesis protein GvpA [Aulosira laxa NIES-50],Aulosira laxa NIES-50,1541988,71,insd,2022/12/15,False,True
+1210261131,BAZ80126.1,gas vesicle synthesis protein GvpA [Sphaerospermopsis kisseleviana NIES-73],Sphaerospermopsis kisseleviana NIES-73,1973480,71,insd,2022/12/15,False,True
+1210261132,BAZ80127.1,gas vesicle synthesis protein GvpA [Sphaerospermopsis kisseleviana NIES-73],Sphaerospermopsis kisseleviana NIES-73,1973480,71,insd,2022/12/15,False,True
+1210269610,BAZ88602.1,gas vesicle synthesis protein GvpA [Raphidiopsis curvata NIES-932],Raphidiopsis curvata NIES-932,1973482,71,insd,2022/12/15,False,True
+1210269611,BAZ88603.1,gas vesicle synthesis protein GvpA [Raphidiopsis curvata NIES-932],Raphidiopsis curvata NIES-932,1973482,71,insd,2022/12/15,False,True
+1210269612,BAZ88604.1,gas vesicle synthesis protein GvpA [Raphidiopsis curvata NIES-932],Raphidiopsis curvata NIES-932,1973482,71,insd,2022/12/15,False,True
+1214782229,WP_088893383.1,gas vesicle structural protein GvpA [Leptolyngbya ohadii],Leptolyngbya ohadii,1962290,72,refseq,2023/03/20,True,True
+1229821676,OYD90382.1,gas vesicle structural protein [Nostoc sp. 'Peltigera membranacea cyanobiont' 210A],Nostoc sp. 'Peltigera membranacea cyanobiont' 210A,2014529,73,insd,2017/08/11,False,True
+1229832596,OYE00985.1,gas vesicle structural protein [Nostoc sp. 'Peltigera membranacea cyanobiont' 232],Nostoc sp. 'Peltigera membranacea cyanobiont' 232,2014531,73,insd,2017/08/11,False,True
+1231301060,OYQ66477.1,gas vesicle structural protein [Pseudanabaena sp. SR411],Pseudanabaena sp. SR411,1980935,72,insd,2017/08/15,False,True
+1248104364,WP_096607388.1,gas vesicle structural protein GvpA [Calothrix sp. NIES-2100],Calothrix sp. NIES-2100,1954172,72,refseq,2023/03/20,True,True
+1268460699,PHJ62919.1,gas vesicle synthesis protein GvpA [Nostoc linckia z1],Nostoc linckia z1,1612423,73,insd,2017/10/20,False,True
+1268464633,PHJ66798.1,gas vesicle synthesis protein GvpA [Nostoc linckia z3],Nostoc linckia z3,1628742,73,insd,2017/10/20,False,True
+1268468090,PHJ70212.1,gas vesicle synthesis protein GvpA [Nostoc linckia z2],Nostoc linckia z2,1628741,73,insd,2017/10/20,False,True
+1268477559,PHJ79475.1,gas vesicle synthesis protein GvpA [Nostoc linckia z4],Nostoc linckia z4,1628743,73,insd,2017/10/20,False,True
+1268482504,PHJ84277.1,gas vesicle synthesis protein GvpA [Nostoc linckia z6],Nostoc linckia z6,1628744,73,insd,2017/10/20,False,True
+1268495354,PHJ96646.1,gas vesicle synthesis protein GvpA [Nostoc linckia z7],Nostoc linckia z7,1628745,73,insd,2017/10/20,False,True
+1268503060,PHK03945.1,gas vesicle synthesis protein GvpA [Nostoc linckia z8],Nostoc linckia z8,1628746,73,insd,2017/10/20,False,True
+1268508358,PHK08851.1,gas vesicle synthesis protein GvpA [Nostoc linckia z9],Nostoc linckia z9,1628747,73,insd,2017/10/20,False,True
+1268521441,PHK20753.1,gas vesicle synthesis protein GvpA [Nostoc linckia z14],Nostoc linckia z14,1628749,73,insd,2017/10/20,False,True
+1268526937,PHK25831.1,gas vesicle synthesis protein GvpA [Nostoc linckia z13],Nostoc linckia z13,1628748,73,insd,2017/10/20,False,True
+1268536872,PHK34521.1,gas vesicle synthesis protein GvpA [Nostoc linckia z18],Nostoc linckia z18,1628752,73,insd,2017/10/20,False,True
+1268543751,PHK40953.1,gas vesicle synthesis protein GvpA [Nostoc linckia z15],Nostoc linckia z15,1628750,73,insd,2017/10/20,False,True
+1268549373,PHK46177.1,gas vesicle synthesis protein GvpA [Nostoc linckia z16],Nostoc linckia z16,1628751,73,insd,2017/10/20,False,True
+1268856961,WP_099068598.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostocaceae],Nostocaceae,1162,73,refseq,2023/03/20,True,True
+1269012659,PHM11774.1,gas vesicle structural protein [Nostoc sp. 'Peltigera malacea cyanobiont' DB3992],Nostoc sp. 'Peltigera malacea cyanobiont' DB3992,1206980,73,insd,2017/10/23,False,True
+1275120412,PIK85583.1,gas vesicle protein GvpA [Synechococcus sp. 63AY4M2],Synechococcus sp. 63AY4M2,1353266,72,insd,2017/11/07,True,True
+1275123678,PIK88847.1,gas vesicle protein GvpA [Synechococcus sp. 65AY6A5],Synechococcus sp. 65AY6A5,1353265,72,insd,2017/11/07,True,True
+1275125744,PIK90903.1,gas vesicle protein GvpA [Synechococcus sp. 65AY6Li],Synechococcus sp. 65AY6Li,1351840,72,insd,2017/11/07,True,True
+1275129503,PIK94647.1,gas vesicle protein GvpA [Synechococcus sp. 60AY4M2],Synechococcus sp. 60AY4M2,1353262,72,insd,2017/11/07,True,True
+1275131762,PIK96904.1,gas vesicle protein GvpA [Synechococcus sp. 63AY4M1],Synechococcus sp. 63AY4M1,1353263,72,insd,2017/11/07,True,True
+1275134272,PIK99403.1,gas vesicle protein GvpA [Synechococcus sp. 65AY640],Synechococcus sp. 65AY640,1353264,72,insd,2017/11/07,True,True
+1315913269,GBD53388.1,gas vesicle protein GvpAI [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,71,insd,2023/08/10,False,True
+1315913270,GBD53389.1,gas vesicle protein GvpAI [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,71,insd,2023/08/10,False,True
+1315913271,GBD53390.1,gas vesicle protein GvpAI [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,80,insd,2023/08/10,False,True
+1317046212,GBE91528.1,gas vesicle protein GvpA [Nostoc cycadae WK-1],Nostoc cycadae WK-1,1861711,73,insd,2023/08/08,True,True
+1320985591,BBC25044.1,gas vesicle protein [Pseudanabaena sp. ABRG5-3],Pseudanabaena sp. ABRG5-3,685565,72,insd,2020/02/14,True,True
+1323301002,GBE96128.1,gas vesicle structural protein [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,71,insd,2023/08/09,False,True
+1323301003,GBE96129.1,gas vesicle structural protein [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,71,insd,2023/08/09,False,True
+1331946810,PNJ91206.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii C04],Cylindrospermopsis raciborskii C04,2014885,71,insd,2018/01/19,False,True
+1331946811,PNJ91207.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii C04],Cylindrospermopsis raciborskii C04,2014885,71,insd,2018/01/19,False,True
+1331946812,PNJ91208.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii C04],Cylindrospermopsis raciborskii C04,2014885,71,insd,2018/01/19,False,True
+1331952266,PNJ95662.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii C03],Cylindrospermopsis raciborskii C03,2014884,71,insd,2018/01/19,False,True
+1331952267,PNJ95663.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii C03],Cylindrospermopsis raciborskii C03,2014884,71,insd,2018/01/19,False,True
+1331956359,PNJ99601.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii C07],Cylindrospermopsis raciborskii C07,2014886,71,insd,2018/01/19,False,True
+1331956360,PNJ99602.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii C07],Cylindrospermopsis raciborskii C07,2014886,71,insd,2018/01/19,False,True
+1331956361,PNJ99603.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii C07],Cylindrospermopsis raciborskii C07,2014886,71,insd,2018/01/19,False,True
+1331959529,PNK02368.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S10],Cylindrospermopsis raciborskii S10,2014882,71,insd,2018/01/19,False,True
+1331959530,PNK02369.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S10],Cylindrospermopsis raciborskii S10,2014882,71,insd,2018/01/19,False,True
+1331959531,PNK02370.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S10],Cylindrospermopsis raciborskii S10,2014882,71,insd,2018/01/19,False,True
+1331959559,PNK02393.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S14],Cylindrospermopsis raciborskii S14,2014883,71,insd,2018/01/19,False,True
+1331960632,PNK03227.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S07],Cylindrospermopsis raciborskii S07,2014881,71,insd,2018/01/19,False,True
+1331961256,PNK03725.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S10],Cylindrospermopsis raciborskii S10,2014882,71,insd,2018/01/19,False,True
+1331965582,PNK07333.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S14],Cylindrospermopsis raciborskii S14,2014883,71,insd,2018/01/19,False,True
+1331967642,PNK09274.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S07],Cylindrospermopsis raciborskii S07,2014881,71,insd,2018/01/19,False,True
+1331969240,PNK10769.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S07],Cylindrospermopsis raciborskii S07,2014881,71,insd,2018/01/19,False,True
+1331970272,PNK11701.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S14],Cylindrospermopsis raciborskii S14,2014883,71,insd,2018/01/19,False,True
+1331971127,PNK12479.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S05],Cylindrospermopsis raciborskii S05,2014879,71,insd,2018/01/19,False,True
+1331973761,PNK14725.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S01],Cylindrospermopsis raciborskii S01,2014878,71,insd,2018/01/19,False,True
+1331973762,PNK14726.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S01],Cylindrospermopsis raciborskii S01,2014878,71,insd,2018/01/19,False,True
+1331973763,PNK14727.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S01],Cylindrospermopsis raciborskii S01,2014878,71,insd,2018/01/19,False,True
+1331973764,PNK14728.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S01],Cylindrospermopsis raciborskii S01,2014878,71,insd,2018/01/19,False,True
+1331973765,PNK14729.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S01],Cylindrospermopsis raciborskii S01,2014878,71,insd,2018/01/19,False,True
+1331976079,PNK16761.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S06],Cylindrospermopsis raciborskii S06,2014880,71,insd,2018/01/19,False,True
+1331976080,PNK16762.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S06],Cylindrospermopsis raciborskii S06,2014880,71,insd,2018/01/19,False,True
+1331976081,PNK16763.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S06],Cylindrospermopsis raciborskii S06,2014880,71,insd,2018/01/19,False,True
+1331979810,PNK20182.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S05],Cylindrospermopsis raciborskii S05,2014879,71,insd,2018/01/19,False,True
+1331980468,PNK20797.1,gas vesicle synthesis protein GvpA [Cylindrospermopsis raciborskii S05],Cylindrospermopsis raciborskii S05,2014879,71,insd,2018/01/19,False,True
+1334418718,AUS99995.1,gas vesicle structural protein [Nostoc sp. CENA543],Nostoc sp. CENA543,1869241,71,insd,2018/01/24,False,True
+1334418719,AUS99996.1,gas vesicle structural protein [Nostoc sp. CENA543],Nostoc sp. CENA543,1869241,71,insd,2018/01/24,False,True
+1334418720,AUS99997.1,gas vesicle structural protein [Nostoc sp. CENA543],Nostoc sp. CENA543,1869241,71,insd,2018/01/24,False,True
+1334785347,PNW37075.1,gas vesicle synthesis protein GvpA [Euhalothece sp. KZN 001],Euhalothece sp. KZN 001,1884791,72,insd,2022/02/03,False,True
+1334788794,PNW40343.1,gas vesicle synthesis protein GvpA [Euhalothece sp. KZN 001],Euhalothece sp. KZN 001,1884791,71,insd,2022/02/03,False,True
+1334859731,GBE73171.1,gas vesicle protein GvpAI [Microcystis aeruginosa NIES-87],Microcystis aeruginosa NIES-87,449440,71,insd,2023/08/10,False,True
+1334859733,GBE73173.1,gas vesicle protein GvpAI [Microcystis aeruginosa NIES-87],Microcystis aeruginosa NIES-87,449440,71,insd,2023/08/10,False,True
+1339872014,WP_103666325.1,gas vesicle structural protein GvpA [Pseudanabaena sp. BC1403],Pseudanabaena sp. BC1403,2043171,74,refseq,2023/03/20,True,True
+1345630764,GBF54845.1,hypothetical protein N0824_02713 [Microcystis sp. 0824],Microcystis sp. 0824,1502726,71,insd,2023/08/08,False,True
+1345630765,GBF54846.1,gas vesicle synthesis protein GvpA [Microcystis sp. 0824],Microcystis sp. 0824,1502726,71,insd,2023/08/08,False,True
+1349671533,AVH69631.1,gas vesicle protein GvpA [Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont'],Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont',1618022,73,insd,2018/02/26,True,True
+1360394084,PSB17234.1,gas vesicle synthesis protein GvpA [filamentous cyanobacterium CCP2],filamentous cyanobacterium CCP2,2107700,72,insd,2018/03/15,False,True
+1360404449,PSB27160.1,gas vesicle synthesis protein GvpA [Stenomitos frigidus ULC18],Stenomitos frigidus ULC18,2107698,72,insd,2018/03/15,False,True
+1360448390,PSB67313.1,gas vesicle synthesis protein GvpA [filamentous cyanobacterium CCP1],filamentous cyanobacterium CCP1,2107703,72,insd,2018/03/15,False,True
+1361049983,WP_106257461.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2023/03/20,True,True
+1370492837,PSN09156.1,gas vesicle synthesis protein GvpA [filamentous cyanobacterium CCT1],filamentous cyanobacterium CCT1,2107702,72,insd,2018/03/26,False,True
+1370505578,PSN19998.1,gas vesicle synthesis protein GvpA [filamentous cyanobacterium CCP5],filamentous cyanobacterium CCP5,2107701,72,insd,2018/03/26,False,True
+1370668258,PSN75992.1,gas vesicle synthesis protein GvpA [filamentous cyanobacterium CCP4],filamentous cyanobacterium CCP4,2107699,72,insd,2018/03/26,False,True
+1370747416,AVQ71556.1,gas vesicle structural protein [Microcystis sp. MC19],Microcystis sp. MC19,1967666,71,insd,2018/03/27,False,True
+1370747417,AVQ71557.1,gas vesicle structural protein [Microcystis sp. MC19],Microcystis sp. MC19,1967666,71,insd,2018/03/27,False,True
+1371399191,PSR17543.1,gas vesicle synthesis protein GvpA [filamentous cyanobacterium CCP3],filamentous cyanobacterium CCP3,2107704,72,insd,2018/03/27,False,True
+1373817863,BBD55192.1,gas vesicle protein GvpA [Planktothrix agardhii NIES-204],Planktothrix agardhii NIES-204,282423,72,insd,2018/04/03,True,True
+1373817864,BBD55193.1,gas vesicle protein GvpA [Planktothrix agardhii NIES-204],Planktothrix agardhii NIES-204,282423,72,insd,2018/04/03,True,True
+1373817868,BBD55197.1,gas vesicle protein GvpA [Planktothrix agardhii NIES-204],Planktothrix agardhii NIES-204,282423,72,insd,2018/04/03,True,True
+1373817869,BBD55198.1,gas vesicle protein GvpA [Planktothrix agardhii NIES-204],Planktothrix agardhii NIES-204,282423,72,insd,2018/04/03,True,True
+1373817871,BBD55200.1,gas vesicle protein GvpA [Planktothrix agardhii NIES-204],Planktothrix agardhii NIES-204,282423,72,insd,2018/04/03,True,True
+1373817873,BBD55202.1,gas vesicle protein GvpA [Planktothrix agardhii NIES-204],Planktothrix agardhii NIES-204,282423,72,insd,2018/04/03,True,True
+1373823458,BBD60782.1,gas vesicle protein GvpA [Nostoc sp. HK-01],Nostoc sp. HK-01,196308,73,insd,2018/04/03,True,True
+1378022005,AVZ29869.1,Gas vesicle structural protein [Nodularia spumigena UHCC 0039],Nodularia spumigena UHCC 0039,1914872,139,insd,2018/04/17,True,False
+1378022008,AVZ29872.1,Gas vesicle structural protein [Nodularia spumigena UHCC 0039],Nodularia spumigena UHCC 0039,1914872,71,insd,2018/04/17,False,True
+1378022009,AVZ29873.1,Gas vesicle structural protein [Nodularia spumigena UHCC 0039],Nodularia spumigena UHCC 0039,1914872,71,insd,2018/04/17,False,True
+1381925541,WP_107805940.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,71,refseq,2023/03/20,True,True
+1398325233,GBL09590.1,gas vesicle structural protein [Microcystis aeruginosa Sj],Microcystis aeruginosa Sj,1979544,71,insd,2023/08/08,False,True
+1398325234,GBL09591.1,gas vesicle structural protein [Microcystis aeruginosa Sj],Microcystis aeruginosa Sj,1979544,71,insd,2023/08/08,False,True
+1398325236,GBL09593.1,gas vesicle structural protein [Microcystis aeruginosa Sj],Microcystis aeruginosa Sj,1979544,71,insd,2023/08/08,False,True
+1398329145,GBL14559.1,gas vesicle structural protein [Microcystis aeruginosa NIES-1211],Microcystis aeruginosa NIES-1211,449534,71,insd,2023/08/09,False,True
+1398329146,GBL14560.1,gas vesicle structural protein [Microcystis aeruginosa NIES-1211],Microcystis aeruginosa NIES-1211,449534,71,insd,2023/08/09,False,True
+1404800877,PZO42872.1,MAG: gas vesicle synthesis protein GvpA [Shackletoniella antarctica],Shackletoniella antarctica,268115,72,insd,2018/06/18,False,True
+1404803063,PZO44974.1,MAG: gas vesicle structural protein [Pseudanabaena frigida],Pseudanabaena frigida,945775,72,insd,2018/06/18,False,True
+1405363496,AWV56738.1,"gas vesicle structural protein, partial [Limnospira fusiformis AB2002/02]",Limnospira fusiformis AB2002/02,284933,72,insd,2018/12/30,False,True
+1405363498,AWV56739.1,"gas vesicle structural protein, partial [Limnospira fusiformis AB2002/04]",Limnospira fusiformis AB2002/04,284935,72,insd,2018/12/30,False,True
+1405363500,AWV56740.1,"gas vesicle structural protein, partial [Arthrospira sp. D0920]",Arthrospira sp. D0920,2231208,72,insd,2018/12/30,False,True
+1405363502,AWV56741.1,"gas vesicle structural protein, partial [Arthrospira sp. SP-10]",Arthrospira sp. SP-10,147314,72,insd,2018/12/30,False,True
+1405363504,AWV56742.1,"gas vesicle structural protein, partial [Arthrospira sp. Moz 1]",Arthrospira sp. Moz 1,2479802,72,insd,2018/12/30,False,True
+1405363506,AWV56743.1,"gas vesicle structural protein, partial [Limnospira platensis SAG 21.99]",Limnospira platensis SAG 21.99,1236698,72,insd,2018/12/30,False,True
+1405363508,AWV56744.1,"gas vesicle structural protein, partial [Arthrospira sp. Yekha]",Arthrospira sp. Yekha,2231220,72,insd,2018/12/30,False,True
+1405363510,AWV56745.1,"gas vesicle structural protein, partial [Arthrospira sp. Twintaung]",Arthrospira sp. Twintaung,2231219,72,insd,2018/12/30,False,True
+1405363512,AWV56746.1,"gas vesicle structural protein, partial [Arthrospira sp. Titi]",Arthrospira sp. Titi,129969,72,insd,2018/12/30,False,True
+1405363514,AWV56747.1,"gas vesicle structural protein, partial [Arthrospira sp. Burma]",Arthrospira sp. Burma,2231206,72,insd,2018/12/30,False,True
+1405363516,AWV56748.1,"gas vesicle structural protein, partial [Arthrospira sp. LV]",Arthrospira sp. LV,2231211,72,insd,2018/12/30,False,True
+1405363518,AWV56749.1,"gas vesicle structural protein, partial [Arthrospira sp. CH1]",Arthrospira sp. CH1,2231207,72,insd,2018/12/30,False,True
+1405363520,AWV56750.1,"gas vesicle structural protein, partial [Arthrospira sp. Mad]",Arthrospira sp. Mad,129977,72,insd,2018/12/30,False,True
+1405363522,AWV56751.1,"gas vesicle structural protein, partial [Arthrospira sp. PCC 9901]",Arthrospira sp. PCC 9901,478446,72,insd,2018/12/30,False,True
+1405363524,AWV56752.1,"gas vesicle structural protein, partial [Arthrospira sp. CCALA 030]",Arthrospira sp. CCALA 030,2231203,72,insd,2018/12/30,False,True
+1405363526,AWV56753.1,"gas vesicle structural protein, partial [Limnospira platensis D0930]",Limnospira platensis D0930,2231204,72,insd,2018/12/30,False,True
+1405363528,AWV56754.1,"gas vesicle structural protein, partial [Arthrospira sp. Paracas P0]",Arthrospira sp. Paracas P0,129967,72,insd,2018/12/30,False,True
+1405363530,AWV56755.1,"gas vesicle structural protein, partial [Arthrospira sp. Paracas XL]",Arthrospira sp. Paracas XL,2231218,72,insd,2018/12/30,False,True
+1405363532,AWV56756.1,"gas vesicle structural protein, partial [Limnospira platensis CCALA 029]",Limnospira platensis CCALA 029,2231202,72,insd,2018/12/30,False,True
+1405363534,AWV56757.1,"gas vesicle structural protein, partial [Arthrospira sp. PCC 8006]",Arthrospira sp. PCC 8006,1982224,72,insd,2018/12/30,False,True
+1405363536,AWV56758.1,"gas vesicle structural protein, partial [Limnospira fusiformis CCALA 023]",Limnospira fusiformis CCALA 023,1982226,72,insd,2018/12/30,False,True
+1405363538,AWV56759.1,"gas vesicle structural protein, partial [Arthrospira sp. Omsk]",Arthrospira sp. Omsk,2231215,72,insd,2018/12/30,False,True
+1405639771,PZU94861.1,MAG: gas vesicle synthesis protein GvpA [Leptolyngbya sp.],Leptolyngbya sp.,47254,72,insd,2018/06/19,False,True
+1405642090,PZU97052.1,MAG: gas vesicle structural protein [Pseudanabaena sp.],Pseudanabaena sp.,1153,72,insd,2018/06/19,False,True
+1405654302,PZV08482.1,MAG: gas vesicle synthesis protein GvpA [Leptolyngbya sp.],Leptolyngbya sp.,47254,72,insd,2018/06/19,False,True
+1405656378,PZV10397.1,MAG: gas vesicle synthesis protein GvpA [Leptolyngbya sp.],Leptolyngbya sp.,47254,72,insd,2018/06/19,False,True
+1409515547,RAQ39624.1,gas vesicle structural protein [Arthrospira sp. O9.13F],Arthrospira sp. O9.13F,1982223,72,insd,2018/06/27,False,True
+1430707777,RCJ17854.1,gas vesicle synthesis protein GvpA [Nostoc sp. ATCC 53789],Nostoc sp. ATCC 53789,76335,73,insd,2018/07/18,False,True
+1430719779,RCJ29507.1,gas vesicle synthesis protein GvpA [Nostoc punctiforme NIES-2108],Nostoc punctiforme NIES-2108,1356359,71,insd,2018/07/18,False,True
+1430725191,RCJ34494.1,gas vesicle synthesis protein GvpA [Nostoc punctiforme NIES-2108],Nostoc punctiforme NIES-2108,1356359,71,insd,2018/07/18,False,True
+1430725192,RCJ34495.1,gas vesicle synthesis protein GvpA [Nostoc punctiforme NIES-2108],Nostoc punctiforme NIES-2108,1356359,71,insd,2018/07/18,False,True
+1430725193,RCJ34496.1,gas vesicle synthesis protein GvpA [Nostoc punctiforme NIES-2108],Nostoc punctiforme NIES-2108,1356359,71,insd,2018/07/18,False,True
+1430725954,RCJ35208.1,gas vesicle synthesis protein GvpA [Nostoc punctiforme NIES-2108],Nostoc punctiforme NIES-2108,1356359,71,insd,2018/07/18,False,True
+1430729751,RCJ38735.1,gas vesicle synthesis protein GvpA [Nostoc minutum NIES-26],Nostoc minutum NIES-26,1844469,73,insd,2018/07/18,False,True
+1447311869,REJ43162.1,MAG: gas vesicle structural protein [Microcystis flos-aquae TF09],Microcystis flos-aquae TF09,2060473,71,insd,2018/08/14,False,True
+1447311870,REJ43163.1,MAG: gas vesicle structural protein [Microcystis flos-aquae TF09],Microcystis flos-aquae TF09,2060473,71,insd,2018/08/14,False,True
+1447311871,REJ43164.1,MAG: gas vesicle structural protein [Microcystis flos-aquae TF09],Microcystis flos-aquae TF09,2060473,71,insd,2018/08/14,False,True
+1447317640,REJ48801.1,MAG: gas vesicle structural protein [Microcystis flos-aquae DF17],Microcystis flos-aquae DF17,2060470,71,insd,2018/08/14,False,True
+1447317901,REJ49058.1,MAG: gas vesicle structural protein [Microcystis wesenbergii TW10],Microcystis wesenbergii TW10,2060474,71,insd,2018/08/14,False,True
+1447317902,REJ49059.1,MAG: gas vesicle structural protein [Microcystis wesenbergii TW10],Microcystis wesenbergii TW10,2060474,71,insd,2018/08/14,False,True
+1447320488,REJ51611.1,MAG: gas vesicle structural protein [Microcystis aeruginosa TA09],Microcystis aeruginosa TA09,2060472,71,insd,2018/08/14,False,True
+1447321856,REJ52965.1,MAG: gas vesicle structural protein [Microcystis aeruginosa DA14],Microcystis aeruginosa DA14,1987506,71,insd,2018/08/14,False,True
+1447321857,REJ52966.1,MAG: gas vesicle structural protein [Microcystis aeruginosa DA14],Microcystis aeruginosa DA14,1987506,71,insd,2018/08/14,False,True
+1447321858,REJ52967.1,MAG: gas vesicle structural protein [Microcystis aeruginosa DA14],Microcystis aeruginosa DA14,1987506,71,insd,2018/08/14,False,True
+1493208594,AYM26882.1,gas vesicle protein A [Limnospira maxima UTEX LB 2342],Limnospira maxima UTEX LB 2342,749972,72,insd,2018/10/23,False,True
+1493208596,AYM26883.1,gas vesicle protein A [Limnospira fusiformis AB2002/02],Limnospira fusiformis AB2002/02,284933,72,insd,2018/10/23,False,True
+1493208598,AYM26884.1,gas vesicle protein A [Limnospira fusiformis AB2002/4],Limnospira fusiformis AB2002/4,2479812,72,insd,2018/10/23,False,True
+1493208600,AYM26885.1,gas vesicle protein A [Arthrospira sp. D0920],Arthrospira sp. D0920,2231208,72,insd,2018/10/23,False,True
+1493208602,AYM26886.1,gas vesicle protein A [Arthrospira sp. PCC 9223],Arthrospira sp. PCC 9223,147323,72,insd,2018/10/23,False,True
+1493208604,AYM26887.1,gas vesicle protein A [Arthrospira sp. D0893],Arthrospira sp. D0893,2479795,72,insd,2018/10/23,False,True
+1493208606,AYM26888.1,gas vesicle protein A [Arthrospira sp. Moz 1],Arthrospira sp. Moz 1,2479802,72,insd,2018/10/23,False,True
+1493208608,AYM26889.1,gas vesicle protein A [Arthrospira sp. Moz 2],Arthrospira sp. Moz 2,2479803,72,insd,2018/10/23,False,True
+1493208610,AYM26890.1,gas vesicle protein A [Arthrospira sp. Burma],Arthrospira sp. Burma,2231206,72,insd,2018/10/23,False,True
+1493208612,AYM26891.1,gas vesicle protein A [Limnospira platensis SAG 21.99],Limnospira platensis SAG 21.99,1236698,72,insd,2018/10/23,False,True
+1493208614,AYM26892.1,gas vesicle protein A [Limnospira maxima SAG 49.88],Limnospira maxima SAG 49.88,1236694,72,insd,2018/10/23,False,True
+1493208616,AYM26893.1,gas vesicle protein A [Arthrospira sp. Titicaca],Arthrospira sp. Titicaca,147319,72,insd,2018/10/23,False,True
+1493208618,AYM26894.1,gas vesicle protein A [Arthrospira sp. Mad],Arthrospira sp. Mad,129977,72,insd,2018/10/23,False,True
+1493208620,AYM26895.1,gas vesicle protein A [Arthrospira sp. PCC 9901],Arthrospira sp. PCC 9901,478446,72,insd,2018/10/23,False,True
+1493208622,AYM26896.1,gas vesicle protein A [Arthrospira sp. CCALA 030],Arthrospira sp. CCALA 030,2231203,72,insd,2018/10/23,False,True
+1493208624,AYM26897.1,gas vesicle protein A [Arthrospira sp. LV],Arthrospira sp. LV,2231211,72,insd,2018/10/23,False,True
+1493208626,AYM26898.1,gas vesicle protein A [Arthrospira sp. CH1],Arthrospira sp. CH1,2231207,72,insd,2018/10/23,False,True
+1493208628,AYM26899.1,gas vesicle protein A [Arthrospira sp. PCC 9108],Arthrospira sp. PCC 9108,147317,72,insd,2018/10/23,False,True
+1493208630,AYM26900.1,gas vesicle protein A [Limnospira platensis D0930],Limnospira platensis D0930,2231204,72,insd,2018/10/23,False,True
+1493208632,AYM26901.1,gas vesicle protein A [Arthrospira sp. Paracas P0],Arthrospira sp. Paracas P0,129967,72,insd,2018/10/23,False,True
+1493208634,AYM26902.1,gas vesicle protein A [Arthrospira sp. Paracas XL],Arthrospira sp. Paracas XL,2231218,72,insd,2018/10/23,False,True
+1493208636,AYM26903.1,gas vesicle protein A [Limnospira fusiformis CCALA 023],Limnospira fusiformis CCALA 023,1982226,72,insd,2018/10/23,False,True
+1493208638,AYM26904.1,gas vesicle protein A [Arthrospira sp. PCC 8006],Arthrospira sp. PCC 8006,1982224,72,insd,2018/10/23,False,True
+1493208640,AYM26905.1,gas vesicle protein A [Limnospira platensis PCC 7345],Limnospira platensis PCC 7345,129975,72,insd,2018/10/23,False,True
+1493208642,AYM26906.1,gas vesicle protein A [Limnospira platensis SAG 257.80],Limnospira platensis SAG 257.80,1236699,72,insd,2018/10/23,False,True
+1498096159,RMF66550.1,MAG: gas vesicle structural protein GvpA [Cyanobacteria bacterium J069],Cyanobacteria bacterium J069,2420337,72,insd,2018/10/29,True,True
+1498333437,RMH70630.1,MAG: gas vesicle structural protein GvpA [Cyanobacteria bacterium J007],Cyanobacteria bacterium J007,2420339,72,insd,2018/10/29,True,True
+1514746468,ROI05348.1,gas vesicle structural protein [Microcystis aeruginosa FACHB-524],Microcystis aeruginosa FACHB-524,2486203,71,insd,2018/11/14,False,True
+1514746469,ROI05349.1,gas vesicle structural protein [Microcystis aeruginosa FACHB-524],Microcystis aeruginosa FACHB-524,2486203,71,insd,2018/11/14,False,True
+1514746470,ROI05350.1,gas vesicle structural protein [Microcystis aeruginosa FACHB-524],Microcystis aeruginosa FACHB-524,2486203,71,insd,2018/11/14,False,True
+1519307148,BBH38739.1,gas vesicle protein GvpAI [Microcystis viridis NIES-102],Microcystis viridis NIES-102,213615,71,insd,2018/11/22,False,True
+1519307149,BBH38740.1,gas vesicle protein GvpAI [Microcystis viridis NIES-102],Microcystis viridis NIES-102,213615,71,insd,2018/11/22,False,True
+1519838112,RPH89916.1,"MAG: gas vesicle structural protein GvpA, partial [Chroococcales cyanobacterium metabat2.561]",Chroococcales cyanobacterium metabat2.561,2485785,68,insd,2018/11/25,True,True
+1519838113,RPH89917.1,MAG: gas vesicle structural protein [Chroococcales cyanobacterium metabat2.561],Chroococcales cyanobacterium metabat2.561,2485785,71,insd,2018/11/25,False,True
+1543233719,GCE61658.1,gas vesicle structural protein [Microcystis aeruginosa NIES-4285],Microcystis aeruginosa NIES-4285,2497681,71,insd,2023/08/19,False,True
+1543233720,GCE61659.1,gas vesicle structural protein [Microcystis aeruginosa NIES-4285],Microcystis aeruginosa NIES-4285,2497681,71,insd,2023/08/19,False,True
+1543233721,GCE61660.1,gas vesicle structural protein [Microcystis aeruginosa NIES-4285],Microcystis aeruginosa NIES-4285,2497681,71,insd,2023/08/19,False,True
+1546487167,RUR88343.1,hypothetical protein DSM107007_09680 [Nostoc sp. PCC 7120 = FACHB-418],Nostoc sp. PCC 7120 = FACHB-418,103690,99,insd,2019/01/02,False,True
+1576418923,RZM77707.1,gas vesicle structural protein GvpA [Leptolyngbya iicbica LK],Leptolyngbya iicbica LK,2294035,72,insd,2022/07/14,True,True
+1593818181,GCL41833.1,gas vesicle synthesis protein GvpA [Dolichospermum planctonicum],Dolichospermum planctonicum,136072,71,insd,2023/08/22,False,True
+1594456905,GCL38796.1,gas vesicle synthesis protein GvpA [Sphaerospermopsis reniformis],Sphaerospermopsis reniformis,531300,71,insd,2023/08/22,False,True
+1594459353,GCL36563.1,gas vesicle synthesis protein GvpA [Sphaerospermopsis reniformis],Sphaerospermopsis reniformis,531300,71,insd,2023/08/22,False,True
+1674489810,WP_138500607.1,gas vesicle structural protein GvpA [Nostoc sp. PA-18-2419],Nostoc sp. PA-18-2419,2575443,73,refseq,2023/03/21,True,True
+1680955046,GDZ92864.1,gas vesicle protein GvpA [Planktothrix agardhii CCAP 1459/11A],Planktothrix agardhii CCAP 1459/11A,282420,72,insd,2023/08/22,True,True
+1680955047,GDZ92865.1,gas vesicle protein GvpA [Planktothrix agardhii CCAP 1459/11A],Planktothrix agardhii CCAP 1459/11A,282420,72,insd,2023/08/22,True,True
+1682103218,QDA95046.1,"gas vesicle protein A, partial [Arthrospira sp. Omsk H]",Arthrospira sp. Omsk H,2231217,72,insd,2019/06/30,True,True
+1682103220,QDA95047.1,"gas vesicle protein A, partial [Arthrospira sp. Omsk F]",Arthrospira sp. Omsk F,2231216,72,insd,2019/06/30,True,True
+1682103719,QDA95239.1,gas vesicle protein A [Limnospira platensis D0930],Limnospira platensis D0930,2231204,72,insd,2019/08/31,False,True
+1695795588,TPX27309.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii GIHE 2018],Cylindrospermopsis raciborskii GIHE 2018,2588993,71,insd,2019/07/01,True,True
+1695795589,TPX27310.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii GIHE 2018],Cylindrospermopsis raciborskii GIHE 2018,2588993,71,insd,2019/07/01,True,True
+1695795590,TPX27311.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii GIHE 2018],Cylindrospermopsis raciborskii GIHE 2018,2588993,71,insd,2019/07/01,True,True
+1702171679,QDL11524.1,gas vesicle synthesis protein GvpA [Brasilonema sennae CENA114],Brasilonema sennae CENA114,415709,72,insd,2020/04/29,False,True
+1702179734,QDL17906.1,gas vesicle synthesis protein GvpA [Brasilonema octagenarum UFV-E1],Brasilonema octagenarum UFV-E1,417106,72,insd,2020/04/29,False,True
+1705915002,TRT49687.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_QC_C_20070703_M131],Microcystis aeruginosa Ma_QC_C_20070703_M131,2486263,71,insd,2019/07/17,True,True
+1705930247,TRT64303.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. M_QC_C_20170808_M2Col],Microcystis sp. M_QC_C_20170808_M2Col,2486215,71,insd,2019/07/17,True,True
+1705936117,TRT69682.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. M_QC_C_20170808_M9Col],Microcystis sp. M_QC_C_20170808_M9Col,2486217,71,insd,2019/07/17,True,True
+1705942083,TRT75108.1,"MAG: gas vesicle structural protein GvpA, partial [Microcystis flos-aquae Ma_QC_C_20070823_S18]",Microcystis flos-aquae Ma_QC_C_20070823_S18,2486238,68,insd,2019/07/17,True,True
+1705943275,TRT76200.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. M_OC_Ca_00000000_S217Cul],Microcystis sp. M_OC_Ca_00000000_S217Cul,2486214,71,insd,2019/07/17,True,True
+1705943276,TRT76201.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. M_OC_Ca_00000000_S217Cul],Microcystis sp. M_OC_Ca_00000000_S217Cul,2486214,71,insd,2019/07/17,True,True
+1705943277,TRT76202.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. M_OC_Ca_00000000_S217Cul],Microcystis sp. M_OC_Ca_00000000_S217Cul,2486214,71,insd,2019/07/17,True,True
+1705948677,TRT81062.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_AC_P_19900807_S299],Microcystis aeruginosa Ma_AC_P_19900807_S299,2486264,71,insd,2019/07/17,True,True
+1705950500,TRT82707.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. M_OC_Ca_00000000_C217Col],Microcystis sp. M_OC_Ca_00000000_C217Col,2486213,71,insd,2019/07/17,True,True
+1705950501,TRT82708.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. M_OC_Ca_00000000_C217Col],Microcystis sp. M_OC_Ca_00000000_C217Col,2486213,71,insd,2019/07/17,True,True
+1705950502,TRT82709.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. M_OC_Ca_00000000_C217Col],Microcystis sp. M_OC_Ca_00000000_C217Col,2486213,71,insd,2019/07/17,True,True
+1705953191,TRT85175.1,"MAG: gas vesicle structural protein GvpA, partial [Microcystis aeruginosa Ma_OC_H_19870700_S124]",Microcystis aeruginosa Ma_OC_H_19870700_S124,2486262,55,insd,2019/07/17,True,True
+1705960464,TRT91911.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_OC_LR_19540900_S633],Microcystis aeruginosa Ma_OC_LR_19540900_S633,2486261,71,insd,2019/07/17,True,True
+1705960465,TRT91912.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_OC_LR_19540900_S633],Microcystis aeruginosa Ma_OC_LR_19540900_S633,2486261,71,insd,2019/07/17,True,True
+1705960466,TRT91913.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_OC_LR_19540900_S633],Microcystis aeruginosa Ma_OC_LR_19540900_S633,2486261,71,insd,2019/07/17,True,True
+1705964629,TRT95809.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_AC_P_19900807_S300],Microcystis aeruginosa Ma_AC_P_19900807_S300,2486260,71,insd,2019/07/17,True,True
+1705964630,TRT95810.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_AC_P_19900807_S300],Microcystis aeruginosa Ma_AC_P_19900807_S300,2486260,71,insd,2019/07/17,True,True
+1705964631,TRT95811.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_AC_P_19900807_S300],Microcystis aeruginosa Ma_AC_P_19900807_S300,2486260,71,insd,2019/07/17,True,True
+1705976750,TRU07311.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. Msp_OC_L_20101000_S702],Microcystis sp. Msp_OC_L_20101000_S702,2486218,71,insd,2019/07/17,True,True
+1705976751,TRU07312.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. Msp_OC_L_20101000_S702],Microcystis sp. Msp_OC_L_20101000_S702,2486218,71,insd,2019/07/17,True,True
+1705976752,TRU07313.1,MAG: gas vesicle structural protein GvpA [Microcystis sp. Msp_OC_L_20101000_S702],Microcystis sp. Msp_OC_L_20101000_S702,2486218,71,insd,2019/07/17,True,True
+1705982237,TRU12505.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_MB_F_20061100_S19],Microcystis aeruginosa Ma_MB_F_20061100_S19,2486258,71,insd,2019/07/17,True,True
+1705986031,TRU16120.1,"MAG: gas vesicle structural protein GvpA, partial [Microcystis aeruginosa Ma_MB_F_20061100_S19]",Microcystis aeruginosa Ma_MB_F_20061100_S19,2486258,70,insd,2019/07/17,True,True
+1705987213,TRU17244.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_MB_F_20061100_S19D],Microcystis aeruginosa Ma_MB_F_20061100_S19D,2486259,79,insd,2019/07/17,True,True
+1705987214,TRU17245.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_MB_F_20061100_S19D],Microcystis aeruginosa Ma_MB_F_20061100_S19D,2486259,72,insd,2019/07/17,True,True
+1705987215,TRU17246.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_MB_F_20061100_S19D],Microcystis aeruginosa Ma_MB_F_20061100_S19D,2486259,71,insd,2019/07/17,True,True
+1705992656,TRU22376.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_SC_T_19800800_S464],Microcystis aeruginosa Ma_SC_T_19800800_S464,2486257,71,insd,2019/07/17,True,True
+1705992657,TRU22377.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_SC_T_19800800_S464],Microcystis aeruginosa Ma_SC_T_19800800_S464,2486257,71,insd,2019/07/17,True,True
+1705992658,TRU22378.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_SC_T_19800800_S464],Microcystis aeruginosa Ma_SC_T_19800800_S464,2486257,71,insd,2019/07/17,True,True
+1705994174,TRU23800.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_MB_S_20031200_S102D],Microcystis aeruginosa Ma_MB_S_20031200_S102D,2486255,71,insd,2019/07/17,True,True
+1705994175,TRU23801.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_MB_S_20031200_S102D],Microcystis aeruginosa Ma_MB_S_20031200_S102D,2486255,71,insd,2019/07/17,True,True
+1705998069,TRU27464.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_QC_B_20070730_S2],Microcystis aeruginosa Ma_QC_B_20070730_S2,2486256,71,insd,2019/07/17,True,True
+1706001547,TRU30739.1,"MAG: gas vesicle structural protein GvpA, partial [Microcystis aeruginosa Ma_QC_B_20070730_S2]",Microcystis aeruginosa Ma_QC_B_20070730_S2,2486256,60,insd,2019/07/17,True,True
+1706002982,TRU32105.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_MB_S_20031200_S102],Microcystis aeruginosa Ma_MB_S_20031200_S102,2486254,71,insd,2019/07/17,True,True
+1706002983,TRU32106.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_MB_S_20031200_S102],Microcystis aeruginosa Ma_MB_S_20031200_S102,2486254,71,insd,2019/07/17,True,True
+1706010544,TRU39336.1,"MAG: gas vesicle structural protein GvpA, partial [Microcystis aeruginosa Ma_MB_F_20061100_S20D]",Microcystis aeruginosa Ma_MB_F_20061100_S20D,2486253,58,insd,2019/07/17,True,True
+1706020937,TRU49018.1,"MAG: gas vesicle structural protein GvpA, partial [Microcystis aeruginosa Ma_QC_Ca_00000000_S207]",Microcystis aeruginosa Ma_QC_Ca_00000000_S207,2486251,68,insd,2019/07/17,True,True
+1706021698,TRU49719.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_QC_Ch_20071001_S25],Microcystis aeruginosa Ma_QC_Ch_20071001_S25,2486249,71,insd,2019/07/17,True,True
+1706021702,TRU49723.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_QC_Ch_20071001_S25],Microcystis aeruginosa Ma_QC_Ch_20071001_S25,2486249,71,insd,2019/07/17,True,True
+1706023251,TRU51134.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_QC_Ch_20071001_S25D],Microcystis aeruginosa Ma_QC_Ch_20071001_S25D,2486250,71,insd,2019/07/17,True,True
+1706023254,TRU51137.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_QC_Ch_20071001_S25D],Microcystis aeruginosa Ma_QC_Ch_20071001_S25D,2486250,71,insd,2019/07/17,True,True
+1706038111,TRU64674.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_QC_Ch_20071001_M135],Microcystis aeruginosa Ma_QC_Ch_20071001_M135,2486248,71,insd,2019/07/17,True,True
+1706038112,TRU64675.1,MAG: gas vesicle structural protein GvpA [Microcystis aeruginosa Ma_QC_Ch_20071001_M135],Microcystis aeruginosa Ma_QC_Ch_20071001_M135,2486248,71,insd,2019/07/17,True,True
+1706073240,TRU97399.1,MAG: gas vesicle structural protein GvpA [Microcystis wesenbergii Mw_QC_S_20081001_S30D],Microcystis wesenbergii Mw_QC_S_20081001_S30D,2486245,71,insd,2019/07/17,True,True
+1706077523,TRV01470.1,MAG: gas vesicle structural protein GvpA [Microcystis wesenbergii Mw_QC_B_20070930_S4D],Microcystis wesenbergii Mw_QC_B_20070930_S4D,2486243,71,insd,2019/07/17,True,True
+1706077524,TRV01471.1,MAG: gas vesicle structural protein GvpA [Microcystis wesenbergii Mw_QC_B_20070930_S4D],Microcystis wesenbergii Mw_QC_B_20070930_S4D,2486243,71,insd,2019/07/17,True,True
+1706077546,TRV01492.1,MAG: gas vesicle structural protein GvpA [Microcystis wesenbergii Mw_QC_S_20081001_S30],Microcystis wesenbergii Mw_QC_S_20081001_S30,2486244,71,insd,2019/07/17,True,True
+1706077548,TRV01494.1,MAG: gas vesicle structural protein GvpA [Microcystis wesenbergii Mw_QC_S_20081001_S30],Microcystis wesenbergii Mw_QC_S_20081001_S30,2486244,71,insd,2019/07/17,True,True
+1706089784,TRV13112.1,"MAG: gas vesicle structural protein GvpA, partial [Microcystis flos-aquae Mf_QC_C_20070823_S10D]",Microcystis flos-aquae Mf_QC_C_20070823_S10D,2486236,68,insd,2019/07/17,True,True
+1706090889,TRV14164.1,MAG: gas vesicle structural protein GvpA [Microcystis wesenbergii Mw_QC_B_20070930_S4],Microcystis wesenbergii Mw_QC_B_20070930_S4,2486242,71,insd,2019/07/17,True,True
+1706090890,TRV14165.1,MAG: gas vesicle structural protein GvpA [Microcystis wesenbergii Mw_QC_B_20070930_S4],Microcystis wesenbergii Mw_QC_B_20070930_S4,2486242,71,insd,2019/07/17,True,True
+1706103862,TRV26454.1,"MAG: gas vesicle structural protein GvpA, partial [Microcystis flos-aquae Mf_QC_C_20070823_S10]",Microcystis flos-aquae Mf_QC_C_20070823_S10,2486235,68,insd,2019/07/17,True,True
+1706112549,TRV34668.1,"MAG: gas vesicle structural protein GvpA, partial [Microcystis flos-aquae Mf_QC_C_20070823_S20D]",Microcystis flos-aquae Mf_QC_C_20070823_S20D,2486233,68,insd,2019/07/17,True,True
+1706113531,TRV35624.1,"MAG: gas vesicle structural protein GvpA, partial [Microcystis flos-aquae Mf_QC_C_20070823_S20]",Microcystis flos-aquae Mf_QC_C_20070823_S20,2486232,68,insd,2019/07/17,True,True
+1706117734,TRV39614.1,MAG: gas vesicle structural protein GvpA [Microcystis flos-aquae Mf_QC_C_20070823_S20T],Microcystis flos-aquae Mf_QC_C_20070823_S20T,2486234,71,insd,2019/07/17,True,True
+1710792781,TVP63236.1,MAG: gas vesicle structural protein GvpA [Leptolyngbya sp. LCM1.Bin17],Leptolyngbya sp. LCM1.Bin17,2480211,72,insd,2019/07/30,True,True
+1710860947,TVQ25815.1,MAG: gas vesicle structural protein GvpA [Leptolyngbya sp. DLM2.Bin15],Leptolyngbya sp. DLM2.Bin15,2480212,71,insd,2019/07/30,True,True
+1712384854,TVU54817.1,MAG: gas vesicle structural protein [Arthrospira sp. PLM2.Bin9],Arthrospira sp. PLM2.Bin9,2599626,72,insd,2019/07/31,False,True
+1714274439,GCA91834.1,gas vesicle protein GvpAI [Microcystis aeruginosa 11-30S32],Microcystis aeruginosa 11-30S32,2358142,71,insd,2023/08/18,False,True
+1714274440,GCA91835.1,gas vesicle protein GvpAI [Microcystis aeruginosa 11-30S32],Microcystis aeruginosa 11-30S32,2358142,71,insd,2023/08/18,False,True
+1731527325,QEI43856.1,Gas vesicle structural protein [Dolichospermum sp. UHCC 0315A],Dolichospermum sp. UHCC 0315A,1914871,71,insd,2019/08/28,False,True
+1732479787,TYQ24340.1,gas vesicle structural protein GvpA [Pseudanabaena sp. UWO311],Pseudanabaena sp. UWO311,2487337,72,insd,2019/08/30,True,True
+1732480410,TYQ24963.1,gas vesicle structural protein GvpA [Pseudanabaena sp. UWO310],Pseudanabaena sp. UWO310,2480795,72,insd,2019/08/30,True,True
+1733467750,TYT68504.1,gas vesicle structural protein GvpA [Microcystis aeruginosa KLA2],Microcystis aeruginosa KLA2,2605423,71,insd,2019/09/03,True,True
+1733467751,TYT68505.1,gas vesicle structural protein GvpA [Microcystis aeruginosa KLA2],Microcystis aeruginosa KLA2,2605423,71,insd,2019/09/03,True,True
+1733467752,TYT68506.1,gas vesicle structural protein GvpA [Microcystis aeruginosa KLA2],Microcystis aeruginosa KLA2,2605423,71,insd,2019/09/03,True,True
+1733569590,GCA80640.1,gas vesicle structural protein [Microcystis aeruginosa NIES-2521],Microcystis aeruginosa NIES-2521,2303983,71,insd,2023/08/18,False,True
+1733569591,GCA80641.1,gas vesicle structural protein [Microcystis aeruginosa NIES-2521],Microcystis aeruginosa NIES-2521,2303983,71,insd,2023/08/18,False,True
+1733577045,GCA82372.1,gas vesicle structural protein [Microcystis aeruginosa NIES-2522],Microcystis aeruginosa NIES-2522,2303984,71,insd,2023/08/18,False,True
+1733577046,GCA82373.1,gas vesicle structural protein [Microcystis aeruginosa NIES-2522],Microcystis aeruginosa NIES-2522,2303984,71,insd,2023/08/18,False,True
+1733582252,GCA68671.1,gas vesicle structural protein [Microcystis aeruginosa NIES-2519],Microcystis aeruginosa NIES-2519,2303981,71,insd,2023/08/18,False,True
+1733582253,GCA68672.1,gas vesicle structural protein [Microcystis aeruginosa NIES-2519],Microcystis aeruginosa NIES-2519,2303981,71,insd,2023/08/18,False,True
+1733586359,GCA87933.1,gas vesicle structural protein [Microcystis aeruginosa NIES-4264],Microcystis aeruginosa NIES-4264,2303985,71,insd,2023/08/18,False,True
+1733586360,GCA87934.1,gas vesicle structural protein [Microcystis aeruginosa NIES-4264],Microcystis aeruginosa NIES-4264,2303985,71,insd,2023/08/18,False,True
+1733589212,GCA76871.1,gas vesicle structural protein [Microcystis aeruginosa NIES-2520],Microcystis aeruginosa NIES-2520,2303982,71,insd,2023/08/18,False,True
+1733589213,GCA76872.1,gas vesicle structural protein [Microcystis aeruginosa NIES-2520],Microcystis aeruginosa NIES-2520,2303982,71,insd,2023/08/18,False,True
+1752415548,GEA25651.1,gas vesicle structural protein [Microcystis aeruginosa NIES-4325],Microcystis aeruginosa NIES-4325,2569534,71,insd,2023/08/22,False,True
+1752415549,GEA25652.1,gas vesicle structural protein [Microcystis aeruginosa NIES-4325],Microcystis aeruginosa NIES-4325,2569534,84,insd,2023/08/22,False,True
+1754053503,KAB0240820.1,gas vesicle structural protein GvpA [Microcystis aeruginosa EAWAG127a],Microcystis aeruginosa EAWAG127a,2529855,71,insd,2019/09/30,True,True
+1767018957,GCE96702.1,gas vesicle protein GvpA [Limnospira platensis NIES-46],Limnospira platensis NIES-46,1236695,72,insd,2023/08/19,True,True
+1770431300,QFS52944.1,Gas vesicles are small [Nostoc sphaeroides CCNUC1],Nostoc sphaeroides CCNUC1,2653204,71,insd,2021/09/28,False,True
+1770431301,QFS52945.1,Gas vesicles are small [Nostoc sphaeroides CCNUC1],Nostoc sphaeroides CCNUC1,2653204,71,insd,2021/09/28,False,True
+1772286664,QFZ11728.1,gas vesicle structural protein GvpA [Anabaena sp. YBS01],Anabaena sp. YBS01,2490939,61,insd,2019/11/04,True,True
+1772286665,QFZ11729.1,gas vesicle structural protein GvpA [Anabaena sp. YBS01],Anabaena sp. YBS01,2490939,71,insd,2019/11/04,True,True
+1772620068,WP_153228363.1,gas vesicle structural protein GvpA [Anabaena sp. YBS01],Anabaena sp. YBS01,2490939,61,refseq,2023/03/22,True,True
+1773897048,VXD16283.1,Gas vesicle structural protein [Planktothrix serta PCC 8927],Planktothrix serta PCC 8927,671068,72,insd,2019/10/21,True,True
+1773899828,VXD24309.1,Gas vesicle structural protein A [Planktothrix paucivesiculata PCC 9631],Planktothrix paucivesiculata PCC 9631,671071,72,insd,2019/10/21,True,True
+1787236675,QGZ92527.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FD4],Microcystis aeruginosa FD4,2686288,71,insd,2022/08/08,True,True
+1787237046,QGZ92898.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FD4],Microcystis aeruginosa FD4,2686288,71,insd,2022/08/08,True,True
+1787561918,GCL46452.1,gas vesicle protein GvpAIII [Microcystis aeruginosa NIES-3787],Microcystis aeruginosa NIES-3787,2517782,71,insd,2023/08/22,False,True
+1787561919,GCL46453.1,gas vesicle protein GvpAIII [Microcystis aeruginosa NIES-3787],Microcystis aeruginosa NIES-3787,2517782,71,insd,2023/08/22,False,True
+1787565406,GCL59784.1,gas vesicle protein GvpAIII [Microcystis aeruginosa NIES-3807],Microcystis aeruginosa NIES-3807,2517785,71,insd,2023/08/22,False,True
+1787565407,GCL59785.1,gas vesicle protein GvpAIII [Microcystis aeruginosa NIES-3807],Microcystis aeruginosa NIES-3807,2517785,71,insd,2023/08/22,False,True
+1787569403,GCL56061.1,gas vesicle protein GvpAIII [Microcystis aeruginosa NIES-3806],Microcystis aeruginosa NIES-3806,2517784,71,insd,2023/08/22,False,True
+1787569404,GCL56062.1,gas vesicle protein GvpAIII [Microcystis aeruginosa NIES-3806],Microcystis aeruginosa NIES-3806,2517784,71,insd,2023/08/22,False,True
+1787576436,GCL49337.1,gas vesicle protein GvpAIII [Microcystis aeruginosa NIES-3804],Microcystis aeruginosa NIES-3804,2517783,71,insd,2023/08/22,False,True
+1787576438,GCL49339.1,gas vesicle protein GvpAIII [Microcystis aeruginosa NIES-3804],Microcystis aeruginosa NIES-3804,2517783,71,insd,2023/08/22,False,True
+1795651344,QHD79269.1,gas vesicle structural protein GvpA [Trichormus variabilis 0441],Trichormus variabilis 0441,375899,71,insd,2020/01/11,True,True
+1795651345,QHD79270.1,gas vesicle structural protein GvpA [Trichormus variabilis 0441],Trichormus variabilis 0441,375899,71,insd,2020/01/11,True,True
+1796909798,QHG14963.1,gas vesicle structural protein GvpA [Nostoc sp. ATCC 53789],Nostoc sp. ATCC 53789,76335,73,insd,2020/04/03,True,True
+1805638943,QHU84484.1,gas vesicle structural protein GvpA [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,71,insd,2020/02/05,True,True
+1805638944,QHU84485.1,gas vesicle structural protein GvpA [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,71,insd,2020/02/05,True,True
+1805640593,QHU86134.1,gas vesicle structural protein GvpA [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,71,insd,2020/02/05,True,True
+1806969582,WP_162425313.1,MULTISPECIES: gas vesicle structural protein GvpA [Myxacorys],Myxacorys,2056239,72,refseq,2026/07/21,True,True
+1817029024,WP_163931998.1,MULTISPECIES: gas vesicle structural protein GvpA [Nostocaceae],Nostocaceae,1162,73,refseq,2023/03/22,True,True
+1826567482,QIR36640.1,gas vesicle structural protein GvpA [Tolypothrix sp. PCC 7910],Tolypothrix sp. PCC 7910,2099387,71,insd,2020/03/30,True,True
+1826567483,QIR36641.1,gas vesicle structural protein GvpA [Tolypothrix sp. PCC 7910],Tolypothrix sp. PCC 7910,2099387,71,insd,2020/03/30,True,True
+1826571109,QIR40267.1,gas vesicle structural protein GvpA [Tolypothrix sp. PCC 7910],Tolypothrix sp. PCC 7910,2099387,71,insd,2020/03/30,True,True
+1828675292,KAF3889447.1,gas vesicle structural protein GvpA [Tolypothrix bouteillei VB521301],Tolypothrix bouteillei VB521301,1479485,72,insd,2020/04/06,True,True
+1831375648,QIZ71793.1,gas vesicle structural protein GvpA [Oxynema aestuarii AP17],Oxynema aestuarii AP17,2064643,72,insd,2020/04/15,True,True
+1832557323,QJB27257.1,gas vesicle structural protein GvpA [Limnospira fusiformis SAG 85.79],Limnospira fusiformis SAG 85.79,1521533,72,insd,2020/04/18,True,True
+1832557324,QJB27258.1,gas vesicle structural protein GvpA [Limnospira fusiformis SAG 85.79],Limnospira fusiformis SAG 85.79,1521533,72,insd,2020/04/18,True,True
+1832557325,QJB27259.1,gas vesicle structural protein GvpA [Limnospira fusiformis SAG 85.79],Limnospira fusiformis SAG 85.79,1521533,72,insd,2020/04/18,True,True
+1832557326,QJB27260.1,gas vesicle structural protein GvpA [Limnospira fusiformis SAG 85.79],Limnospira fusiformis SAG 85.79,1521533,72,insd,2020/04/18,True,True
+1832564312,QJB43092.1,gas vesicle structural protein GvpA [Dolichospermum flos-aquae CCAP 1403/13F],Dolichospermum flos-aquae CCAP 1403/13F,315271,71,insd,2020/04/19,True,True
+1832564313,QJB43093.1,gas vesicle structural protein GvpA [Dolichospermum flos-aquae CCAP 1403/13F],Dolichospermum flos-aquae CCAP 1403/13F,315271,71,insd,2020/04/19,True,True
+1832564314,QJB43094.1,gas vesicle structural protein GvpA [Dolichospermum flos-aquae CCAP 1403/13F],Dolichospermum flos-aquae CCAP 1403/13F,315271,71,insd,2020/04/19,True,True
+1832564315,QJB43095.1,gas vesicle structural protein GvpA [Dolichospermum flos-aquae CCAP 1403/13F],Dolichospermum flos-aquae CCAP 1403/13F,315271,71,insd,2020/04/19,True,True
+1832564316,QJB43096.1,gas vesicle structural protein GvpA [Dolichospermum flos-aquae CCAP 1403/13F],Dolichospermum flos-aquae CCAP 1403/13F,315271,71,insd,2020/04/19,True,True
+1832564317,QJB43097.1,gas vesicle structural protein GvpA [Dolichospermum flos-aquae CCAP 1403/13F],Dolichospermum flos-aquae CCAP 1403/13F,315271,71,insd,2020/04/19,True,True
+1832564318,QJB43098.1,gas vesicle structural protein GvpA [Dolichospermum flos-aquae CCAP 1403/13F],Dolichospermum flos-aquae CCAP 1403/13F,315271,71,insd,2020/04/19,True,True
+1832988542,WP_168569945.1,MULTISPECIES: gas vesicle structural protein GvpA [Oxynema],Oxynema,1492710,72,refseq,2023/03/22,True,True
+1833100853,WP_168654214.1,"gas vesicle structural protein GvpA, partial [Dolichospermum sp. UHCC 0406]",Dolichospermum sp. UHCC 0406,2590017,70,refseq,2023/03/22,True,True
+1836906598,WP_169262979.1,MULTISPECIES: gas vesicle structural protein GvpA [Brasilonema],Brasilonema,383614,72,refseq,2023/03/22,True,True
+1838613942,WP_169617606.1,gas vesicle structural protein GvpA [Nodosilinea sp. P-1105],Nodosilinea sp. P-1105,2546229,72,refseq,2023/03/22,True,True
+1844866137,WP_171572203.1,gas vesicle structural protein GvpA [Leptolyngbya sp. Cla-17],Leptolyngbya sp. Cla-17,2803751,72,refseq,2023/03/22,True,True
+1845892993,QKD81256.1,gas vesicle structural protein GvpA [Thermoleptolyngbya sichuanensis A183],Thermoleptolyngbya sichuanensis A183,2737172,72,insd,2023/07/07,True,True
+1866000721,CAC5341517.1,Gas vesicle structural protein A [Planktothrix rubescens CCAP 1459/22],Planktothrix rubescens CCAP 1459/22,329571,72,insd,2026/02/14,True,True
+1866000722,CAC5341519.1,Gas vesicle structural protein A [Planktothrix rubescens CCAP 1459/22],Planktothrix rubescens CCAP 1459/22,329571,72,insd,2026/02/14,True,True
+1866000723,CAC5341520.1,Gas vesicle structural protein A [Planktothrix rubescens CCAP 1459/22],Planktothrix rubescens CCAP 1459/22,329571,72,insd,2026/02/14,True,True
+1866640831,QLE40801.1,gas vesicle structural protein GvpA [Nostoc sp. C052],Nostoc sp. C052,2576902,73,insd,2020/07/08,True,True
+1866643867,QLE43837.1,gas vesicle structural protein GvpA [Nostoc sp. C052],Nostoc sp. C052,2576902,71,insd,2020/07/08,True,True
+1866643868,QLE43838.1,gas vesicle structural protein GvpA [Nostoc sp. C052],Nostoc sp. C052,2576902,71,insd,2020/07/08,True,True
+1866643879,QLE43849.1,gas vesicle structural protein GvpA [Nostoc sp. C052],Nostoc sp. C052,2576902,71,insd,2020/07/08,True,True
+1866649121,QLE49082.1,gas vesicle structural protein GvpA [Nostoc sp. C057],Nostoc sp. C057,2576903,73,insd,2020/07/08,True,True
+1893856293,QNH59348.1,MAG: gas vesicle structural protein GvpA [Limnospira indica BM01],Limnospira indica BM01,2760438,72,insd,2022/02/02,True,True
+1893856294,QNH59349.1,MAG: gas vesicle structural protein GvpA [Limnospira indica BM01],Limnospira indica BM01,2760438,72,insd,2022/02/02,True,True
+1899443089,QNP30518.1,gas vesicle structural protein GvpA [Cylindrospermopsis curvispora GIHE-G1],Cylindrospermopsis curvispora GIHE-G1,2666332,71,insd,2020/09/06,True,True
+1899443090,QNP30519.1,gas vesicle structural protein GvpA [Cylindrospermopsis curvispora GIHE-G1],Cylindrospermopsis curvispora GIHE-G1,2666332,71,insd,2020/09/06,True,True
+1899443091,QNP30520.1,gas vesicle structural protein GvpA [Cylindrospermopsis curvispora GIHE-G1],Cylindrospermopsis curvispora GIHE-G1,2666332,71,insd,2020/09/06,True,True
+1899443092,QNP30521.1,gas vesicle structural protein GvpA [Cylindrospermopsis curvispora GIHE-G1],Cylindrospermopsis curvispora GIHE-G1,2666332,71,insd,2020/09/06,True,True
+1904263903,GFZ93948.1,hypothetical protein CYANOKiyG1_04560 [Okeania sp. KiyG1],Okeania sp. KiyG1,2720165,95,insd,2023/08/25,False,True
+1904263905,GFZ93959.1,hypothetical protein CYANOKiyG1_04580 [Okeania sp. KiyG1],Okeania sp. KiyG1,2720165,90,insd,2023/08/25,False,True
+1909486022,WP_190377542.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Leptolyngbya],unclassified Leptolyngbya,2650499,72,refseq,2024/06/02,True,True
+1909497307,WP_190387978.1,MULTISPECIES: gas vesicle structural protein GvpA [Aphanizomenon],Aphanizomenon,1175,71,refseq,2023/03/22,True,True
+1909545198,WP_190432663.1,MULTISPECIES: gas vesicle structural protein GvpA [Trichocoleus],Trichocoleus,450526,72,refseq,2024/06/02,True,True
+1909577401,WP_190463961.1,MULTISPECIES: gas vesicle structural protein GvpA [Oscillatoriophycideae],Oscillatoriophycideae,1301283,72,refseq,2025/01/29,True,True
+1909578346,WP_190464766.1,MULTISPECIES: gas vesicle structural protein GvpA [Oscillatoriophycideae],Oscillatoriophycideae,1301283,72,refseq,2025/01/29,True,True
+1909597050,WP_190483017.1,gas vesicle structural protein GvpA [Pseudanabaena sp. FACHB-2040],Pseudanabaena sp. FACHB-2040,2692859,72,refseq,2023/03/22,True,True
+1909618802,WP_190503885.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2023/03/22,True,True
+1909669757,WP_190553740.1,MULTISPECIES: gas vesicle structural protein GvpA [Trichocoleus],Trichocoleus,450526,72,refseq,2023/07/09,True,True
+1909692489,WP_190575773.1,MULTISPECIES: gas vesicle structural protein GvpA [Alkalinema],Alkalinema,1620700,72,refseq,2025/06/07,True,True
+1909745954,WP_190627385.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2023/03/22,True,True
+1909762567,WP_190643620.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2023/10/06,True,True
+1909898643,WP_190774558.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Leptolyngbya],unclassified Leptolyngbya,2650499,72,refseq,2023/03/22,True,True
+1909899903,WP_190775818.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Leptolyngbya],unclassified Leptolyngbya,2650499,72,refseq,2023/03/22,True,True
+1909930366,WP_190804824.1,MULTISPECIES: gas vesicle structural protein GvpA [Cyanophyceae],Cyanophyceae,3028117,72,refseq,2023/03/22,True,True
+1909959489,WP_190828481.1,gas vesicle structural protein GvpA [Iningainema tapete],Iningainema tapete,2806730,72,refseq,2023/03/22,True,True
+1928347625,WP_193875962.1,gas vesicle structural protein GvpA [Oculatella sp. LEGE 06141],Oculatella sp. LEGE 06141,1828648,72,refseq,2023/03/23,True,True
+1928369933,WP_193897365.1,gas vesicle structural protein GvpA [Dolichospermum sp. LEGE 00240],Dolichospermum sp. LEGE 00240,1828603,71,refseq,2023/03/23,True,True
+1928435188,WP_193955741.1,gas vesicle structural protein GvpA [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,refseq,2023/03/23,True,True
+1928439125,WP_193959329.1,gas vesicle structural protein GvpA [Microcystis sp. LEGE 08355],Microcystis sp. LEGE 08355,1828687,71,refseq,2023/03/23,True,True
+1928444241,WP_193963479.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Nodosilinea],unclassified Nodosilinea,2628167,72,refseq,2023/10/21,True,True
+1928463256,WP_193980327.1,MULTISPECIES: gas vesicle structural protein GvpA [Floridanema],Floridanema,3396149,71,refseq,2025/01/30,True,True
+1928545467,WP_194056176.1,"gas vesicle structural protein GvpA, partial [Sphaerospermopsis sp. LEGE 08334]",Sphaerospermopsis sp. LEGE 08334,1828651,68,refseq,2023/03/23,True,True
+1928545469,WP_194056178.1,gas vesicle structural protein GvpA [Sphaerospermopsis sp. LEGE 08334],Sphaerospermopsis sp. LEGE 08334,1828651,71,refseq,2023/03/23,True,True
+1928840605,QOV23458.1,gas vesicle structural protein GvpA [Anabaenopsis elenkinii CCIBt3563],Anabaenopsis elenkinii CCIBt3563,2779889,71,insd,2021/08/09,True,True
+1928840606,QOV23459.1,gas vesicle structural protein GvpA [Anabaenopsis elenkinii CCIBt3563],Anabaenopsis elenkinii CCIBt3563,2779889,71,insd,2021/08/09,True,True
+1945393085,WP_197992829.1,"gas vesicle structural protein GvpA, partial [Trichormus variabilis]",Trichormus variabilis,264691,60,refseq,2023/03/23,True,True
+1949999191,QQE66432.1,gas vesicle protein GvpA [Leptolyngbya sp. BL0902],Leptolyngbya sp. BL0902,1115757,72,insd,2020/12/26,True,True
+1951981607,GBO51976.1,Gas vesicle structural protein [Pseudanabaena sp. lw0831],Pseudanabaena sp. lw0831,1357935,75,insd,2023/08/04,False,True
+1957594935,WP_200989004.1,gas vesicle structural protein GvpA [Anabaenopsis elenkinii],Anabaenopsis elenkinii,156213,71,refseq,2023/03/23,True,True
+1958456319,WP_201320714.1,gas vesicle structural protein GvpA [Pseudanabaena sp. lw0831],Pseudanabaena sp. lw0831,1357935,75,refseq,2023/03/23,True,True
+1959018947,QQW31697.1,gas vesicle structural protein GvpA [Arthrospira sp. PCC 9108],Arthrospira sp. PCC 9108,147317,72,insd,2022/12/08,True,True
+1959018948,QQW31698.1,gas vesicle structural protein GvpA [Arthrospira sp. PCC 9108],Arthrospira sp. PCC 9108,147317,72,insd,2022/12/08,True,True
+1959018949,QQW31699.1,gas vesicle structural protein GvpA [Arthrospira sp. PCC 9108],Arthrospira sp. PCC 9108,147317,72,insd,2022/12/08,True,True
+1965605803,WP_202218625.1,gas vesicle structural protein GvpA [Okeania sp. KiyG1],Okeania sp. KiyG1,2720165,90,refseq,2023/03/23,True,True
+1987634994,WP_204152466.1,gas vesicle structural protein GvpA [Leptolyngbya sp. CCY15150],Leptolyngbya sp. CCY15150,2767772,71,refseq,2023/03/23,True,True
+2004355004,QSV53785.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL201],Dolichospermum sp. UKL201,2717876,71,insd,2021/03/12,True,True
+2004355005,QSV53786.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL201],Dolichospermum sp. UKL201,2717876,71,insd,2021/03/12,True,True
+2004355006,QSV53787.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL201],Dolichospermum sp. UKL201,2717876,71,insd,2021/03/12,True,True
+2004355007,QSV53788.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL201],Dolichospermum sp. UKL201,2717876,71,insd,2021/03/12,True,True
+2004355008,QSV53789.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL201],Dolichospermum sp. UKL201,2717876,71,insd,2021/03/12,True,True
+2004355009,QSV53790.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL201],Dolichospermum sp. UKL201,2717876,71,insd,2021/03/12,True,True
+2004355010,QSV53791.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL201],Dolichospermum sp. UKL201,2717876,71,insd,2021/03/12,True,True
+2004355011,QSV53792.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL201],Dolichospermum sp. UKL201,2717876,71,insd,2021/03/12,True,True
+2004355012,QSV53793.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL201],Dolichospermum sp. UKL201,2717876,71,insd,2021/03/12,True,True
+2004363595,QSV57704.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. LBC05a],Dolichospermum sp. LBC05a,2717873,69,insd,2021/03/12,True,True
+2004363596,QSV57705.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. LBC05a],Dolichospermum sp. LBC05a,2717873,71,insd,2021/03/12,True,True
+2004363597,QSV57706.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. LBC05a],Dolichospermum sp. LBC05a,2717873,71,insd,2021/03/12,True,True
+2004363598,QSV57707.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. LBC05a],Dolichospermum sp. LBC05a,2717873,71,insd,2021/03/12,True,True
+2004363599,QSV57708.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. LBC05a],Dolichospermum sp. LBC05a,2717873,71,insd,2021/03/12,True,True
+2004363600,QSV57709.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. LBC05a],Dolichospermum sp. LBC05a,2717873,71,insd,2021/03/12,True,True
+2004363601,QSV57710.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. LBC05a],Dolichospermum sp. LBC05a,2717873,71,insd,2021/03/12,True,True
+2004363602,QSV57711.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. LBC05a],Dolichospermum sp. LBC05a,2717873,71,insd,2021/03/12,True,True
+2004363603,QSV57712.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. LBC05a],Dolichospermum sp. LBC05a,2717873,71,insd,2021/03/12,True,True
+2004363604,QSV57713.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. LBC05a],Dolichospermum sp. LBC05a,2717873,71,insd,2021/03/12,True,True
+2004372015,QSV64460.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DL01],Dolichospermum sp. DL01,2717871,71,insd,2021/05/21,True,True
+2004372016,QSV64461.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DL01],Dolichospermum sp. DL01,2717871,71,insd,2021/05/21,True,True
+2004372017,QSV64462.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DL01],Dolichospermum sp. DL01,2717871,71,insd,2021/05/21,True,True
+2004372018,QSV64463.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DL01],Dolichospermum sp. DL01,2717871,71,insd,2021/05/21,True,True
+2004372019,QSV64464.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DL01],Dolichospermum sp. DL01,2717871,71,insd,2021/05/21,True,True
+2004372020,QSV64465.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DL01],Dolichospermum sp. DL01,2717871,71,insd,2021/05/21,True,True
+2004372021,QSV64466.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DL01],Dolichospermum sp. DL01,2717871,71,insd,2021/05/21,True,True
+2004372022,QSV64467.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DL01],Dolichospermum sp. DL01,2717871,71,insd,2021/05/21,True,True
+2004372023,QSV64468.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DL01],Dolichospermum sp. DL01,2717871,71,insd,2021/05/21,True,True
+2004372024,QSV64469.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DL01],Dolichospermum sp. DL01,2717871,71,insd,2021/05/21,True,True
+2004377017,QSV67445.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae DEX188],Aphanizomenon flos-aquae DEX188,2717882,71,insd,2021/03/12,True,True
+2004377018,QSV67446.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae DEX188],Aphanizomenon flos-aquae DEX188,2717882,71,insd,2021/03/12,True,True
+2004377019,QSV67447.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae DEX188],Aphanizomenon flos-aquae DEX188,2717882,71,insd,2021/03/12,True,True
+2004377020,QSV67448.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae DEX188],Aphanizomenon flos-aquae DEX188,2717882,71,insd,2021/03/12,True,True
+2004377021,QSV67449.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae DEX188],Aphanizomenon flos-aquae DEX188,2717882,71,insd,2021/03/12,True,True
+2004377022,QSV67450.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae DEX188],Aphanizomenon flos-aquae DEX188,2717882,71,insd,2021/03/12,True,True
+2004377023,QSV67451.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae DEX188],Aphanizomenon flos-aquae DEX188,2717882,71,insd,2021/03/12,True,True
+2004384683,QSV73201.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae KM1D3_PB],Aphanizomenon flos-aquae KM1D3_PB,2723857,71,insd,2021/05/21,True,True
+2004384684,QSV73202.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae KM1D3_PB],Aphanizomenon flos-aquae KM1D3_PB,2723857,71,insd,2021/05/21,True,True
+2004384685,QSV73203.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae KM1D3_PB],Aphanizomenon flos-aquae KM1D3_PB,2723857,71,insd,2021/05/21,True,True
+2004384686,QSV73204.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae KM1D3_PB],Aphanizomenon flos-aquae KM1D3_PB,2723857,71,insd,2021/05/21,True,True
+2004384687,QSV73205.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae KM1D3_PB],Aphanizomenon flos-aquae KM1D3_PB,2723857,71,insd,2021/05/21,True,True
+2004384688,QSV73206.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae KM1D3_PB],Aphanizomenon flos-aquae KM1D3_PB,2723857,71,insd,2021/05/21,True,True
+2004384689,QSV73207.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae KM1D3_PB],Aphanizomenon flos-aquae KM1D3_PB,2723857,71,insd,2021/05/21,True,True
+2004384690,QSV73208.1,MAG: gas vesicle structural protein GvpA [Aphanizomenon flos-aquae KM1D3_PB],Aphanizomenon flos-aquae KM1D3_PB,2723857,71,insd,2021/05/21,True,True
+2006281229,QSX67268.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET69],Dolichospermum sp. DET69,2529119,71,insd,2021/03/15,True,True
+2006281230,QSX67269.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET69],Dolichospermum sp. DET69,2529119,71,insd,2021/03/15,True,True
+2006281231,QSX67270.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET69],Dolichospermum sp. DET69,2529119,71,insd,2021/03/15,True,True
+2006281232,QSX67271.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET69],Dolichospermum sp. DET69,2529119,71,insd,2021/03/15,True,True
+2006281233,QSX67272.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET69],Dolichospermum sp. DET69,2529119,71,insd,2021/03/15,True,True
+2006281234,QSX67273.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET69],Dolichospermum sp. DET69,2529119,71,insd,2021/03/15,True,True
+2006281235,QSX67274.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET69],Dolichospermum sp. DET69,2529119,71,insd,2021/03/15,True,True
+2006281236,QSX67275.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET69],Dolichospermum sp. DET69,2529119,71,insd,2021/03/15,True,True
+2036879370,CAD0230966.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2021/05/07,True,True
+2036879371,CAD0230967.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2021/05/07,True,True
+2041081114,BCU10453.1,gas vesicle structural protein [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2021/05/18,True,True
+2059365533,QXE22739.1,gas vesicle structural protein 1 [Richelia sinica FACHB-800],Richelia sinica FACHB-800,1357546,71,insd,2021/06/29,False,True
+2059365534,QXE22740.1,gas vesicle structural protein 1 [Richelia sinica FACHB-800],Richelia sinica FACHB-800,1357546,71,insd,2021/06/29,False,True
+2059365535,QXE22741.1,gas vesicle structural protein 1 [Richelia sinica FACHB-800],Richelia sinica FACHB-800,1357546,71,insd,2021/06/29,False,True
+2080649845,QYX32583.1,gas vesicle structural protein GvpA [Sphaerospermopsis torques-reginae ITEP-024],Sphaerospermopsis torques-reginae ITEP-024,984208,71,insd,2022/06/07,True,True
+2080649846,QYX32584.1,gas vesicle structural protein GvpA [Sphaerospermopsis torques-reginae ITEP-024],Sphaerospermopsis torques-reginae ITEP-024,984208,71,insd,2022/06/07,True,True
+2080649847,QYX32585.1,gas vesicle structural protein GvpA [Sphaerospermopsis torques-reginae ITEP-024],Sphaerospermopsis torques-reginae ITEP-024,984208,71,insd,2022/06/07,True,True
+2090371267,QZZ23719.1,gas vesicle structural protein GvpA [Leptothermofonsia sichuanensis E412],Leptothermofonsia sichuanensis E412,2016068,72,insd,2023/07/07,True,True
+2098454334,UBF25234.1,gas vesicle structural protein GvpA [Kovacikia minuta CCNUW1],Kovacikia minuta CCNUW1,2653194,72,insd,2021/09/22,True,True
+2103886590,WP_224341338.1,gas vesicle structural protein GvpA [Kovacikia minuta],Kovacikia minuta,2931930,72,refseq,2023/03/23,True,True
+2164481592,UGS07379.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FACHB-905 = DIANCHI905],Microcystis aeruginosa FACHB-905 = DIANCHI905,267865,71,insd,2021/12/16,True,True
+2164481593,UGS07380.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FACHB-905 = DIANCHI905],Microcystis aeruginosa FACHB-905 = DIANCHI905,267865,71,insd,2021/12/16,True,True
+2164485615,UGS11402.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FACHB-905 = DIANCHI905],Microcystis aeruginosa FACHB-905 = DIANCHI905,267865,71,insd,2021/12/16,True,True
+2173478469,UIE36189.1,gas vesicle structural protein GvpA [Leptodesmis sichuanensis A121],Leptodesmis sichuanensis A121,2835870,72,insd,2023/07/07,True,True
+2181479393,WP_235277851.1,gas vesicle structural protein GvpA [Synechococcus sp. Nb3U1],Synechococcus sp. Nb3U1,1914529,72,refseq,2023/03/23,True,True
+2182681293,UJL33739.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii Cr2010],Cylindrospermopsis raciborskii Cr2010,2108055,71,insd,2022/01/24,True,True
+2182681294,UJL33740.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii Cr2010],Cylindrospermopsis raciborskii Cr2010,2108055,71,insd,2022/01/24,True,True
+2182681295,UJL33741.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii Cr2010],Cylindrospermopsis raciborskii Cr2010,2108055,71,insd,2022/01/24,True,True
+2182681296,UJL33742.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii Cr2010],Cylindrospermopsis raciborskii Cr2010,2108055,71,insd,2022/01/24,True,True
+2182681297,UJL33743.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii Cr2010],Cylindrospermopsis raciborskii Cr2010,2108055,71,insd,2022/01/24,True,True
+2183942498,UJS05989.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii KLL07],Cylindrospermopsis raciborskii KLL07,683357,71,insd,2022/01/27,True,True
+2183942499,UJS05990.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii KLL07],Cylindrospermopsis raciborskii KLL07,683357,71,insd,2022/01/27,True,True
+2183942500,UJS05991.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii KLL07],Cylindrospermopsis raciborskii KLL07,683357,71,insd,2022/01/27,True,True
+2183942501,UJS05992.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii KLL07],Cylindrospermopsis raciborskii KLL07,683357,71,insd,2022/01/27,True,True
+2183942502,UJS05993.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii KLL07],Cylindrospermopsis raciborskii KLL07,683357,71,insd,2022/01/27,True,True
+2190707838,UKO95985.1,gas vesicle structural protein GvpA [Nostoc sp. UHCC 0870],Nostoc sp. UHCC 0870,2914041,71,insd,2022/02/08,True,True
+2190712063,UKP00211.1,gas vesicle structural protein GvpA [Nostoc sp. UHCC 0870],Nostoc sp. UHCC 0870,2914041,71,insd,2022/02/08,True,True
+2190712064,UKP00212.1,gas vesicle structural protein GvpA [Nostoc sp. UHCC 0870],Nostoc sp. UHCC 0870,2914041,71,insd,2022/02/08,True,True
+2198500573,ULP28905.1,gas vesicle structural protein GvpA [Leptolyngbya boryana IU 594],Leptolyngbya boryana IU 594,462680,72,insd,2022/02/23,True,True
+2261140371,CAD5926884.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261140373,CAD5926917.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261140375,CAD5926951.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261140377,CAD5926986.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261146120,CAD5945651.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261146121,CAD5945655.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261149769,CAD5935148.1,Gas vesicle structural protein [Planktothrix rubescens],Planktothrix rubescens,59512,72,insd,2022/06/29,True,True
+2261149770,CAD5935169.1,Gas vesicle structural protein [Planktothrix rubescens],Planktothrix rubescens,59512,72,insd,2022/06/29,True,True
+2261154193,CAD5932433.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261154194,CAD5932456.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261154195,CAD5932467.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261160487,CAD5959729.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,53,insd,2022/06/29,True,False
+2261160488,CAD5959744.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261163404,CAD5926182.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261163406,CAD5926215.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261163408,CAD5926239.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261163409,CAD5926256.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261163413,CAD5926320.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261163414,CAD5926328.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261169382,CAD5929429.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261169383,CAD5929444.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261169384,CAD5929460.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261169388,CAD5929524.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261169389,CAD5929540.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261169391,CAD5929560.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261169393,CAD5929580.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261177415,CAD5931729.1,Gas vesicle structural protein [Planktothrix rubescens CCAP 1459/22],Planktothrix rubescens CCAP 1459/22,329571,72,insd,2026/02/14,True,True
+2261177417,CAD5931755.1,Gas vesicle structural protein [Planktothrix rubescens CCAP 1459/22],Planktothrix rubescens CCAP 1459/22,329571,72,insd,2026/02/14,True,True
+2261177418,CAD5931775.1,Gas vesicle structural protein [Planktothrix rubescens CCAP 1459/22],Planktothrix rubescens CCAP 1459/22,329571,72,insd,2026/02/14,True,True
+2261185486,CAD5941065.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261185487,CAD5941081.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261185489,CAD5941113.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261185491,CAD5941148.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261191574,CAD5939181.1,Gas vesicle structural protein [Planktothrix pseudagardhii],Planktothrix pseudagardhii,132604,71,insd,2022/06/29,True,True
+2261195049,CAD5984871.1,Gas vesicle structural protein [Planktothrix pseudagardhii],Planktothrix pseudagardhii,132604,72,insd,2022/06/29,True,True
+2261199336,CAD5949465.1,Gas vesicle structural protein [Planktothrix agardhii],Planktothrix agardhii,1160,72,insd,2022/06/29,True,True
+2261203609,CAD5918119.1,Gas vesicle structural protein [Planktothrix tepida],Planktothrix tepida,1678309,72,insd,2022/06/29,True,True
+2261206940,CAD5971510.1,Gas vesicle structural protein [Planktothrix tepida],Planktothrix tepida,1678309,71,insd,2022/06/29,True,True
+2261230853,CAH2571870.1,Gas vesicle structural protein [Planktothrix rubescens],Planktothrix rubescens,59512,72,insd,2022/06/29,True,True
+2273070683,WP_254567340.1,MULTISPECIES: gas vesicle structural protein GvpA [Oscillatoriales],Oscillatoriales,1150,72,refseq,2023/03/23,True,True
+2283111617,UUO14152.1,gas vesicle structural protein GvpA [Dolichospermum heterosporum TAC447],Dolichospermum heterosporum TAC447,747523,71,insd,2022/08/08,True,True
+2283111618,UUO14153.1,gas vesicle structural protein GvpA [Dolichospermum heterosporum TAC447],Dolichospermum heterosporum TAC447,747523,71,insd,2022/08/08,True,True
+2283111619,UUO14154.1,gas vesicle structural protein GvpA [Dolichospermum heterosporum TAC447],Dolichospermum heterosporum TAC447,747523,71,insd,2022/08/08,True,True
+2283111620,UUO14155.1,gas vesicle structural protein GvpA [Dolichospermum heterosporum TAC447],Dolichospermum heterosporum TAC447,747523,71,insd,2022/08/08,True,True
+2283111621,UUO14156.1,gas vesicle structural protein GvpA [Dolichospermum heterosporum TAC447],Dolichospermum heterosporum TAC447,747523,71,insd,2022/08/08,True,True
+2283111622,UUO14157.1,gas vesicle structural protein GvpA [Dolichospermum heterosporum TAC447],Dolichospermum heterosporum TAC447,747523,71,insd,2022/08/08,True,True
+2283111623,UUO14158.1,gas vesicle structural protein GvpA [Dolichospermum heterosporum TAC447],Dolichospermum heterosporum TAC447,747523,71,insd,2022/08/08,True,True
+2301604032,UWU49549.1,Gas vesicle protein [Limnospira platensis C1],Limnospira platensis C1,459495,72,insd,2022/09/14,False,True
+2301604035,UWU49552.1,Gas vesicle protein [Limnospira platensis C1],Limnospira platensis C1,459495,72,insd,2022/09/14,False,True
+2301604038,UWU49555.1,Gas vesicle protein [Limnospira platensis C1],Limnospira platensis C1,459495,72,insd,2022/09/14,False,True
+2301604041,UWU49558.1,Gas vesicle protein [Limnospira platensis C1],Limnospira platensis C1,459495,72,insd,2022/09/14,False,True
+2301604044,UWU49561.1,Gas vesicle protein [Limnospira platensis C1],Limnospira platensis C1,459495,72,insd,2022/09/14,False,True
+2307066787,UXE62281.1,MAG: gas vesicle structural protein GvpA [Woronichinia naegeliana WA131],Woronichinia naegeliana WA131,2824559,71,insd,2022/09/22,True,True
+2307066788,UXE62282.1,MAG: gas vesicle structural protein GvpA [Woronichinia naegeliana WA131],Woronichinia naegeliana WA131,2824559,71,insd,2022/09/22,True,True
+2308526800,WP_261225443.1,gas vesicle structural protein GvpA [Ancylothrix sp. D3o],Ancylothrix sp. D3o,2953691,75,refseq,2023/03/23,True,True
+2316440302,UYD33109.1,gas vesicle structural protein GvpA [Tolypothrix sp. PCC 7601],Tolypothrix sp. PCC 7601,1188,71,insd,2022/10/13,True,True
+2316440303,UYD33110.1,gas vesicle structural protein GvpA [Tolypothrix sp. PCC 7601],Tolypothrix sp. PCC 7601,1188,71,insd,2022/10/13,True,True
+2316441914,UYD34721.1,gas vesicle structural protein GvpA [Tolypothrix sp. PCC 7601],Tolypothrix sp. PCC 7601,1188,71,insd,2022/10/13,True,True
+2321208286,UYD24661.1,gas vesicle structural protein GvpA [Tolypothrix sp. PCC 7712],Tolypothrix sp. PCC 7712,2596898,71,insd,2022/10/25,True,True
+2321208287,UYD24662.1,gas vesicle structural protein GvpA [Tolypothrix sp. PCC 7712],Tolypothrix sp. PCC 7712,2596898,71,insd,2022/10/25,True,True
+2321212998,UYD29373.1,gas vesicle structural protein GvpA [Tolypothrix sp. PCC 7712],Tolypothrix sp. PCC 7712,2596898,71,insd,2022/10/25,True,True
+2322071457,BDT13349.1,gas vesicle protein GvpA [Limnospira platensis NIES-39],Limnospira platensis NIES-39,696747,72,insd,2023/09/22,True,True
+2322071461,BDT13353.1,gas vesicle protein GvpA [Limnospira platensis NIES-39],Limnospira platensis NIES-39,696747,72,insd,2023/09/22,True,True
+2322071465,BDT13357.1,gas vesicle protein GvpA [Limnospira platensis NIES-39],Limnospira platensis NIES-39,696747,72,insd,2023/09/22,True,True
+2329607370,UZO76105.1,gas vesicle structural protein GvpA [Microcystis aeruginosa str. Chao 1910],Microcystis aeruginosa str. Chao 1910,2945101,71,insd,2022/11/17,True,True
+2329607371,UZO76106.1,gas vesicle structural protein GvpA [Microcystis aeruginosa str. Chao 1910],Microcystis aeruginosa str. Chao 1910,2945101,71,insd,2022/11/17,True,True
+2329610344,UZO79079.1,gas vesicle structural protein GvpA [Microcystis aeruginosa str. Chao 1910],Microcystis aeruginosa str. Chao 1910,2945101,71,insd,2022/11/17,True,True
+2331085622,UZQ54585.1,gas vesicle structural protein GvpA [Trichothermofontia sichuanensis B231],Trichothermofontia sichuanensis B231,2016064,72,insd,2023/07/07,True,True
+2335535047,WP_265902100.1,MULTISPECIES: gas vesicle structural protein GvpA [Trichothermofontia],Trichothermofontia,3045815,72,refseq,2025/11/23,True,True
+2407449991,WAL59275.1,gas vesicle structural protein GvpA [Thermocoleostomius sinensis A174],Thermocoleostomius sinensis A174,2016057,72,insd,2023/07/07,True,True
+2411309038,WP_268609013.1,gas vesicle structural protein GvpA [Thermocoleostomius sinensis],Thermocoleostomius sinensis,3065396,72,refseq,2023/08/02,True,True
+2438506445,WP_271795298.1,"gas vesicle structural protein GvpA, partial [Dolichospermum planctonicum]",Dolichospermum planctonicum,136072,61,refseq,2023/03/27,True,True
+2438518738,WP_271806167.1,"gas vesicle structural protein GvpA, partial [Dolichospermum circinale]",Dolichospermum circinale,109265,66,refseq,2023/03/23,True,True
+2438688891,WP_271933955.1,gas vesicle structural protein GvpA [Nodularia spumigena],Nodularia spumigena,70799,71,refseq,2023/03/27,True,True
+2438703031,WP_271944488.1,MULTISPECIES: gas vesicle structural protein GvpA [Roseofilum],Roseofilum,1233426,72,refseq,2023/05/27,True,True
+2439066361,WP_272058300.1,gas vesicle structural protein GvpA [Nodularia spumigena],Nodularia spumigena,70799,71,refseq,2023/03/23,True,True
+2439092983,WP_272074942.1,gas vesicle structural protein GvpA [Nodularia spumigena],Nodularia spumigena,70799,71,refseq,2023/03/27,True,True
+2439114064,WP_272092571.1,gas vesicle structural protein GvpA [Nodularia spumigena],Nodularia spumigena,70799,71,refseq,2023/03/27,True,True
+2491198563,8GBS_A1,"Chain A1, Gas vesicle structural protein",Dolichospermum flos-aquae,1166,71,pdb,2024/06/20,False,True
+2491198564,8GBS_A2,"Chain A2, Gas vesicle structural protein",Dolichospermum flos-aquae,1166,71,pdb,2024/06/20,False,True
+2491198565,8GBS_A4,"Chain A4, Gas vesicle structural protein",Dolichospermum flos-aquae,1166,71,pdb,2024/06/20,False,True
+2491198567,8GBS_A3,"Chain A3, Gas vesicle structural protein",Dolichospermum flos-aquae,1166,71,pdb,2024/06/20,False,True
+2498148051,WP_280652748.1,gas vesicle structural protein GvpA [Umezakia ovalisporum],Umezakia ovalisporum,75695,71,refseq,2024/12/28,True,True
+2498331033,WP_280793164.1,gas vesicle structural protein GvpA [Anabaenopsis sp. FSS-46],Anabaenopsis sp. FSS-46,2971766,71,refseq,2024/12/29,True,True
+2498983787,WGS73826.1,gas vesicle structural protein GvpA [Pseudanabaena galeata CCNP1313],Pseudanabaena galeata CCNP1313,2602720,72,insd,2024/12/02,True,True
+2510548557,WP_283753117.1,MULTISPECIES: gas vesicle structural protein GvpA [Roseofilum],Roseofilum,1233426,72,refseq,2023/10/25,True,True
+2510552992,WP_283757384.1,gas vesicle structural protein GvpA [Roseofilum casamattae],Roseofilum casamattae,3082944,72,refseq,2024/12/28,True,True
+2525298446,WP_287130436.1,gas vesicle structural protein GvpA [Candidatus Cyanaurora vandensis],Candidatus Cyanaurora vandensis,2714958,72,refseq,2023/10/03,True,True
+2525469582,WP_287280996.1,gas vesicle structural protein GvpA [Okeania sp. SIO2G5],Okeania sp. SIO2G5,2607796,72,refseq,2023/06/26,True,True
+2525866232,WP_287627019.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Microcystis (in: cyanobacteria)],unclassified Microcystis (in: cyanobacteria),3407010,71,refseq,2025/11/26,True,True
+2525954283,WP_287674806.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Microcystis (in: cyanobacteria)],unclassified Microcystis (in: cyanobacteria),3407010,71,refseq,2025/11/26,True,True
+2525994688,WP_287703642.1,"MULTISPECIES: gas vesicle structural protein GvpA, partial [unclassified Microcystis (in: cyanobacteria)]",unclassified Microcystis (in: cyanobacteria),3407010,68,refseq,2025/11/26,True,True
+2526538287,WP_287999814.1,"MULTISPECIES: gas vesicle structural protein GvpA, partial [unclassified Microcystis (in: cyanobacteria)]",unclassified Microcystis (in: cyanobacteria),3407010,62,refseq,2025/11/26,True,True
+2526802962,WP_288140785.1,"gas vesicle structural protein GvpA, partial [Microcystis sp. LE19-84.1B]",Microcystis sp. LE19-84.1B,3016438,59,refseq,2023/06/27,True,True
+2533663411,WP_290603055.1,"gas vesicle structural protein GvpA, partial [Anabaena sp. AL93]",Anabaena sp. AL93,1678133,66,refseq,2023/10/03,True,True
+2536017391,WP_292781623.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Nostoc],unclassified Nostoc,2593658,73,refseq,2024/03/04,True,True
+2536309572,WP_293061633.1,gas vesicle structural protein GvpA [Okeania sp. SIO2B3],Okeania sp. SIO2B3,2607784,90,refseq,2023/07/12,True,True
+2536337426,WP_293087767.1,gas vesicle structural protein GvpA [Okeania sp. SIO3B5],Okeania sp. SIO3B5,2607811,90,refseq,2023/07/12,True,True
+2536353200,WP_293100807.1,gas vesicle structural protein GvpA [Okeania sp. SIO2F4],Okeania sp. SIO2F4,2607790,89,refseq,2023/07/12,True,True
+2536380114,WP_293124005.1,gas vesicle structural protein GvpA [Moorena sp. SIO4G3],Moorena sp. SIO4G3,2607821,72,refseq,2023/07/12,True,True
+2536383039,WP_293126616.1,gas vesicle structural protein GvpA [Okeania sp. SIO1I7],Okeania sp. SIO1I7,2607772,90,refseq,2023/07/12,True,True
+2536418256,WP_293160100.1,gas vesicle structural protein GvpA [Okeania sp. SIO2C9],Okeania sp. SIO2C9,2607791,90,refseq,2023/07/12,True,True
+2542980891,WP_298916699.1,gas vesicle structural protein GvpA [uncultured Nostoc sp.],uncultured Nostoc sp.,340711,75,refseq,2023/07/13,True,True
+2554579157,WKX64357.1,gas vesicle structural protein GvpA [Microcystis aeruginosa PCC 7806],Microcystis aeruginosa PCC 7806,267872,71,insd,2023/07/30,True,True
+2554579158,WKX64358.1,gas vesicle structural protein GvpA [Microcystis aeruginosa PCC 7806],Microcystis aeruginosa PCC 7806,267872,71,insd,2023/07/30,True,True
+2554579159,WKX64359.1,gas vesicle structural protein GvpA [Microcystis aeruginosa PCC 7806],Microcystis aeruginosa PCC 7806,267872,71,insd,2023/07/30,True,True
+2579513125,WNF13144.1,gas vesicle structural protein GvpA [Microcystis aeruginosa NRERC-214],Microcystis aeruginosa NRERC-214,2528657,71,insd,2023/09/20,True,True
+2579513126,WNF13145.1,gas vesicle structural protein GvpA [Microcystis aeruginosa NRERC-214],Microcystis aeruginosa NRERC-214,2528657,71,insd,2023/09/20,True,True
+2591947259,WNZ23275.1,gas vesicle structural protein GvpA [Leptolyngbya sp. NK1-12],Leptolyngbya sp. NK1-12,2547451,72,insd,2023/10/12,True,True
+2591990442,WNZ47247.1,gas vesicle structural protein GvpA [Leptolyngbya boryana CZ1],Leptolyngbya boryana CZ1,3060204,72,insd,2023/10/13,True,True
+2592623293,WOB42702.1,gas vesicle structural protein GvpA [Thermoleptolyngbya oregonensis NK1-22],Thermoleptolyngbya oregonensis NK1-22,2547457,72,insd,2023/10/16,True,True
+2592648850,WOB68207.1,gas vesicle structural protein GvpA [Microcystis aeruginosa LE3],Microcystis aeruginosa LE3,1194489,71,insd,2023/10/16,True,True
+2592648851,WOB68208.1,gas vesicle structural protein GvpA [Microcystis aeruginosa LE3],Microcystis aeruginosa LE3,1194489,71,insd,2023/10/16,True,True
+2592648852,WOB68209.1,gas vesicle structural protein GvpA [Microcystis aeruginosa LE3],Microcystis aeruginosa LE3,1194489,71,insd,2023/10/16,True,True
+2593239960,WOD38711.1,gas vesicle structural protein GvpA [Nodosilinea sp. E11],Nodosilinea sp. E11,3037479,72,insd,2023/10/18,True,True
+2638890234,WP_322681236.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Nostoc],unclassified Nostoc,2593658,72,refseq,2025/02/25,True,True
+2638947106,WP_322732512.1,gas vesicle structural protein GvpA [Nostoc sp. ChiQUE01b],Nostoc sp. ChiQUE01b,3075376,72,refseq,2025/05/22,True,True
+2643647700,WRH65089.1,MAG: gas vesicle structural protein GvpA [Planktothrix sp. GU0601_MAG3],Planktothrix sp. GU0601_MAG3,3078749,72,insd,2024/01/02,True,True
+2643990218,WP_323244924.1,gas vesicle structural protein GvpA [Nodularia spumigena],Nodularia spumigena,70799,70,refseq,2025/04/01,True,True
+2648748814,WP_324632560.1,gas vesicle structural protein GvpA [Phormidium sp. CCY1219],Phormidium sp. CCY1219,2886104,72,refseq,2025/05/22,True,True
+2648861459,WP_324704072.1,gas vesicle structural protein GvpA [Lyngbya sp. CCY1209],Lyngbya sp. CCY1209,2886103,72,refseq,2024/12/29,True,True
+2668486077,WP_330483830.1,MULTISPECIES: gas vesicle structural protein GvpA [Tumidithrix],Tumidithrix,3088355,72,refseq,2025/08/23,True,True
+2669971506,WP_330936551.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii],Cylindrospermopsis raciborskii,77022,59,refseq,2025/05/21,True,True
+2690319793,WP_334710560.1,gas vesicle structural protein GvpA [Nostoc sp.],Nostoc sp.,1180,73,refseq,2025/05/21,True,True
+2690394903,WP_334779866.1,gas vesicle structural protein GvpA [Nostoc sp.],Nostoc sp.,1180,71,refseq,2025/05/21,True,True
+2690405347,WP_334789054.1,gas vesicle structural protein GvpA [Nostoc sp.],Nostoc sp.,1180,74,refseq,2025/05/21,True,True
+2690677552,WP_335049349.1,gas vesicle structural protein GvpA [Nostoc sp.],Nostoc sp.,1180,73,refseq,2025/05/21,True,True
+2690688242,WP_335059862.1,gas vesicle structural protein GvpA [Nostoc sp.],Nostoc sp.,1180,71,refseq,2025/05/21,True,True
+2690701052,WP_335072082.1,gas vesicle structural protein GvpA [Nostoc sp.],Nostoc sp.,1180,78,refseq,2025/05/21,True,True
+2707828341,WYL94292.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata IR180],Gloeotrichia echinulata IR180,2723855,71,insd,2024/04/17,True,True
+2707828342,WYL94293.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata IR180],Gloeotrichia echinulata IR180,2723855,71,insd,2024/04/17,True,True
+2707828343,WYL94294.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata IR180],Gloeotrichia echinulata IR180,2723855,71,insd,2024/04/17,True,True
+2707828344,WYL94295.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata IR180],Gloeotrichia echinulata IR180,2723855,71,insd,2024/04/17,True,True
+2707831792,WYL97743.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata IR180],Gloeotrichia echinulata IR180,2723855,71,insd,2024/04/17,True,True
+2707834001,WYL99907.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata CP02],Gloeotrichia echinulata CP02,2723856,71,insd,2024/04/17,True,True
+2707834002,WYL99908.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata CP02],Gloeotrichia echinulata CP02,2723856,71,insd,2024/04/17,True,True
+2707834003,WYL99909.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata CP02],Gloeotrichia echinulata CP02,2723856,71,insd,2024/04/17,True,True
+2707834004,WYL99910.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata CP02],Gloeotrichia echinulata CP02,2723856,75,insd,2024/04/17,True,True
+2707834005,WYL99911.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata CP02],Gloeotrichia echinulata CP02,2723856,71,insd,2024/04/17,True,True
+2719086208,WZL85698.1,gas vesicle structural protein GvpA [Microcystis aeruginosa 1339],Microcystis aeruginosa 1339,3113711,71,insd,2024/04/19,True,True
+2719088077,WZL87567.1,gas vesicle structural protein GvpA [Microcystis aeruginosa 1339],Microcystis aeruginosa 1339,3113711,71,insd,2024/04/19,True,True
+2754676721,XCM39888.1,gas vesicle structural protein GvpA [Planktothricoides raciborskii GIHE-MW2],Planktothricoides raciborskii GIHE-MW2,2792601,72,insd,2024/07/08,True,True
+2754678964,XCM36407.1,gas vesicle structural protein GvpA [Planktothricoides raciborskii GIHE-MW2],Planktothricoides raciborskii GIHE-MW2,2792601,71,insd,2024/07/08,True,True
+2754679082,XCM36523.1,gas vesicle structural protein GvpA [Planktothricoides raciborskii GIHE-MW2],Planktothricoides raciborskii GIHE-MW2,2792601,71,insd,2024/07/08,True,True
+2777307499,XDE63737.1,gas vesicle structural protein GvpA [Limnospira platensis BEA 1257B],Limnospira platensis BEA 1257B,3234866,72,insd,2024/07/24,True,True
+2804749549,XGV98739.1,MAG: gas vesicle structural protein GvpA [Leptolyngbya sp. BL-A-14],Leptolyngbya sp. BL-A-14,3104317,72,insd,2024/09/16,True,True
+2807382220,XHB71668.1,gas vesicle structural protein GvpA [Microcystis sp. BLCC-F210],Microcystis sp. BLCC-F210,3342751,71,insd,2024/09/21,True,True
+2807382221,XHB71669.1,gas vesicle structural protein GvpA [Microcystis sp. BLCC-F210],Microcystis sp. BLCC-F210,3342751,71,insd,2024/09/21,True,True
+2813989146,XHR82201.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata GP01],Gloeotrichia echinulata GP01,3350243,71,insd,2024/10/07,True,True
+2813989147,XHR82202.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata GP01],Gloeotrichia echinulata GP01,3350243,71,insd,2024/10/07,True,True
+2813989148,XHR82203.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata GP01],Gloeotrichia echinulata GP01,3350243,71,insd,2024/10/07,True,True
+2813989149,XHR82204.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata GP01],Gloeotrichia echinulata GP01,3350243,71,insd,2024/10/07,True,True
+2814761159,XHX77422.1,MAG: gas vesicle structural protein GvpA [Stenomitos frigidus ULC029],Stenomitos frigidus ULC029,3070788,72,insd,2024/10/09,True,True
+2816296038,WP_377962562.1,MULTISPECIES: gas vesicle structural protein GvpA [Almyronema],Almyronema,3114804,72,refseq,2026/02/15,True,True
+2833672427,WP_392535573.1,gas vesicle structural protein GvpA [Nostoc sp. C117],Nostoc sp. C117,3349875,71,refseq,2024/10/17,True,True
+2862770874,WP_406912117.1,"gas vesicle structural protein GvpA, partial [Cylindrospermopsis raciborskii]",Cylindrospermopsis raciborskii,77022,66,refseq,2025/02/18,True,True
+2870561357,WP_408963110.1,gas vesicle structural protein GvpA [Planktothrix sp.],Planktothrix sp.,3088171,72,refseq,2024/12/17,True,True
+2873945453,WP_409772926.1,"gas vesicle structural protein GvpA, partial [Microcystis sp.]",Microcystis sp.,1127,63,refseq,2024/12/27,True,True
+2894835688,XNO56025.1,gas vesicle structural protein GvpA [Anabaena azotica SJ-1],Anabaena azotica SJ-1,3392114,71,insd,2025/01/28,True,True
+2894835689,XNO56026.1,gas vesicle structural protein GvpA [Anabaena azotica SJ-1],Anabaena azotica SJ-1,3392114,76,insd,2025/01/28,True,True
+2894835690,XNO56027.1,gas vesicle structural protein GvpA [Anabaena azotica SJ-1],Anabaena azotica SJ-1,3392114,75,insd,2025/01/28,True,True
+2894835691,XNO56028.1,gas vesicle structural protein GvpA [Anabaena azotica SJ-1],Anabaena azotica SJ-1,3392114,73,insd,2025/01/28,True,True
+2894835692,XNO56029.1,gas vesicle structural protein GvpA [Anabaena azotica SJ-1],Anabaena azotica SJ-1,3392114,74,insd,2025/01/28,True,True
+2894835693,XNO56030.1,gas vesicle structural protein GvpA [Anabaena azotica SJ-1],Anabaena azotica SJ-1,3392114,73,insd,2025/01/28,True,True
+2894835694,XNO56031.1,gas vesicle structural protein GvpA [Anabaena azotica SJ-1],Anabaena azotica SJ-1,3392114,75,insd,2025/01/28,True,True
+2895288337,WP_413173344.1,gas vesicle structural protein GvpA [Anabaena azotica],Anabaena azotica,197653,76,refseq,2025/01/29,True,True
+2895288338,WP_413173345.1,gas vesicle structural protein GvpA [Anabaena azotica],Anabaena azotica,197653,75,refseq,2025/01/29,True,True
+2895288339,WP_413173346.1,gas vesicle structural protein GvpA [Anabaena azotica],Anabaena azotica,197653,73,refseq,2025/01/29,True,True
+2895288340,WP_413173347.1,gas vesicle structural protein GvpA [Anabaena azotica],Anabaena azotica,197653,74,refseq,2025/01/29,True,True
+2895288341,WP_413173348.1,gas vesicle structural protein GvpA [Anabaena azotica],Anabaena azotica,197653,75,refseq,2025/01/29,True,True
+2904841441,WP_414362100.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Synechococcus],unclassified Synechococcus,2626047,75,refseq,2025/02/08,True,True
+2904878252,WP_414395174.1,gas vesicle structural protein GvpA [Synechococcus sp. O70.2],Synechococcus sp. O70.2,2964533,75,refseq,2025/02/07,True,True
+2904889063,WP_414404485.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Synechococcus],unclassified Synechococcus,2626047,75,refseq,2025/02/08,True,True
+2906378794,XOF26165.1,gas vesicle structural protein GvpA [Leptolyngbya sp. FACHB-1624],Leptolyngbya sp. FACHB-1624,2692802,72,insd,2025/02/11,True,True
+2917377468,XPB27899.1,gas vesicle structural protein GvpA [Egbenema bharatensis FJBBOT/2019],Egbenema bharatensis FJBBOT/2019,3398834,72,insd,2025/02/26,True,True
+2923020606,XPM56436.1,MAG: gas vesicle structural protein GvpA [Leptolyngbya sp. IPPAS B-1204],Leptolyngbya sp. IPPAS B-1204,2483801,72,insd,2025/03/31,True,True
+2928085797,XPT18807.1,gas vesicle structural protein GvpA [Anabaena sp. FACHB-709],Anabaena sp. FACHB-709,1086822,71,insd,2025/03/13,True,True
+2928085798,XPT18808.1,gas vesicle structural protein GvpA [Anabaena sp. FACHB-709],Anabaena sp. FACHB-709,1086822,71,insd,2025/03/13,True,True
+2928092183,XPT26586.1,gas vesicle structural protein GvpA [Anabaena sp. FACHB-595],Anabaena sp. FACHB-595,3403436,71,insd,2025/03/13,True,True
+2928092184,XPT26587.1,gas vesicle structural protein GvpA [Anabaena sp. FACHB-595],Anabaena sp. FACHB-595,3403436,71,insd,2025/03/13,True,True
+2930234548,XQD06703.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FACHB-524],Microcystis aeruginosa FACHB-524,2486203,71,insd,2025/03/17,True,True
+2930234549,XQD06704.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FACHB-524],Microcystis aeruginosa FACHB-524,2486203,71,insd,2025/03/17,True,True
+2930234550,XQD06705.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FACHB-524],Microcystis aeruginosa FACHB-524,2486203,71,insd,2025/03/17,True,True
+2938146399,XQJ63650.1,gas vesicle structural protein GvpA [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,71,insd,2025/03/23,True,True
+2938146400,XQJ63651.1,gas vesicle structural protein GvpA [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,71,insd,2025/03/23,True,True
+2938146508,XQJ63759.1,gas vesicle structural protein GvpA [Microcystis aeruginosa NIES-298],Microcystis aeruginosa NIES-298,449468,71,insd,2025/03/23,True,True
+2948777538,CAI7983226.1,Gas vesicle structural protein [Kamptonema sp. PCC 6506],Kamptonema sp. PCC 6506,272129,72,insd,2023/03/09,False,True
+2957507398,GAB1539017.1,gas vesicle structural protein GvpA [Scytonema sp. NUACC21],Scytonema sp. NUACC21,3350582,72,insd,2025/04/16,True,True
+2958622390,CAN1213032.1,gas vesicle structural protein GvpA [Tumidithrix helvetica PCC 7403],Tumidithrix helvetica PCC 7403,56111,72,insd,2025/04/19,True,True
+2961772002,WP_425311603.1,MULTISPECIES: gas vesicle structural protein GvpA [Microcystis],Microcystis,1125,80,refseq,2025/08/19,True,True
+2962815869,GAB4214070.1,MAG: gas vesicle structural protein GvpA [Synechococcales cyanobacterium],Synechococcales cyanobacterium,2478492,72,insd,2025/04/26,True,True
+2963001913,GAB4427020.1,MAG: gas vesicle structural protein GvpA [Cyanobacteria bacterium J069],Cyanobacteria bacterium J069,2420337,72,insd,2025/04/26,True,True
+2963005342,GAB4461818.1,MAG: gas vesicle structural protein GvpA [Elainellaceae cyanobacterium],Elainellaceae cyanobacterium,3121617,72,insd,2025/04/26,True,True
+2963016691,GAB4150252.1,MAG: gas vesicle structural protein GvpA [Cyanobacteria bacterium J069],Cyanobacteria bacterium J069,2420337,72,insd,2025/04/26,True,True
+2963029365,GAB4350580.1,MAG: gas vesicle structural protein GvpA [Leptolyngbyaceae cyanobacterium],Leptolyngbyaceae cyanobacterium,3088178,72,insd,2025/04/26,True,True
+2963068443,GAB4302147.1,MAG: gas vesicle structural protein GvpA [Oscillatoriaceae cyanobacterium],Oscillatoriaceae cyanobacterium,2664179,72,insd,2025/04/26,True,True
+2963115187,GAB4386638.1,MAG: gas vesicle structural protein GvpA [Elainellaceae cyanobacterium],Elainellaceae cyanobacterium,3121617,72,insd,2025/04/26,True,True
+2970763403,XTB90403.1,gas vesicle structural protein GvpA [Aliinostoc sp. HNIBRCY26],Aliinostoc sp. HNIBRCY26,3418997,71,insd,2025/05/07,True,True
+2970763404,XTB90404.1,gas vesicle structural protein GvpA [Aliinostoc sp. HNIBRCY26],Aliinostoc sp. HNIBRCY26,3418997,71,insd,2025/05/07,True,True
+2970763405,XTB90405.1,gas vesicle structural protein GvpA [Aliinostoc sp. HNIBRCY26],Aliinostoc sp. HNIBRCY26,3418997,71,insd,2025/05/07,True,True
+2973292201,WP_425589715.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Microcystis (in: cyanobacteria)],unclassified Microcystis (in: cyanobacteria),3407010,80,refseq,2025/11/26,True,True
+2975239760,WP_426542028.1,gas vesicle structural protein GvpA [Dapis purpurea],Dapis purpurea,3692514,89,refseq,2026/03/06,True,True
+2975289352,WP_426585015.1,gas vesicle structural protein GvpA [Dapis brunnea],Dapis brunnea,3692516,91,refseq,2026/03/06,True,True
+2977447949,WP_428089254.1,"gas vesicle structural protein GvpA, partial [Cylindrospermopsis raciborskii]",Cylindrospermopsis raciborskii,77022,70,refseq,2025/09/02,True,True
+2980178320,XTX14704.1,gas vesicle structural protein GvpA [Microcystis protocystis FBCC-A270],Microcystis protocystis FBCC-A270,3422496,71,insd,2025/05/20,True,True
+2980178321,XTX14705.1,gas vesicle structural protein GvpA [Microcystis protocystis FBCC-A270],Microcystis protocystis FBCC-A270,3422496,71,insd,2025/05/20,True,True
+2980178322,XTX14706.1,gas vesicle structural protein GvpA [Microcystis protocystis FBCC-A270],Microcystis protocystis FBCC-A270,3422496,71,insd,2025/05/20,True,True
+2980182754,XTX19137.1,gas vesicle structural protein GvpA [Microcystis ichthyoblabe FBCC-A1114],Microcystis ichthyoblabe FBCC-A1114,3422495,71,insd,2025/05/20,True,True
+2980182755,XTX19138.1,gas vesicle structural protein GvpA [Microcystis ichthyoblabe FBCC-A1114],Microcystis ichthyoblabe FBCC-A1114,3422495,71,insd,2025/05/20,True,True
+2980182756,XTX19139.1,gas vesicle structural protein GvpA [Microcystis ichthyoblabe FBCC-A1114],Microcystis ichthyoblabe FBCC-A1114,3422495,71,insd,2025/05/20,True,True
+2980192278,XTX24201.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FBCC-A68],Microcystis aeruginosa FBCC-A68,3079052,71,insd,2025/05/20,True,True
+2980192279,XTX24202.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FBCC-A68],Microcystis aeruginosa FBCC-A68,3079052,80,insd,2025/05/20,True,True
+2986944722,XUE26255.1,gas vesicle structural protein GvpA [Limnospira platensis CENA597],Limnospira platensis CENA597,3403153,72,insd,2025/09/18,True,True
+2987954789,WP_430686742.1,gas vesicle structural protein GvpA [Leptolyngbya sp. AN02str],Leptolyngbya sp. AN02str,3423363,72,refseq,2025/05/28,True,True
+2989493690,WP_431193991.1,"gas vesicle structural protein GvpA, partial [Microcystis aeruginosa]",Microcystis aeruginosa,1126,80,refseq,2025/09/02,True,True
+2990038037,XUP06190.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FBCC-A68],Microcystis aeruginosa FBCC-A68,3079052,71,insd,2025/06/03,True,True
+2990038198,XUP06351.1,gas vesicle structural protein GvpA [Microcystis aeruginosa FBCC-A68],Microcystis aeruginosa FBCC-A68,3079052,71,insd,2025/06/03,True,True
+2991085436,BGG31357.1,gas vesicle structural protein GvpA [Microcystis aeruginosa NIES-87],Microcystis aeruginosa NIES-87,449440,71,insd,2025/06/04,True,True
+2991085438,BGG31359.1,gas vesicle structural protein GvpA [Microcystis aeruginosa NIES-87],Microcystis aeruginosa NIES-87,449440,71,insd,2025/06/04,True,True
+2991871750,WP_431662249.1,MULTISPECIES: gas vesicle structural protein GvpA [Pantanalinema],Pantanalinema,1620699,72,refseq,2025/06/18,True,True
+2995040674,XVE11296.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET68],Dolichospermum sp. DET68,2704417,71,insd,2025/06/11,True,True
+2995040675,XVE11297.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET68],Dolichospermum sp. DET68,2704417,71,insd,2025/06/11,True,True
+2995040676,XVE11298.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET68],Dolichospermum sp. DET68,2704417,71,insd,2025/06/11,True,True
+2995040677,XVE11299.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET68],Dolichospermum sp. DET68,2704417,71,insd,2025/06/11,True,True
+2995040678,XVE11300.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET68],Dolichospermum sp. DET68,2704417,71,insd,2025/06/11,True,True
+2995040679,XVE11301.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET68],Dolichospermum sp. DET68,2704417,71,insd,2025/06/11,True,True
+2995040680,XVE11302.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET68],Dolichospermum sp. DET68,2704417,71,insd,2025/06/11,True,True
+2995040681,XVE11303.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. DET68],Dolichospermum sp. DET68,2704417,71,insd,2025/06/11,True,True
+3004644668,XWU45082.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL202],Dolichospermum sp. UKL202,2717877,71,insd,2025/06/25,True,True
+3004644669,XWU45083.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL202],Dolichospermum sp. UKL202,2717877,71,insd,2025/06/25,True,True
+3004644670,XWU45084.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL202],Dolichospermum sp. UKL202,2717877,71,insd,2025/06/25,True,True
+3004644671,XWU45085.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL202],Dolichospermum sp. UKL202,2717877,71,insd,2025/06/25,True,True
+3004644672,XWU45086.1,MAG: gas vesicle structural protein GvpA [Dolichospermum sp. UKL202],Dolichospermum sp. UKL202,2717877,71,insd,2025/06/25,True,True
+3012431042,XXK15504.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii G7],Cylindrospermopsis raciborskii G7,3438228,71,insd,2025/07/03,True,True
+3012431043,XXK15505.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii G7],Cylindrospermopsis raciborskii G7,3438228,71,insd,2025/07/03,True,True
+3012431044,XXK15506.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii G7],Cylindrospermopsis raciborskii G7,3438228,71,insd,2025/07/03,True,True
+3012431045,XXK15507.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii G7],Cylindrospermopsis raciborskii G7,3438228,71,insd,2025/07/03,True,True
+3012431046,XXK15508.1,gas vesicle structural protein GvpA [Cylindrospermopsis raciborskii G7],Cylindrospermopsis raciborskii G7,3438228,71,insd,2025/07/03,True,True
+3038036328,WP_439345357.1,gas vesicle structural protein GvpA [Vacuolonema iberomarrocanum],Vacuolonema iberomarrocanum,3454632,72,refseq,2025/12/24,True,True
+3044844855,WP_441007279.1,gas vesicle structural protein GvpA [Microcystis aeruginosa],Microcystis aeruginosa,1126,80,refseq,2025/12/24,True,True
+3045605790,WP_441338718.1,"gas vesicle structural protein GvpA, partial [Microcystis aeruginosa]",Microcystis aeruginosa,1126,85,refseq,2025/12/24,True,True
+3046828140,XZF63070.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata DVL01],Gloeotrichia echinulata DVL01,3447499,71,insd,2025/08/21,True,True
+3046828141,XZF63071.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata DVL01],Gloeotrichia echinulata DVL01,3447499,71,insd,2025/08/21,True,True
+3046828142,XZF63072.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata DVL01],Gloeotrichia echinulata DVL01,3447499,71,insd,2025/08/21,True,True
+3046828143,XZF63073.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata DVL01],Gloeotrichia echinulata DVL01,3447499,71,insd,2025/08/21,True,True
+3046828144,XZF63074.1,MAG: gas vesicle structural protein GvpA [Gloeotrichia echinulata DVL01],Gloeotrichia echinulata DVL01,3447499,71,insd,2025/08/21,True,True
+3062079460,YAG05227.1,Gas vesicle protein A [Nostoc sp. DSM 114167],Nostoc sp. DSM 114167,3439050,73,insd,2025/09/17,True,True
+3062088118,YAG13884.1,Gas vesicle protein A [Nostoc sp. DSM 114161],Nostoc sp. DSM 114161,3440143,73,insd,2025/09/17,True,True
+3070111638,KAM3092794.1,gas vesicle structural protein GvpA [Phormidesmis sp. 146-35],Phormidesmis sp. 146-35,3383729,72,insd,2025/10/01,True,True
+3070116622,KAM3097639.1,gas vesicle structural protein GvpA [Phormidesmis sp. 146-12],Phormidesmis sp. 146-12,3383344,72,insd,2025/10/01,True,True
+3070125904,KAM3106609.1,gas vesicle structural protein GvpA [Phormidesmis sp. 146-20],Phormidesmis sp. 146-20,3383727,72,insd,2025/10/01,True,True
+3070133112,KAM3113662.1,gas vesicle structural protein GvpA [Phormidesmis sp. 146-33],Phormidesmis sp. 146-33,3383728,72,insd,2025/10/01,True,True
+3106759227,WP_446859740.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Phormidesmis],unclassified Phormidesmis,2636038,72,refseq,2026/01/14,True,True
+3139768790,WP_458646425.1,gas vesicle structural protein GvpA [Nostoc sphaeroides],Nostoc sphaeroides,446679,91,refseq,2026/01/07,True,True
+3142205629,BGW00421.1,gas vesicle structural protein GvpA [Anabaenopsis sp. NIES-4685],Anabaenopsis sp. NIES-4685,3447881,71,insd,2026/01/17,True,True
+3142205630,BGW00422.1,hypothetical protein ABLAnap23_12370 [Anabaenopsis sp. NIES-4685],Anabaenopsis sp. NIES-4685,3447881,104,insd,2026/01/17,False,True
+3160441237,CAO5016871.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3160441238,CAO5016891.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3171792291,WP_461927368.1,gas vesicle structural protein GvpA [Nostoc sp.],Nostoc sp.,1180,74,refseq,2026/02/04,True,True
+3171797196,WP_461930966.1,gas vesicle structural protein GvpA [Nostoc sp.],Nostoc sp.,1180,71,refseq,2026/02/04,True,True
+3209071923,CAO7125742.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209085478,CAO7094155.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209085479,CAO7094176.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209085480,CAO7094188.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209102308,CAO7133869.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209102309,CAO7133881.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209102310,CAO7133889.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209109988,CAO7118645.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209109989,CAO7118661.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209116214,CAO7113112.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209116215,CAO7113129.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209116216,CAO7113146.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209120499,CAO7130366.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209120500,CAO7130380.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209127917,CAO7108815.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209127918,CAO7108833.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209127919,CAO7108851.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209140346,CAO7122504.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209140347,CAO7122521.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209140348,CAO7122537.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209148068,CAO7096845.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209148069,CAO7096862.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209148070,CAO7096881.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209153457,CAO7113284.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3209153458,CAO7113301.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3211465572,CAO7106445.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3211465573,CAO7106463.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3211465574,CAO7106480.1,Gas vesicle protein A [Microcystis aeruginosa],Microcystis aeruginosa,1126,71,insd,2025/12/18,False,True
+3225404746,WP_472408654.1,MULTISPECIES: gas vesicle structural protein GvpA [Microcystis],Microcystis,1125,80,refseq,2026/08/21,True,True
+3269896804,WP_479716902.1,gas vesicle structural protein GvpA [Calyptranema fuscum],Calyptranema fuscum,3698976,72,refseq,2026/04/15,True,True
+3282170054,YEI31119.1,gas vesicle structural protein GvpA [Microcystis aeruginosa C-1004],Microcystis aeruginosa C-1004,3425954,71,insd,2026/04/27,True,True
+3282170055,YEI31120.1,gas vesicle structural protein GvpA [Microcystis aeruginosa C-1004],Microcystis aeruginosa C-1004,3425954,71,insd,2026/04/27,True,True
+3282170057,YEI31122.1,gas vesicle structural protein GvpA [Microcystis aeruginosa C-1004],Microcystis aeruginosa C-1004,3425954,80,insd,2026/04/27,True,True
+3336846516,WP_488204244.1,gas vesicle structural protein GvpA [Thainema salinarum],Thainema salinarum,2908845,72,refseq,2026/05/25,True,True
+3340175222,WP_488739600.1,gas vesicle structural protein GvpA [Roseofilum sp. KMC-1],Roseofilum sp. KMC-1,3712868,72,refseq,2026/06/02,True,True
+3346478884,YFD45525.1,gas vesicle structural protein GvpA [Aliinostoc maniaoense],Aliinostoc maniaoense,3416947,71,insd,2026/06/12,True,True
+3346478885,YFD45526.1,gas vesicle structural protein GvpA [Aliinostoc maniaoense],Aliinostoc maniaoense,3416947,71,insd,2026/06/12,True,True
+3346481242,YFD47883.1,gas vesicle structural protein GvpA [Aliinostoc maniaoense],Aliinostoc maniaoense,3416947,71,insd,2026/06/12,True,True
+3346481243,YFD47884.1,gas vesicle structural protein GvpA [Aliinostoc maniaoense],Aliinostoc maniaoense,3416947,71,insd,2026/06/12,True,True
+3355860172,YFR05632.1,gas vesicle structural protein GvpA [Arthrospira sp. PCC 9901],Arthrospira sp. PCC 9901,478446,72,insd,2026/07/07,True,True
+3363979598,WP_496081776.1,gas vesicle structural protein GvpA [Tildeniella sp.],Tildeniella sp.,3100439,72,refseq,2026/07/20,True,False
+3377102478,WP_502249006.1,gas vesicle structural protein GvpA [Lyngbya flaviceps],Lyngbya flaviceps,2934970,72,refseq,2026/08/15,True,False
+3378551356,WP_502845516.1,"MULTISPECIES: gas vesicle structural protein GvpA, partial [unclassified Microcystis (in: cyanobacteria)]",unclassified Microcystis (in: cyanobacteria),3407010,68,refseq,2026/08/21,True,False
+3378552913,WP_502846405.1,"gas vesicle structural protein GvpA, partial [Microcystis sp. LE19-195.1E]",Microcystis sp. LE19-195.1E,3016440,72,refseq,2026/08/20,True,False
+3378790809,WP_502881973.1,MULTISPECIES: gas vesicle structural protein GvpA [unclassified Microcystis (in: cyanobacteria)],unclassified Microcystis (in: cyanobacteria),3407010,80,refseq,2026/08/21,True,False
+3378791828,WP_502882844.1,"gas vesicle structural protein GvpA, partial [Microcystis sp. M53598_WE2]",Microcystis sp. M53598_WE2,3030677,77,refseq,2026/08/20,True,False
+3386306391,WP_505716830.1,gas vesicle structural protein GvpA [Leptothermofonsia sp.],Leptothermofonsia sp.,3100549,72,refseq,2026/09/02,True,False
+3386748498,WP_506081038.1,gas vesicle structural protein GvpA [Thermocoleostomius sp.],Thermocoleostomius sp.,3100574,72,refseq,2026/09/03,True,False

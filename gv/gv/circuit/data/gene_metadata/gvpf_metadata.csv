@@ -1,0 +1,514 @@
+accession,gene_name,protein_name,organism,sequence_length
+WP_331281811,gvpF,Unknown,Planktothrix serta,286
+WP_449416836,gvpF,Unknown,Phormidium nigroviride,244
+WP_445630241,gvpF,Unknown,unclassified Nostoc,256
+WP_448604595,gvpF,Unknown,Thermoleptolyngbya sp.,248
+WP_448598553,gvpF,Unknown,Thermoleptolyngbya sp.,248
+WP_448573084,gvpF,Unknown,Trichothermofontia sp.,251
+WP_448561953,gvpF,Unknown,Trichothermofontia sp.,254
+WP_448268201,gvpF,Unknown,Nostoc sp. DSM 114159,256
+WP_446877509,gvpF,Unknown,Phormidesmis sp. 146-33,245
+WP_446869260,gvpF,Unknown,Phormidesmis sp. 146-12,245
+WP_446859734,gvpF,Unknown,unclassified Phormidesmis,245
+WP_310995517,gvpF,Unknown,Planktothrix agardhii,261
+WP_445637993,gvpF,Unknown,Nostoc sp. DSM 114161,256
+WP_017721720,gvpF,Unknown,Kamptonema formosum,244
+WP_416668120,gvpF,Unknown,Egbenema bharatensis,224
+WP_439343420,gvpF,Unknown,Vacuolonema iberomarrocanum,244
+WP_437126649,gvpF,Unknown,Planktothrix agardhii,261
+WP_436799965,gvpF,Unknown,Planktothrix agardhii,261
+WP_436799594,gvpF,Unknown,Planktothrix agardhii,261
+WP_436799456,gvpF,Unknown,Planktothrix agardhii,261
+WP_436799387,gvpF,Unknown,Planktothrix agardhii,261
+WP_436799309,gvpF,Unknown,Planktothrix agardhii,261
+WP_435027185,gvpF,Unknown,Nostoc sp. CALU 1950,249
+WP_432809522,gvpF,Unknown,Pantanalinema sp. GBBB05,247
+WP_431662244,gvpF,Unknown,Pantanalinema rosaneae,247
+WP_431632858,gvpF,Unknown,Alkalinema pantanalense,244
+WP_430711584,gvpF,Unknown,Nodosilinea sp. AN01ver1,244
+WP_430686022,gvpF,Unknown,Leptolyngbya sp. AN02str,244
+WP_430680218,gvpF,Unknown,unclassified Leptolyngbya,245
+WP_427162958,gvpF,Unknown,Aliinostoc sp. HNIBRCY26,245
+WP_426585022,gvpF,Unknown,Dapis sp. BLCC M229,245
+WP_421657470,gvpF,Unknown,Leptothermofonsia sp. ETS-13,247
+WP_420761519,gvpF,Unknown,Nostoc sp. CALU 546,249
+WP_419547001,gvpF,Unknown,Microcystis sp.,244
+WP_414753483,gvpF,Unknown,Anabaena sp. CCY 9910,244
+WP_414570587,gvpF,Unknown,Nostoc sp. CCY 9925,249
+WP_414518056,gvpF,Unknown,Nostoc sp. PCC 9305,247
+WP_413281339,gvpF,Unknown,Floridanema evergladense,244
+WP_413271857,gvpF,Unknown,Floridanema aerugineum,244
+WP_413268519,gvpF,Unknown,Floridanema aerugineum,244
+WP_413173339,gvpF,Unknown,Anabaena azotica,246
+WP_409876896,gvpF,Unknown,Microcystis sp.,244
+WP_409800851,gvpF,Unknown,Microcystis sp.,222
+WP_409795733,gvpF,Unknown,Microcystis sp.,244
+WP_409775973,gvpF,Unknown,Microcystis sp.,244
+WP_408968171,gvpF,Unknown,Planktothrix sp.,244
+WP_408963385,gvpF,Unknown,Planktothrix sp.,244
+WP_392535982,gvpF,Unknown,Nostoc sp. C117,245
+WP_392535241,gvpF,Unknown,Nostoc sp. C117,256
+WP_392482738,gvpF,Unknown,Nostoc sp. C110,247
+WP_377962579,gvpF,Unknown,Almyronema epifaneia,246
+WP_375471833,gvpF,Unknown,uncultured Nostoc sp.,249
+WP_374794081,gvpF,Unknown,Aerosakkonema,244
+WP_368013044,gvpF,Unknown,Laspinema palackyanum,247
+WP_368005827,gvpF,Unknown,Laspinema palackyanum,247
+WP_367290607,gvpF,Unknown,Laspinema palackyanum,247
+WP_348247074,gvpF,Unknown,Leptolyngbya sp. GB1-A1,244
+WP_348242777,gvpF,Unknown,Leptolyngbya sp. DQ-M1,245
+WP_346732948,gvpF,Unknown,Planktothrix agardhii,261
+WP_346732947,gvpF,Unknown,Planktothrix agardhii,261
+WP_339435709,gvpF,Unknown,Planktothrix agardhii,261
+WP_339373197,gvpF,Unknown,Planktothrix,261
+WP_335231349,gvpF,Unknown,Nostoc sp.,249
+WP_335221553,gvpF,Unknown,Nostoc sp.,245
+WP_335196759,gvpF,Unknown,Nostoc sp.,249
+WP_335186843,gvpF,Unknown,Nostoc sp.,247
+WP_335181997,gvpF,Unknown,Nostoc sp.,247
+WP_335166848,gvpF,Unknown,Nostoc sp.,249
+WP_335150329,gvpF,Unknown,Nostoc sp.,247
+WP_335143336,gvpF,Unknown,Nostoc sp.,245
+WP_335135322,gvpF,Unknown,Nostoc sp.,249
+WP_335101316,gvpF,Unknown,Nostoc sp.,249
+WP_335094192,gvpF,Unknown,Nostoc sp.,249
+WP_335085797,gvpF,Unknown,Nostoc sp.,247
+WP_335072087,gvpF,Unknown,Nostoc sp.,244
+WP_335063968,gvpF,Unknown,Nostoc sp.,247
+WP_335059805,gvpF,Unknown,Nostoc sp.,245
+WP_335050752,gvpF,Unknown,Nostoc sp.,249
+WP_335049352,gvpF,Unknown,Nostoc sp.,247
+WP_335047539,gvpF,Unknown,Nostoc sp.,249
+WP_335042416,gvpF,Unknown,Nostoc sp.,245
+WP_335014489,gvpF,Unknown,Nostoc sp.,247
+WP_335008716,gvpF,Unknown,Nostoc sp.,249
+WP_334984224,gvpF,Unknown,Nostoc sp.,249
+WP_334937789,gvpF,Unknown,Nostoc sp.,249
+WP_334915103,gvpF,Unknown,Nostoc sp.,249
+WP_334896807,gvpF,Unknown,Nostoc sp.,247
+WP_334876712,gvpF,Unknown,Nostoc sp.,249
+WP_334847527,gvpF,Unknown,Nostoc sp.,249
+WP_334837241,gvpF,Unknown,Nostoc sp.,247
+WP_334836066,gvpF,Unknown,Nostoc sp.,249
+WP_334807789,gvpF,Unknown,Nostoc sp.,249
+WP_334779862,gvpF,Unknown,Nostoc sp.,245
+WP_334771173,gvpF,Unknown,Nostoc sp.,247
+WP_334766490,gvpF,Unknown,Nostoc sp.,256
+WP_334730249,gvpF,Unknown,Nostoc sp.,249
+WP_334718935,gvpF,Unknown,Nostoc sp.,249
+WP_334715543,gvpF,Unknown,Nostoc sp.,249
+WP_334710563,gvpF,Unknown,Nostoc sp.,249
+WP_334697316,gvpF,Unknown,Nostoc sp.,249
+WP_324706831,gvpF,Unknown,Lyngbya sp. CCY1209,244
+WP_324631235,gvpF,Unknown,Phormidium sp. CCY1219,246
+WP_323353409,gvpF,Unknown,Leptolyngbya sp. CCNP1308,283
+WP_323267753,gvpF,Unknown,unclassified Anabaena,245
+WP_323204169,gvpF,Unknown,Nostoc sp. UHCC 0251,247
+WP_322737373,gvpF,Unknown,Nostoc sp. DedQUE12b,249
+WP_322732501,gvpF,Unknown,Nostoc sp. ChiQUE01b,244
+WP_322721963,gvpF,Unknown,Nostoc,247
+WP_322714647,gvpF,Unknown,Nostoc sp. ChiSLP03a,244
+WP_322713279,gvpF,Unknown,Nostoc sp. ChiSLP03a,249
+WP_322700986,gvpF,Unknown,Nostoc sp. DedQUE08,249
+WP_322694301,gvpF,Unknown,Nostoc sp. DedSLP03,256
+WP_322690750,gvpF,Unknown,unclassified Nostoc,249
+WP_322683465,gvpF,Unknown,Nostoc sp. DedQUE07,249
+WP_322682002,gvpF,Unknown,unclassified Nostoc,256
+WP_322681230,gvpF,Unknown,unclassified Nostoc,244
+WP_322673883,gvpF,Unknown,Nostoc sp. DedQUE05,249
+WP_322662491,gvpF,Unknown,Nostoc sp. DedQUE09,249
+WP_322651331,gvpF,Unknown,unclassified Nostoc,249
+WP_322640345,gvpF,Unknown,unclassified Nostoc,249
+WP_322638064,gvpF,Unknown,unclassified Nostoc,256
+WP_320060491,gvpF,Unknown,Planktothrix agardhii,261
+WP_320060299,gvpF,Unknown,Planktothrix agardhii,261
+WP_318733525,gvpF,Unknown,unclassified Roseofilum,247
+WP_318699725,gvpF,Unknown,unclassified Roseofilum,247
+WP_317035131,gvpF,Unknown,Nodosilinea sp. E11,244
+WP_316790752,gvpF,Unknown,Thermoleptolyngbya oregonensis,248
+WP_316434893,gvpF,Unknown,Leptolyngbya sp. NK1-12,242
+WP_313656298,gvpF,Unknown,Planktothrix agardhii,261
+WP_300003640,gvpF,Unknown,Anabaena sp. AL09,245
+WP_298916690,gvpF,Unknown,uncultured Nostoc sp.,244
+WP_297086107,gvpF,Unknown,Thermoleptolyngbya sp. C42_A2020_037,248
+WP_297080011,gvpF,Unknown,Thermoleptolyngbya sp. M55_K2018_002,248
+WP_293160106,gvpF,Unknown,Okeania sp. SIO2C9,245
+WP_293126624,gvpF,Unknown,Okeania sp. SIO1I7,247
+WP_293100816,gvpF,Unknown,Okeania sp. SIO2F4,245
+WP_293088605,gvpF,Unknown,Okeania sp. SIO3B5,245
+WP_293061624,gvpF,Unknown,Okeania sp. SIO2B3,245
+WP_292863117,gvpF,Unknown,Nostoc sp. LPT,247
+WP_292851887,gvpF,Unknown,Nostoc sp. NMS8,249
+WP_292790051,gvpF,Unknown,unclassified Nostoc,245
+WP_292781629,gvpF,Unknown,Nostoc sp. NMS9,249
+WP_292739048,gvpF,Unknown,unclassified Nostoc,245
+WP_292722743,gvpF,Unknown,unclassified Nostoc,247
+WP_289796055,gvpF,Unknown,Nostoc sp. GT001,249
+WP_288140808,gvpF,Unknown,Microcystis sp. LE19-84.1B,244
+WP_287744095,gvpF,Unknown,Microcystis,244
+WP_287730733,gvpF,Unknown,Microcystis sp. M090S1,244
+WP_287726664,gvpF,Unknown,Microcystis sp. M061S2,244
+WP_287703652,gvpF,Unknown,unclassified Microcystis (in: cyanobacteria),244
+WP_287687227,gvpF,Unknown,unclassified Microcystis (in: cyanobacteria),244
+WP_287673495,gvpF,Unknown,unclassified Microcystis (in: cyanobacteria),244
+WP_287658241,gvpF,Unknown,unclassified Microcystis (in: cyanobacteria),244
+WP_287453500,gvpF,Unknown,Leptolyngbya sp. UWPOB_LEPTO1,245
+WP_287077464,gvpF,Unknown,unclassified Microcystis (in: cyanobacteria),244
+WP_286823766,gvpF,Unknown,unclassified Microcystis (in: cyanobacteria),244
+WP_283764861,gvpF,Unknown,Roseofilum capinflatum,247
+WP_283760892,gvpF,Unknown,Roseofilum halophilum,247
+WP_283757732,gvpF,Unknown,Roseofilum casamattae,245
+WP_283755557,gvpF,Unknown,Roseofilum acuticapitatum,247
+WP_280699163,gvpF,Unknown,Umezakia ovalisporum,243
+WP_280656083,gvpF,Unknown,Chrysosporum bergii,244
+WP_280652065,gvpF,Unknown,Umezakia ovalisporum,243
+WP_275570403,gvpF,Unknown,Kamptonema sp. UHCC 0994,244
+WP_275337400,gvpF,Unknown,Nodosilinea sp. PGN35,244
+WP_272082312,gvpF,Unknown,Microcystis aeruginosa,244
+WP_272076098,gvpF,Unknown,Microcystis aeruginosa,244
+WP_272033375,gvpF,Unknown,Kamptonema animale,244
+WP_272015593,gvpF,Unknown,Microcystis aeruginosa,244
+WP_271988818,gvpF,Unknown,Microcystis,244
+WP_271950578,gvpF,Unknown,Microcystis aeruginosa,244
+WP_271940264,gvpF,Unknown,Roseofilum,247
+WP_271829951,gvpF,Unknown,Dolichospermum circinale,252
+WP_271808104,gvpF,Unknown,Dolichospermum circinale,252
+WP_271795303,gvpF,Unknown,Dolichospermum planctonicum,252
+WP_271776126,gvpF,Unknown,Aphanizomenon sp. CS-733/32,245
+WP_271763854,gvpF,Unknown,Anabaena sp. CS-542/02,246
+WP_271732684,gvpF,Unknown,Anabaenopsis,246
+WP_268609020,gvpF,Unknown,Thermocoleostomius sinensis,246
+WP_268181821,gvpF,Unknown,Leptolyngbya,245
+WP_265903610,gvpF,Unknown,Trichothermofontia sichuanensis,251
+WP_261263289,gvpF,Unknown,Laspinema olomoucense,247
+WP_261237006,gvpF,Unknown,Laspinema olomoucense,247
+WP_261225438,gvpF,Unknown,Ancylothrix sp. D3o,244
+WP_261204326,gvpF,Unknown,Laspinema sp. D2d,247
+WP_261198582,gvpF,Unknown,Laspinema olomoucense,247
+WP_254567342,gvpF,Unknown,Oscillatoria sp. HE19RPO,247
+WP_254035811,gvpF,Unknown,Planktothrix agardhii,245
+WP_254032708,gvpF,Unknown,Planktothrix agardhii,245
+WP_237994776,gvpF,Unknown,Nostoc sp. UHCC 0870,245
+WP_236142971,gvpF,Unknown,Nostoc sp. CMAA1605,245
+WP_233747568,gvpF,Unknown,Leptodesmis sichuanensis,243
+WP_229549579,gvpF,Unknown,Nostoc sp. CHAB 5836,245
+WP_227398234,gvpF,Unknown,Planktothrix agardhii,245
+WP_224343451,gvpF,Unknown,Kovacikia minuta,247
+WP_223048421,gvpF,Unknown,Leptothermofonsia sichuanensis,248
+WP_220610469,gvpF,Unknown,Sphaerospermopsis torques-reginae,246
+WP_214558817,gvpF,Unknown,Planktothrix agardhii,245
+WP_214558815,gvpF,Unknown,Planktothrix agardhii,245
+WP_214430925,gvpF,Unknown,Dendronalium phyllosphericum,256
+WP_211619727,gvpF,Unknown,Leptolyngbya sp. 7M,242
+WP_208343878,gvpF,Unknown,Aetokthonos hydrillicola,243
+WP_207090496,gvpF,Unknown,Phormidium pseudopriestleyi,247
+WP_204152459,gvpF,Unknown,Leptolyngbya sp. CCY15150,247
+WP_204137689,gvpF,Unknown,Halomicronema sp. CCY15110,247
+WP_202223978,gvpF,Unknown,Okeania sp. KiyG1,245
+WP_200988999,gvpF,Unknown,Anabaenopsis elenkinii,246
+WP_200669521,gvpF,Unknown,Oxynema sp. CENA135,246
+WP_200325465,gvpF,Unknown,Sphaerospermopsis aphanizomenoides,246
+WP_199918633,gvpF,Unknown,Planktothrix rubescens,245
+WP_199245281,gvpF,Unknown,[Phormidium] sp. ETS-05,245
+WP_198806268,gvpF,Unknown,Leptolyngbya sp. BL0902,244
+WP_198126686,gvpF,Unknown,Amazonocrinis nigriterrae,256
+WP_194144284,gvpF,Unknown,Nostoc sp. LEGE 12447,249
+WP_194059634,gvpF,Unknown,Sphaerospermopsis sp. LEGE 08334,246
+WP_194052384,gvpF,Unknown,Nodosilinea sp. LEGE 06152,244
+WP_194025507,gvpF,Unknown,Nodosilinea sp. LEGE 07298,244
+WP_193984377,gvpF,Unknown,[Phormidium] sp. LEGE 05292,244
+WP_193966571,gvpF,Unknown,Nodosilinea sp. LEGE 07088,244
+WP_193955737,gvpF,Unknown,Microcystis aeruginosa,244
+WP_193949832,gvpF,Unknown,Nostoc sp. LEGE 12450,247
+WP_193942151,gvpF,Unknown,Sphaerospermopsis aphanizomenoides,246
+WP_193938596,gvpF,Unknown,Cuspidothrix issatschenkoi,245
+WP_193915772,gvpF,Unknown,Desmonostoc muscorum,249
+WP_193897355,gvpF,Unknown,Dolichospermum sp. LEGE 00240,245
+WP_193875974,gvpF,Unknown,Oculatella sp. LEGE 06141,244
+WP_193871974,gvpF,Unknown,Planktothrix mougeotii,245
+WP_193868808,gvpF,Unknown,Planktothrix,244
+WP_190953532,gvpF,Unknown,Nostoc,256
+WP_190952607,gvpF,Unknown,Nostoc punctiforme,256
+WP_190936770,gvpF,Unknown,Nostoc sp. FACHB-133,249
+WP_190828475,gvpF,Unknown,Iningainema tapete,244
+WP_190798862,gvpF,Unknown,Leptolyngbya sp. FACHB-541,244
+WP_190790199,gvpF,Unknown,unclassified Leptolyngbya,244
+WP_190771295,gvpF,Unknown,unclassified Leptolyngbya,244
+WP_190748527,gvpF,Unknown,Cyanophyceae,244
+WP_190746794,gvpF,Unknown,Tolypothrix sp. FACHB-123,244
+WP_190723180,gvpF,Unknown,Microcystis,244
+WP_190709658,gvpF,Unknown,unclassified Nostoc,256
+WP_190701151,gvpF,Unknown,Cyanophyceae,244
+WP_190690772,gvpF,Unknown,Nostoc sp. FACHB-110,244
+WP_190687586,gvpF,Unknown,Leptolyngbya sp. FACHB-671,244
+WP_190651274,gvpF,Unknown,Leptolyngbya,245
+WP_190643614,gvpF,Unknown,Oculatella sp. FACHB-28,244
+WP_190633452,gvpF,Unknown,unclassified Calothrix,244
+WP_190630738,gvpF,Unknown,Cyanophyceae,244
+WP_190601723,gvpF,Unknown,Richelia sinica,245
+WP_190575762,gvpF,Unknown,Alkalinema sp. FACHB-956,244
+WP_190565277,gvpF,Unknown,Nostoc parmelioides,244
+WP_190555767,gvpF,Unknown,Trichocoleus sp. FACHB-262,247
+WP_190553744,gvpF,Unknown,Trichocoleus sp. FACHB-591,245
+WP_190546800,gvpF,Unknown,Calothrix,244
+WP_190519776,gvpF,Unknown,Planktothrix sp. FACHB-1365,245
+WP_190516862,gvpF,Unknown,Planktothrix sp. FACHB-1365,244
+WP_190514792,gvpF,Unknown,Cyanophyceae,244
+WP_190510988,gvpF,Unknown,Leptolyngbya sp. FACHB-321,246
+WP_190503879,gvpF,Unknown,Oscillatoria sp. FACHB-1407,247
+WP_190498337,gvpF,Unknown,Phormidium sp. FACHB-1136,244
+WP_190483701,gvpF,Unknown,Pseudanabaena sp. FACHB-2040,247
+WP_190464723,gvpF,Unknown,Oscillatoriophycideae,244
+WP_190463957,gvpF,Unknown,Oscillatoriophycideae,244
+WP_190447923,gvpF,Unknown,Cyanophyceae,246
+WP_190432668,gvpF,Unknown,Trichocoleus,245
+WP_190396951,gvpF,Unknown,Anabaena sp. FACHB-1250,252
+WP_190394100,gvpF,Unknown,Dolichospermum sp. FACHB-1091,252
+WP_190387982,gvpF,Unknown,Aphanizomenon,245
+WP_190382329,gvpF,Unknown,Aphanizomenon flos-aquae,245
+WP_190377536,gvpF,Unknown,unclassified Leptolyngbya,245
+WP_190370840,gvpF,Unknown,Anabaena sp. FACHB-1237,247
+WP_190341855,gvpF,Unknown,Leptolyngbya sp. FACHB-36,247
+WP_187706903,gvpF,Unknown,Cylindrospermopsis curvispora,247
+WP_187040754,gvpF,Unknown,Sphaerospermopsis sp. LEGE 00249,246
+WP_185582032,gvpF,Unknown,unclassified Nostoc,247
+WP_185565930,gvpF,Unknown,Nostoc sp. 2RC,249
+WP_185239775,gvpF,Unknown,Microcystis aeruginosa,244
+WP_179073011,gvpF,Unknown,Nostoc sp. C057,247
+WP_179068229,gvpF,Unknown,Nostoc sp. C052,245
+WP_179065243,gvpF,Unknown,Nostoc sp. C052,249
+WP_172353770,gvpF,Unknown,Thermoleptolyngbya,248
+WP_171572578,gvpF,Unknown,Leptolyngbya sp. Cla-17,246
+WP_169612324,gvpF,Unknown,Nodosilinea sp. P-1105,247
+WP_169262981,gvpF,Unknown,Brasilonema,244
+WP_168729626,gvpF,Unknown,Cylindrospermopsis raciborskii,247
+WP_168646609,gvpF,Unknown,Dolichospermum sp. UHCC 0259,245
+WP_168634835,gvpF,Unknown,Nostocales,245
+WP_168634591,gvpF,Unknown,unclassified Dolichospermum,245
+WP_168568755,gvpF,Unknown,Oxynema aestuarii,246
+WP_168360191,gvpF,Unknown,Dolichospermum planctonicum,252
+WP_167720337,gvpF,Unknown,Tolypothrix sp. PCC 7910,244
+WP_163932007,gvpF,Unknown,Nostoc sp. UIC 10630,249
+WP_162425308,gvpF,Unknown,Myxacorys almedinensis,253
+WP_159292070,gvpF,Unknown,Microcystis aeruginosa,244
+WP_159253976,gvpF,Unknown,Microcystis aeruginosa,244
+WP_158202266,gvpF,Unknown,Microcystis aeruginosa,244
+WP_152592991,gvpF,Unknown,Nostoc sphaeroides,245
+WP_151694542,gvpF,Unknown,Microcystis aeruginosa,244
+WP_150976219,gvpF,Unknown,Microcystis aeruginosa,244
+WP_149989091,gvpF,Unknown,Microcystis aeruginosa,244
+WP_149987911,gvpF,Unknown,Microcystis,244
+WP_138500601,gvpF,Unknown,Nostoc sp. PA-18-2419,254
+WP_137907521,gvpF,Unknown,Nostocales,252
+WP_118171798,gvpF,Unknown,Nostoc sphaeroides,245
+WP_114085079,gvpF,Unknown,Nostoc sp. ATCC 53789,247
+WP_110578359,gvpF,Unknown,Microcystis,244
+WP_108937053,gvpF,Unknown,Microcystis sp. 0824,244
+WP_106257465,gvpF,Unknown,Stenomitos frigidus,247
+WP_104905246,gvpF,Unknown,Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont',249
+WP_104395506,gvpF,Unknown,Microcystis,244
+WP_103136388,gvpF,Unknown,Nostoc sp. CENA543,245
+WP_103124154,gvpF,Unknown,Nostoc cycadae,256
+WP_103112399,gvpF,Unknown,Microcystis,244
+WP_099098978,gvpF,Unknown,Nostoc sp. 'Peltigera malacea cyanobiont' DB3992,249
+WP_099068601,gvpF,Unknown,Nostoc linckia,249
+WP_096668693,gvpF,Unknown,Dolichospermum compactum,245
+WP_096607480,gvpF,Unknown,Calothrix sp. NIES-2100,244
+WP_096589812,gvpF,Unknown,Calothrix sp. NIES-2098,256
+WP_096579796,gvpF,Unknown,Tolypothrix tenuis,244
+WP_096567128,gvpF,Unknown,Sphaerospermopsis,246
+WP_094352904,gvpF,Unknown,Nostoc sp. 'Peltigera membranacea cyanobiont' 210A,247
+WP_094345750,gvpF,Unknown,Nostoc sp. 'Peltigera membranacea cyanobiont' 232,249
+WP_089127406,gvpF,Unknown,Tolypothrix sp. NIES-4075,244
+WP_088893379,gvpF,Unknown,Leptolyngbya ohadii,244
+WP_087882141,gvpF,Unknown,Planktothrix rubescens,245
+WP_086756000,gvpF,Unknown,Nostoc sp. 106C,256
+WP_086690774,gvpF,Unknown,Nostoc sp. T09,256
+WP_085729041,gvpF,Unknown,Cylindrospermopsis raciborskii,247
+WP_083623347,gvpF,Unknown,Planktothrix paucivesiculata,245
+WP_079676957,gvpF,Unknown,Planktothrix sp. PCC 11201,245
+WP_079291534,gvpF,Unknown,Cylindrospermopsis raciborskii,247
+WP_075599293,gvpF,Unknown,Leptolyngbya sp. 'hensonii',246
+WP_073627442,gvpF,Unknown,Scytonema sp. HK-05,244
+WP_073608718,gvpF,Unknown,Phormidium tenue,244
+WP_072722055,gvpF,Unknown,Planktothrix,245
+WP_071250845,gvpF,Unknown,Cylindrospermopsis raciborskii,247
+WP_069967157,gvpF,Unknown,Desertifilum,246
+WP_069071674,gvpF,Unknown,Nostoc sp. KVJ20,249
+WP_068515983,gvpF,Unknown,Leptolyngbya sp. O-77,248
+WP_063873379,gvpF,Unknown,Nodularia spumigena,246
+WP_061547063,gvpF,Unknown,Cylindrospermopsis raciborskii,247
+WP_061431827,gvpF,Unknown,Microcystis,244
+WP_054470463,gvpF,Unknown,Planktothricoides,244
+WP_053538587,gvpF,Unknown,Anabaena sp. WA102,245
+WP_046662311,gvpF,Unknown,Microcystis aeruginosa,244
+WP_046278439,gvpF,Unknown,Limnoraphis robusta,244
+WP_045871247,gvpF,Unknown,unclassified Tolypothrix,244
+WP_045360990,gvpF,Unknown,Microcystis,244
+WP_039752847,gvpF,Unknown,Hassallia byssoidea,244
+WP_039729135,gvpF,Unknown,Leptolyngbya iicbica,247
+WP_039203148,gvpF,Unknown,Aphanizomenon,245
+WP_038082234,gvpF,Unknown,Nostocales,244
+WP_036534723,gvpF,Unknown,Neosynechococcus sphagnicola,247
+WP_035985813,gvpF,Unknown,Leptolyngbya sp. KIOST-1,244
+WP_028091210,gvpF,Unknown,Dolichospermum circinale,252
+WP_028084277,gvpF,Unknown,Dolichospermum circinale,252
+WP_027402303,gvpF,Unknown,Aphanizomenonaceae,245
+WP_026794826,gvpF,Unknown,Planktothrix agardhii,245
+WP_017300090,gvpF,Unknown,Nodosilinea nodulosa,244
+WP_017289406,gvpF,Unknown,Leptolyngbya,245
+WP_015229089,gvpF,Unknown,Dactylococcopsis salina,245
+WP_015224591,gvpF,Unknown,Halothece sp. PCC 7418,245
+WP_015171719,gvpF,Unknown,Geitlerinema sp. PCC 7407,246
+WP_015146564,gvpF,Unknown,Oxynema acuminatum,247
+WP_015080757,gvpF,Unknown,Nostocales,245
+WP_012408761,gvpF,Unknown,Nostoc punctiforme,247
+WP_011316971,gvpF,Unknown,Nostocaceae,244
+WP_010996406,gvpF,Unknown,Nostocaceae,244
+WP_008316406,gvpF,Unknown,Leptolyngbya sp. PCC 6406,248
+WP_008204891,gvpF,Unknown,unclassified Microcystis (in: cyanobacteria),244
+WP_007355102,gvpF,Unknown,Kamptonema,244
+WP_006635601,gvpF,Unknown,Microcoleus vaginatus,244
+WP_006626108,gvpF,Unknown,Limnospira,244
+WP_006616264,gvpF,Unknown,Limnospira,244
+WP_006276398,gvpF,Unknown,Cylindrospermopsis,247
+WP_006197964,gvpF,Unknown,Cyanophyceae,246
+WP_004056703,gvpF,Unknown,Haloferax,213
+WP_002803840,gvpF,Unknown,Microcystis,244
+WP_002796984,gvpF,Unknown,Microcystis,244
+WP_002786504,gvpF,Unknown,Microcystis,244
+WP_002780271,gvpF,Unknown,Microcystis aeruginosa,244
+WP_002758522,gvpF,Unknown,Microcystis,244
+WP_002755315,gvpF,Unknown,Oscillatoriophycideae,244
+WP_002747917,gvpF,Unknown,Microcystis aeruginosa,244
+WP_002737267,gvpF,Unknown,Microcystis,244
+WP_138244854,gvpF,Unknown,Natrinema,84
+WP_442908766,gvpF,Unknown,Halodesulfurarchaeum sp.,211
+WP_442908745,gvpF,Unknown,Halodesulfurarchaeum sp.,211
+WP_440764507,gvpF,Unknown,Natronorubrum sp. DTA7,84
+WP_090303663,gvpF,Unknown,Natronorubrum,84
+WP_124192752,gvpF,Unknown,Natrarchaeobius oligotrophus,84
+WP_369729629,gvpF,Unknown,Natrarchaeobius versutus,84
+WP_436344288,gvpF,Unknown,Natronorubrum sp. FCH18a,84
+WP_435186746,gvpF,Unknown,Halobellus sp. EA9,213
+WP_007143588,gvpF,Unknown,Natronobacterium,84
+WP_408958176,gvpF,Unknown,Natrinema sp. 74,84
+WP_407039559,gvpF,Unknown,Halovalidus salilacus,84
+WP_390283388,gvpF,Unknown,Haloarchaeobius amylolyticus,84
+WP_278302653,gvpF,Unknown,Natronococcus,84
+WP_252487171,gvpF,Unknown,Natrialbaceae,84
+WP_375796783,gvpF,Unknown,Halosegnis sp.,213
+WP_371162964,gvpF,Unknown,Halorubrum miltondacostae,213
+WP_374063117,gvpF,Unknown,Natrinema sp. H-ect4,84
+WP_373674327,gvpF,Unknown,Halopenitus sp. H-Gu1,214
+WP_373618834,gvpF,Unknown,Natrinema sp. HArc-T2,84
+WP_373606518,gvpF,Unknown,Natronorubrum sp. A-ect3,84
+WP_006650650,gvpF,Unknown,Natrinema,84
+WP_342809828,gvpF,Unknown,Natronosalvus hydrolyticus,84
+WP_251344613,gvpF,Unknown,Halobacteriales,212
+WP_339103146,gvpF,Unknown,Haloterrigena salinisoli,84
+WP_338001787,gvpF,Unknown,Natronoglomus mannanivorans,84
+WP_312912618,gvpF,Unknown,Natronosalvus caseinilyticus,87
+WP_310905596,gvpF,Unknown,Natrinema sp. 1APR25-10V2,84
+WP_306756671,gvpF,Unknown,Natronolimnohabitans sp. A-GB9,84
+WP_306059439,gvpF,Unknown,Natronococcus wangiae,84
+WP_293032459,gvpF,Unknown,Natronococcus sp.,84
+WP_290814029,gvpF,Unknown,Halovivax sp.,84
+WP_285927309,gvpF,Unknown,Natrialbaceae archaeon AArc-T1-2,84
+WP_283835228,gvpF,Unknown,Halostagnicola sp. A-GB9-2,84
+WP_278293266,gvpF,Unknown,Natronococcus sp. A-GB1,84
+WP_273740708,gvpF,Unknown,Natrinema soli,84
+WP_267662985,gvpF,Unknown,Halorubrum yunnanense,213
+WP_265111931,gvpF,Unknown,Halosolutus halophilus,84
+WP_263019419,gvpF,Unknown,Natronobiforma cellulositropha,84
+WP_255193949,gvpF,Unknown,Natronobeatus ordinarius,84
+WP_255167830,gvpF,Unknown,Natrononativus amylolyticus,84
+WP_254765723,gvpF,Unknown,Salinilacihabitans rarus,84
+WP_254530687,gvpF,Unknown,Natrinema gelatinilyticum,84
+WP_254524034,gvpF,Unknown,Natrinema caseinilyticum,84
+WP_254160623,gvpF,Unknown,Natronosalvus rutilus,87
+WP_253437981,gvpF,Unknown,Natronosalvus halobius,87
+WP_252701380,gvpF,Unknown,Natronosalvus vescus,90
+WP_250139721,gvpF,Unknown,Halosolutus amylolyticus,84
+WP_247001166,gvpF,Unknown,Halosolutus gelatinilyticus,84
+WP_246971316,gvpF,Unknown,Natribaculum luteum,84
+WP_227132929,gvpF,Unknown,Halorubellus salinus,83
+WP_226479408,gvpF,Unknown,Natrinema amylolyticum,84
+WP_226041791,gvpF,Unknown,Natrinema sp. DC36,84
+WP_226007123,gvpF,Unknown,Natrinema salinisoli,84
+WP_224827367,gvpF,Unknown,Saliphagus infecundisoli,84
+WP_222918712,gvpF,Unknown,Natrinema sp. SYSU A 869,84
+WP_207587678,gvpF,Unknown,Halomontanus rarus,84
+WP_207288915,gvpF,Unknown,Haloterrigena alkaliphila,84
+WP_207269845,gvpF,Unknown,Natrinema longum,84
+WP_205250695,gvpF,Unknown,Halobacterium,217
+WP_188786680,gvpF,Unknown,Halobellus salinus,213
+WP_181692581,gvpF,Unknown,Natronomonas sp. LN261,213
+WP_180841476,gvpF,Unknown,Natrinema zhouii,84
+WP_179259821,gvpF,Unknown,Natrinema halophilum,84
+WP_165161356,gvpF,Unknown,Natronolimnobius sp. AArcel1,84
+WP_163487431,gvpF,Unknown,Halogeometricum borinquense,213
+WP_160063335,gvpF,Unknown,Natronorubrum halalkaliphilum,84
+WP_152943451,gvpF,Unknown,Natronorubrum aibiense,84
+WP_149081289,gvpF,Unknown,Natrialba,84
+WP_148860447,gvpF,Unknown,Natronococcus pandeyae,84
+WP_145843680,gvpF,Unknown,Salarchaeum sp. JOR-1,213
+WP_144261479,gvpF,Unknown,Haloglomus irregulare,212
+WP_141465887,gvpF,Unknown,Salinadaptatus halalkaliphilus,84
+WP_138780115,gvpF,Unknown,Haloterrigena sp. H1,84
+WP_137288344,gvpF,Unknown,Natronorubrum halophilum,84
+WP_130499833,gvpF,Unknown,Natrinema hispanicum,84
+WP_130170634,gvpF,Unknown,Natrinema altunense,84
+WP_129786391,gvpF,Unknown,Halogeometricum borinquense,213
+WP_124194923,gvpF,Unknown,Natrarchaeobius chitinivorans,84
+WP_124177939,gvpF,Unknown,Natrarchaeobius halalkaliphilus,84
+WP_121744352,gvpF,Unknown,Natronorubrum halophilum,84
+WP_120244197,gvpF,Unknown,Halopiger aswanensis,84
+WP_117364024,gvpF,Unknown,Natrarchaeobaculum sulfurireducens,84
+WP_114575684,gvpF,Unknown,Saliphagus sp. LR7,84
+WP_098726916,gvpF,Unknown,Natrinema sp. CBA1119,84
+WP_097380015,gvpF,Unknown,Natrinema ejinorense,84
+WP_092931067,gvpF,Unknown,Natrinema hispanicum,84
+WP_092902478,gvpF,Unknown,Halostagnicola kamekurae,84
+WP_092733857,gvpF,Unknown,Halopenitus persicus,212
+WP_092531716,gvpF,Unknown,Halopelagius longus,84
+WP_090613428,gvpF,Unknown,Natrinema salaciae,84
+WP_090506851,gvpF,Unknown,Natronorubrum sediminis,84
+WP_090381756,gvpF,Unknown,Natronobacterium texcoconense,84
+WP_089386078,gvpF,Unknown,Halorubrum vacuolatum,212
+WP_087715548,gvpF,Unknown,Natronolimnobius baerhuensis,84
+WP_086886827,gvpF,Unknown,Natrarchaeobaculum aegyptiacum,84
+WP_076608219,gvpF,Unknown,Natronorubrum thiooxidans,84
+WP_076582327,gvpF,Unknown,Natronorubrum daqingense,84
+WP_076144964,gvpF,Unknown,Natrinema saccharevitans,84
+WP_050050392,gvpF,Unknown,Halostagnicola sp. A56,84
+WP_049989789,gvpF,Unknown,Natrinema salifodinae,84
+WP_049953134,gvpF,Unknown,Halostagnicola larsenii,84
+WP_049934340,gvpF,Unknown,Haloplanus natans,212
+WP_049926878,gvpF,Unknown,Halopiger goleimassiliensis,84
+WP_049924579,gvpF,Unknown,Halopiger djelfimassiliensis,84
+WP_015408780,gvpF,Unknown,Natronomonas moolapensis,213
+WP_015322025,gvpF,Unknown,Natronococcus occultus,84
+WP_013878363,gvpF,Unknown,Halopiger xanaduensis,84
+WP_012943533,gvpF,Unknown,Haloterrigena,84
+WP_010904105,gvpF,Unknown,Halobacterium,217
+WP_010890522,gvpF,Unknown,Halobacterium salinarum,213
+WP_008894732,gvpF,Unknown,Haloterrigena salina,84
+WP_008424560,gvpF,Unknown,Natronococcus,84
+WP_008159418,gvpF,Unknown,Natronorubrum sulfidifaciens,84
+WP_008012790,gvpF,Unknown,Natrinema limicola,84
+WP_007260759,gvpF,Unknown,Natronolimnohabitans innermongolicus,84
+WP_007109511,gvpF,Unknown,Natrinema altunense,84
+WP_006672157,gvpF,Unknown,Halobiforma nitratireducens,84
+WP_006665986,gvpF,Unknown,Natrialba,84
+WP_006432775,gvpF,Unknown,Natrinema versiforme,84
+WP_006184744,gvpF,Unknown,Natrinema pallidum,84
+WP_006182092,gvpF,Unknown,Natrinema pellirubrum,84
+WP_006168084,gvpF,Unknown,Natrialba,84
+WP_006108427,gvpF,Unknown,Natrialba asiatica,84
+WP_006088516,gvpF,Unknown,Natronorubrum tibetense,84
+WP_006067840,gvpF,Unknown,Natronorubrum bangense,84
+WP_006056152,gvpF,Unknown,Halogeometricum borinquense,213
+WP_005580864,gvpF,Unknown,Natronobacterium gregoryi,84
+WP_005558084,gvpF,Unknown,Natronococcus amylolyticus,84
+WP_004213823,gvpF,Unknown,Natrialba magadii,84

@@ -1,0 +1,11 @@
+{
+  "sequences": 165,
+  "alignment_length": 115,
+  "columns_with_90pct_coverage": 71,
+  "columns_with_50pct_coverage": 72,
+  "identity_to_consensus_min": 0.807692,
+  "identity_to_consensus_median": 0.930556,
+  "identity_to_consensus_max": 0.972222,
+  "outliers": 0,
+  "provisional_sources": 3
+}

@@ -1,0 +1,9 @@
+element_id,species,strength,sequence,description
+T_rrnB_01,Ecoli,1.26,TTTTTGCCTGGC,高效终止子
+T_syn_balanced_02,Anabaena,1.00,TTTTGCCATGGC,平衡终止效率
+T_weak_03,Bacillus,0.70,TTTTCCTATGGC,弱终止子
+T_gc_04,Halobacterium,0.86,TTTTGGCGTGGC,高GC终止子
+T_compact_05,Synechococcus,0.92,TTTTGCAATGGT,短序列终止子
+T_mod_06,Anabaena,1.10,TTTTGCCGTGGC,模块化终止子
+T_stable_07,Ecoli,1.18,TTTTGCGATGGC,高稳定性终止子
+T_low_burden_08,Bacillus,0.82,TTTTCGAATGGC,低负担终止子

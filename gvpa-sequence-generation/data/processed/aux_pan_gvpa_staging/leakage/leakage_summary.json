@@ -1,0 +1,11 @@
+{
+  "input_candidates": 655,
+  "included_safe": 550,
+  "excluded_heldout_similarity": 105,
+  "identity_threshold": 0.8,
+  "coverage_threshold": 0.8,
+  "maximum_reported_identity_among_safe": null,
+  "safe_hits_at_or_above_threshold": 0,
+  "blocked_valid_hits": 84,
+  "blocked_test_hits": 21
+}

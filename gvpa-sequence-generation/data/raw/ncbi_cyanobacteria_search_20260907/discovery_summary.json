@@ -1,0 +1,22 @@
+{
+  "retrieved_at_utc": "2026-09-07T06:33:40.635556+00:00",
+  "ncbi_taxonomy_scope": "txid1117[Organism:exp]",
+  "queries": {
+    "annotation": "(\"gas vesicle structural protein GvpA\"[Protein Name] OR \"gas vesicle protein GvpA\"[Protein Name] OR gvpA[Gene Name]) AND txid1117[Organism:exp] AND 50:150[Sequence Length]",
+    "prk09371": "PRK09371[All Fields] AND txid1117[Organism:exp]"
+  },
+  "query_translations": {
+    "annotation": "(\"gas vesicle structural protein GvpA\"[Protein Name] OR \"gas vesicle protein GvpA\"[Protein Name] OR gvpA[Gene Name]) AND txid1117[Organism:exp] AND 000050[SLEN] : 000150[SLEN]",
+    "prk09371": "PRK09371[All Fields] AND txid1117[Organism:exp]"
+  },
+  "counts": {
+    "annotation": 692,
+    "prk09371": 1115,
+    "intersection": 666,
+    "annotation_only": 26,
+    "prk09371_only": 449,
+    "union": 1141
+  },
+  "candidate_fasta_sha256": "c0e272f97d7b987103760fa2f3d6653c943e58b208a7fe0e495d3e7b8827a04a",
+  "warning": "Search hits are candidates, not automatically accepted training records."
+}

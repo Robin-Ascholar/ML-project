@@ -1,0 +1,9 @@
+element_id,species,strength,sequence,description
+RBS_consensus_01,Ecoli,1.28,AGGAGG,经典高效RBS
+RBS_balanced_02,Anabaena,1.02,AAGGAG,平衡型RBS
+RBS_low_03,Bacillus,0.72,AGGAAG,低翻译效率RBS
+RBS_gc_04,Halobacterium,0.88,GGAGGC,高GC背景RBS
+RBS_tunable_05,Synechococcus,1.10,AGGUGA,可调控RBS
+RBS_mod_06,Ecoli,0.95,AAGGUG,模块化RBS
+RBS_high_07,Anabaena,1.22,AGGAGU,高表达RBS
+RBS_safe_08,Bacillus,0.80,AGGUAG,稳健低负担RBS

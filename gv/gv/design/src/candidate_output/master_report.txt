@@ -1,0 +1,113 @@
+======================================================================
+候选新型Gvp序列可解释性分析报告
+生成时间: 2026-05-14 00:39
+======================================================================
+
+【候选序列总览】
+Rank  ID                  Model       Overall   Length  Novelty   
+----------------------------------------------------------------------
+1     transformer_gen_30  transformer 0.815     86      0.487     
+2     transformer_gen_85  transformer 0.813     87      0.464     
+3     transformer_gen_14  transformer 0.805     83      0.471     
+4     transformer_gen_21  transformer 0.802     91      0.449     
+5     transformer_gen_28  transformer 0.799     84      0.501     
+6     diffusion_gen_4     diffusion   0.797     99      0.503     
+7     transformer_gen_77  transformer 0.795     92      0.477     
+8     transformer_gen_69  transformer 0.794     92      0.496     
+9     transformer_gen_45  transformer 0.792     89      0.341     
+10    diffusion_gen_21    diffusion   0.789     98      0.504     
+
+【Top 5 候选详细说明】
+
+--- Rank 1: transformer_gen_30 ---
+序列: MASSGRRPDASLVLDRIDKGVVVDTWARISVVVVGIEILLTIEARVVVIASVDTFLHYAKIEIEQATVEEEAKLEMEVDTVDTSSS
+来源模型: transformer
+综合评分: 0.815 (fold=0.98, conserv=0.85, novelty=0.49, toxic=0.51)
+理化性质: 长度=86, MW≈9376Da, 电荷=-7, pI≈4.9
+结构倾向: 螺旋=40.7%, 折叠=37.2%, 无序=0.00
+与天然序列相似性: 34.9%
+预测定位: Cytoplasm/Membrane, 可溶性: 0.70
+聚集风险: Low risk
+保守性模式: 高度保守，保留核心功能
+
+摘要: 该序列为MASSGRRPDASLVLDRIDKG...（长度86），综合评分0.815，属于高质量候选。与天然序列有一定相似性（identity=34.9%）。
+优势: 折叠性优秀（0.98），结构稳定; 疏水性比例理想（48.8%），符合Gvp家族特征
+风险: 安全性评分较低（0.51），需验证细胞毒性
+建议: 建议：未检测到经典GvpA重复单元，可能影响gas vesicle形成
+检测到基序:
+  - charge_cluster @ 68: EEE (Potential protein-protein interaction interface)
+
+--- Rank 2: transformer_gen_85 ---
+序列: MAKVNSSSSLAEVDRIDRILDKGIVIDAWARVSLVGIEILTVEARVVIASVDTWLKYAVDTVGPERQATADTSLEEVESQVGPNPAS
+来源模型: transformer
+综合评分: 0.813 (fold=0.99, conserv=0.84, novelty=0.46, toxic=0.50)
+理化性质: 长度=87, MW≈9313Da, 电荷=-6, pI≈5.2
+结构倾向: 螺旋=39.1%, 折叠=32.2%, 无序=0.00
+与天然序列相似性: 66.7%
+预测定位: Cytoplasm/Membrane, 可溶性: 0.70
+聚集风险: Low risk
+保守性模式: 高度保守，保留核心功能
+
+摘要: 该序列为MAKVNSSSSLAEVDRIDRIL...（长度87），综合评分0.813，属于高质量候选。与天然序列有一定相似性（identity=66.7%）。
+优势: 折叠性优秀（0.99），结构稳定; 疏水性比例理想（46.0%），符合Gvp家族特征
+风险: 安全性评分较低（0.50），需验证细胞毒性
+建议: 建议：与天然序列过于相似，可引入更多变异提升新颖性
+检测到基序:
+  - GvpA_repeat_variant @ 8: SLAEV (Gas vesicle structural repeat unit)
+
+--- Rank 3: transformer_gen_14 ---
+序列: MAIQKSVDSSSLAEVVDRILDKGIVVIDAFARVSLVGIELLTVVVVIASVDTWLTWLRYAEASVERLATAESSLDKEASLDES
+来源模型: transformer
+综合评分: 0.805 (fold=0.99, conserv=0.86, novelty=0.47, toxic=0.48)
+理化性质: 长度=83, MW≈8955Da, 电荷=-7, pI≈4.9
+结构倾向: 螺旋=43.4%, 折叠=32.5%, 无序=0.00
+与天然序列相似性: 37.3%
+预测定位: Cytoplasm/Membrane, 可溶性: 0.70
+聚集风险: Moderate risk (review recommended)
+保守性模式: 高度保守，保留核心功能
+
+摘要: 该序列为MAIQKSVDSSSLAEVVDRIL...（长度83），综合评分0.805，属于高质量候选。与天然序列有一定相似性（identity=37.3%）。
+优势: 折叠性优秀（0.99），结构稳定; 疏水性比例理想（53.0%），符合Gvp家族特征
+风险: 安全性评分较低（0.48），需验证细胞毒性
+建议: 该候选序列综合表现良好，建议优先进行实验验证
+检测到基序:
+  - GvpA_repeat_variant @ 10: SLAEV (Gas vesicle structural repeat unit)
+
+--- Rank 4: transformer_gen_21 ---
+序列: MASPDRPDSSLAEVLDRILDKGVVIDTWARISVVGIEILTVEARIVVVVDTFLHYAHYAEIAKLEASQAEDGLEKEIEVDTPQASAQAEKS
+来源模型: transformer
+综合评分: 0.802 (fold=0.96, conserv=0.83, novelty=0.45, toxic=0.52)
+理化性质: 长度=91, MW≈9923Da, 电荷=-9, pI≈4.6
+结构倾向: 螺旋=47.3%, 折叠=29.7%, 无序=0.00
+与天然序列相似性: 53.0%
+预测定位: Cytoplasm/Membrane, 可溶性: 0.70
+聚集风险: Low risk
+保守性模式: 高度保守，保留核心功能
+
+摘要: 该序列为MASPDRPDSSLAEVLDRILD...（长度91），综合评分0.802，属于高质量候选。与天然序列有一定相似性（identity=53.0%）。
+优势: 折叠性优秀（0.96），结构稳定; 疏水性比例理想（47.3%），符合Gvp家族特征
+风险: 安全性评分较低（0.52），需验证细胞毒性
+建议: 建议：与天然序列过于相似，可引入更多变异提升新颖性
+检测到基序:
+  - GvpA_repeat_variant @ 9: SLAEV (Gas vesicle structural repeat unit)
+
+--- Rank 5: transformer_gen_28 ---
+序列: MAQPNTSSLAEVLDRILDKGIVVIDAWARVSVVGIEILTVEARVVVVASVDTFLHYASKAETAEEQASQASVELKVEVEVDTAS
+来源模型: transformer
+综合评分: 0.799 (fold=0.95, conserv=0.86, novelty=0.50, toxic=0.48)
+理化性质: 长度=84, MW≈8959Da, 电荷=-7, pI≈4.9
+结构倾向: 螺旋=45.2%, 折叠=34.5%, 无序=0.00
+与天然序列相似性: 35.5%
+预测定位: Cytoplasm/Membrane, 可溶性: 0.70
+聚集风险: Moderate risk (review recommended)
+保守性模式: 高度保守，保留核心功能
+
+摘要: 该序列为MAQPNTSSLAEVLDRILDKG...（长度84），综合评分0.799，具有进一步优化潜力。与天然序列有一定相似性（identity=35.5%）。
+优势: 折叠性优秀（0.95），结构稳定; 疏水性比例理想（51.2%），符合Gvp家族特征
+风险: 安全性评分较低（0.48），需验证细胞毒性
+建议: 该候选序列综合表现良好，建议优先进行实验验证
+检测到基序:
+  - GvpA_repeat_variant @ 7: SLAEV (Gas vesicle structural repeat unit)
+
+======================================================================
+报告结束

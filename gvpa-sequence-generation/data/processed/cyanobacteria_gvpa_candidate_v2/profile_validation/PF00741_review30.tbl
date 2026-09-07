@@ -1,0 +1,43 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+CAD5959729.1         -          Gas_vesicle          PF00741.24   1.5e-20   64.1   6.2   1.8e-20   63.9   6.2   1.1   1   0   0   1   1   1   1 decision=review taxid=1160 organism=Planktothrix agardhii
+WP_496081776.1       -          Gas_vesicle          PF00741.24     2e-20   63.8   6.3   2.7e-20   63.3   6.3   1.2   1   0   0   1   1   1   1 decision=review taxid=3100439 organism=Tildeniella sp.
+BAU13713.1           -          Gas_vesicle          PF00741.24   4.8e-20   62.5   5.9   4.8e-20   62.5   5.9   1.6   2   0   0   2   2   1   1 decision=review taxid=1752064 organism=Leptolyngbya sp. NIES-3755
+EGK83956.1           -          Gas_vesicle          PF00741.24     8e-20   61.8   4.4     1e-19   61.4   4.4   1.2   1   0   0   1   1   1   1 decision=review taxid=756067 organism=Microcoleus vaginatus FGP-2
+WP_502881973.1       -          Gas_vesicle          PF00741.24   9.7e-20   61.5   7.0   1.2e-19   61.2   7.0   1.1   1   0   0   1   1   1   1 decision=review taxid=3407010 organism=unclassified Microcystis (in: cyanobacteria)
+WP_506081038.1       -          Gas_vesicle          PF00741.24     1e-19   61.5   7.1   1.3e-19   61.1   7.1   1.1   1   0   0   1   1   1   1 decision=review taxid=3100574 organism=Thermocoleostomius sp.
+KEI66243.1           -          Gas_vesicle          PF00741.24   1.2e-19   61.3   5.9   1.6e-19   60.9   5.9   1.2   1   0   0   1   1   1   1 decision=review taxid=388467 organism=Planktothrix agardhii NIVA-CYA 126/8
+BAY57802.1           -          Gas_vesicle          PF00741.24   1.3e-19   61.1   5.0   1.8e-19   60.7   5.0   1.2   1   0   0   1   1   1   1 decision=review taxid=1973484 organism=Leptolyngbya boryana NIES-2135
+ABG51556.1           -          Gas_vesicle          PF00741.24   1.3e-19   61.1   4.4   2.2e-19   60.4   4.4   1.4   1   0   0   1   1   1   1 decision=review taxid=203124 organism=Trichodesmium erythraeum IMS101
+ELS32912.1           -          Gas_vesicle          PF00741.24   1.5e-19   61.0   7.2   2.6e-19   60.2   7.2   1.4   1   0   0   1   1   1   1 decision=review taxid=927668 organism=Pseudanabaena biceps PCC 7429
+AVZ29869.1           -          Gas_vesicle          PF00741.24   1.5e-19   60.9   4.2   2.1e-19   60.5   4.2   1.2   1   0   0   1   1   1   1 decision=review taxid=1914872 organism=Nodularia spumigena UHCC 0039
+AFY69108.1           -          Gas_vesicle          PF00741.24   1.6e-19   60.9   8.4   2.5e-19   60.2   8.4   1.4   1   0   0   1   1   1   1 decision=review taxid=82654 organism=Thalassoporum mexicanum PCC 7367
+WP_505716830.1       -          Gas_vesicle          PF00741.24   2.4e-19   60.3   7.1   3.2e-19   59.9   7.1   1.2   1   0   0   1   1   1   1 decision=review taxid=3100549 organism=Leptothermofonsia sp.
+ABA19701.1           -          Gas_vesicle          PF00741.24   2.4e-19   60.3   4.4   3.4e-19   59.8   4.4   1.2   1   0   0   1   1   1   1 decision=review taxid=240292 organism=Trichormus variabilis ATCC 29413
+ABG51552.1           -          Gas_vesicle          PF00741.24   4.7e-19   59.4   4.8   7.2e-19   58.8   4.8   1.3   1   0   0   1   1   1   1 decision=review taxid=203124 organism=Trichodesmium erythraeum IMS101
+GEA25652.1           -          Gas_vesicle          PF00741.24     5e-19   59.3   6.0   6.3e-19   59.0   6.0   1.1   1   0   0   1   1   1   1 decision=review taxid=2569534 organism=Microcystis aeruginosa NIES-4325
+WP_017322549.1       -          Gas_vesicle          PF00741.24   6.3e-19   58.9   6.9   7.9e-19   58.6   6.9   1.1   1   0   0   1   1   1   1 decision=review taxid=28069 organism=Chlorogloeopsis sp.
+BAY27787.1           -          Gas_vesicle          PF00741.24   7.1e-19   58.8   7.0     1e-18   58.3   7.0   1.2   1   0   0   1   1   1   1 decision=review taxid=1954172 organism=Calothrix sp. NIES-2100
+EKD11655.1           -          Gas_vesicle          PF00741.24     8e-19   58.6   5.3     1e-18   58.3   5.3   1.1   1   0   0   1   1   1   1 decision=review taxid=459495 organism=Limnospira platensis C1
+AFZ42717.1           -          Gas_vesicle          PF00741.24   8.6e-19   58.5   4.8   1.1e-18   58.1   4.8   1.2   1   0   0   1   1   1   1 decision=review taxid=65093 organism=Halothece sp. PCC 7418
+EDZ91859.1           -          Gas_vesicle          PF00741.24     1e-18   58.3   5.3   1.3e-18   57.9   5.3   1.1   1   0   0   1   1   1   1 decision=review taxid=513049 organism=Limnospira maxima CS-328
+CBN58421.1           -          Gas_vesicle          PF00741.24   1.6e-18   57.6   5.5   2.2e-18   57.2   5.5   1.2   1   0   0   1   1   1   1 decision=review taxid=272129 organism=Kamptonema sp. PCC 6506
+AOC53260.1           -          Gas_vesicle          PF00741.24   2.4e-18   57.1   5.2   2.8e-18   56.9   5.2   1.1   1   0   0   1   1   1   1 decision=review taxid=1698524 organism=Microcystis aeruginosa NIES-2481
+AFY65454.1           -          Gas_vesicle          PF00741.24   6.3e-18   55.8   4.6   8.6e-18   55.3   4.6   1.2   1   0   0   1   1   1   1 decision=review taxid=1173025 organism=Geitlerinema sp. PCC 7407
+WP_502249006.1       -          Gas_vesicle          PF00741.24   4.1e-17   53.1   7.2   5.2e-17   52.8   7.2   1.1   1   0   0   1   1   1   1 decision=review taxid=2934970 organism=Lyngbya flaviceps
+EGK83957.1           -          Gas_vesicle          PF00741.24   8.6e-17   52.1   9.0   1.4e-16   51.4   9.0   1.4   1   0   0   1   1   1   1 decision=review taxid=756067 organism=Microcoleus vaginatus FGP-2
+BAY44721.1           -          Gas_vesicle          PF00741.24   8.7e-17   52.1   9.0   1.3e-16   51.5   9.0   1.3   1   0   0   1   1   1   1 decision=review taxid=1137095 organism=Scytonema sp. HK-05
+BAZ26415.1           -          Gas_vesicle          PF00741.24   9.8e-17   51.9   9.0   1.5e-16   51.3   9.0   1.3   1   0   0   1   1   1   1 decision=review taxid=2005464 organism=Kalymmatonema gypsitolerans NIES-4073
+ABG51545.1           -          Gas_vesicle          PF00741.24   6.6e-13   39.7   5.0   8.4e-13   39.3   5.0   1.1   1   0   0   1   1   1   1 decision=review taxid=203124 organism=Trichodesmium erythraeum IMS101
+ABG51544.1           -          Gas_vesicle          PF00741.24     3e-11   34.4   1.1     5e-11   33.7   1.1   1.4   1   0   0   1   1   1   1 decision=review taxid=203124 organism=Trichodesmium erythraeum IMS101
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      data/raw/profiles/PF00741.hmm
+# Target file:     data/processed/ncbi_cyanobacteria_audit_20260907/review.fasta
+# Option settings: /tmp/gvpa-mmseqs-env/bin/hmmsearch --tblout data/processed/cyanobacteria_gvpa_candidate_v2/profile_validation/PF00741_review30.tbl --cut_ga --cpu 4 data/raw/profiles/PF00741.hmm data/processed/ncbi_cyanobacteria_audit_20260907/review.fasta 
+# Current dir:     /home/robin/ML-project/gvpa-sequence-generation
+# Date:            Mon Sep  7 15:10:32 2026
+# [ok]

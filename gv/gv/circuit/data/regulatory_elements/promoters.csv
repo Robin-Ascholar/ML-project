@@ -1,0 +1,9 @@
+element_id,species,strength,sequence,description
+P_syn_strong_01,Anabaena,1.35,TTGACA-N17-TATAAT,高强度合成启动子
+P_syn_medium_02,Anabaena,1.00,TTGACA-N17-TATGAT,中等强度启动子
+P_nif_native_03,Halobacterium,0.86,TAGACA-N17-TATACT,氮代谢相关天然启动子
+P_oxy_resp_04,Bacillus,0.78,TTGAAA-N16-TATAAT,氧响应启动子
+P_stress_05,Ecoli,0.92,TTGACA-N18-TAAAAT,应激调控启动子
+P_tunable_06,Synechococcus,1.12,CTGACA-N17-TATAAT,可调强度启动子
+P_mod_07,Anabaena,0.68,TTGCCA-N16-TATAAT,弱表达模块启动子
+P_logic_08,Ecoli,1.24,TTGACA-N17-TACAAT,逻辑门输入启动子

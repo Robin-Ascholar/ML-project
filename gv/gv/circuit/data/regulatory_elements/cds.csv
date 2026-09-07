@@ -1,0 +1,9 @@
+element_id,species,strength,sequence,description
+CDS_gvpA_opt_01,Anabaena,1.30,ATG...TAA,gvpA密码子优化版本
+CDS_gvpA_native_02,Halobacterium,0.94,ATG...TGA,gvpA天然版本
+CDS_gvpC_opt_03,Ecoli,1.08,ATG...TAG,gvpC优化编码序列
+CDS_gvpN_mod_04,Synechococcus,0.86,ATG...TAA,gvpN模块化版本
+CDS_gvpF_compact_05,Bacillus,0.76,ATG...TGA,紧凑型结构蛋白编码序列
+CDS_gvpE_reg_06,Anabaena,1.12,ATG...TAG,调控因子编码序列
+CDS_combo_07,Ecoli,1.18,ATG...TAA,跨物种兼容编码序列
+CDS_safe_08,Bacillus,0.84,ATG...TAG,低代谢负担编码序列

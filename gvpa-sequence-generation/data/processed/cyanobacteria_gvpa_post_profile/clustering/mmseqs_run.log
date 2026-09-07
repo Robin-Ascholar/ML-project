@@ -1,0 +1,769 @@
+Create directory data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95
+easy-cluster data/processed/cyanobacteria_gvpa_post_profile/staging.fasta data/processed/cyanobacteria_gvpa_post_profile/clustering/mmseqs_95 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95 --min-seq-id 0.95 -c 0.8 --cov-mode 0 --threads 4 
+
+MMseqs Version:                     	18.8cc5c
+Substitution matrix                 	aa:blosum62.out,nucl:nucleotide.out
+Seed substitution matrix            	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                         	4
+k-mer length                        	0
+Target search mode                  	0
+k-score                             	seq:2147483647,prof:2147483647
+Alphabet size                       	aa:21,nucl:5
+Max sequence length                 	65535
+Max results per query               	20
+Split database                      	0
+Split mode                          	2
+Split memory limit                  	0
+Coverage threshold                  	0.8
+Coverage mode                       	0
+Compositional bias                  	1
+Compositional bias scale            	1
+Diagonal scoring                    	true
+Exact k-mer matching                	0
+Mask residues                       	1
+Mask residues probability           	0.9
+Mask lower case residues            	0
+Mask lower letter repeating N times 	0
+Minimum diagonal score              	15
+Selected taxa                       	
+Include identical seq. id.          	false
+Spaced k-mers                       	1
+Preload mode                        	0
+Pseudo count a                      	substitution:1.100,context:1.400
+Pseudo count b                      	substitution:4.100,context:5.800
+Spaced k-mer pattern                	
+Local temporary path                	
+Threads                             	4
+Compressed                          	0
+Verbosity                           	3
+Add backtrace                       	false
+Alignment mode                      	3
+Alignment mode                      	0
+Allow wrapped scoring               	false
+E-value threshold                   	0.001
+Seq. id. threshold                  	0.95
+Min alignment length                	0
+Seq. id. mode                       	0
+Alternative alignments              	0
+Max reject                          	2147483647
+Max accept                          	2147483647
+Score bias                          	0
+Realign hits                        	false
+Realign score bias                  	-0.2
+Realign max seqs                    	2147483647
+Correlation score weight            	0
+Gap open cost                       	aa:11,nucl:5
+Gap extension cost                  	aa:1,nucl:2
+Zdrop                               	40
+Rescore mode                        	0
+Remove hits by seq. id. and coverage	false
+Sort results                        	0
+Cluster mode                        	0
+Max connected component depth       	1000
+Similarity type                     	2
+Weight file name                    	
+Cluster Weight threshold            	0.9
+Single step clustering              	false
+Cascaded clustering steps           	3
+Cluster reassign                    	false
+Remove temporary files              	true
+Force restart with latest tmp       	false
+MPI runner                          	
+k-mers per sequence                 	21
+Scale k-mers per sequence           	aa:0.000,nucl:0.200
+Adjust k-mer length                 	false
+Shift hash                          	67
+Include only extendable             	false
+Skip repeating k-mers               	false
+Database type                       	0
+Shuffle input database              	true
+Createdb mode                       	1
+Write lookup file                   	0
+Offset of numeric ids               	0
+Use GPU                             	0
+
+createdb data/processed/cyanobacteria_gvpa_post_profile/staging.fasta data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input --createdb-mode 1 --write-lookup 0 --threads 4 
+
+Shuffle database cannot be combined with --createdb-mode 1
+We recompute with --shuffle 0
+Converting sequences
+[Multiline fasta can not be combined with --createdb-mode 0
+We recompute with --createdb-mode 1
+Time for merging to input_h: 0h 0m 0s 0ms
+Time for merging to input: 0h 0m 0s 0ms
+[
+Time for merging to input_h: 0h 0m 0s 0ms
+Time for merging to input: 0h 0m 0s 0ms
+Database type: Aminoacid
+Time for processing: 0h 0m 0s 4ms
+Create directory data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp
+cluster data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp --max-seqs 20 -c 0.8 --cov-mode 0 --spaced-kmer-mode 1 --threads 4 --alignment-mode 3 -e 0.001 --min-seq-id 0.95 --remove-tmp-files 1 
+
+Set cluster sensitivity to -s 1.000000
+Set cluster mode SET COVER
+Set cluster iterations to 1
+linclust data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/clu_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust --cluster-mode 0 --max-iterations 1000 --similarity-type 2 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.95 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.8 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 0 --comp-bias-corr-scale 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:11,nucl:5 --gap-extend aa:1,nucl:2 --zdrop 40 --alph-size aa:13,nucl:5 --kmer-per-seq 21 --spaced-kmer-mode 1 --kmer-per-seq-scale aa:0.000,nucl:0.200 --adjust-kmer-len 0 --mask 0 --mask-prob 0.9 --mask-lower-case 0 --mask-n-repeat 0 -k 0 --hash-shift 67 --split-memory-limit 0 --include-only-extendable 0 --ignore-multi-kmer 0 --rescore-mode 0 --filter-hits 0 --sort-results 0 --remove-tmp-files 1 --force-reuse 0 
+
+kmermatcher data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --alph-size aa:13,nucl:5 --min-seq-id 0.95 --kmer-per-seq 21 --spaced-kmer-mode 1 --kmer-per-seq-scale aa:0.000,nucl:0.200 --adjust-kmer-len 0 --mask 0 --mask-prob 0.9 --mask-lower-case 0 --mask-n-repeat 0 --cov-mode 0 -k 0 -c 0.8 --max-seq-len 65535 --hash-shift 67 --split-memory-limit 0 --include-only-extendable 0 --ignore-multi-kmer 0 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 
+
+kmermatcher data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --alph-size aa:13,nucl:5 --min-seq-id 0.95 --kmer-per-seq 21 --spaced-kmer-mode 1 --kmer-per-seq-scale aa:0.000,nucl:0.200 --adjust-kmer-len 0 --mask 0 --mask-prob 0.9 --mask-lower-case 0 --mask-n-repeat 0 --cov-mode 0 -k 0 -c 0.8 --max-seq-len 65535 --hash-shift 67 --split-memory-limit 0 --include-only-extendable 0 --ignore-multi-kmer 0 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 
+
+Database size: 165 type: Aminoacid
+Reduced amino acid alphabet: (A S T) (C) (D B N) (E Q Z) (F Y) (G) (H) (I V) (K R) (L J M) (P) (W) (X) 
+
+Generate k-mers list for 1 split
+[=================================================================] 165 0s 2ms
+Sort kmer 0h 0m 0s 0ms
+Sort by rep. sequence 0h 0m 0s 0ms
+Time for fill: 0h 0m 0s 0ms
+Time for merging to pref: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 9ms
+rescorediagonal data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_rescore1 --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --rescore-mode 0 --wrapped-scoring 0 --filter-hits 0 -e 0.001 -c 0.8 -a 0 --cov-mode 0 --min-seq-id 0.95 --min-aln-len 0 --seq-id-mode 0 --add-self-matches 0 --sort-results 0 --db-load-mode 0 --threads 4 --compressed 0 -v 3 
+
+[=================================================================] 165 0s 0ms
+Time for merging to pref_rescore1: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 2ms
+clust data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_rescore1 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pre_clust --cluster-mode 0 --max-iterations 1000 --similarity-type 2 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 
+
+Clustering mode: Set Cover
+[=================================================================] 165 0s 0ms
+Sort entries
+Find missing connections
+Found 118 new connections.
+Reconstruct initial order
+[=================================================================] 165 0s 0ms
+Add missing connections
+[=================================================================] 165 0s 0ms
+
+Time for read in: 0h 0m 0s 1ms
+Total time: 0h 0m 0s 1ms
+
+Size of the sequence database: 165
+Size of the alignment database: 165
+Number of clusters: 84
+
+Writing results 0h 0m 0s 0ms
+Time for merging to pre_clust: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+createsubdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/order_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/input_step_redundancy -v 3 --subdb-mode 1 
+
+Time for merging to input_step_redundancy: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+createsubdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/order_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_filter1 -v 3 --subdb-mode 1 
+
+Time for merging to pref_filter1: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+filterdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_filter1 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_filter2 --filter-file data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/order_redundancy --threads 4 --compressed 0 -v 3 
+
+Filtering using file(s)
+[=================================================================] 84 0s 0ms
+Time for merging to pref_filter2: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+rescorediagonal data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_filter2 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_rescore2 --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --rescore-mode 1 --wrapped-scoring 0 --filter-hits 1 -e 0.001 -c 0.8 -a 0 --cov-mode 0 --min-seq-id 0.95 --min-aln-len 0 --seq-id-mode 0 --add-self-matches 0 --sort-results 0 --db-load-mode 0 --threads 4 --compressed 0 -v 3 
+
+[=================================================================] 84 0s 0ms
+Time for merging to pref_rescore2: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+align data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_rescore2 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/aln --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.95 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.8 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 0 --comp-bias-corr-scale 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:11,nucl:5 --gap-extend aa:1,nucl:2 --zdrop 40 --threads 4 --compressed 0 -v 3 
+
+Compute score, coverage and sequence identity
+Query database size: 84 type: Aminoacid
+Target database size: 84 type: Aminoacid
+Calculation of alignments
+[=================================================================] 84 0s 0ms
+Time for merging to aln: 0h 0m 0s 0ms
+137 alignments calculated
+88 sequence pairs passed the thresholds (0.642336 of overall calculated)
+1.047619 hits per query sequence
+Time for processing: 0h 0m 0s 2ms
+clust data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/aln data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/clust --cluster-mode 0 --max-iterations 1000 --similarity-type 2 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 
+
+Clustering mode: Set Cover
+[=================================================================] 84 0s 0ms
+Sort entries
+Find missing connections
+Found 4 new connections.
+Reconstruct initial order
+[=================================================================] 84 0s 0ms
+Add missing connections
+[=================================================================] 84 0s 0ms
+
+Time for read in: 0h 0m 0s 0ms
+Total time: 0h 0m 0s 0ms
+
+Size of the sequence database: 84
+Size of the alignment database: 84
+Number of clusters: 80
+
+Writing results 0h 0m 0s 0ms
+Time for merging to clust: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+mergeclusters data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/clu_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pre_clust data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/clust --threads 4 --compressed 0 -v 3 
+
+Clustering step 1
+[=================================================================] 84 0s 0ms
+Clustering step 2
+[=================================================================] 80 0s 0ms
+Write merged clustering
+[=================================================================] 165 0s 0ms
+Time for merging to clu_redundancy: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_filter1 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_rescore1 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pre_clust -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/input_step_redundancy -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/input_step_redundancy_h -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_filter2 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/pref_rescore2 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/aln -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/linclust/5219019183471968854/clust -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+createsubdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/clu_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/input_step_redundancy -v 3 --subdb-mode 1 
+
+Time for merging to input_step_redundancy: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+prefilter data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/pref_step0 --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --seed-sub-mat 'aa:VTML80.out,nucl:nucleotide.out' -s 1 -k 0 --target-search-mode 0 --k-score seq:2147483647,prof:2147483647 --alph-size aa:21,nucl:5 --max-seq-len 65535 --max-seqs 20 --split 0 --split-mode 2 --split-memory-limit 0 -c 0.8 --cov-mode 0 --comp-bias-corr 0 --comp-bias-corr-scale 1 --diag-score 0 --exact-kmer-matching 0 --mask 1 --mask-prob 0.9 --mask-lower-case 0 --mask-n-repeat 0 --min-ungapped-score 0 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --threads 4 --compressed 0 -v 3 
+
+Query database size: 80 type: Aminoacid
+Estimated memory consumption: 977M
+Target database size: 80 type: Aminoacid
+Index table k-mer threshold: 154 at k-mer size 6 
+Index table: counting k-mers
+[=================================================================] 80 0s 0ms
+Index table: Masked residues: 0
+Index table: fill
+[=================================================================] 80 0s 0ms
+Index statistics
+Entries:          610
+DB size:          488 MB
+Avg k-mer size:   0.000010
+Top 10 k-mers
+    YLYEGL	79
+    AWRSGI	68
+    LDGVAW	67
+    IVDWVS	60
+    RIDGID	48
+    IDWRLV	47
+    VDWRLV	30
+    DKIIWV	29
+    RIDGVD	28
+    DKIVWV	25
+Time for index table init: 0h 0m 0s 301ms
+Process prefiltering step 1 of 1
+
+k-mer similarity threshold: 154
+Starting prefiltering scores calculation (step 1 of 1)
+Query db start 1 to 80
+Target db start 1 to 80
+[=================================================================] 80 0s 2ms
+
+0.129407 k-mers per position
+337 DB matches per sequence
+0 overflows
+20 sequences passed prefiltering per query sequence
+20 median result list length
+0 sequences with 0 size result lists
+Time for merging to pref_step0: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 711ms
+align data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/pref_step0 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/aln_step0 --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.95 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.8 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 0 --comp-bias-corr-scale 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:11,nucl:5 --gap-extend aa:1,nucl:2 --zdrop 40 --threads 4 --compressed 0 -v 3 
+
+Compute score, coverage and sequence identity
+Query database size: 80 type: Aminoacid
+Target database size: 80 type: Aminoacid
+Calculation of alignments
+[=================================================================] 80 0s 4ms
+Time for merging to aln_step0: 0h 0m 0s 0ms
+1552 alignments calculated
+325 sequence pairs passed the thresholds (0.209407 of overall calculated)
+4.062500 hits per query sequence
+Time for processing: 0h 0m 0s 6ms
+clust data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/aln_step0 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/clu_step0 --cluster-mode 0 --max-iterations 1000 --similarity-type 2 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 
+
+Clustering mode: Set Cover
+[=================================================================] 80 0s 0ms
+Sort entries
+Find missing connections
+Found 45 new connections.
+Reconstruct initial order
+[=================================================================] 80 0s 0ms
+Add missing connections
+[=================================================================] 80 0s 0ms
+
+Time for read in: 0h 0m 0s 0ms
+Total time: 0h 0m 0s 0ms
+
+Size of the sequence database: 80
+Size of the alignment database: 80
+Number of clusters: 35
+
+Writing results 0h 0m 0s 0ms
+Time for merging to clu_step0: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+mergeclusters data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/clu_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/clu_step0 --threads 4 --compressed 0 -v 3 
+
+Clustering step 1
+[=================================================================] 80 0s 0ms
+Clustering step 2
+[=================================================================] 35 0s 0ms
+Write merged clustering
+[=================================================================] 165 0s 0ms
+Time for merging to clu: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/clu_redundancy -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/input_step_redundancy -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/input_step_redundancy_h -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/pref_step0 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/aln_step0 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_tmp/17185463075418344953/clu_step0 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+createtsv data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/cluster.tsv --threads 4 -v 3 
+
+Time for merging to cluster.tsv: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+result2repseq data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_rep --db-load-mode 0 --compressed 0 --threads 4 -v 3 
+
+[=================================================================] 35 0s 0ms
+Time for merging to clu_rep: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+result2flat data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_rep data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/rep_seq.fasta --use-fasta-header -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+createseqfiledb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_seqs --threads 4 -v 3 
+
+[=================================================================] 35 0s 0ms
+Time for merging to clu_seqs: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+result2flat data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_seqs data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/all_seqs.fasta -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/input_h -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_seqs -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu_rep -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_95/9169720541935815414/clu -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+Create directory data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90
+easy-cluster data/processed/cyanobacteria_gvpa_post_profile/staging.fasta data/processed/cyanobacteria_gvpa_post_profile/clustering/mmseqs_90 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90 --min-seq-id 0.90 -c 0.8 --cov-mode 0 --threads 4 
+
+MMseqs Version:                     	18.8cc5c
+Substitution matrix                 	aa:blosum62.out,nucl:nucleotide.out
+Seed substitution matrix            	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                         	4
+k-mer length                        	0
+Target search mode                  	0
+k-score                             	seq:2147483647,prof:2147483647
+Alphabet size                       	aa:21,nucl:5
+Max sequence length                 	65535
+Max results per query               	20
+Split database                      	0
+Split mode                          	2
+Split memory limit                  	0
+Coverage threshold                  	0.8
+Coverage mode                       	0
+Compositional bias                  	1
+Compositional bias scale            	1
+Diagonal scoring                    	true
+Exact k-mer matching                	0
+Mask residues                       	1
+Mask residues probability           	0.9
+Mask lower case residues            	0
+Mask lower letter repeating N times 	0
+Minimum diagonal score              	15
+Selected taxa                       	
+Include identical seq. id.          	false
+Spaced k-mers                       	1
+Preload mode                        	0
+Pseudo count a                      	substitution:1.100,context:1.400
+Pseudo count b                      	substitution:4.100,context:5.800
+Spaced k-mer pattern                	
+Local temporary path                	
+Threads                             	4
+Compressed                          	0
+Verbosity                           	3
+Add backtrace                       	false
+Alignment mode                      	3
+Alignment mode                      	0
+Allow wrapped scoring               	false
+E-value threshold                   	0.001
+Seq. id. threshold                  	0.9
+Min alignment length                	0
+Seq. id. mode                       	0
+Alternative alignments              	0
+Max reject                          	2147483647
+Max accept                          	2147483647
+Score bias                          	0
+Realign hits                        	false
+Realign score bias                  	-0.2
+Realign max seqs                    	2147483647
+Correlation score weight            	0
+Gap open cost                       	aa:11,nucl:5
+Gap extension cost                  	aa:1,nucl:2
+Zdrop                               	40
+Rescore mode                        	0
+Remove hits by seq. id. and coverage	false
+Sort results                        	0
+Cluster mode                        	0
+Max connected component depth       	1000
+Similarity type                     	2
+Weight file name                    	
+Cluster Weight threshold            	0.9
+Single step clustering              	false
+Cascaded clustering steps           	3
+Cluster reassign                    	false
+Remove temporary files              	true
+Force restart with latest tmp       	false
+MPI runner                          	
+k-mers per sequence                 	21
+Scale k-mers per sequence           	aa:0.000,nucl:0.200
+Adjust k-mer length                 	false
+Shift hash                          	67
+Include only extendable             	false
+Skip repeating k-mers               	false
+Database type                       	0
+Shuffle input database              	true
+Createdb mode                       	1
+Write lookup file                   	0
+Offset of numeric ids               	0
+Use GPU                             	0
+
+createdb data/processed/cyanobacteria_gvpa_post_profile/staging.fasta data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input --createdb-mode 1 --write-lookup 0 --threads 4 
+
+Shuffle database cannot be combined with --createdb-mode 1
+We recompute with --shuffle 0
+Converting sequences
+[Multiline fasta can not be combined with --createdb-mode 0
+We recompute with --createdb-mode 1
+Time for merging to input_h: 0h 0m 0s 0ms
+Time for merging to input: 0h 0m 0s 0ms
+[
+Time for merging to input_h: 0h 0m 0s 0ms
+Time for merging to input: 0h 0m 0s 0ms
+Database type: Aminoacid
+Time for processing: 0h 0m 0s 1ms
+Create directory data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp
+cluster data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp --max-seqs 20 -c 0.8 --cov-mode 0 --spaced-kmer-mode 1 --threads 4 --alignment-mode 3 -e 0.001 --min-seq-id 0.9 --remove-tmp-files 1 
+
+Set cluster sensitivity to -s 1.000000
+Set cluster mode SET COVER
+Set cluster iterations to 1
+linclust data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/clu_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust --cluster-mode 0 --max-iterations 1000 --similarity-type 2 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.9 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.8 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 0 --comp-bias-corr-scale 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:11,nucl:5 --gap-extend aa:1,nucl:2 --zdrop 40 --alph-size aa:13,nucl:5 --kmer-per-seq 21 --spaced-kmer-mode 1 --kmer-per-seq-scale aa:0.000,nucl:0.200 --adjust-kmer-len 0 --mask 0 --mask-prob 0.9 --mask-lower-case 0 --mask-n-repeat 0 -k 0 --hash-shift 67 --split-memory-limit 0 --include-only-extendable 0 --ignore-multi-kmer 0 --rescore-mode 0 --filter-hits 0 --sort-results 0 --remove-tmp-files 1 --force-reuse 0 
+
+kmermatcher data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --alph-size aa:13,nucl:5 --min-seq-id 0.9 --kmer-per-seq 21 --spaced-kmer-mode 1 --kmer-per-seq-scale aa:0.000,nucl:0.200 --adjust-kmer-len 0 --mask 0 --mask-prob 0.9 --mask-lower-case 0 --mask-n-repeat 0 --cov-mode 0 -k 0 -c 0.8 --max-seq-len 65535 --hash-shift 67 --split-memory-limit 0 --include-only-extendable 0 --ignore-multi-kmer 0 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 
+
+kmermatcher data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --alph-size aa:13,nucl:5 --min-seq-id 0.9 --kmer-per-seq 21 --spaced-kmer-mode 1 --kmer-per-seq-scale aa:0.000,nucl:0.200 --adjust-kmer-len 0 --mask 0 --mask-prob 0.9 --mask-lower-case 0 --mask-n-repeat 0 --cov-mode 0 -k 0 -c 0.8 --max-seq-len 65535 --hash-shift 67 --split-memory-limit 0 --include-only-extendable 0 --ignore-multi-kmer 0 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 
+
+Database size: 165 type: Aminoacid
+Reduced amino acid alphabet: (A S T) (C) (D B N) (E Q Z) (F Y) (G) (H) (I V) (K R) (L J M) (P) (W) (X) 
+
+Generate k-mers list for 1 split
+[=================================================================] 165 0s 0ms
+Sort kmer 0h 0m 0s 0ms
+Sort by rep. sequence 0h 0m 0s 0ms
+Time for fill: 0h 0m 0s 0ms
+Time for merging to pref: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 5ms
+rescorediagonal data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_rescore1 --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --rescore-mode 0 --wrapped-scoring 0 --filter-hits 0 -e 0.001 -c 0.8 -a 0 --cov-mode 0 --min-seq-id 0.9 --min-aln-len 0 --seq-id-mode 0 --add-self-matches 0 --sort-results 0 --db-load-mode 0 --threads 4 --compressed 0 -v 3 
+
+[===============================================================] 165 =0s 0ms
+=Time for merging to pref_rescore1: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+clust data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_rescore1 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pre_clust --cluster-mode 0 --max-iterations 1000 --similarity-type 2 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 
+
+Clustering mode: Set Cover
+[=================================================================] 165 0s 0ms
+Sort entries
+Find missing connections
+Found 282 new connections.
+Reconstruct initial order
+[=================================================================] 165 0s 0ms
+Add missing connections
+[=================================================================] 165 0s 0ms
+
+Time for read in: 0h 0m 0s 0ms
+Total time: 0h 0m 0s 0ms
+
+Size of the sequence database: 165
+Size of the alignment database: 165
+Number of clusters: 34
+
+Writing results 0h 0m 0s 0ms
+Time for merging to pre_clust: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+createsubdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/order_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/input_step_redundancy -v 3 --subdb-mode 1 
+
+Time for merging to input_step_redundancy: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+createsubdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/order_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_filter1 -v 3 --subdb-mode 1 
+
+Time for merging to pref_filter1: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+filterdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_filter1 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_filter2 --filter-file data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/order_redundancy --threads 4 --compressed 0 -v 3 
+
+Filtering using file(s)
+[=================================================================] 34 0s 0ms
+Time for merging to pref_filter2: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+rescorediagonal data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_filter2 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_rescore2 --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --rescore-mode 1 --wrapped-scoring 0 --filter-hits 1 -e 0.001 -c 0.8 -a 0 --cov-mode 0 --min-seq-id 0.9 --min-aln-len 0 --seq-id-mode 0 --add-self-matches 0 --sort-results 0 --db-load-mode 0 --threads 4 --compressed 0 -v 3 
+
+[================================================================] 34 0s 0ms
+=Time for merging to pref_rescore2: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+align data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_rescore2 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/aln --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.9 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.8 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 0 --comp-bias-corr-scale 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:11,nucl:5 --gap-extend aa:1,nucl:2 --zdrop 40 --threads 4 --compressed 0 -v 3 
+
+Compute score, coverage and sequence identity
+Query database size: 34 type: Aminoacid
+Target database size: 34 type: Aminoacid
+Calculation of alignments
+[=================================================================] 34 0s 0ms
+Time for merging to aln: 0h 0m 0s 0ms
+89 alignments calculated
+38 sequence pairs passed the thresholds (0.426966 of overall calculated)
+1.117647 hits per query sequence
+Time for processing: 0h 0m 0s 2ms
+clust data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/aln data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/clust --cluster-mode 0 --max-iterations 1000 --similarity-type 2 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 
+
+Clustering mode: Set Cover
+[=================================================================] 34 0s 0ms
+Sort entries
+Find missing connections
+Found 4 new connections.
+Reconstruct initial order
+[=================================================================] 34 0s 0ms
+Add missing connections
+[=================================================================] 34 0s 0ms
+
+Time for read in: 0h 0m 0s 0ms
+Total time: 0h 0m 0s 0ms
+
+Size of the sequence database: 34
+Size of the alignment database: 34
+Number of clusters: 30
+
+Writing results 0h 0m 0s 0ms
+Time for merging to clust: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+mergeclusters data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/clu_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pre_clust data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/clust --threads 4 --compressed 0 -v 3 
+
+Clustering step 1
+[=================================================================] 34 0s 0ms
+Clustering step 2
+[=================================================================] 30 0s 0ms
+Write merged clustering
+[=================================================================] 165 0s 0ms
+Time for merging to clu_redundancy: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_filter1 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_rescore1 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pre_clust -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/input_step_redundancy -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/input_step_redundancy_h -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_filter2 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/pref_rescore2 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/aln -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/linclust/1250096147092813314/clust -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+createsubdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/clu_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/input_step_redundancy -v 3 --subdb-mode 1 
+
+Time for merging to input_step_redundancy: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+prefilter data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/pref_step0 --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' --seed-sub-mat 'aa:VTML80.out,nucl:nucleotide.out' -s 1 -k 0 --target-search-mode 0 --k-score seq:2147483647,prof:2147483647 --alph-size aa:21,nucl:5 --max-seq-len 65535 --max-seqs 20 --split 0 --split-mode 2 --split-memory-limit 0 -c 0.8 --cov-mode 0 --comp-bias-corr 0 --comp-bias-corr-scale 1 --diag-score 0 --exact-kmer-matching 0 --mask 1 --mask-prob 0.9 --mask-lower-case 0 --mask-n-repeat 0 --min-ungapped-score 0 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --threads 4 --compressed 0 -v 3 
+
+Query database size: 30 type: Aminoacid
+Estimated memory consumption: 977M
+Target database size: 30 type: Aminoacid
+Index table k-mer threshold: 154 at k-mer size 6 
+Index table: counting k-mers
+[=================================================================] 30 0s 0ms
+Index table: Masked residues: 0
+Index table: fill
+[=================================================================] 30 0s 0ms
+Index statistics
+Entries:          240
+DB size:          488 MB
+Avg k-mer size:   0.000004
+Top 10 k-mers
+    YLYEGL	29
+    AWRSGI	25
+    LDGVAW	22
+    IVDWVS	19
+    RIDGID	16
+    IDWRLV	15
+    VDWRLV	13
+    RIDGVD	11
+    DKIVWV	10
+    DKIIWV	8
+Time for index table init: 0h 0m 0s 191ms
+Process prefiltering step 1 of 1
+
+k-mer similarity threshold: 154
+Starting prefiltering scores calculation (step 1 of 1)
+Query db start 1 to 30
+Target db start 1 to 30
+[=================================================================] 30 0s 0ms
+
+0.142664 k-mers per position
+112 DB matches per sequence
+0 overflows
+19 sequences passed prefiltering per query sequence
+20 median result list length
+0 sequences with 0 size result lists
+Time for merging to pref_step0: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 607ms
+align data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/pref_step0 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/aln_step0 --sub-mat 'aa:blosum62.out,nucl:nucleotide.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.9 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.8 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 0 --comp-bias-corr-scale 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:11,nucl:5 --gap-extend aa:1,nucl:2 --zdrop 40 --threads 4 --compressed 0 -v 3 
+
+Compute score, coverage and sequence identity
+Query database size: 30 type: Aminoacid
+Target database size: 30 type: Aminoacid
+Calculation of alignments
+[=================================================================] 30 0s 2ms
+Time for merging to aln_step0: 0h 0m 0s 0ms
+541 alignments calculated
+233 sequence pairs passed the thresholds (0.430684 of overall calculated)
+7.766666 hits per query sequence
+Time for processing: 0h 0m 0s 3ms
+clust data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/input_step_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/aln_step0 data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/clu_step0 --cluster-mode 0 --max-iterations 1000 --similarity-type 2 --threads 4 --compressed 0 -v 3 --cluster-weight-threshold 0.9 
+
+Clustering mode: Set Cover
+[=================================================================] 30 0s 0ms
+Sort entries
+Find missing connections
+Found 33 new connections.
+Reconstruct initial order
+[=================================================================] 30 0s 0ms
+Add missing connections
+[=================================================================] 30 0s 0ms
+
+Time for read in: 0h 0m 0s 0ms
+Total time: 0h 0m 0s 0ms
+
+Size of the sequence database: 30
+Size of the alignment database: 30
+Number of clusters: 7
+
+Writing results 0h 0m 0s 0ms
+Time for merging to clu_step0: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+mergeclusters data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/clu_redundancy data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/clu_step0 --threads 4 --compressed 0 -v 3 
+
+Clustering step 1
+[=================================================================] 30 0s 0ms
+Clustering step 2
+[=================================================================] 7 0s 0ms
+Write merged clustering
+[=================================================================] 165 0s 0ms
+Time for merging to clu: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/clu_redundancy -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/input_step_redundancy -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/input_step_redundancy_h -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/pref_step0 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/aln_step0 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_tmp/15009267080728834395/clu_step0 -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+createtsv data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/cluster.tsv --threads 4 -v 3 
+
+Time for merging to cluster.tsv: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+result2repseq data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_rep --db-load-mode 0 --compressed 0 --threads 4 -v 3 
+
+[=================================================================] 7 0s 0ms
+Time for merging to clu_rep: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 1ms
+result2flat data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_rep data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/rep_seq.fasta --use-fasta-header -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+createseqfiledb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_seqs --threads 4 -v 3 
+
+[=================================================================] 7 0s 0ms
+Time for merging to clu_seqs: 0h 0m 0s 0ms
+Time for processing: 0h 0m 0s 0ms
+result2flat data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_seqs data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/all_seqs.fasta -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/input_h -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_seqs -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu_rep -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+rmdb data/processed/cyanobacteria_gvpa_post_profile/clustering/tmp_90/5991441471202485689/clu -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+MMseqs2 clustering finished: data/processed/cyanobacteria_gvpa_post_profile/clustering

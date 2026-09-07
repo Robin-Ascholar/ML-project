@@ -1,0 +1,27 @@
+{
+  "dataset_version": "dataset_v1",
+  "frozen_at_utc": "2026-09-07T07:21:35.631706+00:00",
+  "sequence_count": 165,
+  "split_counts": {
+    "valid": 13,
+    "train": 139,
+    "test": 13
+  },
+  "original_course_fasta": "data/raw/course/GvpA.fasta",
+  "original_course_fasta_sha256": "c58b00e8198049e299d10fcf5b20ed76898052b48eb67943dbc9ea596d8352e3",
+  "validation": {
+    "all_canonical_amino_acids": true,
+    "exact_sequence_duplicates": 0,
+    "pf00741_ga_hits": 165,
+    "core_profile_hits": 165,
+    "msa_outliers": 0,
+    "cross_split_leakage_pairs_95pct": 0
+  },
+  "tools": {
+    "MMseqs2": "18.8cc5c",
+    "HMMER": "3.4",
+    "MAFFT": "7.526",
+    "Pfam_profile": "PF00741.24"
+  },
+  "immutable_note": "Create dataset_v2 for any future data change; do not edit dataset_v1 in place."
+}

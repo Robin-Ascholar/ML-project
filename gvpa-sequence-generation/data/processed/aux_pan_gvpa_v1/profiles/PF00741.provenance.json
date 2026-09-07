@@ -1,0 +1,7 @@
+{
+  "retrieved_at_utc": "2026-09-07T07:10:00.766300+00:00",
+  "entry_url": "https://www.ebi.ac.uk/interpro/api/entry/pfam/PF00741/",
+  "hmm_url": "https://www.ebi.ac.uk/interpro/api/entry/pfam/PF00741?annotation=hmm",
+  "hmm_sha256": "e44f933c618426c2d0465657a64f1890f50feaeaea626ecb0b8dedb734f38c2f",
+  "note": "PF00741 is a broad gas-vesicle protein family profile and is not used alone to label GvpA."
+}

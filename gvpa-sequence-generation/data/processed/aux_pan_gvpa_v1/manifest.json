@@ -1,0 +1,30 @@
+{
+  "dataset_version": "aux_pan_gvpa_v1",
+  "frozen_at_utc": "2026-09-07T07:41:30.159184+00:00",
+  "source_blue_dataset_version": "dataset_v1",
+  "source_blue_manifest_sha256": "2b18d2e33c5b8faadf0b31852c7a4ab04063fd1f6c4e7a909d38fd73f83abfa2",
+  "counts": {
+    "safe_all": 550,
+    "representatives_95": 302,
+    "representatives_90": 168,
+    "blue_train": 139,
+    "default_combined_pretrain": 441,
+    "excluded_heldout_similarity": 105
+  },
+  "leakage_rule": {
+    "identity": 0.8,
+    "query_and_target_coverage": 0.8,
+    "safe_hits_at_or_above_threshold": 0
+  },
+  "validation": {
+    "exact_sequence_duplicates": 0,
+    "canonical_amino_acids_only": true,
+    "pf00741_ga_hits": 550
+  },
+  "tools": {
+    "MMseqs2": "18.8cc5c",
+    "HMMER": "3.4",
+    "Pfam_profile": "PF00741.24"
+  },
+  "immutable_note": "Create aux_pan_gvpa_v2 for future changes; do not edit v1 in place."
+}

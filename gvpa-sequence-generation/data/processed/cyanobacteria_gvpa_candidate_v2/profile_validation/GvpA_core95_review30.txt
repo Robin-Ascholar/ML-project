@@ -1,0 +1,433 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/processed/cyanobacteria_gvpa_candidate_v2/profile_validation/GvpA_core95.hmm
+# target sequence database:        data/processed/ncbi_cyanobacteria_audit_20260907/review.fasta
+# per-seq hits tabular output:     data/processed/cyanobacteria_gvpa_candidate_v2/profile_validation/GvpA_core95_review30.tbl
+# Max sensitivity mode:            on [all heuristic filters off]
+# number of worker threads:        4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       core95_representatives.mafft  [M=72]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    3.4e-49  156.0   6.8    3.7e-49  155.9   6.8    1.0  1  WP_505716830.1  decision=review taxid=3100549 organism=Leptot
+    4.8e-49  155.5   6.6    5.3e-49  155.4   6.6    1.0  1  WP_496081776.1  decision=review taxid=3100439 organism=Tilden
+    1.2e-48  154.3   6.7    1.3e-48  154.2   6.7    1.0  1  WP_506081038.1  decision=review taxid=3100574 organism=Thermo
+    1.4e-48  154.1   5.2    1.6e-48  153.9   5.2    1.0  1  WP_502881973.1  decision=review taxid=3407010 organism=unclas
+    2.4e-48  153.3   6.3    2.6e-48  153.2   6.3    1.0  1  KEI66243.1      decision=review taxid=388467 organism=Plankto
+      3e-48  153.0   5.2    3.3e-48  152.8   5.2    1.0  1  WP_017322549.1  decision=review taxid=28069 organism=Chlorogl
+    3.1e-48  153.0   5.2    4.4e-48  152.5   5.2    1.2  1  BAY27787.1      decision=review taxid=1954172 organism=Caloth
+      7e-48  151.8   4.8    8.1e-48  151.6   4.8    1.1  1  GEA25652.1      decision=review taxid=2569534 organism=Microc
+    5.4e-47  149.0   7.0    5.8e-47  148.9   7.0    1.0  1  WP_502249006.1  decision=review taxid=2934970 organism=Lyngby
+    9.8e-45  141.7   4.4    1.5e-44  141.1   4.4    1.3  1  BAY44721.1      decision=review taxid=1137095 organism=Scyton
+      1e-44  141.6   6.0    1.7e-44  141.0   6.0    1.3  1  BAZ26415.1      decision=review taxid=2005464 organism=Kalymm
+    5.2e-44  139.4   5.6    8.1e-44  138.8   5.6    1.3  1  EGK83957.1      decision=review taxid=756067 organism=Microco
+    9.6e-40  125.8   4.6      1e-39  125.6   4.6    1.0  1  AOC53260.1      decision=review taxid=1698524 organism=Microc
+    1.4e-35  112.4   7.8    1.6e-35  112.3   7.8    1.0  1  CAD5959729.1    decision=review taxid=1160 organism=Planktoth
+    1.2e-25   80.6   1.9    1.5e-25   80.3   1.9    1.0  1  ABG51545.1      decision=review taxid=203124 organism=Trichod
+    3.6e-20   63.0   1.6      4e-20   62.9   1.6    1.1  1  ABG51544.1      decision=review taxid=203124 organism=Trichod
+    4.4e-14   43.6   0.9    8.7e-14   42.6   0.9    1.5  1  BAU13713.1      decision=review taxid=1752064 organism=Leptol
+    1.1e-13   42.2   2.9    1.8e-13   41.6   2.9    1.3  1  ELS32912.1      decision=review taxid=927668 organism=Pseudan
+    1.4e-13   41.9   1.9    2.2e-13   41.3   1.9    1.3  1  EDZ91859.1      decision=review taxid=513049 organism=Limnosp
+    2.8e-13   41.0   2.8    4.2e-13   40.4   2.8    1.3  1  EKD11655.1      decision=review taxid=459495 organism=Limnosp
+      6e-13   39.9   1.8    8.8e-13   39.4   1.8    1.2  1  AFZ42717.1      decision=review taxid=65093 organism=Halothec
+      1e-12   39.2   1.1    1.7e-12   38.5   1.1    1.3  1  CBN58421.1      decision=review taxid=272129 organism=Kampton
+    1.3e-12   38.8   1.9    1.3e-12   38.8   1.9    1.5  1  ABG51556.1      decision=review taxid=203124 organism=Trichod
+    2.1e-12   38.2   0.6    3.6e-12   37.4   0.6    1.3  1  BAY57802.1      decision=review taxid=1973484 organism=Leptol
+    2.2e-12   38.1   1.2    3.4e-12   37.5   1.2    1.2  1  EGK83956.1      decision=review taxid=756067 organism=Microco
+    2.6e-12   37.9   2.9    4.2e-12   37.2   2.9    1.3  1  AFY69108.1      decision=review taxid=82654 organism=Thalasso
+    3.6e-12   37.4   2.0    5.6e-12   36.8   2.0    1.3  1  ABG51552.1      decision=review taxid=203124 organism=Trichod
+    4.4e-12   37.2   3.4    9.4e-12   36.1   1.9    1.9  2  AFY65454.1      decision=review taxid=1173025 organism=Geitle
+    5.8e-12   36.8   1.1    8.9e-12   36.2   1.1    1.2  1  AVZ29869.1      decision=review taxid=1914872 organism=Nodula
+    4.5e-11   33.9   1.4    7.1e-11   33.3   1.4    1.3  1  ABA19701.1      decision=review taxid=240292 organism=Trichor
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_505716830.1  decision=review taxid=3100549 organism=Leptothermofonsia sp.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.9   6.8   3.7e-49   3.7e-49       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.9 bits;  conditional E-value: 3.7e-49
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlta+aavpa
+                WP_505716830.1  1 MAVEKVNSSSSLAEVVDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_496081776.1  decision=review taxid=3100439 organism=Tildeniella sp.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  155.4   6.6   5.3e-49   5.3e-49       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 155.4 bits;  conditional E-value: 5.3e-49
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiell+iear+viasvetylkyaeavGlta+aavpa
+                WP_496081776.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLSIEARVVIASVETYLKYAEAVGLTAQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_506081038.1  decision=review taxid=3100574 organism=Thermocoleostomius sp.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  154.2   6.7   1.3e-48   1.3e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 154.2 bits;  conditional E-value: 1.3e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkgividaWvrvslvGiella+ear+viasv+tylkyaeavGlt++aavpa
+                WP_506081038.1  1 MAVEKVNSSSSLAEVVDRILDKGIVIDAWVRVSLVGIELLAVEARVVIASVDTYLKYAEAVGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> WP_502881973.1  decision=review taxid=3407010 organism=unclassified Microcystis (in: cyanobacteria)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.9   5.2   1.6e-48   1.6e-48       1      71 [.      10      80 .]      10      80 .] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.9 bits;  conditional E-value: 1.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaWvrvslvGiellaiear+viasvetylkyaeavGlt+saavpa
+                WP_502881973.1 10 MAVEKTNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAVPA 80
+                                  9********************************************************************97 PP
+
+>> KEI66243.1  decision=review taxid=388467 organism=Planktothrix agardhii NIVA-CYA 126/8
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  153.2   6.3   2.6e-48   2.6e-48       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 153.2 bits;  conditional E-value: 2.6e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell+iea+iviasvetylkyaeavGlta+aavp+
+                    KEI66243.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSIEAKIVIASVETYLKYAEAVGLTAQAAVPS 71
+                                  9*********************************************************************8 PP
+
+>> WP_017322549.1  decision=review taxid=28069 organism=Chlorogloeopsis sp.
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.8   5.2   3.3e-48   3.3e-48       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.8 bits;  conditional E-value: 3.3e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaev+drildkgiv+daWvrvslvGiella+ear+viasvetylkyaea+Glt++aavpa
+                WP_017322549.1  1 MAVEKVNSSSSLAEVIDRILDKGIVLDAWVRVSLVGIELLALEARVVIASVETYLKYAEAIGLTSQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> BAY27787.1  decision=review taxid=1954172 organism=Calothrix sp. NIES-2100
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  152.5   5.2   4.4e-48   4.4e-48       1      71 [.      37     107 .]      37     107 .] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 152.5 bits;  conditional E-value: 4.4e-48
+  core95_representatives.mafft   1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71 
+                                   mavek+nsssslaev+drildkgiv+daWvrvslvGiellaieariviasvetylkyaeavGlt+saavpa
+                    BAY27787.1  37 MAVEKTNSSSSLAEVIDRILDKGIVVDAWVRVSLVGIELLAIEARIVIASVETYLKYAEAVGLTQSAAVPA 107
+                                   9********************************************************************97 PP
+
+>> GEA25652.1  decision=review taxid=2569534 organism=Microcystis aeruginosa NIES-4325
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  151.6   4.8   8.1e-48   8.1e-48       1      71 [.      14      84 .]      14      84 .] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 151.6 bits;  conditional E-value: 8.1e-48
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavek+nsssslaev+drildkgividaW rvslvGiellaiear+viasvetylkyaeavGlt+saavpa
+                    GEA25652.1 14 MAVEKTNSSSSLAEVIDRILDKGIVIDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAVPA 84
+                                  9********************************************************************97 PP
+
+>> WP_502249006.1  decision=review taxid=2934970 organism=Lyngbya flaviceps
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  148.9   7.0   5.8e-47   5.8e-47       1      71 [.       1      71 [.       1      72 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 148.9 bits;  conditional E-value: 5.8e-47
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mavekvnsssslaevvdrildkg+vid+W rvslvGiel+a+eariv+asvetylkyaeavGlt++aa+pa
+                WP_502249006.1  1 MAVEKVNSSSSLAEVVDRILDKGVVIDIWARVSLVGIELIAVEARIVVASVETYLKYAEAVGLTSQAAIPA 71
+                                  9*********************************************************************8 PP
+
+>> BAY44721.1  decision=review taxid=1137095 organism=Scytonema sp. HK-05
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  141.1   4.4   1.5e-44   1.5e-44       1      70 [.       1      70 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 141.1 bits;  conditional E-value: 1.5e-44
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavp 70
+                                  mave vnsssslaev+drildkg+vid+WvrvslvGiell +eariv+asvetyl+ya+avGlt +aavp
+                    BAY44721.1  1 MAVETVNSSSSLAEVIDRILDKGVVIDVWVRVSLVGIELLVVEARIVLASVETYLRYAQAVGLTGQAAVP 70
+                                  9********************************************************************9 PP
+
+>> BAZ26415.1  decision=review taxid=2005464 organism=Kalymmatonema gypsitolerans NIES-4073
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  141.0   6.0   1.7e-44   1.7e-44       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 141.0 bits;  conditional E-value: 1.7e-44
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mave vnsssslaev+drildkg+vid+WvrvslvGiell +eariv+asvetyl+ya+avGlt +aavpa
+                    BAZ26415.1  1 MAVETVNSSSSLAEVIDRILDKGVVIDVWVRVSLVGIELLVVEARIVLASVETYLRYAQAVGLTGQAAVPA 71
+                                  9*********************************************************************8 PP
+
+>> EGK83957.1  decision=review taxid=756067 organism=Microcoleus vaginatus FGP-2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  138.8   5.6   8.1e-44   8.1e-44       1      71 [.       1      71 [.       1      72 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 138.8 bits;  conditional E-value: 8.1e-44
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  mave vnsssslaev+drildkg+vid+WvrvslvGiell +eariv+asv+tyl+ya+avGlt +aavp 
+                    EGK83957.1  1 MAVETVNSSSSLAEVIDRILDKGVVIDVWVRVSLVGIELLVVEARIVLASVDTYLRYAQAVGLTGQAAVPR 71
+                                  9********************************************************************96 PP
+
+>> AOC53260.1  decision=review taxid=1698524 organism=Microcystis aeruginosa NIES-2481
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  125.6   4.6     1e-39     1e-39      12      71 ..       1      60 []       1      60 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 125.6 bits;  conditional E-value: 1e-39
+  core95_representatives.mafft 12 laevvdrildkgividaWvrvslvGiellaieariviasvetylkyaeavGltasaavpa 71
+                                  +aev+drildkgividaW rvslvGiellaiear+viasvetylkyaeavGlt+saavpa
+                    AOC53260.1  1 MAEVIDRILDKGIVIDAWARVSLVGIELLAIEARVVIASVETYLKYAEAVGLTQSAAVPA 60
+                                  69********************************************************97 PP
+
+>> CAD5959729.1  decision=review taxid=1160 organism=Planktothrix agardhii
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  112.3   7.8   1.6e-35   1.6e-35       1      53 [.       1      53 []       1      53 [] 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 112.3 bits;  conditional E-value: 1.6e-35
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasvet 53
+                                  mavekvnsssslaev+drildkgividaWvrvslvGiell+ieariviasvet
+                  CAD5959729.1  1 MAVEKVNSSSSLAEVIDRILDKGIVIDAWVRVSLVGIELLSIEARIVIASVET 53
+                                  9***************************************************8 PP
+
+>> ABG51545.1  decision=review taxid=203124 organism=Trichodesmium erythraeum IMS101
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   80.3   1.9   1.5e-25   1.5e-25      16      61 ..       5      50 ..       3      53 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 80.3 bits;  conditional E-value: 1.5e-25
+  core95_representatives.mafft 16 vdrildkgividaWvrvslvGiellaieariviasvetylkyaeav 61
+                                  vd +ldkg+++daWvr+slv iell+iea+iviasve+ylky+ea 
+                    ABG51545.1  5 VDFLLDKGVIVDAWVRLSLVVIELLTIEAKIVIASVEAYLKYSEAF 50
+                                  899*****************************************96 PP
+
+>> ABG51544.1  decision=review taxid=203124 organism=Trichodesmium erythraeum IMS101
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   62.9   1.6     4e-20     4e-20       1      43 [.       1      43 [.       1      60 [. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 62.9 bits;  conditional E-value: 4e-20
+  core95_representatives.mafft  1 mavekvnsssslaevvdrildkgividaWvrvslvGiellaie 43
+                                  ma+ek+ns s l+  vd ildk  vidaWvrvs+vGiellai 
+                    ABG51544.1  1 MALEKINSYSRLVKFVDPILDKEAVIDAWVRVSVVGIELLAIA 43
+                                  9****************************************84 PP
+
+>> BAU13713.1  decision=review taxid=1752064 organism=Leptolyngbya sp. NIES-3755
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   42.6   0.9   8.7e-14   8.7e-14       8      52 ..       5      49 ..       2      54 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 42.6 bits;  conditional E-value: 8.7e-14
+  core95_representatives.mafft  8 sssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                  + ssla+v++r+ldkgivi   + vs+   ell+i  r++iasv+
+                    BAU13713.1  5 TGSSLADVLERVLDKGIVIAGDISVSVATTELLTIRIRLLIASVD 49
+                                  679*****************************************8 PP
+
+>> ELS32912.1  decision=review taxid=927668 organism=Pseudanabaena biceps PCC 7429
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   41.6   2.9   1.8e-13   1.8e-13       3      52 ..       5      54 ..       3      61 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 41.6 bits;  conditional E-value: 1.8e-13
+  core95_representatives.mafft  3 vekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                  +    + ssla++++r+ldkgivi   + vs+  +ell+i  r+++asv+
+                    ELS32912.1  5 IKSSTTGSSLADILERVLDKGIVIAGDITVSVGSVELLSIRIRLLVASVD 54
+                                  5556678******************************************8 PP
+
+>> EDZ91859.1  decision=review taxid=513049 organism=Limnospira maxima CS-328
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   41.3   1.9   2.2e-13   2.2e-13       7      52 ..      18      63 ..      13      70 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 41.3 bits;  conditional E-value: 2.2e-13
+  core95_representatives.mafft  7 nsssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                   s ssla++++r+ldkgivi   + vs+   ell+i  r++iasv+
+                    EDZ91859.1 18 TSGSSLADILERVLDKGIVIAGDISVSVGSTELLSIRIRLLIASVD 63
+                                  589******************************************8 PP
+
+>> EKD11655.1  decision=review taxid=459495 organism=Limnospira platensis C1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   40.4   2.8   4.2e-13   4.2e-13       8      52 ..       4      48 ..       1      55 [. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 40.4 bits;  conditional E-value: 4.2e-13
+  core95_representatives.mafft  8 sssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                  s ssla++++r+ldkgivi   + vs+   ell+i  r++iasv+
+                    EKD11655.1  4 SGSSLADILERVLDKGIVIAGDISVSVGSTELLSIRIRLLIASVD 48
+                                  88******************************************8 PP
+
+>> AFZ42717.1  decision=review taxid=65093 organism=Halothece sp. PCC 7418
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   39.4   1.8   8.8e-13   8.8e-13       7      52 ..      21      66 ..      16      70 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 39.4 bits;  conditional E-value: 8.8e-13
+  core95_representatives.mafft  7 nsssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                    sssla++++r+ldkgivi   + vs+   ell+i  r++++sv+
+                    AFZ42717.1 21 TQSSSLADILERVLDKGIVIAGDITVSVGSTELLSIRIRLLVSSVD 66
+                                  469******************************************8 PP
+
+>> CBN58421.1  decision=review taxid=272129 organism=Kamptonema sp. PCC 6506
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   38.5   1.1   1.7e-12   1.7e-12       9      52 ..      21      64 ..      14      69 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 38.5 bits;  conditional E-value: 1.7e-12
+  core95_representatives.mafft  9 ssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                   s+la+v++r+ldkgivi   + vs+   ell+i  r+++asv+
+                    CBN58421.1 21 GSTLADVLERVLDKGIVIAGDISVSVGSTELLSIRIRLLVASVD 64
+                                  699****************************************8 PP
+
+>> ABG51556.1  decision=review taxid=203124 organism=Trichodesmium erythraeum IMS101
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   38.8   1.9   1.3e-12   1.3e-12       5      52 ..       9      56 ..       5      64 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 38.8 bits;  conditional E-value: 1.3e-12
+  core95_representatives.mafft  5 kvnsssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                  k     sla+v++r+ldkgivi   + vs+   ell i  r++i+sve
+                    ABG51556.1  9 KSAGGDSLADVLERVLDKGIVIAGDISVSIASTELLNIKIRLLISSVE 56
+                                  556678*****************************************9 PP
+
+>> BAY57802.1  decision=review taxid=1973484 organism=Leptolyngbya boryana NIES-2135
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.4   0.6   3.6e-12   3.6e-12       9      52 ..      18      61 ..      13      66 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 37.4 bits;  conditional E-value: 3.6e-12
+  core95_representatives.mafft  9 ssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                   s+la+v++r+ldkgivi   + vs+   ell+i  r++i+sv+
+                    BAY57802.1 18 GSTLADVLERVLDKGIVIAGDISVSVATTELLTIRIRLLISSVD 61
+                                  699****************************************8 PP
+
+>> EGK83956.1  decision=review taxid=756067 organism=Microcoleus vaginatus FGP-2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.5   1.2   3.4e-12   3.4e-12       9      52 ..      26      69 ..      20      74 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 37.5 bits;  conditional E-value: 3.4e-12
+  core95_representatives.mafft  9 ssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                   ssla+v++r+ldkgivi   + vs+   ell i  r++i+sv+
+                    EGK83956.1 26 GSSLADVLERVLDKGIVIAGDISVSVASTELLHIRIRLLISSVD 69
+                                  69*****************************************8 PP
+
+>> AFY69108.1  decision=review taxid=82654 organism=Thalassoporum mexicanum PCC 7367
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.2   2.9   4.2e-12   4.2e-12       9      52 ..      10      53 ..       6      60 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 37.2 bits;  conditional E-value: 4.2e-12
+  core95_representatives.mafft  9 ssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                   s+la++++r+ldkgivi   + vs+  +ell+i  r+++asv+
+                    AFY69108.1 10 GSTLADILERVLDKGIVIAGDITVSIGDVELLSIRIRLLVASVD 53
+                                  589****************************************8 PP
+
+>> ABG51552.1  decision=review taxid=203124 organism=Trichodesmium erythraeum IMS101
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.8   2.0   5.6e-12   5.6e-12       7      52 ..      11      56 ..       5      63 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 36.8 bits;  conditional E-value: 5.6e-12
+  core95_representatives.mafft  7 nsssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                   s   la+v++r+ldkg+vi   + vs+   ell i  r++i+sve
+                    ABG51552.1 11 ASGNGLADVLERVLDKGVVIAGDISVSIASTELLNIKIRLLISSVE 56
+                                  46678****************************************9 PP
+
+>> AFY65454.1  decision=review taxid=1173025 organism=Geitlerinema sp. PCC 7407
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.1   1.9   9.4e-12   9.4e-12       3      52 ..      14      63 ..      12      68 .. 0.93
+   2 ?    0.2   0.0       1.5       1.5      48      69 ..      97     119 ..      90     122 .. 0.73
+
+  Alignments for each domain:
+  == domain 1  score: 36.1 bits;  conditional E-value: 9.4e-12
+  core95_representatives.mafft  3 vekvnsssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                  +    s s+la++++r+ldkgivi   + vs+   ell i  r++i+sv+
+                    AFY65454.1 14 IATATSGSTLADILERVLDKGIVIAGDISVSVGSTELLNIRIRLLISSVD 63
+                                  5667899******************************************8 PP
+
+  == domain 2  score: 0.2 bits;  conditional E-value: 1.5
+  core95_representatives.mafft  48 iasvetylk.yaeavGltasaav 69 
+                                   i s+e+ l+   +a Gl+ +aa 
+                    AFY65454.1  97 IESLESELRqLRQAAGLALQAAP 119
+                                   56788877624689999999985 PP
+
+>> AVZ29869.1  decision=review taxid=1914872 organism=Nodularia spumigena UHCC 0039
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.2   1.1   8.9e-12   8.9e-12       7      52 ..      23      68 ..      17      73 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 36.2 bits;  conditional E-value: 8.9e-12
+  core95_representatives.mafft  7 nsssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                    ss la++++r+ldkg+vi   + +s+   ell i  r++i+sv+
+                    AVZ29869.1 23 TQSSNLADILERVLDKGVVIAGDISISIASTELLHIRIRLLISSVD 68
+                                  5699*****************************************8 PP
+
+>> ABA19701.1  decision=review taxid=240292 organism=Trichormus variabilis ATCC 29413
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.3   1.4   7.1e-11   7.1e-11       9      52 ..      25      68 ..      18      73 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 33.3 bits;  conditional E-value: 7.1e-11
+  core95_representatives.mafft  9 ssslaevvdrildkgividaWvrvslvGiellaieariviasve 52
+                                   s+la++++r+ldkgivi   + vs+   el+ i  r++i+sv+
+                    ABA19701.1 25 GSTLADILERVLDKGIVIAGDISVSIASTELIHIRIRLLISSVD 68
+                                  699****************************************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (72 nodes)
+Target sequences:                         30  (3120 residues searched)
+Passed MSV filter:                        30  (1); expected 30.0 (1)
+Passed bias filter:                       30  (1); expected 30.0 (1)
+Passed Vit filter:                        30  (1); expected 30.0 (1)
+Passed Fwd filter:                        30  (1); expected 30.0 (1)
+Initial search space (Z):                 30  [actual number of targets]
+Domain search space  (domZ):              30  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: 89.67
+//
+[ok]

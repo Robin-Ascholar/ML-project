@@ -1,0 +1,63 @@
+outputhat23=16
+treein = 0
+compacttree = 0
+stacksize: 8192 kb
+rescale = 1
+All-to-all alignment.
+    0 / 31 (by thread   0)    10 / 31 (by thread   0)    20 / 31 (by thread   0) tbfast-pair (aa) Version 7.526
+alg=L, model=BLOSUM62, 2.00, -0.10, +0.10, noshift, amax=0.0
+4 thread(s)
+
+outputhat23=16
+Loading 'hat3.seed' ... 
+done.
+Writing hat3 for iterative refinement
+rescale = 1
+Gap Penalty = -1.53, +0.00, +0.00
+tbutree = 1, compacttree = 0
+Constructing a UPGMA tree ... 
+    0 / 31   10 / 31   20 / 31
+done.
+
+Progressive alignment ... 
+STEP     1 /30 (thread    0) STEP     3 /30 (thread    2) STEP     4 /30 (thread    3) STEP     5 /30 (thread    0) STEP     2 /30 (thread    1) STEP     6 /30 (thread    2) STEP     7 /30 (thread    3) STEP    11 /30 (thread    3) STEP     9 /30 (thread    1) STEP     8 /30 (thread    0) STEP    12 /30 (thread    3) STEP    14 /30 (thread    0) STEP    10 /30 (thread    2) STEP    16 /30 (thread    0) STEP    13 /30 (thread    1) STEP    15 /30 (thread    3) STEP    19 /30 (thread    0) STEP    17 /30 (thread    2) STEP    18 /30 (thread    1) STEP    20 /30 (thread    0) 
+Reallocating (by thread 3) ..done. *alloclen = 1184
+STEP    21 /30 (thread    3) STEP    25 /30 (thread    3) STEP    22 /30 (thread    2) STEP    23 /30 (thread    1) STEP    24 /30 (thread    0) STEP    26 /30 (thread    3) STEP    27 /30 (thread    2) STEP    28 /30 (thread    1) STEP    29 /30 (thread    0) STEP    30 /30 (thread    3) 
+done.
+tbfast (aa) Version 7.526
+alg=A, model=BLOSUM62, 1.53, -0.00, -0.00, noshift, amax=0.0
+4 thread(s)
+
+minimumweight = 0.000010
+autosubalignment = 0.000000
+nthread = 4
+randomseed = 0
+blosum 62 / kimura 200
+poffset = 0
+niter = 16
+sueff_global = 0.100000
+nadd = 16
+Loading 'hat3' ... done.
+rescale = 1
+
+    0 / 31   10 / 31   20 / 31
+Segment   1/  1    1- 113
+001-0000-0 (thread    3) identical     001-0001-0 (thread    1) identical     001-0002-1 (thread    2) identical     001-0003-0 (thread    3) identical     001-0004-1 (thread    4) identical     001-0004-1 (thread    1) identical     001-0006-0 (thread    2) identical     001-0007-1 (thread    3) identical     001-0008-0 (thread    4) identical     001-0009-1 (thread    3) identical     001-0010-0 (thread    2) identical     001-0011-1 (thread    1) identical     001-0012-1 (thread    3) identical     001-0013-0 (thread    2) identical     001-0012-0 (thread    4) identical     001-0014-1 (thread    1) identical     001-0016-0 (thread    3) identical     001-0016-1 (thread    1) identical     001-0016-1 (thread    2) identical     001-0019-0 (thread    4) identical     001-0020-1 (thread    3) identical     001-0021-1 (thread    4) identical     001-0020-0 (thread    1) identical     001-0023-0 (thread    2) identical     001-0024-1 (thread    4) identical     001-0024-0 (thread    1) identical     001-0024-0 (thread    3) identical     001-0027-1 (thread    2) identical     001-0028-1 (thread    1) identical     001-0028-1 (thread    2) identical     001-0028-0 (thread    3) identical     001-0031-0 (thread    4) identical     001-0032-0 (thread    2) identical     001-0033-1 (thread    1) identical     001-0034-1 (thread    4) identical     001-0033-0 (thread    3) identical     001-0036-0 (thread    2) identical     001-0037-1 (thread    1) identical     001-0037-1 (thread    3) identical     001-0039-0 (thread    4) identical     001-0040-0 (thread    2) identical     001-0041-1 (thread    1) identical     001-0042-1 (thread    4) identical     001-0042-0 (thread    3) identical     001-0042-1 (thread    4) better     001-0044-1 (thread    1) identical     001-0045-1 (thread    4) identical     001-0046-0 (thread    2) identical     001-0047-0 (thread    3) identical     001-0048-0 (thread    1) identical     001-0048-1 (thread    4) identical     001-0050-1 (thread    3) identical     001-0051-0 (thread    2) identical     001-0052-1 (thread    4) identical     001-0053-0 (thread    1) identical     001-0054-0 (thread    3) identical     001-0054-1 (thread    2) identical     001-0056-1 (thread    1) identical     001-0057-0 (thread    4) identical     001-0058-1 (thread    3) identical     001-0058-1 (thread    3) worse      002-0000-0 (thread    3) identical     002-0000-0 (thread    1) identical     002-0000-1 (thread    4) identical     002-0002-1 (thread    4) worse      002-0000-1 (thread    2) identical     002-0004-0 (thread    3) identical     002-0005-1 (thread    1) identical     002-0006-0 (thread    4) identical     002-0007-1 (thread    2) identical     002-0008-0 (thread    3) identical     002-0009-1 (thread    1) identical     002-0010-0 (thread    4) identical     002-0011-1 (thread    2) identical     002-0012-0 (thread    3) identical     002-0013-1 (thread    1) identical     002-0014-0 (thread    4) identical     002-0015-0 (thread    3) identical     002-0015-1 (thread    2) identical     002-0015-1 (thread    1) identical     002-0018-0 (thread    4) identical     002-0019-1 (thread    3) identical     002-0019-1 (thread    1) identical     002-0019-0 (thread    2) identical     002-0022-0 (thread    4) identical     002-0023-1 (thread    1) identical     002-0024-1 (thread    2) identical     002-0025-0 (thread    3) identical     002-0026-0 (thread    4) identical     002-0027-1 (thread    1) identical     002-0028-0 (thread    2) identical     002-0029-1 (thread    3) identical     002-0030-0 (thread    4) identical     002-0030-1 (thread    1) identical     002-0032-1 (thread    3) identical     002-0032-0 (thread    2) identical     002-0034-1 (thread    1) identical     002-0035-0 (thread    4) identical     002-0036-0 (thread    3) identical     002-0037-1 (thread    2) identical     002-0038-0 (thread    1) identical     002-0039-1 (thread    4) identical     002-0040-1 (thread    2) identical     002-0040-0 (thread    3) identical     002-0042-1 (thread    4) identical     002-0043-0 (thread    1) identical     002-0044-1 (thread    3) identical     002-0045-0 (thread    2) identical     002-0046-1 (thread    1) identical     002-0047-0 (thread    4) identical     002-0048-0 (thread    3) identical     002-0049-1 (thread    2) identical     002-0050-0 (thread    1) identical     002-0050-1 (thread    4) identical     002-0051-1 (thread    2) identical     002-0051-0 (thread    3) identical     002-0054-0 (thread    1) identical     002-0055-1 (thread    2) identical     002-0056-1 (thread    3) identical     002-0057-0 (thread    4) identical     002-0058-1 (thread    1) identical     002-0058-1 (thread    1) worse      
+Converged.
+done
+dvtditr (aa) Version 7.526
+alg=A, model=BLOSUM62, 1.53, -0.00, -0.00, noshift, amax=0.0
+4 thread(s)
+
+
+Strategy:
+ L-INS-i (Probably most accurate, very slow)
+ Iterative refinement method (<16) with LOCAL pairwise alignment information
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
