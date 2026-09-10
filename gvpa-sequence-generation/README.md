@@ -113,6 +113,18 @@ python3 evaluation/evaluate_all.py \
   --output-dir runs/baseline/kmer3_seed42_eval
 ```
 
+如果环境中已安装 HMMER，可加入冻结的 GvpA profile 做 family 评价：
+
+```bash
+python3 evaluation/evaluate_all.py \
+  --generated runs/baseline/kmer3_seed42.fasta \
+  --profile data/processed/dataset_v1/profiles/PF00741.hmm \
+  --output-dir runs/baseline/kmer3_seed42_profile_eval
+```
+
+未提供 `--profile` 时 family 评价状态为 `not_run`；提供 profile 但找不到
+`hmmsearch` 时状态为 `hmmsearch_unavailable`，不会生成伪造的命中率。
+
 汇总多个 run 的 `metrics.json`：
 
 ```bash

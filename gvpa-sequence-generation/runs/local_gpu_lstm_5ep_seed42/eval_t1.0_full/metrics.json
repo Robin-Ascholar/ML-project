@@ -1,0 +1,22 @@
+{
+  "schema_version": "gvpa_eval_v0.1",
+  "run_id": "local_gpu_lstm_5ep_seed42_t1.0_full",
+  "n_generated": 100,
+  "legal_char_rate": 1.0,
+  "length_in_train_range_rate": 0.17,
+  "mean_length": 52.28,
+  "train_length_min": 59,
+  "train_length_max": 91,
+  "exact_copy_train_rate": 0.0,
+  "exact_copy_any_real_rate": 0.0,
+  "mean_nearest_train_identity": 0.6462306774429074,
+  "max_nearest_train_identity": 1.0,
+  "novelty_threshold": 0.95,
+  "novel_sequence_rate": 0.89,
+  "unique_ratio": 0.93,
+  "mean_pairwise_diversity": 0.5102649284890943,
+  "max_duplicate_fraction": 0.07,
+  "aa_composition_l1_distance": 0.10610685871768742,
+  "family_profile_hit_rate": null,
+  "family_profile_status": "not_run"
+}

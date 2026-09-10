@@ -14,7 +14,7 @@ except ModuleNotFoundError as exc:  # pragma: no cover
     raise SystemExit("PyTorch is required: install torch before running VAE generation.") from exc
 
 from src.data.dataset import ProteinTokenizer
-from src.fasta import FastaRecord, write_fasta
+from src.fasta import FastaRecord, read_fasta, write_fasta
 from src.models.vae import SequenceVAE
 
 
@@ -24,7 +24,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--tokenizer", default="configs/tokenizer.json")
     parser.add_argument("--output", default="runs/vae_smoke/generated.fasta")
     parser.add_argument("--num-seqs", type=int, default=100)
-    parser.add_argument("--max-len", type=int, default=100)
+    parser.add_argument("--train", default="data/processed/dataset_v1/train.fasta")
+    parser.add_argument("--min-len", type=int, default=None)
+    parser.add_argument("--max-len", type=int, default=None)
     parser.add_argument("--latent-scale", type=float, default=1.0)
     parser.add_argument("--temperature", type=float, default=1.0)
     parser.add_argument("--seed", type=int, default=42)
@@ -36,10 +38,22 @@ def main() -> None:
     args = parse_args()
     torch.manual_seed(args.seed)
     tokenizer = ProteinTokenizer.from_json(args.tokenizer)
+    train_lengths = [len(record.sequence) for record in read_fasta(args.train)]
+    min_len = args.min_len if args.min_len is not None else min(train_lengths)
+    max_len = args.max_len if args.max_len is not None else max(train_lengths)
+    if min_len < 1 or min_len > max_len:
+        raise SystemExit("--min-len must be at least 1 and no greater than --max-len")
     checkpoint = torch.load(args.checkpoint, map_location=args.device)
     model = SequenceVAE(vocab_size=len(tokenizer.token_to_id), pad_id=tokenizer.pad_id, bos_id=tokenizer.bos_id, eos_id=tokenizer.eos_id).to(args.device)
     model.load_state_dict(checkpoint["model_state"])
-    token_batches = model.generate(args.num_seqs, args.max_len, latent_scale=args.latent_scale, temperature=args.temperature, device=args.device)
+    token_batches = model.generate(
+        args.num_seqs,
+        max_len,
+        min_len=min_len,
+        latent_scale=args.latent_scale,
+        temperature=args.temperature,
+        device=args.device,
+    )
     run_id = f"vae_scale{args.latent_scale:g}_temp{args.temperature:g}_seed{args.seed}"
     records = [
         FastaRecord(

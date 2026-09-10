@@ -40,12 +40,15 @@ class LSTMGenerator(nn.Module):
         self,
         num_sequences: int,
         max_len: int,
+        min_len: int = 1,
         temperature: float = 1.0,
         top_k: int | None = None,
         device: str | torch.device | None = None,
     ) -> list[list[int]]:
         if temperature <= 0:
             raise ValueError("temperature must be > 0")
+        if min_len < 1 or min_len > max_len:
+            raise ValueError("min_len must be at least 1 and no greater than max_len")
         device = torch.device(device or next(self.parameters()).device)
         self.eval()
         input_ids = torch.full((num_sequences, 1), self.bos_id, dtype=torch.long, device=device)
@@ -53,11 +56,13 @@ class LSTMGenerator(nn.Module):
         generated: list[list[int]] = [[] for _ in range(num_sequences)]
         state = None
         current = input_ids
-        for _ in range(max_len):
+        for step in range(1, max_len + 1):
             logits, state = self._step(current, state)
             logits = logits[:, -1, :] / temperature
             logits[:, self.pad_id] = -torch.inf
             logits[:, self.bos_id] = -torch.inf
+            if step <= min_len:
+                logits[:, self.eos_id] = -torch.inf
             if top_k is not None and top_k > 0:
                 values, _ = torch.topk(logits, k=min(top_k, logits.size(-1)), dim=-1)
                 cutoff = values[:, -1].unsqueeze(-1)

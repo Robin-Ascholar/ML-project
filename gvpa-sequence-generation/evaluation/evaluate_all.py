@@ -5,6 +5,7 @@ import argparse
 import csv
 import json
 import statistics
+import subprocess
 import sys
 from collections import Counter
 from pathlib import Path
@@ -27,6 +28,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-dir", required=True)
     parser.add_argument("--run-id", default=None)
     parser.add_argument("--novelty-threshold", type=float, default=0.95)
+    parser.add_argument("--profile", default=None, help="HMMER profile HMM for family validation.")
+    parser.add_argument("--hmmsearch", default="hmmsearch", help="Path to the HMMER hmmsearch executable.")
+    parser.add_argument("--profile-evalue", type=float, default=1e-3)
     return parser.parse_args()
 
 
@@ -39,6 +43,14 @@ def main() -> None:
     run_id = args.run_id or infer_run_id(args.generated, generated)
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
+    profile_hits, profile_status = run_profile_scan(
+        generated_path=args.generated,
+        generated=generated,
+        output_dir=output_dir,
+        profile_path=args.profile,
+        hmmsearch=args.hmmsearch,
+        evalue=args.profile_evalue,
+    )
 
     train_sequences = [record.sequence for record in train]
     reference_sequences = train_sequences + [record.sequence for record in valid] + [record.sequence for record in test]
@@ -61,12 +73,20 @@ def main() -> None:
                 "nearest_train_query_coverage": nearest["query_coverage"],
                 "nearest_train_target_coverage": nearest["target_coverage"],
                 "novel_at_threshold": nearest["identity"] < args.novelty_threshold,
-                "family_profile_hit": None,
-                "family_profile_error": "not_run: HMMER integration is reserved for P2 profile scan",
+                "family_profile_hit": profile_hits.get(record.record_id),
+                "family_profile_error": profile_status if profile_status != "ok" else None,
             }
         )
 
-    metrics = summarize(run_id, generated, per_sequence, train_lengths, train_comp, args.novelty_threshold)
+    metrics = summarize(
+        run_id,
+        generated,
+        per_sequence,
+        train_lengths,
+        train_comp,
+        args.novelty_threshold,
+        profile_status,
+    )
     write_per_sequence(output_dir / "per_sequence_metrics.csv", per_sequence)
     (output_dir / "metrics.json").write_text(json.dumps(metrics, indent=2, ensure_ascii=False) + "\n")
 
@@ -156,6 +176,7 @@ def summarize(
     train_lengths: list[int],
     train_comp: dict[str, float],
     novelty_threshold: float,
+    profile_status: str,
 ) -> dict[str, Any]:
     sequences = [record.sequence for record in generated]
     identities = [row["nearest_train_identity"] for row in per_sequence]
@@ -179,9 +200,54 @@ def summarize(
         "mean_pairwise_diversity": pairwise_diversity,
         "max_duplicate_fraction": max_duplicate_fraction(sequences),
         "aa_composition_l1_distance": aa_composition_l1(aa_composition(sequences), train_comp),
-        "family_profile_hit_rate": None,
-        "family_profile_status": "not_run",
+        "family_profile_hit_rate": mean_bool(
+            row["family_profile_hit"] for row in per_sequence
+            if row["family_profile_hit"] is not None
+        ),
+        "family_profile_status": profile_status,
     }
+
+
+def run_profile_scan(
+    generated_path: str,
+    generated: list[Any],
+    output_dir: Path,
+    profile_path: str | None,
+    hmmsearch: str,
+    evalue: float,
+) -> tuple[dict[str, bool], str]:
+    if profile_path is None:
+        return {}, "not_run"
+    tblout = output_dir / "hmmsearch.tblout"
+    command = [
+        hmmsearch,
+        "--noali",
+        "--tblout",
+        str(tblout),
+        "-E",
+        str(evalue),
+        profile_path,
+        generated_path,
+    ]
+    try:
+        completed = subprocess.run(command, check=False, capture_output=True, text=True)
+    except FileNotFoundError:
+        return {}, "hmmsearch_unavailable"
+    if completed.returncode not in (0, 1):
+        raise RuntimeError(
+            f"hmmsearch failed with exit code {completed.returncode}: "
+            f"{completed.stderr.strip()}"
+        )
+    hits: dict[str, bool] = {record.record_id: False for record in generated}
+    if tblout.exists():
+        with tblout.open() as handle:
+            for line in handle:
+                if line.startswith("#") or not line.strip():
+                    continue
+                fields = line.split()
+                if len(fields) >= 6 and float(fields[4]) <= evalue:
+                    hits[fields[0]] = True
+    return hits, "ok"
 
 
 def mean_bool(values: Any) -> float | None:

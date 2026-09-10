@@ -55,12 +55,15 @@ class SequenceVAE(nn.Module):
         self,
         num_sequences: int,
         max_len: int,
+        min_len: int = 1,
         latent_scale: float = 1.0,
         temperature: float = 1.0,
         device: str | torch.device | None = None,
     ) -> list[list[int]]:
         if temperature <= 0:
             raise ValueError("temperature must be > 0")
+        if min_len < 1 or min_len > max_len:
+            raise ValueError("min_len must be at least 1 and no greater than max_len")
         device = torch.device(device or next(self.parameters()).device)
         self.eval()
         z = torch.randn(num_sequences, self.latent_dim, device=device) * latent_scale
@@ -68,12 +71,14 @@ class SequenceVAE(nn.Module):
         current = torch.full((num_sequences, 1), self.bos_id, dtype=torch.long, device=device)
         finished = torch.zeros(num_sequences, dtype=torch.bool, device=device)
         generated: list[list[int]] = [[] for _ in range(num_sequences)]
-        for _ in range(max_len):
+        for step in range(1, max_len + 1):
             embedded = self.embedding(current)
             decoded, hidden = self.decoder(torch.cat([embedded, z.unsqueeze(1)], dim=-1), hidden)
             logits = self.output(decoded[:, -1, :]) / temperature
             logits[:, self.pad_id] = -torch.inf
             logits[:, self.bos_id] = -torch.inf
+            if step <= min_len:
+                logits[:, self.eos_id] = -torch.inf
             next_ids = torch.multinomial(torch.softmax(logits, dim=-1), num_samples=1).squeeze(1)
             next_ids = torch.where(finished, torch.full_like(next_ids, self.eos_id), next_ids)
             for idx, token_id in enumerate(next_ids.tolist()):

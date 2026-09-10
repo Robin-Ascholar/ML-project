@@ -1,0 +1,5 @@
+run_id,n_generated,legal_char_rate,length_in_train_range_rate,exact_copy_train_rate,mean_nearest_train_identity,max_nearest_train_identity,novel_sequence_rate,unique_ratio,mean_pairwise_diversity,max_duplicate_fraction,aa_composition_l1_distance,family_profile_hit_rate,family_profile_status
+kmer3_seed42,100,1.0,1.0,0.0,0.7294790450885033,0.9,1.0,1.0,0.3791691096025532,0.01,0.08170503510422375,,not_run
+aa_frequency_seed42,100,1.0,1.0,0.0,0.5583436268020371,0.6545454545454545,1.0,1.0,0.5479872928099199,0.01,0.029372722900099898,,not_run
+lstm_temp0.8_seed42,100,1.0,1.0,0.06,0.9881117991064037,1.0,0.01,0.98,0.053847059756695695,0.02,0.03139627255653207,1.0,ok
+vae_scale1_temp0.8_seed42,100,1.0,1.0,0.03,0.90659217765564,1.0,0.54,0.99,0.2336998179301937,0.02,0.1208236223739519,0.95,ok
