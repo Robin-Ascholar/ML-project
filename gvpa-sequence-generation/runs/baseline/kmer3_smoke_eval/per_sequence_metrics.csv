@@ -1,0 +1,21 @@
+sequence_id,length,legal_chars,length_in_train_range,exact_copy_train,exact_copy_any_real,nearest_train_id,nearest_train_identity,nearest_train_query_coverage,nearest_train_target_coverage,novel_at_threshold,family_profile_hit,family_profile_error
+kmer3_seed42_0000,72,True,True,False,False,WP_171572203.1,0.7457627118644068,0.8194444444444444,0.8194444444444444,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0001,71,True,True,False,False,WP_283753117.1,0.8301886792452831,0.7464788732394366,0.7361111111111112,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0002,72,True,True,False,False,WP_392535573.1,0.5079365079365079,0.875,0.8873239436619719,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0003,74,True,True,False,False,WP_169262979.1,0.6181818181818182,0.7432432432432432,0.7638888888888888,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0004,72,True,True,False,False,WP_193875962.1,0.7547169811320755,0.7361111111111112,0.7361111111111112,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0005,74,True,True,False,False,AOC53260.1,0.6274509803921569,0.6891891891891891,0.85,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0006,72,True,True,False,False,WP_330936551.1,0.7555555555555555,0.625,0.7627118644067796,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0007,72,True,True,False,False,WP_330936551.1,0.803921568627451,0.7083333333333334,0.864406779661017,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0008,73,True,True,False,False,WP_330936551.1,0.6923076923076923,0.7123287671232876,0.8813559322033898,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0009,71,True,True,False,False,WP_015080752.1,0.7916666666666666,0.676056338028169,0.676056338028169,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0010,72,True,True,False,False,WP_413173346.1,0.7547169811320755,0.7361111111111112,0.726027397260274,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0011,75,True,True,False,False,WP_408963110.1,0.6923076923076923,0.6933333333333334,0.7222222222222222,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0012,75,True,True,False,False,WP_271944488.1,0.6785714285714286,0.7466666666666667,0.7777777777777778,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0013,84,True,True,False,False,WP_054470142.1,0.7457627118644068,0.7023809523809523,0.8309859154929577,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0014,59,True,True,False,False,WP_408963110.1,0.625,0.8135593220338984,0.6666666666666666,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0015,75,True,True,False,False,WP_190432663.1,0.8135593220338984,0.7866666666666666,0.8194444444444444,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0016,74,True,True,False,False,WP_330936551.1,0.7,0.6756756756756757,0.847457627118644,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0017,74,True,True,False,False,WP_413173348.1,0.8125,0.6486486486486487,0.64,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0018,71,True,True,False,False,WP_038082255.1,0.6415094339622641,0.7464788732394366,0.7361111111111112,True,,not_run: HMMER integration is reserved for P2 profile scan
+kmer3_seed42_0019,72,True,True,False,False,WP_017322549.1,0.864406779661017,0.8194444444444444,0.8082191780821918,True,,not_run: HMMER integration is reserved for P2 profile scan

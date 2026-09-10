@@ -1,0 +1,3 @@
+run_id,n_generated,legal_char_rate,length_in_train_range_rate,exact_copy_train_rate,mean_nearest_train_identity,max_nearest_train_identity,novel_sequence_rate,unique_ratio,mean_pairwise_diversity,max_duplicate_fraction,aa_composition_l1_distance,family_profile_hit_rate,family_profile_status
+aa_frequency_seed42,20,1.0,1.0,0.0,0.5430589146761198,0.6538461538461539,1.0,1.0,0.553076541878253,0.05,0.09463903370401447,,not_run
+kmer3_seed42,20,1.0,1.0,0.0,0.7228011755721198,0.864406779661017,1.0,1.0,0.378486613597965,0.05,0.053848856470688766,,not_run

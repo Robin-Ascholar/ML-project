@@ -80,6 +80,69 @@ python preprocessing/summarize_clusters.py \
 - `data/processed/dataset_v1/profiles/`：冻结时使用的官方与本地profile
 - `data/processed/dataset_v1/checksums.sha256`：完整性校验
 
+## 生成与评价最小流水线
+
+当前已补充 9 月 9 日前需要的 baseline/evaluator v0.1 骨架。以下命令均在 `gvpa-sequence-generation/` 目录下运行。
+
+生成 AA-frequency baseline：
+
+```bash
+python3 baseline/aa_frequency.py \
+  --train data/processed/dataset_v1/train.fasta \
+  --num-seqs 100 \
+  --seed 42 \
+  --output runs/baseline/aa_frequency_seed42.fasta
+```
+
+生成 k-mer baseline：
+
+```bash
+python3 baseline/kmer.py \
+  --train data/processed/dataset_v1/train.fasta \
+  --k 3 \
+  --num-seqs 100 \
+  --seed 42 \
+  --output runs/baseline/kmer3_seed42.fasta
+```
+
+评价任意统一 FASTA 输出：
+
+```bash
+python3 evaluation/evaluate_all.py \
+  --generated runs/baseline/kmer3_seed42.fasta \
+  --output-dir runs/baseline/kmer3_seed42_eval
+```
+
+汇总多个 run 的 `metrics.json`：
+
+```bash
+python3 evaluation/summarize_runs.py \
+  --metrics runs/baseline/aa_frequency_seed42_eval/metrics.json runs/baseline/kmer3_seed42_eval/metrics.json \
+  --output runs/model_comparison.csv
+```
+
+评价器 v0.1 已计算合法字符、长度范围、exact copy、nearest-train identity/coverage、novelty、unique ratio、pairwise diversity 和 AA composition distance。family/profile 字段当前显式为 `null/not_run`，等待 P2 接入 HMMER 扫描结果，不使用 mock 分数。
+
+## LSTM/VAE 入口
+
+已补充 PyTorch 版 LSTM 与 VAE 最小训练/生成入口。已在 `xr1` 环境（Python 3.10.20、PyTorch 2.11.0+cu130）完成 CPU smoke test。运行时会自动选择 CUDA（可用时）或 CPU，也可以用 `--device cpu/cuda` 显式指定：
+
+```bash
+python3 experiments/train_lstm.py --epochs 5 --output-dir runs/lstm_smoke
+python3 experiments/generate_lstm.py \
+  --checkpoint runs/lstm_smoke/checkpoint.pt \
+  --output runs/lstm_smoke/generated.fasta
+
+python3 experiments/train_vae.py --epochs 5 --beta 0.01 --output-dir runs/vae_smoke
+python3 experiments/generate_vae.py \
+  --checkpoint runs/vae_smoke/checkpoint.pt \
+  --output runs/vae_smoke/generated.fasta
+```
+
+生成出的 FASTA 可直接交给 `evaluation/evaluate_all.py`。LSTM 支持 `--temperature` 与 `--top-k`；VAE 支持 `--beta` 训练和 `--latent-scale` 生成实验。
+
+本机没有 NVIDIA GPU，因此 CUDA kernel 未在本机实测；模型、batch 和 checkpoint 均通过统一的 `device` 参数管理，已验证 CPU device path，迁移到有兼容 NVIDIA 驱动的机器后可使用 `--device cuda`。
+
 中间清洗输出：
 
 - `strict_included.fasta`：严格保留的序列

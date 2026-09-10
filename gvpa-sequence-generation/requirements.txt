@@ -1,1 +1,2 @@
+python>=3.10.20
 requests>=2.31,<3

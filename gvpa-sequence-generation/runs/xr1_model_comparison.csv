@@ -1,0 +1,3 @@
+run_id,n_generated,legal_char_rate,length_in_train_range_rate,exact_copy_train_rate,mean_nearest_train_identity,max_nearest_train_identity,novel_sequence_rate,unique_ratio,mean_pairwise_diversity,max_duplicate_fraction,aa_composition_l1_distance,family_profile_hit_rate,family_profile_status
+lstm_temp0.8_seed42,10,1.0,0.0,0.0,0.5808632922499896,0.9230769230769231,1.0,1.0,0.4130303914539834,0.1,0.8504618910492051,,not_run
+vae_scale1_temp0.8_seed42,10,1.0,0.0,0.0,0.681764098092067,1.0,0.7,1.0,0.48432515404130067,0.1,0.6332376369055701,,not_run

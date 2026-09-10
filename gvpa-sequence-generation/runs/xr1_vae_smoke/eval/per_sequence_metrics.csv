@@ -1,0 +1,11 @@
+sequence_id,length,legal_chars,length_in_train_range,exact_copy_train,exact_copy_any_real,nearest_train_id,nearest_train_identity,nearest_train_query_coverage,nearest_train_target_coverage,novel_at_threshold,family_profile_hit,family_profile_error
+vae_scale1_temp0.8_seed42_0000,4,True,False,False,False,ABU55390.1,1.0,1.0,0.05555555555555555,False,,not_run: HMMER integration is reserved for P2 profile scan
+vae_scale1_temp0.8_seed42_0001,36,True,False,False,False,WP_458646425.1,0.4411764705882353,0.9444444444444444,0.37362637362637363,True,,not_run: HMMER integration is reserved for P2 profile scan
+vae_scale1_temp0.8_seed42_0002,1,True,False,False,False,ABU55390.1,1.0,1.0,0.013888888888888888,False,,not_run: HMMER integration is reserved for P2 profile scan
+vae_scale1_temp0.8_seed42_0003,55,True,False,False,False,WP_458646425.1,0.39622641509433965,0.9636363636363636,0.5824175824175825,True,,not_run: HMMER integration is reserved for P2 profile scan
+vae_scale1_temp0.8_seed42_0004,24,True,False,False,False,WP_458646425.1,0.5416666666666666,1.0,0.26373626373626374,True,,not_run: HMMER integration is reserved for P2 profile scan
+vae_scale1_temp0.8_seed42_0005,8,True,False,False,False,WP_017300094.1,0.75,1.0,0.1111111111111111,True,,not_run: HMMER integration is reserved for P2 profile scan
+vae_scale1_temp0.8_seed42_0006,28,True,False,False,False,WP_088893383.1,0.56,0.8928571428571429,0.3472222222222222,True,,not_run: HMMER integration is reserved for P2 profile scan
+vae_scale1_temp0.8_seed42_0007,4,True,False,False,False,WP_413173347.1,1.0,1.0,0.05405405405405406,False,,not_run: HMMER integration is reserved for P2 profile scan
+vae_scale1_temp0.8_seed42_0008,24,True,False,False,False,WP_073608715.1,0.7,0.8333333333333334,0.2777777777777778,True,,not_run: HMMER integration is reserved for P2 profile scan
+vae_scale1_temp0.8_seed42_0009,99,True,False,False,False,AOC53260.1,0.42857142857142855,0.5656565656565656,0.9333333333333333,True,,not_run: HMMER integration is reserved for P2 profile scan

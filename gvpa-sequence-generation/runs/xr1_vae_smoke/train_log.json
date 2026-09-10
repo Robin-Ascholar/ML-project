@@ -1,0 +1,11 @@
+[
+  {
+    "epoch": 1,
+    "train_total": 3.074210262298584,
+    "train_reconstruction": 3.0741616249084474,
+    "train_kl": 0.004861739045009017,
+    "valid_total": 2.910168170928955,
+    "valid_reconstruction": 2.9100897312164307,
+    "valid_kl": 0.007843793369829655
+  }
+]
