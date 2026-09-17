@@ -1,0 +1,66 @@
+{
+  "schema_version": "gvpa_fidelity_v0.2",
+  "run_id": "formal_vae_50ep_seed42",
+  "n_generated": 100,
+  "train_length_min": 59,
+  "train_length_max": 91,
+  "mean_length": 80.82,
+  "profile_status": {
+    "pf00741": "hmmsearch_unavailable",
+    "gvpa_core95": "hmmsearch_unavailable"
+  },
+  "evaluation_completeness": {
+    "profile_evidence_complete": false,
+    "conservation_evidence_complete": true,
+    "embedding_evidence_complete": false,
+    "functional_prediction_complete": false
+  },
+  "thresholds": {
+    "novelty_identity": 0.95,
+    "max_exact_copy_rate": 0.05,
+    "min_profile_coverage": 0.6
+  },
+  "hard_fidelity": {
+    "legal_char_rate": 1.0,
+    "length_in_train_range_rate": 1.0,
+    "pf00741_hit_rate": null,
+    "gvpa_core95_hit_rate": null,
+    "exact_copy_train_rate": 0.03,
+    "basic_fidelity_pass_rate": 0.97,
+    "profile_required_hard_fidelity_pass_rate": null,
+    "hard_fidelity_pass_rate": null
+  },
+  "pattern_fidelity": {
+    "n_conserved_columns": 70,
+    "mean_conservation_exact_fidelity": 0.8845656348542463,
+    "mean_conservation_property_fidelity": 0.9421910126260414
+  },
+  "distribution_fidelity": {
+    "aa_composition_l1_distance": 0.12038175494755973,
+    "feature_mean_absolute_distance": 0.038519244958703285,
+    "feature_distances": {
+      "hydrophobic_fraction": 0.03141665262158,
+      "charged_fraction": 0.0074990335538255015,
+      "polar_fraction": 0.030633356506375747,
+      "aromatic_fraction": 0.0052752553210760125,
+      "beta_favoring_fraction": 0.023010551914944277,
+      "net_charge_per_residue": 0.005195471562153255,
+      "mean_hydropathy": 0.1666043932309682
+    }
+  },
+  "novelty_and_diversity_context": {
+    "mean_nearest_train_identity": 0.90659217765564,
+    "max_nearest_train_identity": 1.0,
+    "novelty_threshold": 0.95,
+    "novel_sequence_rate": 0.54,
+    "unique_ratio": 0.99,
+    "mean_pairwise_diversity": 0.2336998179301937,
+    "max_duplicate_fraction": 0.02
+  },
+  "fidelity_summary": {
+    "status": "uncertain_without_profile_evidence",
+    "warnings": [
+      "profile_evidence_unavailable_or_incomplete"
+    ]
+  }
+}

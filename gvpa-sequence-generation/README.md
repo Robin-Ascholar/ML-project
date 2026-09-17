@@ -135,6 +135,30 @@ python3 evaluation/summarize_runs.py \
 
 评价器 v0.1 已计算合法字符、长度范围、exact copy、nearest-train identity/coverage、novelty、unique ratio、pairwise diversity 和 AA composition distance。family/profile 字段当前显式为 `null/not_run`，等待 P2 接入 HMMER 扫描结果，不使用 mock 分数。
 
+专门评测 GvpA 蓝藻蛋白序列忠实度：
+
+```bash
+python3 evaluation/evaluate_fidelity.py \
+  --generated runs/baseline/kmer3_seed42.fasta \
+  --output-dir runs/baseline/kmer3_seed42_fidelity
+```
+
+该脚本输出 `fidelity_metrics.json` 和 `per_sequence_fidelity.csv`，按硬忠实度、保守模式忠实度、理化/组成分布忠实度以及 novelty/diversity 上下文汇总。默认会尝试使用冻结的 `PF00741.hmm` 与 `GvpA_core95.hmm`；如果当前环境未安装 HMMER，profile 状态会标记为 `hmmsearch_unavailable`，其余非 HMM 指标仍会正常计算。
+
+同时会输出 `fidelity_report.md`。需要注意：当 HMMER 不可用时，`basic_fidelity_pass_rate` 只表示合法字符、长度和非训练集 exact copy 的基础通过率；严格的 `profile_required_hard_fidelity_pass_rate` 会保留为空，避免把缺失的 profile 证据误解释为已通过。
+
+汇总多个 fidelity 结果：
+
+```bash
+python3 evaluation/summarize_fidelity_runs.py \
+  --metrics \
+    runs/baseline/aa_frequency_seed42_fidelity/fidelity_metrics.json \
+    runs/baseline/kmer3_seed42_fidelity/fidelity_metrics.json \
+    runs/formal_lstm_50ep_seed42_fidelity/fidelity_metrics.json \
+    runs/formal_vae_50ep_seed42_fidelity/fidelity_metrics.json \
+  --output runs/fidelity_model_comparison.csv
+```
+
 ## LSTM/VAE 入口
 
 已补充 PyTorch 版 LSTM 与 VAE 最小训练/生成入口。已在 `xr1` 环境（Python 3.10.20、PyTorch 2.11.0+cu130）完成 CPU smoke test。运行时会自动选择 CUDA（可用时）或 CPU，也可以用 `--device cpu/cuda` 显式指定：
