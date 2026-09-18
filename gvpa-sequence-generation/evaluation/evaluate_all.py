@@ -75,6 +75,11 @@ def main() -> None:
                 "novel_at_threshold": nearest["identity"] < args.novelty_threshold,
                 "family_profile_hit": profile_hits.get(record.record_id),
                 "family_profile_error": profile_status if profile_status != "ok" else None,
+                "faithful": faithfulness_value(
+                    legal=legal,
+                    length_in_train_range=min(train_lengths) <= len(record.sequence) <= max(train_lengths),
+                    profile_hit=profile_hits.get(record.record_id),
+                ),
             }
         )
 
@@ -205,7 +210,24 @@ def summarize(
             if row["family_profile_hit"] is not None
         ),
         "family_profile_status": profile_status,
+        "faithfulness_rate": mean_bool(row["faithful"] for row in per_sequence),
+        "faithfulness_definition": (
+            "legal_chars AND length_in_train_range AND family_profile_hit"
+            if profile_status == "ok"
+            else None
+        ),
     }
+
+
+def faithfulness_value(
+    legal: bool,
+    length_in_train_range: bool,
+    profile_hit: bool | None,
+) -> bool | None:
+    """Return whether a generated sequence satisfies all biological constraints."""
+    if profile_hit is None:
+        return None
+    return legal and length_in_train_range and profile_hit
 
 
 def run_profile_scan(

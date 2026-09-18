@@ -23,6 +23,8 @@ SUMMARY_FIELDS = [
     "aa_composition_l1_distance",
     "family_profile_hit_rate",
     "family_profile_status",
+    "faithfulness_rate",
+    "faithfulness_definition",
 ]
 
 

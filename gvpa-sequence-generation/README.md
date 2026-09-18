@@ -82,7 +82,7 @@ python preprocessing/summarize_clusters.py \
 
 ## 生成与评价最小流水线
 
-当前已补充 9 月 9 日前需要的 baseline/evaluator v0.1 骨架。以下命令均在 `gvpa-sequence-generation/` 目录下运行。
+当前已补充 9 月 9 日前需要的 baseline/evaluator  骨架。以下命令均在 `gvpa-sequence-generation/` 目录下运行。
 
 生成 AA-frequency baseline：
 
