@@ -11,6 +11,7 @@ class LSTMGenerator(nn.Module):
         pad_id: int,
         bos_id: int,
         eos_id: int,
+        unk_id: int | None = None,
         embedding_dim: int = 64,
         hidden_dim: int = 128,
         num_layers: int = 2,
@@ -20,6 +21,7 @@ class LSTMGenerator(nn.Module):
         self.pad_id = pad_id
         self.bos_id = bos_id
         self.eos_id = eos_id
+        self.unk_id = unk_id
         self.embedding = nn.Embedding(vocab_size, embedding_dim, padding_idx=pad_id)
         self.lstm = nn.LSTM(
             input_size=embedding_dim,
@@ -61,6 +63,8 @@ class LSTMGenerator(nn.Module):
             logits = logits[:, -1, :] / temperature
             logits[:, self.pad_id] = -torch.inf
             logits[:, self.bos_id] = -torch.inf
+            if self.unk_id is not None:
+                logits[:, self.unk_id] = -torch.inf
             if step <= min_len:
                 logits[:, self.eos_id] = -torch.inf
             if top_k is not None and top_k > 0:

@@ -1,0 +1,22 @@
+{
+  "schema_version": "gvpa_eval_v0.1",
+  "run_id": "gan_selected_filtered_seed42",
+  "n_generated": 100,
+  "legal_char_rate": 1.0,
+  "length_in_train_range_rate": 1.0,
+  "mean_length": 71.35,
+  "train_length_min": 59,
+  "train_length_max": 91,
+  "exact_copy_train_rate": 0.0,
+  "exact_copy_any_real_rate": 0.0,
+  "mean_nearest_train_identity": 0.8916328840522323,
+  "max_nearest_train_identity": 0.9558823529411765,
+  "novelty_threshold": 0.95,
+  "novel_sequence_rate": 0.99,
+  "unique_ratio": 1.0,
+  "mean_pairwise_diversity": 0.15696761803106363,
+  "max_duplicate_fraction": 0.01,
+  "aa_composition_l1_distance": 0.16988755718090617,
+  "family_profile_hit_rate": 1.0,
+  "family_profile_status": "ok"
+}

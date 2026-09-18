@@ -1,0 +1,22 @@
+{
+  "schema_version": "gvpa_eval_v0.1",
+  "run_id": "primary_lstm_masked",
+  "n_generated": 100,
+  "legal_char_rate": 1.0,
+  "length_in_train_range_rate": 1.0,
+  "mean_length": 72.75,
+  "train_length_min": 59,
+  "train_length_max": 91,
+  "exact_copy_train_rate": 0.0,
+  "exact_copy_any_real_rate": 0.0,
+  "mean_nearest_train_identity": 0.9516408809363389,
+  "max_nearest_train_identity": 1.0,
+  "novelty_threshold": 0.95,
+  "novel_sequence_rate": 0.3,
+  "unique_ratio": 1.0,
+  "mean_pairwise_diversity": 0.13078235751836037,
+  "max_duplicate_fraction": 0.01,
+  "aa_composition_l1_distance": 0.0396336576832481,
+  "family_profile_hit_rate": 0.98,
+  "family_profile_status": "ok"
+}

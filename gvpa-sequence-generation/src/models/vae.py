@@ -11,6 +11,7 @@ class SequenceVAE(nn.Module):
         pad_id: int,
         bos_id: int,
         eos_id: int,
+        unk_id: int | None = None,
         embedding_dim: int = 64,
         hidden_dim: int = 128,
         latent_dim: int = 32,
@@ -19,6 +20,7 @@ class SequenceVAE(nn.Module):
         self.pad_id = pad_id
         self.bos_id = bos_id
         self.eos_id = eos_id
+        self.unk_id = unk_id
         self.latent_dim = latent_dim
         self.embedding = nn.Embedding(vocab_size, embedding_dim, padding_idx=pad_id)
         self.encoder = nn.GRU(embedding_dim, hidden_dim, batch_first=True)
@@ -56,6 +58,7 @@ class SequenceVAE(nn.Module):
         num_sequences: int,
         max_len: int,
         min_len: int = 1,
+        target_lengths: torch.Tensor | None = None,
         latent_scale: float = 1.0,
         temperature: float = 1.0,
         device: str | torch.device | None = None,
@@ -65,6 +68,12 @@ class SequenceVAE(nn.Module):
         if min_len < 1 or min_len > max_len:
             raise ValueError("min_len must be at least 1 and no greater than max_len")
         device = torch.device(device or next(self.parameters()).device)
+        if target_lengths is not None:
+            if target_lengths.ndim != 1 or target_lengths.size(0) != num_sequences:
+                raise ValueError("target_lengths must have shape [num_sequences]")
+            target_lengths = target_lengths.to(device=device, dtype=torch.long)
+            if bool(((target_lengths < min_len) | (target_lengths > max_len)).any()):
+                raise ValueError("target_lengths must be within [min_len, max_len]")
         self.eval()
         z = torch.randn(num_sequences, self.latent_dim, device=device) * latent_scale
         hidden = torch.tanh(self.latent_to_hidden(z)).unsqueeze(0)
@@ -77,8 +86,20 @@ class SequenceVAE(nn.Module):
             logits = self.output(decoded[:, -1, :]) / temperature
             logits[:, self.pad_id] = -torch.inf
             logits[:, self.bos_id] = -torch.inf
-            if step <= min_len:
-                logits[:, self.eos_id] = -torch.inf
+            if self.unk_id is not None:
+                logits[:, self.unk_id] = -torch.inf
+            if target_lengths is None:
+                if step <= min_len:
+                    logits[:, self.eos_id] = -torch.inf
+            else:
+                # `step` is the next token position including EOS: to produce
+                # n amino acids, EOS is emitted at step n + 1.  A target at
+                # max_len is naturally stopped by the decoding loop instead.
+                force_eos = (target_lengths < max_len) & (target_lengths + 1 == step)
+                logits[target_lengths >= step, self.eos_id] = -torch.inf
+                if bool(force_eos.any()):
+                    logits[force_eos] = -torch.inf
+                    logits[force_eos, self.eos_id] = 0.0
             next_ids = torch.multinomial(torch.softmax(logits, dim=-1), num_samples=1).squeeze(1)
             next_ids = torch.where(finished, torch.full_like(next_ids, self.eos_id), next_ids)
             for idx, token_id in enumerate(next_ids.tolist()):

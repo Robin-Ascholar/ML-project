@@ -44,7 +44,18 @@ def main() -> None:
     if min_len < 1 or min_len > max_len:
         raise SystemExit("--min-len must be at least 1 and no greater than --max-len")
     checkpoint = torch.load(args.checkpoint, map_location=args.device)
-    model = LSTMGenerator(vocab_size=len(tokenizer.token_to_id), pad_id=tokenizer.pad_id, bos_id=tokenizer.bos_id, eos_id=tokenizer.eos_id).to(args.device)
+    train_args = checkpoint.get("args", {})
+    model = LSTMGenerator(
+        vocab_size=len(tokenizer.token_to_id),
+        pad_id=tokenizer.pad_id,
+        bos_id=tokenizer.bos_id,
+        eos_id=tokenizer.eos_id,
+        unk_id=tokenizer.unk_id,
+        embedding_dim=int(train_args.get("embedding_dim", 64)),
+        hidden_dim=int(train_args.get("hidden_dim", 128)),
+        num_layers=int(train_args.get("num_layers", 2)),
+        dropout=float(train_args.get("dropout", 0.1)),
+    ).to(args.device)
     model.load_state_dict(checkpoint["model_state"])
     token_batches = model.generate(
         args.num_seqs,

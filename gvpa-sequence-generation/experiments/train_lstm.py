@@ -29,6 +29,13 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--epochs", type=int, default=5)
     parser.add_argument("--batch-size", type=int, default=32)
     parser.add_argument("--lr", type=float, default=1e-3)
+    parser.add_argument("--weight-decay", type=float, default=0.0)
+    parser.add_argument("--embedding-dim", type=int, default=64)
+    parser.add_argument("--hidden-dim", type=int, default=128)
+    parser.add_argument("--num-layers", type=int, default=2)
+    parser.add_argument("--dropout", type=float, default=0.1)
+    parser.add_argument("--init-checkpoint", default=None, help="Optional compatible checkpoint for pretraining/fine-tuning.")
+    parser.add_argument("--patience", type=int, default=0, help="Stop after this many non-improving validation epochs; 0 disables early stopping.")
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--device", default="cuda" if torch.cuda.is_available() else "cpu")
     return parser.parse_args()
@@ -42,18 +49,58 @@ def main() -> None:
     valid_ds = FastaSequenceDataset(args.valid, tokenizer)
     train_loader = DataLoader(train_ds, batch_size=args.batch_size, shuffle=True, collate_fn=lambda x: collate_batch(x, tokenizer.pad_id))
     valid_loader = DataLoader(valid_ds, batch_size=args.batch_size, shuffle=False, collate_fn=lambda x: collate_batch(x, tokenizer.pad_id))
-    model = LSTMGenerator(vocab_size=len(tokenizer.token_to_id), pad_id=tokenizer.pad_id, bos_id=tokenizer.bos_id, eos_id=tokenizer.eos_id).to(args.device)
-    optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr)
+    if args.epochs < 1 or args.batch_size < 1 or args.lr <= 0 or args.weight_decay < 0:
+        raise SystemExit("epochs, batch-size, lr, and weight-decay must be valid positive/non-negative values")
+    if args.embedding_dim < 1 or args.hidden_dim < 1 or args.num_layers < 1 or not 0 <= args.dropout < 1:
+        raise SystemExit("invalid LSTM architecture arguments")
+    model = LSTMGenerator(
+        vocab_size=len(tokenizer.token_to_id),
+        pad_id=tokenizer.pad_id,
+        bos_id=tokenizer.bos_id,
+        eos_id=tokenizer.eos_id,
+        unk_id=tokenizer.unk_id,
+        embedding_dim=args.embedding_dim,
+        hidden_dim=args.hidden_dim,
+        num_layers=args.num_layers,
+        dropout=args.dropout,
+    ).to(args.device)
+    if args.init_checkpoint:
+        init_checkpoint = torch.load(args.init_checkpoint, map_location=args.device)
+        model.load_state_dict(init_checkpoint["model_state"])
+    optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     criterion = nn.CrossEntropyLoss(ignore_index=tokenizer.pad_id)
     history = []
+    best_valid = float("inf")
+    best_epoch = 0
+    stale_epochs = 0
+    best_state = None
     for epoch in range(1, args.epochs + 1):
         train_loss = run_epoch(model, train_loader, criterion, args.device, optimizer)
         valid_loss = run_epoch(model, valid_loader, criterion, args.device, None)
         history.append({"epoch": epoch, "train_loss": train_loss, "valid_loss": valid_loss})
         print(json.dumps(history[-1]))
+        if valid_loss < best_valid:
+            best_valid = valid_loss
+            best_epoch = epoch
+            stale_epochs = 0
+            best_state = {key: value.detach().cpu().clone() for key, value in model.state_dict().items()}
+        else:
+            stale_epochs += 1
+            if args.patience and stale_epochs >= args.patience:
+                break
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
-    torch.save({"model_state": model.state_dict(), "tokenizer": args.tokenizer, "args": vars(args), "history": history}, output_dir / "checkpoint.pt")
+    torch.save(
+        {
+            "model_state": best_state or model.state_dict(),
+            "tokenizer": args.tokenizer,
+            "args": vars(args),
+            "history": history,
+            "best_epoch": best_epoch or len(history),
+            "best_valid_loss": best_valid,
+        },
+        output_dir / "checkpoint.pt",
+    )
     (output_dir / "train_log.json").write_text(json.dumps(history, indent=2) + "\n")
 
 

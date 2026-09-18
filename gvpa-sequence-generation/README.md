@@ -135,9 +135,9 @@ python3 evaluation/summarize_runs.py \
 
 评价器 v0.1 已计算合法字符、长度范围、exact copy、nearest-train identity/coverage、novelty、unique ratio、pairwise diversity 和 AA composition distance。family/profile 字段当前显式为 `null/not_run`，等待 P2 接入 HMMER 扫描结果，不使用 mock 分数。
 
-## LSTM/VAE 入口
+## LSTM/VAE/GAN 入口
 
-已补充 PyTorch 版 LSTM 与 VAE 最小训练/生成入口。已在 `xr1` 环境（Python 3.10.20、PyTorch 2.11.0+cu130）完成 CPU smoke test。运行时会自动选择 CUDA（可用时）或 CPU，也可以用 `--device cpu/cuda` 显式指定：
+已补充 PyTorch 版 LSTM、VAE 与条件 WGAN-GP 训练/生成入口。运行时会自动选择 CUDA（可用时）或 CPU，也可以用 `--device cpu/cuda` 显式指定：
 
 ```bash
 python3 experiments/train_lstm.py --epochs 5 --output-dir runs/lstm_smoke
@@ -149,11 +149,23 @@ python3 experiments/train_vae.py --epochs 5 --beta 0.01 --output-dir runs/vae_sm
 python3 experiments/generate_vae.py \
   --checkpoint runs/vae_smoke/checkpoint.pt \
   --output runs/vae_smoke/generated.fasta
+
+python3 experiments/train_gan.py --epochs 5 --output-dir runs/gan_smoke
+python3 experiments/generate_gan.py \
+  --checkpoint runs/gan_smoke/checkpoint.pt \
+  --output runs/gan_smoke/generated.fasta
 ```
 
 生成出的 FASTA 可直接交给 `evaluation/evaluate_all.py`。LSTM 支持 `--temperature` 与 `--top-k`；VAE 支持 `--beta` 训练和 `--latent-scale` 生成实验。
 
-本机没有 NVIDIA GPU，因此 CUDA kernel 未在本机实测；模型、batch 和 checkpoint 均通过统一的 `device` 参数管理，已验证 CPU device path，迁移到有兼容 NVIDIA 驱动的机器后可使用 `--device cuda`。
+GAN 使用适合小样本的条件 WGAN-GP：目标长度从蓝藻训练集的经验分布抽样，生成器学习该长度下各位置的氨基酸分布，判别器接收真实 one-hot 或生成的软分布。长度是显式条件而非模型评价结果，因此比较模型时仍需重点报告家族 profile、保守位点、新颖性与多样性，不能把 GAN 的长度通过率视为其性能优势。`--composition-weight` 是小样本稳定项，`--gradient-penalty`、`--critic-steps` 和生成时 `--temperature` 可用于消融或参数扫描。最终候选输出可用 `--max-hydrophobic-run 7` 排除连续八个或更多疏水残基的序列；这属于明确的候选筛选约束，应与原始 GAN 输出分开报告。
+
+优化训练支持 `--init-checkpoint`、`--weight-decay` 和 `--patience`，可按 `aux_pan_gvpa_v1/training_recipe.md` 完成“辅助预训练 → 蓝藻微调”。VAE 的 `--length-mode empirical` 会从蓝藻训练集的真实长度分布抽样并强制在该长度结束，用于消除 EOS/最大长度偏差；这是一项生成约束，不应当作为模型学到长度分布的证据。GAN 的 `--hydrophobic-run-weight` 可惩罚连续疏水残基，当前蓝藻训练集在“连续 8 个疏水残基”阈值下为 0 条。
+
+已完成的优化实验及统一评价见 `runs/optimization_summary.md` 和 `runs/optimized_model_comparison.csv`。
+独立训练 seed 复测及提交判定见 `runs/optimization_retest.md`。
+
+LSTM/VAE 入口已通过 CPU smoke test；GAN 已在 NVIDIA RTX 4060 Laptop GPU 上完成 5-epoch smoke test 和 100-epoch 初测。模型、batch 和 checkpoint 均通过统一的 `device` 参数管理。
 
 中间清洗输出：
 
