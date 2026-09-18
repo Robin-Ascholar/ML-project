@@ -1,0 +1,4 @@
+model_family,n_sampling_seeds,mmd2_mean,mmd2_min,mmd2_max,embedding_outlier_rate_mean,embedding_outlier_rate_min,embedding_outlier_rate_max,mmd_exceeds_real_q95_fraction_mean
+LSTM,3,0.0264,0.0221,0.0330,0.0767,0.0600,0.0900,0.9683
+VAE,3,0.2858,0.2710,0.3075,0.6667,0.6100,0.7000,1.0000
+GAN,3,0.7395,0.7216,0.7587,0.9633,0.9500,0.9700,1.0000

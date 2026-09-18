@@ -1,0 +1,7 @@
+source,source_type,n_sequences,mmd2_median,mmd2_q025,mmd2_q975,mmd2_exceeds_real_split_q95_fraction,mean_nearest_train_embedding_distance,outlier_threshold,embedding_outlier_rate,distribution_assessment
+Real cyanobacterial GvpA,real,165,0.008915126323699951,0.004440686106681824,0.02055821120738984,0.05,0.013805088587105274,0.14885225892066956,0.0,Natural real-vs-real baseline; not a generated-model judgment.
+AA-frequency baseline,baseline,100,0.5464304387569427,0.5060061484575271,0.5946320578455925,1.0,0.30821847915649414,0.14885225892066956,1.0,Substantial embedding outlier rate; evidence of distributional drift.
+3-mer baseline,baseline,100,0.593353271484375,0.558009746670723,0.6293373495340348,1.0,0.48553603887557983,0.14885225892066956,1.0,Substantial embedding outlier rate; evidence of distributional drift.
+LSTM (auxiliary pretrain + fine-tune),deep,100,0.021801769733428955,0.016042068600654602,0.03221198618412018,0.93,0.07756314426660538,0.14885225892066956,0.06,"Partly overlaps real GvpA, but distributional mismatch exceeds the real-vs-real baseline."
+VAE (empirical length control),deep,100,0.27104927599430084,0.23539423644542695,0.30926868095994,1.0,0.3007505536079407,0.14885225892066956,0.61,Substantial embedding outlier rate; evidence of distributional drift.
+GAN (composition + hydrophobic filter),deep,100,0.7215136885643005,0.6762720882892609,0.7694598346948623,1.0,0.2671074867248535,0.14885225892066956,0.97,Substantial embedding outlier rate; evidence of distributional drift.

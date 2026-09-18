@@ -1,0 +1,11 @@
+source,source_type,n_sequences,mmd2_median,mmd2_q025,mmd2_q975,mmd2_exceeds_real_split_q95_fraction,mean_nearest_train_embedding_distance,outlier_threshold,embedding_outlier_rate,distribution_assessment
+Real cyanobacterial GvpA,real,165,0.008915126323699951,0.004440686106681824,0.02055821120738984,0.05,0.013805088587105274,0.14885225892066956,0.0,Natural real-vs-real baseline; not a generated-model judgment.
+LSTM / sample seed 42,lstm,100,0.0221254825592041,0.015776893496513365,0.03181441426277161,0.94,0.07756315171718597,0.14885225892066956,0.06,"Partly overlaps real GvpA, but distributional mismatch exceeds the real-vs-real baseline."
+LSTM / sample seed 7,lstm,100,0.024019300937652588,0.016577035188674927,0.03429139852523804,0.965,0.07426180690526962,0.14885225892066956,0.08,"Partly overlaps real GvpA, but distributional mismatch exceeds the real-vs-real baseline."
+LSTM / sample seed 123,lstm,100,0.03295937180519104,0.022394494712352754,0.047112980484962465,1.0,0.08148875087499619,0.14885225892066956,0.09,"Partly overlaps real GvpA, but distributional mismatch exceeds the real-vs-real baseline."
+VAE / sample seed 42,vae,100,0.27104927599430084,0.23539423644542695,0.30926868095994,1.0,0.3007505536079407,0.14885225892066956,0.61,Substantial embedding outlier rate; evidence of distributional drift.
+VAE / sample seed 7,vae,100,0.3074789196252823,0.2721512869000435,0.355621375143528,1.0,0.32691776752471924,0.14885225892066956,0.7,Substantial embedding outlier rate; evidence of distributional drift.
+VAE / sample seed 123,vae,100,0.2788151949644089,0.22960587367415428,0.3227614894509316,1.0,0.3083834648132324,0.14885225892066956,0.69,Substantial embedding outlier rate; evidence of distributional drift.
+GAN / sample seed 42,gan,100,0.7215998768806458,0.6774202436208725,0.7769403457641602,1.0,0.2671074867248535,0.14885225892066956,0.97,Substantial embedding outlier rate; evidence of distributional drift.
+GAN / sample seed 7,gan,100,0.7586638033390045,0.7105242177844048,0.8079797178506851,1.0,0.28685784339904785,0.14885225892066956,0.95,Substantial embedding outlier rate; evidence of distributional drift.
+GAN / sample seed 123,gan,100,0.738222599029541,0.6910815417766571,0.7938238471746445,1.0,0.28479939699172974,0.14885225892066956,0.97,Substantial embedding outlier rate; evidence of distributional drift.

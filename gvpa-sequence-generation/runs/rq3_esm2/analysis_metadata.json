@@ -1,0 +1,23 @@
+{
+  "rq": "RQ3",
+  "model_id": "facebook/esm2_t6_8M_UR50D",
+  "pooling": "last-layer mean pooling over residue tokens; special and padding tokens excluded",
+  "normalization": "L2 normalization before distances, MMD and projection",
+  "reference_fasta": "runs/../data/processed/dataset_v1/all.fasta",
+  "n_real": 165,
+  "n_train_reference": 139,
+  "n_heldout_reference": 26,
+  "projection": "UMAP (cosine, n_neighbors=15, min_dist=0.15)",
+  "mmd": "biased RBF MMD^2 with a single bandwidth calibrated on all real embeddings; repeated matched-size subsamples",
+  "rbf_bandwidth_squared": 0.012914121150970459,
+  "real_split_baseline": {
+    "median": 0.008915126323699951,
+    "q025": 0.004440686106681824,
+    "q975": 0.02055821120738984
+  },
+  "outlier_threshold": {
+    "definition": "95th percentile of held-out real sequence distance to frozen training embeddings",
+    "value": 0.14885225892066956
+  },
+  "random_seed": 42
+}

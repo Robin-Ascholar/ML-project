@@ -1,0 +1,666 @@
+sequence_id,source,source_type,length,projection_1,projection_2,nearest_train_embedding_distance,embedding_outlier
+ABG51546.1,Real cyanobacterial GvpA,real,75,12.37842,9.992531,0.07263255,False
+ABG51547.1,Real cyanobacterial GvpA,real,72,12.358082,9.671578,0.06647443,False
+ABU55390.1,Real cyanobacterial GvpA,real,72,10.936231,9.3005,0.0,False
+AOC53260.1,Real cyanobacterial GvpA,real,60,11.352369,6.611666,0.0,False
+GAB4214070.1,Real cyanobacterial GvpA,real,72,12.206018,11.057734,0.0673368,False
+GAB4386638.1,Real cyanobacterial GvpA,real,72,11.117559,10.465576,0.00069053395,False
+GEA25652.1,Real cyanobacterial GvpA,real,84,13.333592,5.972091,0.0,False
+WP_002735503.1,Real cyanobacterial GvpA,real,71,13.800216,7.415096,0.0,False
+WP_007357596.1,Real cyanobacterial GvpA,real,72,9.240275,8.48683,0.00048828125,False
+WP_008311322.1,Real cyanobacterial GvpA,real,72,11.750359,9.576029,0.00048828125,False
+WP_009626980.1,Real cyanobacterial GvpA,real,72,11.099081,9.430612,0.00048828125,False
+WP_009768191.1,Real cyanobacterial GvpA,real,72,12.414367,10.608843,0.0,False
+WP_010996411.1,Real cyanobacterial GvpA,real,71,13.371607,7.2858253,0.0,False
+WP_011316976.1,Real cyanobacterial GvpA,real,71,13.45189,7.49393,0.00077204045,False
+WP_011429717.1,Real cyanobacterial GvpA,real,72,10.595329,10.30423,0.03515286,False
+WP_012408764.1,Real cyanobacterial GvpA,real,73,11.765807,6.343466,0.00034526698,False
+WP_015080752.1,Real cyanobacterial GvpA,real,71,13.081123,7.3590994,0.0,False
+WP_015146561.1,Real cyanobacterial GvpA,real,72,11.3731165,8.800587,0.0,False
+WP_015164085.1,Real cyanobacterial GvpA,real,73,10.638997,9.986935,0.0,False
+WP_015167036.1,Real cyanobacterial GvpA,real,72,10.900885,9.788243,0.0,False
+WP_015171018.1,Real cyanobacterial GvpA,real,72,12.086113,9.673779,0.00034526698,False
+WP_015224598.1,Real cyanobacterial GvpA,real,72,6.3597646,8.961603,0.22117767,False
+WP_015229078.1,Real cyanobacterial GvpA,real,72,7.4277477,8.739101,0.13307388,False
+WP_016922591.1,Real cyanobacterial GvpA,real,71,12.512075,8.978149,0.00069053395,False
+WP_017300094.1,Real cyanobacterial GvpA,real,72,12.666907,10.451426,0.00048828125,False
+WP_017322549.1,Real cyanobacterial GvpA,real,73,12.952365,8.9149,0.00034526698,False
+WP_017721725.1,Real cyanobacterial GvpA,real,72,11.146919,10.075233,0.0,False
+WP_017721733.1,Real cyanobacterial GvpA,real,72,10.690359,9.467099,0.00034526698,False
+WP_017803923.1,Real cyanobacterial GvpA,real,71,12.733146,7.1881275,0.0,False
+WP_017803924.1,Real cyanobacterial GvpA,real,71,12.86753,6.972844,0.0,False
+WP_019501601.1,Real cyanobacterial GvpA,real,72,10.479041,10.14303,0.00069053395,False
+WP_026789190.1,Real cyanobacterial GvpA,real,72,10.932558,8.399789,0.00069053395,False
+WP_036004549.1,Real cyanobacterial GvpA,real,72,11.943918,10.5613365,0.0,False
+WP_036534731.1,Real cyanobacterial GvpA,real,72,10.897959,9.112477,0.0,False
+WP_038082255.1,Real cyanobacterial GvpA,real,72,12.525771,10.313117,0.0,False
+WP_039726782.1,Real cyanobacterial GvpA,real,72,11.609464,10.301555,0.00048828125,False
+WP_039752851.1,Real cyanobacterial GvpA,real,72,9.49666,9.302644,0.0010918301,False
+WP_042152734.1,Real cyanobacterial GvpA,real,72,10.773332,8.360609,0.0,False
+WP_045871251.1,Real cyanobacterial GvpA,real,71,13.363241,7.6570106,0.0,False
+WP_054464971.1,Real cyanobacterial GvpA,real,72,11.175203,8.240489,0.08143764,False
+WP_054470142.1,Real cyanobacterial GvpA,real,71,13.719101,7.735981,0.00034526698,False
+WP_057178839.1,Real cyanobacterial GvpA,real,71,13.282115,7.8737235,0.00048828125,False
+WP_063873374.1,Real cyanobacterial GvpA,real,71,13.39845,7.038303,0.0,False
+WP_063873375.1,Real cyanobacterial GvpA,real,71,13.724208,7.050406,0.0,False
+WP_068510916.1,Real cyanobacterial GvpA,real,72,12.065637,10.71173,0.00048828125,False
+WP_069965561.1,Real cyanobacterial GvpA,real,75,11.96169,9.572866,0.0,False
+WP_072717742.1,Real cyanobacterial GvpA,real,72,11.34059,8.381258,0.0,False
+WP_073608715.1,Real cyanobacterial GvpA,real,72,12.864058,10.310503,0.0,False
+WP_073640805.1,Real cyanobacterial GvpA,real,73,11.80911,6.112539,0.00048828125,False
+WP_075598971.1,Real cyanobacterial GvpA,real,72,11.745027,9.736188,0.0,False
+WP_083620231.1,Real cyanobacterial GvpA,real,72,10.702606,8.91041,0.0,False
+WP_084989880.1,Real cyanobacterial GvpA,real,71,13.634387,7.2389383,0.00069053395,False
+WP_086756007.1,Real cyanobacterial GvpA,real,73,11.722364,5.97563,0.0,False
+WP_088893383.1,Real cyanobacterial GvpA,real,72,11.932041,9.958274,0.0,False
+WP_096607388.1,Real cyanobacterial GvpA,real,72,11.716464,6.230617,0.06506794,False
+WP_099068598.1,Real cyanobacterial GvpA,real,73,11.828737,5.976251,0.00059802,False
+WP_103666325.1,Real cyanobacterial GvpA,real,74,10.520423,8.323294,0.00048828125,False
+WP_106257461.1,Real cyanobacterial GvpA,real,72,12.6555805,9.364568,0.0,False
+WP_107805940.1,Real cyanobacterial GvpA,real,71,12.8201885,7.060832,0.00048828125,False
+WP_138500607.1,Real cyanobacterial GvpA,real,73,11.798605,6.094291,0.0,False
+WP_153228363.1,Real cyanobacterial GvpA,real,61,10.961567,6.645914,0.00069053395,False
+WP_162425313.1,Real cyanobacterial GvpA,real,72,11.422162,9.463922,0.0008457279,False
+WP_163931998.1,Real cyanobacterial GvpA,real,73,11.760284,6.197742,0.0,False
+WP_168569945.1,Real cyanobacterial GvpA,real,72,9.688658,9.846564,0.04500274,False
+WP_169262979.1,Real cyanobacterial GvpA,real,72,9.49035,9.314541,0.0,False
+WP_169617606.1,Real cyanobacterial GvpA,real,72,10.058496,9.99864,0.0,False
+WP_171572203.1,Real cyanobacterial GvpA,real,72,11.5897455,8.568007,0.0,False
+WP_190377542.1,Real cyanobacterial GvpA,real,72,12.0567465,10.692473,0.00034526698,False
+WP_190387978.1,Real cyanobacterial GvpA,real,71,13.20242,7.544547,0.00034526698,False
+WP_190432663.1,Real cyanobacterial GvpA,real,72,12.4664545,9.197549,0.00059802,False
+WP_190463961.1,Real cyanobacterial GvpA,real,72,13.864526,7.4200225,0.0,False
+WP_190464766.1,Real cyanobacterial GvpA,real,72,11.388953,10.37025,0.0,False
+WP_190483017.1,Real cyanobacterial GvpA,real,72,9.796929,9.872544,0.00048828125,False
+WP_190503885.1,Real cyanobacterial GvpA,real,72,11.420096,10.29382,0.0,False
+WP_190553740.1,Real cyanobacterial GvpA,real,72,12.9106045,9.506724,0.00048828125,False
+WP_190575773.1,Real cyanobacterial GvpA,real,72,11.645342,10.088016,0.0,False
+WP_190627385.1,Real cyanobacterial GvpA,real,72,13.015936,10.197539,0.0,False
+WP_190643620.1,Real cyanobacterial GvpA,real,72,11.623529,10.217315,0.0,False
+WP_190774558.1,Real cyanobacterial GvpA,real,72,11.260171,10.349547,0.0,False
+WP_190775818.1,Real cyanobacterial GvpA,real,72,10.418102,10.237674,0.0,False
+WP_190804824.1,Real cyanobacterial GvpA,real,72,12.071395,11.105801,0.065363154,False
+WP_190828481.1,Real cyanobacterial GvpA,real,72,10.638908,8.799619,0.0,False
+WP_193875962.1,Real cyanobacterial GvpA,real,72,11.120224,10.090423,0.00069053395,False
+WP_193897365.1,Real cyanobacterial GvpA,real,71,13.127718,7.126289,0.0008457279,False
+WP_193955741.1,Real cyanobacterial GvpA,real,71,13.73788,7.241926,0.0,False
+WP_193959329.1,Real cyanobacterial GvpA,real,71,13.91608,7.3089986,0.00048828125,False
+WP_193963479.1,Real cyanobacterial GvpA,real,72,12.81303,10.309796,0.0,False
+WP_193980327.1,Real cyanobacterial GvpA,real,71,13.865474,7.2559114,0.00034526698,False
+WP_194056178.1,Real cyanobacterial GvpA,real,71,11.813351,8.810451,0.00059802,False
+WP_200989004.1,Real cyanobacterial GvpA,real,71,12.037808,8.551421,0.00034526698,False
+WP_201320714.1,Real cyanobacterial GvpA,real,75,10.194288,8.601119,0.00034526698,False
+WP_202218625.1,Real cyanobacterial GvpA,real,90,7.5475416,8.487907,0.15411134,False
+WP_204152466.1,Real cyanobacterial GvpA,real,71,11.847197,8.8068,0.0,False
+WP_224341338.1,Real cyanobacterial GvpA,real,72,12.552676,9.784039,0.00059802,False
+WP_235277851.1,Real cyanobacterial GvpA,real,72,12.077192,11.020692,0.06583201,False
+WP_254567340.1,Real cyanobacterial GvpA,real,72,11.442185,8.599743,0.00048828125,False
+WP_261225443.1,Real cyanobacterial GvpA,real,75,10.641983,9.06785,0.0,False
+WP_265902100.1,Real cyanobacterial GvpA,real,72,12.299283,10.711935,0.0,False
+WP_268609013.1,Real cyanobacterial GvpA,real,72,12.362011,10.560141,0.0,False
+WP_271933955.1,Real cyanobacterial GvpA,real,71,13.2169695,6.894375,0.00034526698,False
+WP_271944488.1,Real cyanobacterial GvpA,real,72,9.803767,9.873244,0.0,False
+WP_272058300.1,Real cyanobacterial GvpA,real,71,13.481813,6.9563637,0.0009134906,False
+WP_272074942.1,Real cyanobacterial GvpA,real,71,13.701961,6.972104,0.0,False
+WP_272092571.1,Real cyanobacterial GvpA,real,71,12.703782,7.2877593,0.00077204045,False
+WP_280652748.1,Real cyanobacterial GvpA,real,71,13.832795,7.647976,0.0,False
+WP_280793164.1,Real cyanobacterial GvpA,real,71,13.715678,7.0411916,0.0,False
+WP_283753117.1,Real cyanobacterial GvpA,real,72,9.802504,9.585447,0.00059802,False
+WP_283757384.1,Real cyanobacterial GvpA,real,72,10.749357,8.806562,0.00069053395,False
+WP_287130436.1,Real cyanobacterial GvpA,real,72,10.285807,9.128246,0.00048828125,False
+WP_287280996.1,Real cyanobacterial GvpA,real,72,12.4535675,10.644646,0.0,False
+WP_287627019.1,Real cyanobacterial GvpA,real,71,13.191966,7.6932592,0.00048828125,False
+WP_287674806.1,Real cyanobacterial GvpA,real,71,13.4260845,7.783095,0.0,False
+WP_292781623.1,Real cyanobacterial GvpA,real,73,11.148191,7.791364,0.0,False
+WP_293061633.1,Real cyanobacterial GvpA,real,90,7.621949,8.286013,0.10823776,False
+WP_293087767.1,Real cyanobacterial GvpA,real,90,7.7698803,8.23084,0.08270207,False
+WP_293100807.1,Real cyanobacterial GvpA,real,89,7.659588,8.339492,0.09743566,False
+WP_293124005.1,Real cyanobacterial GvpA,real,72,9.446412,9.490182,0.00034526698,False
+WP_293126616.1,Real cyanobacterial GvpA,real,90,7.5976367,8.237661,0.10693025,False
+WP_293160100.1,Real cyanobacterial GvpA,real,90,7.5640564,8.078619,0.11389049,False
+WP_298916699.1,Real cyanobacterial GvpA,real,75,9.082688,8.017173,0.10739746,False
+WP_322681236.1,Real cyanobacterial GvpA,real,72,11.273667,8.818876,0.00069053395,False
+WP_322732512.1,Real cyanobacterial GvpA,real,72,11.192816,9.150541,0.0,False
+WP_323244924.1,Real cyanobacterial GvpA,real,70,12.373382,7.4186993,0.00048828125,False
+WP_324632560.1,Real cyanobacterial GvpA,real,72,9.481987,9.64331,0.049761586,False
+WP_324704072.1,Real cyanobacterial GvpA,real,72,10.414684,9.698329,0.0008457279,False
+WP_330483830.1,Real cyanobacterial GvpA,real,72,11.316197,9.472175,0.0,False
+WP_330936551.1,Real cyanobacterial GvpA,real,59,11.070488,6.5663366,0.0009765625,False
+WP_334710560.1,Real cyanobacterial GvpA,real,73,11.263299,7.8757796,0.00048828125,False
+WP_334779866.1,Real cyanobacterial GvpA,real,71,13.008682,7.0194044,0.0,False
+WP_334789054.1,Real cyanobacterial GvpA,real,74,13.155738,7.916672,0.00069053395,False
+WP_335049349.1,Real cyanobacterial GvpA,real,73,11.199909,7.7630734,0.0009134906,False
+WP_335059862.1,Real cyanobacterial GvpA,real,71,12.9433975,6.9750633,0.0,False
+WP_335072082.1,Real cyanobacterial GvpA,real,78,9.266598,7.934103,0.0968577,False
+WP_377962562.1,Real cyanobacterial GvpA,real,72,12.936449,10.265269,0.00059802,False
+WP_392535573.1,Real cyanobacterial GvpA,real,71,13.476663,7.344207,0.00048828125,False
+WP_408963110.1,Real cyanobacterial GvpA,real,72,8.276631,8.066379,0.0,False
+WP_413173344.1,Real cyanobacterial GvpA,real,76,10.753295,7.961014,0.00059802,False
+WP_413173345.1,Real cyanobacterial GvpA,real,75,10.603685,8.024576,0.0,False
+WP_413173346.1,Real cyanobacterial GvpA,real,73,9.350324,8.181206,0.00059802,False
+WP_413173347.1,Real cyanobacterial GvpA,real,74,9.241049,8.124524,0.0,False
+WP_413173348.1,Real cyanobacterial GvpA,real,75,10.563321,8.042494,0.0,False
+WP_414362100.1,Real cyanobacterial GvpA,real,75,12.327905,11.078512,0.062609576,False
+WP_414395174.1,Real cyanobacterial GvpA,real,75,12.372957,10.9560995,0.06339294,False
+WP_414404485.1,Real cyanobacterial GvpA,real,75,12.329128,11.082472,0.052689143,False
+WP_425311603.1,Real cyanobacterial GvpA,real,80,13.366241,5.955891,0.0,False
+WP_425589715.1,Real cyanobacterial GvpA,real,80,13.340876,5.997015,0.0,False
+WP_426542028.1,Real cyanobacterial GvpA,real,89,7.8071,8.235851,0.0886523,False
+WP_426585015.1,Real cyanobacterial GvpA,real,91,7.8609786,8.325641,0.09134188,False
+WP_430686742.1,Real cyanobacterial GvpA,real,72,11.288126,10.147434,0.0,False
+WP_431662249.1,Real cyanobacterial GvpA,real,72,12.768823,9.801174,0.0,False
+WP_439345357.1,Real cyanobacterial GvpA,real,72,10.8699875,10.334516,0.0,False
+WP_441007279.1,Real cyanobacterial GvpA,real,80,13.383342,5.9410625,0.0,False
+WP_446859740.1,Real cyanobacterial GvpA,real,72,11.510319,8.497995,0.00069053395,False
+WP_458646425.1,Real cyanobacterial GvpA,real,91,10.516603,7.8844028,0.0,False
+WP_461927368.1,Real cyanobacterial GvpA,real,74,13.265918,8.125051,0.0,False
+WP_461930966.1,Real cyanobacterial GvpA,real,71,12.948336,7.1695523,0.00048828125,False
+WP_472408654.1,Real cyanobacterial GvpA,real,80,13.318666,6.0291114,0.0,False
+WP_479716902.1,Real cyanobacterial GvpA,real,72,12.627431,10.242983,0.00069053395,False
+WP_488204244.1,Real cyanobacterial GvpA,real,72,11.241981,10.42139,0.0,False
+WP_488739600.1,Real cyanobacterial GvpA,real,72,10.164873,9.246033,0.00069053395,False
+WP_496081776.1,Real cyanobacterial GvpA,real,72,12.491472,9.771232,0.0009765625,False
+WP_502249006.1,Real cyanobacterial GvpA,real,72,10.473335,9.297393,0.04616647,False
+WP_502881973.1,Real cyanobacterial GvpA,real,80,13.29206,6.066604,0.0,False
+WP_505716830.1,Real cyanobacterial GvpA,real,72,12.649086,10.127394,0.00048828125,False
+WP_506081038.1,Real cyanobacterial GvpA,real,72,12.4199705,10.363042,0.0,False
+local_cpu_aa_frequency_seed42_0000,AA-frequency baseline,baseline,72,9.393073,7.408979,0.27224866,True
+local_cpu_aa_frequency_seed42_0001,AA-frequency baseline,baseline,75,7.901238,7.9237695,0.20432892,True
+local_cpu_aa_frequency_seed42_0002,AA-frequency baseline,baseline,71,3.4311867,9.651341,0.42235044,True
+local_cpu_aa_frequency_seed42_0003,AA-frequency baseline,baseline,73,8.798596,7.8987823,0.17883064,True
+local_cpu_aa_frequency_seed42_0004,AA-frequency baseline,baseline,72,3.2065837,8.683759,0.50690085,True
+local_cpu_aa_frequency_seed42_0005,AA-frequency baseline,baseline,73,9.932974,8.980825,0.20045328,True
+local_cpu_aa_frequency_seed42_0006,AA-frequency baseline,baseline,71,6.9682817,9.159182,0.21461114,True
+local_cpu_aa_frequency_seed42_0007,AA-frequency baseline,baseline,59,4.1829247,8.49471,0.4013865,True
+local_cpu_aa_frequency_seed42_0008,AA-frequency baseline,baseline,72,7.7227287,8.570478,0.23569877,True
+local_cpu_aa_frequency_seed42_0009,AA-frequency baseline,baseline,80,10.234774,7.2944884,0.23159,True
+local_cpu_aa_frequency_seed42_0010,AA-frequency baseline,baseline,71,8.9695425,7.10049,0.31924278,True
+local_cpu_aa_frequency_seed42_0011,AA-frequency baseline,baseline,72,8.82784,7.164362,0.29683787,True
+local_cpu_aa_frequency_seed42_0012,AA-frequency baseline,baseline,72,8.10456,7.506747,0.31648403,True
+local_cpu_aa_frequency_seed42_0013,AA-frequency baseline,baseline,71,4.5689416,8.224887,0.39261562,True
+local_cpu_aa_frequency_seed42_0014,AA-frequency baseline,baseline,72,7.7134905,7.776611,0.27079874,True
+local_cpu_aa_frequency_seed42_0015,AA-frequency baseline,baseline,72,4.0948105,8.796515,0.35443974,True
+local_cpu_aa_frequency_seed42_0016,AA-frequency baseline,baseline,73,11.361811,7.3476286,0.20959811,True
+local_cpu_aa_frequency_seed42_0017,AA-frequency baseline,baseline,72,7.950031,7.4861493,0.28741646,True
+local_cpu_aa_frequency_seed42_0018,AA-frequency baseline,baseline,71,3.1268475,8.982143,0.58363605,True
+local_cpu_aa_frequency_seed42_0019,AA-frequency baseline,baseline,72,10.512393,7.462255,0.21253532,True
+local_cpu_aa_frequency_seed42_0020,AA-frequency baseline,baseline,80,8.726045,7.4297786,0.24313538,True
+local_cpu_aa_frequency_seed42_0021,AA-frequency baseline,baseline,72,8.620531,7.2097497,0.24978963,True
+local_cpu_aa_frequency_seed42_0022,AA-frequency baseline,baseline,72,8.2745495,7.479072,0.26301458,True
+local_cpu_aa_frequency_seed42_0023,AA-frequency baseline,baseline,72,9.039739,7.0246115,0.28302354,True
+local_cpu_aa_frequency_seed42_0024,AA-frequency baseline,baseline,72,4.351093,8.2571,0.3826636,True
+local_cpu_aa_frequency_seed42_0025,AA-frequency baseline,baseline,71,7.4142413,7.8970556,0.25587848,True
+local_cpu_aa_frequency_seed42_0026,AA-frequency baseline,baseline,73,8.746501,7.390096,0.24944769,True
+local_cpu_aa_frequency_seed42_0027,AA-frequency baseline,baseline,71,5.133422,8.244265,0.27144134,True
+local_cpu_aa_frequency_seed42_0028,AA-frequency baseline,baseline,74,3.6535966,8.549884,0.46268147,True
+local_cpu_aa_frequency_seed42_0029,AA-frequency baseline,baseline,71,4.2006793,8.286386,0.38654193,True
+local_cpu_aa_frequency_seed42_0030,AA-frequency baseline,baseline,72,12.667874,6.9835253,0.17469247,True
+local_cpu_aa_frequency_seed42_0031,AA-frequency baseline,baseline,73,11.038435,7.2692833,0.15165909,True
+local_cpu_aa_frequency_seed42_0032,AA-frequency baseline,baseline,72,10.311815,7.2152023,0.23986615,True
+local_cpu_aa_frequency_seed42_0033,AA-frequency baseline,baseline,71,9.137453,7.032923,0.29194504,True
+local_cpu_aa_frequency_seed42_0034,AA-frequency baseline,baseline,72,9.722051,8.773297,0.23041908,True
+local_cpu_aa_frequency_seed42_0035,AA-frequency baseline,baseline,80,3.426598,9.09422,0.40387264,True
+local_cpu_aa_frequency_seed42_0036,AA-frequency baseline,baseline,91,3.74104,8.849269,0.34975374,True
+local_cpu_aa_frequency_seed42_0037,AA-frequency baseline,baseline,71,4.460273,8.280665,0.27776787,True
+local_cpu_aa_frequency_seed42_0038,AA-frequency baseline,baseline,72,3.6243107,8.44061,0.4079592,True
+local_cpu_aa_frequency_seed42_0039,AA-frequency baseline,baseline,72,8.272224,7.431152,0.26511064,True
+local_cpu_aa_frequency_seed42_0040,AA-frequency baseline,baseline,71,4.0301504,8.196201,0.34589773,True
+local_cpu_aa_frequency_seed42_0041,AA-frequency baseline,baseline,74,8.743249,7.2311163,0.24851836,True
+local_cpu_aa_frequency_seed42_0042,AA-frequency baseline,baseline,71,3.1553075,8.883098,0.5143791,True
+local_cpu_aa_frequency_seed42_0043,AA-frequency baseline,baseline,73,11.102386,7.126708,0.1844482,True
+local_cpu_aa_frequency_seed42_0044,AA-frequency baseline,baseline,72,4.195222,8.475279,0.36208087,True
+local_cpu_aa_frequency_seed42_0045,AA-frequency baseline,baseline,71,10.133216,7.3595634,0.26704141,True
+local_cpu_aa_frequency_seed42_0046,AA-frequency baseline,baseline,72,3.6906729,9.765224,0.3744272,True
+local_cpu_aa_frequency_seed42_0047,AA-frequency baseline,baseline,71,3.6124923,8.36378,0.37886426,True
+local_cpu_aa_frequency_seed42_0048,AA-frequency baseline,baseline,72,3.8428404,8.378786,0.37247795,True
+local_cpu_aa_frequency_seed42_0049,AA-frequency baseline,baseline,72,4.414499,8.393803,0.34721106,True
+local_cpu_aa_frequency_seed42_0050,AA-frequency baseline,baseline,72,8.62297,7.2036705,0.27034757,True
+local_cpu_aa_frequency_seed42_0051,AA-frequency baseline,baseline,71,8.633518,7.240934,0.24399361,True
+local_cpu_aa_frequency_seed42_0052,AA-frequency baseline,baseline,72,7.974299,8.225323,0.15849598,True
+local_cpu_aa_frequency_seed42_0053,AA-frequency baseline,baseline,71,3.300029,8.605115,0.47845995,True
+local_cpu_aa_frequency_seed42_0054,AA-frequency baseline,baseline,75,6.4790087,7.6704087,0.23903075,True
+local_cpu_aa_frequency_seed42_0055,AA-frequency baseline,baseline,72,8.355921,7.9387403,0.22470754,True
+local_cpu_aa_frequency_seed42_0056,AA-frequency baseline,baseline,60,3.6424658,8.034964,0.45137674,True
+local_cpu_aa_frequency_seed42_0057,AA-frequency baseline,baseline,72,6.6907372,9.830332,0.20788054,True
+local_cpu_aa_frequency_seed42_0058,AA-frequency baseline,baseline,72,8.78825,7.871199,0.16165908,True
+local_cpu_aa_frequency_seed42_0059,AA-frequency baseline,baseline,80,9.8578615,7.2017326,0.2508428,True
+local_cpu_aa_frequency_seed42_0060,AA-frequency baseline,baseline,72,5.1742954,9.081337,0.30867872,True
+local_cpu_aa_frequency_seed42_0061,AA-frequency baseline,baseline,71,3.5841327,8.497456,0.4036013,True
+local_cpu_aa_frequency_seed42_0062,AA-frequency baseline,baseline,72,9.253799,8.020507,0.17612475,True
+local_cpu_aa_frequency_seed42_0063,AA-frequency baseline,baseline,72,7.8103356,7.5234675,0.23428164,True
+local_cpu_aa_frequency_seed42_0064,AA-frequency baseline,baseline,72,3.300642,9.110902,0.46314448,True
+local_cpu_aa_frequency_seed42_0065,AA-frequency baseline,baseline,71,8.307543,7.3977675,0.26020306,True
+local_cpu_aa_frequency_seed42_0066,AA-frequency baseline,baseline,72,8.368013,7.700194,0.19422856,True
+local_cpu_aa_frequency_seed42_0067,AA-frequency baseline,baseline,72,10.61695,7.069489,0.18122834,True
+local_cpu_aa_frequency_seed42_0068,AA-frequency baseline,baseline,71,8.116721,7.4848027,0.26701218,True
+local_cpu_aa_frequency_seed42_0069,AA-frequency baseline,baseline,72,3.673497,9.308908,0.38050896,True
+local_cpu_aa_frequency_seed42_0070,AA-frequency baseline,baseline,72,3.5034695,8.123996,0.4676656,True
+local_cpu_aa_frequency_seed42_0071,AA-frequency baseline,baseline,72,7.8544354,7.5960407,0.22680861,True
+local_cpu_aa_frequency_seed42_0072,AA-frequency baseline,baseline,71,8.934834,7.0894027,0.26316345,True
+local_cpu_aa_frequency_seed42_0073,AA-frequency baseline,baseline,72,4.1673536,8.318698,0.3458853,True
+local_cpu_aa_frequency_seed42_0074,AA-frequency baseline,baseline,72,4.8182435,9.687537,0.3261909,True
+local_cpu_aa_frequency_seed42_0075,AA-frequency baseline,baseline,71,9.687952,7.0362253,0.26599768,True
+local_cpu_aa_frequency_seed42_0076,AA-frequency baseline,baseline,72,7.708178,7.605372,0.23231363,True
+local_cpu_aa_frequency_seed42_0077,AA-frequency baseline,baseline,73,6.0583797,9.847653,0.40917736,True
+local_cpu_aa_frequency_seed42_0078,AA-frequency baseline,baseline,73,3.1793523,9.417233,0.48641047,True
+local_cpu_aa_frequency_seed42_0079,AA-frequency baseline,baseline,72,6.2912107,8.124163,0.25068334,True
+local_cpu_aa_frequency_seed42_0080,AA-frequency baseline,baseline,71,9.119701,7.027306,0.31034318,True
+local_cpu_aa_frequency_seed42_0081,AA-frequency baseline,baseline,71,11.057885,7.1491823,0.1647517,True
+local_cpu_aa_frequency_seed42_0082,AA-frequency baseline,baseline,73,3.1325493,9.342115,0.5772997,True
+local_cpu_aa_frequency_seed42_0083,AA-frequency baseline,baseline,73,10.846804,7.7398915,0.21365248,True
+local_cpu_aa_frequency_seed42_0084,AA-frequency baseline,baseline,72,8.985475,7.1028056,0.28899074,True
+local_cpu_aa_frequency_seed42_0085,AA-frequency baseline,baseline,72,3.8028495,8.487831,0.3937509,True
+local_cpu_aa_frequency_seed42_0086,AA-frequency baseline,baseline,73,3.038151,9.223502,0.5250775,True
+local_cpu_aa_frequency_seed42_0087,AA-frequency baseline,baseline,72,3.1539466,8.771499,0.5398104,True
+local_cpu_aa_frequency_seed42_0088,AA-frequency baseline,baseline,72,5.7755566,8.405679,0.25367656,True
+local_cpu_aa_frequency_seed42_0089,AA-frequency baseline,baseline,59,9.618139,8.415778,0.23003177,True
+local_cpu_aa_frequency_seed42_0090,AA-frequency baseline,baseline,72,3.8277724,8.209871,0.43938395,True
+local_cpu_aa_frequency_seed42_0091,AA-frequency baseline,baseline,72,8.771717,7.465207,0.17507146,True
+local_cpu_aa_frequency_seed42_0092,AA-frequency baseline,baseline,72,11.466908,6.4090734,0.23019134,True
+local_cpu_aa_frequency_seed42_0093,AA-frequency baseline,baseline,72,4.002318,8.276778,0.3843786,True
+local_cpu_aa_frequency_seed42_0094,AA-frequency baseline,baseline,72,3.8308735,8.484761,0.37120104,True
+local_cpu_aa_frequency_seed42_0095,AA-frequency baseline,baseline,72,10.241441,8.012395,0.21221873,True
+local_cpu_aa_frequency_seed42_0096,AA-frequency baseline,baseline,72,9.33475,7.0293703,0.2912525,True
+local_cpu_aa_frequency_seed42_0097,AA-frequency baseline,baseline,71,3.4798071,8.560991,0.45029485,True
+local_cpu_aa_frequency_seed42_0098,AA-frequency baseline,baseline,71,4.4575615,8.268826,0.36753535,True
+local_cpu_aa_frequency_seed42_0099,AA-frequency baseline,baseline,72,10.444096,8.713292,0.22482184,True
+local_cpu_kmer3_seed42_0000,3-mer baseline,baseline,72,3.5527153,9.263115,0.42311436,True
+local_cpu_kmer3_seed42_0001,3-mer baseline,baseline,71,3.597186,5.697338,0.463369,True
+local_cpu_kmer3_seed42_0002,3-mer baseline,baseline,72,2.3121572,5.6904154,0.7410177,True
+local_cpu_kmer3_seed42_0003,3-mer baseline,baseline,74,3.1277473,6.631649,0.5827452,True
+local_cpu_kmer3_seed42_0004,3-mer baseline,baseline,72,3.9936154,5.947928,0.42612675,True
+local_cpu_kmer3_seed42_0005,3-mer baseline,baseline,74,2.6694064,6.0065846,0.6640031,True
+local_cpu_kmer3_seed42_0006,3-mer baseline,baseline,72,5.289841,5.77354,0.3253309,True
+local_cpu_kmer3_seed42_0007,3-mer baseline,baseline,72,4.896739,6.2002053,0.27727324,True
+local_cpu_kmer3_seed42_0008,3-mer baseline,baseline,73,1.9975426,5.230798,0.77086073,True
+local_cpu_kmer3_seed42_0009,3-mer baseline,baseline,71,5.1322675,4.96192,0.45382714,True
+local_cpu_kmer3_seed42_0010,3-mer baseline,baseline,72,5.1475563,6.0051494,0.29045716,True
+local_cpu_kmer3_seed42_0011,3-mer baseline,baseline,75,5.1727333,6.4084873,0.21707933,True
+local_cpu_kmer3_seed42_0012,3-mer baseline,baseline,75,4.384597,5.078774,0.48870793,True
+local_cpu_kmer3_seed42_0013,3-mer baseline,baseline,84,4.4557433,5.0731206,0.58237636,True
+local_cpu_kmer3_seed42_0014,3-mer baseline,baseline,59,11.291428,6.3437376,0.2025973,True
+local_cpu_kmer3_seed42_0015,3-mer baseline,baseline,75,2.8749528,5.1910067,0.57470924,True
+local_cpu_kmer3_seed42_0016,3-mer baseline,baseline,74,2.7024689,5.610205,0.6036516,True
+local_cpu_kmer3_seed42_0017,3-mer baseline,baseline,74,2.5171583,5.688164,0.597678,True
+local_cpu_kmer3_seed42_0018,3-mer baseline,baseline,71,6.1943135,6.4167323,0.28852814,True
+local_cpu_kmer3_seed42_0019,3-mer baseline,baseline,72,3.676552,5.012454,0.5531118,True
+local_cpu_kmer3_seed42_0020,3-mer baseline,baseline,72,3.1577022,6.54845,0.6516292,True
+local_cpu_kmer3_seed42_0021,3-mer baseline,baseline,72,3.0638993,5.895662,0.58479005,True
+local_cpu_kmer3_seed42_0022,3-mer baseline,baseline,72,1.9102976,5.06865,0.8373466,True
+local_cpu_kmer3_seed42_0023,3-mer baseline,baseline,72,4.6346235,5.4982305,0.43459857,True
+local_cpu_kmer3_seed42_0024,3-mer baseline,baseline,72,3.5249064,7.894307,0.41597363,True
+local_cpu_kmer3_seed42_0025,3-mer baseline,baseline,71,2.83643,5.3769197,0.5336217,True
+local_cpu_kmer3_seed42_0026,3-mer baseline,baseline,70,2.9426413,5.116957,0.61981213,True
+local_cpu_kmer3_seed42_0027,3-mer baseline,baseline,71,4.1742444,5.597871,0.5207121,True
+local_cpu_kmer3_seed42_0028,3-mer baseline,baseline,84,4.5810413,5.2613273,0.436552,True
+local_cpu_kmer3_seed42_0029,3-mer baseline,baseline,69,4.3222375,5.266496,0.4188423,True
+local_cpu_kmer3_seed42_0030,3-mer baseline,baseline,69,4.2302136,5.44156,0.37230796,True
+local_cpu_kmer3_seed42_0031,3-mer baseline,baseline,72,4.9276767,4.794109,0.56101,True
+local_cpu_kmer3_seed42_0032,3-mer baseline,baseline,61,3.198106,6.4634933,0.6704989,True
+local_cpu_kmer3_seed42_0033,3-mer baseline,baseline,71,4.731964,4.8179793,0.6750041,True
+local_cpu_kmer3_seed42_0034,3-mer baseline,baseline,72,3.8347368,5.375029,0.49392757,True
+local_cpu_kmer3_seed42_0035,3-mer baseline,baseline,71,2.781663,5.0018597,0.59300286,True
+local_cpu_kmer3_seed42_0036,3-mer baseline,baseline,71,4.046958,4.9448924,0.5204083,True
+local_cpu_kmer3_seed42_0037,3-mer baseline,baseline,72,3.9693172,5.2398725,0.50131387,True
+local_cpu_kmer3_seed42_0038,3-mer baseline,baseline,71,4.0849347,5.312563,0.43295997,True
+local_cpu_kmer3_seed42_0039,3-mer baseline,baseline,74,3.25643,6.497584,0.51256174,True
+local_cpu_kmer3_seed42_0040,3-mer baseline,baseline,72,4.8041306,4.860746,0.6343727,True
+local_cpu_kmer3_seed42_0041,3-mer baseline,baseline,72,3.2371862,6.197824,0.60145134,True
+local_cpu_kmer3_seed42_0042,3-mer baseline,baseline,72,3.7527187,4.999685,0.5267361,True
+local_cpu_kmer3_seed42_0043,3-mer baseline,baseline,72,3.4242816,6.4153705,0.49652237,True
+local_cpu_kmer3_seed42_0044,3-mer baseline,baseline,72,5.1631074,5.048909,0.38776863,True
+local_cpu_kmer3_seed42_0045,3-mer baseline,baseline,72,5.3353567,5.8385997,0.25528613,True
+local_cpu_kmer3_seed42_0046,3-mer baseline,baseline,72,3.9521797,5.857943,0.46851954,True
+local_cpu_kmer3_seed42_0047,3-mer baseline,baseline,73,4.2763276,4.7831826,0.5126864,True
+local_cpu_kmer3_seed42_0048,3-mer baseline,baseline,72,3.4346588,6.279914,0.55930823,True
+local_cpu_kmer3_seed42_0049,3-mer baseline,baseline,71,4.2267494,5.2544723,0.46442106,True
+local_cpu_kmer3_seed42_0050,3-mer baseline,baseline,71,4.6496334,5.595603,0.43254346,True
+local_cpu_kmer3_seed42_0051,3-mer baseline,baseline,72,2.6601965,4.8623176,0.70039165,True
+local_cpu_kmer3_seed42_0052,3-mer baseline,baseline,72,5.1719985,5.633064,0.3299981,True
+local_cpu_kmer3_seed42_0053,3-mer baseline,baseline,72,3.361859,6.276182,0.5324328,True
+local_cpu_kmer3_seed42_0054,3-mer baseline,baseline,72,4.175552,5.228488,0.42495817,True
+local_cpu_kmer3_seed42_0055,3-mer baseline,baseline,72,3.2074394,6.663181,0.55861753,True
+local_cpu_kmer3_seed42_0056,3-mer baseline,baseline,71,5.1294775,4.9130683,0.46306428,True
+local_cpu_kmer3_seed42_0057,3-mer baseline,baseline,73,3.8729033,5.166226,0.42402962,True
+local_cpu_kmer3_seed42_0058,3-mer baseline,baseline,72,6.345536,7.7413845,0.26775962,True
+local_cpu_kmer3_seed42_0059,3-mer baseline,baseline,72,3.1987162,5.606732,0.49501786,True
+local_cpu_kmer3_seed42_0060,3-mer baseline,baseline,72,4.748659,4.8003564,0.57374924,True
+local_cpu_kmer3_seed42_0061,3-mer baseline,baseline,72,3.0636744,6.520098,0.71987355,True
+local_cpu_kmer3_seed42_0062,3-mer baseline,baseline,72,3.9399621,5.005015,0.41583306,True
+local_cpu_kmer3_seed42_0063,3-mer baseline,baseline,71,3.6375573,8.626554,0.3616683,True
+local_cpu_kmer3_seed42_0064,3-mer baseline,baseline,71,4.080995,5.2350383,0.38269898,True
+local_cpu_kmer3_seed42_0065,3-mer baseline,baseline,71,3.9646513,5.695025,0.5490451,True
+local_cpu_kmer3_seed42_0066,3-mer baseline,baseline,72,5.10791,5.2042727,0.43577042,True
+local_cpu_kmer3_seed42_0067,3-mer baseline,baseline,71,2.6111538,6.006907,0.6904572,True
+local_cpu_kmer3_seed42_0068,3-mer baseline,baseline,71,4.5594835,6.1126194,0.43173686,True
+local_cpu_kmer3_seed42_0069,3-mer baseline,baseline,72,3.06407,6.6602225,0.68983495,True
+local_cpu_kmer3_seed42_0070,3-mer baseline,baseline,71,3.741018,5.3871155,0.38907132,True
+local_cpu_kmer3_seed42_0071,3-mer baseline,baseline,72,5.122528,4.9111724,0.54801756,True
+local_cpu_kmer3_seed42_0072,3-mer baseline,baseline,72,3.7490396,4.9107265,0.5991373,True
+local_cpu_kmer3_seed42_0073,3-mer baseline,baseline,71,4.0782685,5.409015,0.39826843,True
+local_cpu_kmer3_seed42_0074,3-mer baseline,baseline,73,2.5128386,5.515253,0.5619695,True
+local_cpu_kmer3_seed42_0075,3-mer baseline,baseline,73,3.4419382,6.5499587,0.4909008,True
+local_cpu_kmer3_seed42_0076,3-mer baseline,baseline,73,5.2707405,6.3188663,0.22486319,True
+local_cpu_kmer3_seed42_0077,3-mer baseline,baseline,71,3.1188323,5.792135,0.49145976,True
+local_cpu_kmer3_seed42_0078,3-mer baseline,baseline,72,5.8797836,6.5101366,0.38073558,True
+local_cpu_kmer3_seed42_0079,3-mer baseline,baseline,72,4.388714,4.8947544,0.43470457,True
+local_cpu_kmer3_seed42_0080,3-mer baseline,baseline,72,3.107456,6.6948495,0.6609027,True
+local_cpu_kmer3_seed42_0081,3-mer baseline,baseline,72,3.7814035,6.3759804,0.51254475,True
+local_cpu_kmer3_seed42_0082,3-mer baseline,baseline,71,5.0178022,5.651023,0.3345318,True
+local_cpu_kmer3_seed42_0083,3-mer baseline,baseline,72,5.1597056,6.1310167,0.24424021,True
+local_cpu_kmer3_seed42_0084,3-mer baseline,baseline,71,4.3431234,5.2264543,0.52306294,True
+local_cpu_kmer3_seed42_0085,3-mer baseline,baseline,72,6.3052683,7.376443,0.2940031,True
+local_cpu_kmer3_seed42_0086,3-mer baseline,baseline,73,5.0553336,4.825074,0.5264562,True
+local_cpu_kmer3_seed42_0087,3-mer baseline,baseline,72,2.9268348,5.20555,0.6164435,True
+local_cpu_kmer3_seed42_0088,3-mer baseline,baseline,72,4.9424343,5.3331256,0.39684427,True
+local_cpu_kmer3_seed42_0089,3-mer baseline,baseline,71,5.041603,5.556178,0.32192662,True
+local_cpu_kmer3_seed42_0090,3-mer baseline,baseline,72,3.2162838,6.5363817,0.57709485,True
+local_cpu_kmer3_seed42_0091,3-mer baseline,baseline,73,3.0888507,4.9917693,0.6321113,True
+local_cpu_kmer3_seed42_0092,3-mer baseline,baseline,72,3.0348089,5.3631587,0.5980102,True
+local_cpu_kmer3_seed42_0093,3-mer baseline,baseline,74,4.835055,5.3044877,0.44950885,True
+local_cpu_kmer3_seed42_0094,3-mer baseline,baseline,73,5.212374,5.717979,0.26699856,True
+local_cpu_kmer3_seed42_0095,3-mer baseline,baseline,72,5.176765,5.670579,0.24273619,True
+local_cpu_kmer3_seed42_0096,3-mer baseline,baseline,71,2.720531,5.83312,0.57458144,True
+local_cpu_kmer3_seed42_0097,3-mer baseline,baseline,71,5.3162155,6.316002,0.23465331,True
+local_cpu_kmer3_seed42_0098,3-mer baseline,baseline,71,3.2568884,6.6111817,0.5876461,True
+local_cpu_kmer3_seed42_0099,3-mer baseline,baseline,72,3.7405636,8.334906,0.3401863,True
+lstm_temp1_seed42_0000,LSTM (auxiliary pretrain + fine-tune),deep,73,10.691358,9.71179,0.05449862,False
+lstm_temp1_seed42_0001,LSTM (auxiliary pretrain + fine-tune),deep,70,12.391272,8.954921,0.061640553,False
+lstm_temp1_seed42_0002,LSTM (auxiliary pretrain + fine-tune),deep,77,10.781219,10.201585,0.115292296,False
+lstm_temp1_seed42_0003,LSTM (auxiliary pretrain + fine-tune),deep,72,13.070153,6.841052,0.05085983,False
+lstm_temp1_seed42_0004,LSTM (auxiliary pretrain + fine-tune),deep,73,13.122425,9.273395,0.04799832,False
+lstm_temp1_seed42_0005,LSTM (auxiliary pretrain + fine-tune),deep,73,12.506016,10.647446,0.054246485,False
+lstm_temp1_seed42_0006,LSTM (auxiliary pretrain + fine-tune),deep,71,12.922155,7.5346503,0.028398078,False
+lstm_temp1_seed42_0007,LSTM (auxiliary pretrain + fine-tune),deep,72,12.854589,9.537293,0.05209185,False
+lstm_temp1_seed42_0008,LSTM (auxiliary pretrain + fine-tune),deep,71,11.397481,9.391343,0.06359102,False
+lstm_temp1_seed42_0009,LSTM (auxiliary pretrain + fine-tune),deep,73,11.804703,9.054845,0.04725619,False
+lstm_temp1_seed42_0010,LSTM (auxiliary pretrain + fine-tune),deep,72,13.421756,7.7668324,0.05435296,False
+lstm_temp1_seed42_0011,LSTM (auxiliary pretrain + fine-tune),deep,72,11.540762,9.15325,0.07008835,False
+lstm_temp1_seed42_0012,LSTM (auxiliary pretrain + fine-tune),deep,71,12.88327,8.979677,0.045322128,False
+lstm_temp1_seed42_0013,LSTM (auxiliary pretrain + fine-tune),deep,71,11.844828,9.890472,0.037825253,False
+lstm_temp1_seed42_0014,LSTM (auxiliary pretrain + fine-tune),deep,72,12.163718,9.74131,0.011850255,False
+lstm_temp1_seed42_0015,LSTM (auxiliary pretrain + fine-tune),deep,74,11.67358,5.988446,0.05778144,False
+lstm_temp1_seed42_0016,LSTM (auxiliary pretrain + fine-tune),deep,74,11.21906,6.4843154,0.10468424,False
+lstm_temp1_seed42_0017,LSTM (auxiliary pretrain + fine-tune),deep,91,9.827634,8.380901,0.20005742,True
+lstm_temp1_seed42_0018,LSTM (auxiliary pretrain + fine-tune),deep,71,12.100263,7.6670594,0.06203094,False
+lstm_temp1_seed42_0019,LSTM (auxiliary pretrain + fine-tune),deep,71,12.681936,7.7333527,0.04800701,False
+lstm_temp1_seed42_0020,LSTM (auxiliary pretrain + fine-tune),deep,61,10.916582,6.926015,0.10294342,False
+lstm_temp1_seed42_0021,LSTM (auxiliary pretrain + fine-tune),deep,71,11.772131,6.483843,0.111347936,False
+lstm_temp1_seed42_0022,LSTM (auxiliary pretrain + fine-tune),deep,72,10.978717,10.428589,0.049777154,False
+lstm_temp1_seed42_0023,LSTM (auxiliary pretrain + fine-tune),deep,74,13.692322,8.014015,0.050767165,False
+lstm_temp1_seed42_0024,LSTM (auxiliary pretrain + fine-tune),deep,69,11.851336,6.939674,0.10619752,False
+lstm_temp1_seed42_0025,LSTM (auxiliary pretrain + fine-tune),deep,71,11.037517,8.076277,0.06978921,False
+lstm_temp1_seed42_0026,LSTM (auxiliary pretrain + fine-tune),deep,71,11.179135,8.283705,0.0309722,False
+lstm_temp1_seed42_0027,LSTM (auxiliary pretrain + fine-tune),deep,79,6.564061,7.7917633,0.18008974,True
+lstm_temp1_seed42_0028,LSTM (auxiliary pretrain + fine-tune),deep,71,12.968558,7.237147,0.042358223,False
+lstm_temp1_seed42_0029,LSTM (auxiliary pretrain + fine-tune),deep,70,13.257989,9.323727,0.13153584,False
+lstm_temp1_seed42_0030,LSTM (auxiliary pretrain + fine-tune),deep,64,11.54594,6.405688,0.14262995,False
+lstm_temp1_seed42_0031,LSTM (auxiliary pretrain + fine-tune),deep,71,12.243022,9.725745,0.052794244,False
+lstm_temp1_seed42_0032,LSTM (auxiliary pretrain + fine-tune),deep,69,7.750603,8.182074,0.11029429,False
+lstm_temp1_seed42_0033,LSTM (auxiliary pretrain + fine-tune),deep,73,11.875286,9.256191,0.0369129,False
+lstm_temp1_seed42_0034,LSTM (auxiliary pretrain + fine-tune),deep,72,10.269048,9.572011,0.05272759,False
+lstm_temp1_seed42_0035,LSTM (auxiliary pretrain + fine-tune),deep,82,12.686729,7.037749,0.113054246,False
+lstm_temp1_seed42_0036,LSTM (auxiliary pretrain + fine-tune),deep,81,11.576656,7.5355535,0.119514756,False
+lstm_temp1_seed42_0037,LSTM (auxiliary pretrain + fine-tune),deep,74,13.538042,8.56002,0.097533494,False
+lstm_temp1_seed42_0038,LSTM (auxiliary pretrain + fine-tune),deep,82,12.204034,7.4616637,0.15455548,True
+lstm_temp1_seed42_0039,LSTM (auxiliary pretrain + fine-tune),deep,76,7.9710236,7.9680414,0.107350275,False
+lstm_temp1_seed42_0040,LSTM (auxiliary pretrain + fine-tune),deep,84,9.864678,7.868045,0.14119267,False
+lstm_temp1_seed42_0041,LSTM (auxiliary pretrain + fine-tune),deep,72,12.840904,9.72947,0.053362463,False
+lstm_temp1_seed42_0042,LSTM (auxiliary pretrain + fine-tune),deep,59,9.513796,8.287471,0.37333885,True
+lstm_temp1_seed42_0043,LSTM (auxiliary pretrain + fine-tune),deep,73,10.440101,9.523102,0.0541376,False
+lstm_temp1_seed42_0044,LSTM (auxiliary pretrain + fine-tune),deep,69,12.012298,7.294447,0.11593467,False
+lstm_temp1_seed42_0045,LSTM (auxiliary pretrain + fine-tune),deep,72,11.853508,6.0679703,0.022959605,False
+lstm_temp1_seed42_0046,LSTM (auxiliary pretrain + fine-tune),deep,73,11.9928055,9.383116,0.031219468,False
+lstm_temp1_seed42_0047,LSTM (auxiliary pretrain + fine-tune),deep,73,9.144355,8.64427,0.17323528,True
+lstm_temp1_seed42_0048,LSTM (auxiliary pretrain + fine-tune),deep,72,12.163437,7.7823315,0.06831227,False
+lstm_temp1_seed42_0049,LSTM (auxiliary pretrain + fine-tune),deep,68,13.311267,7.756478,0.090016074,False
+lstm_temp1_seed42_0050,LSTM (auxiliary pretrain + fine-tune),deep,71,10.61325,9.683875,0.08960127,False
+lstm_temp1_seed42_0051,LSTM (auxiliary pretrain + fine-tune),deep,71,10.848763,9.671346,0.047468875,False
+lstm_temp1_seed42_0052,LSTM (auxiliary pretrain + fine-tune),deep,70,13.409824,7.2515526,0.047511548,False
+lstm_temp1_seed42_0053,LSTM (auxiliary pretrain + fine-tune),deep,71,10.800653,7.4366374,0.09440258,False
+lstm_temp1_seed42_0054,LSTM (auxiliary pretrain + fine-tune),deep,76,10.308224,9.1102705,0.09286655,False
+lstm_temp1_seed42_0055,LSTM (auxiliary pretrain + fine-tune),deep,70,10.811999,9.647991,0.048147105,False
+lstm_temp1_seed42_0056,LSTM (auxiliary pretrain + fine-tune),deep,84,11.904424,6.387693,0.13181469,False
+lstm_temp1_seed42_0057,LSTM (auxiliary pretrain + fine-tune),deep,72,13.21929,7.7712417,0.038469,False
+lstm_temp1_seed42_0058,LSTM (auxiliary pretrain + fine-tune),deep,74,9.763466,8.262532,0.18411376,True
+lstm_temp1_seed42_0059,LSTM (auxiliary pretrain + fine-tune),deep,71,10.45476,10.023469,0.04682411,False
+lstm_temp1_seed42_0060,LSTM (auxiliary pretrain + fine-tune),deep,72,10.670952,8.976371,0.030133324,False
+lstm_temp1_seed42_0061,LSTM (auxiliary pretrain + fine-tune),deep,71,11.844425,6.0135393,0.077449165,False
+lstm_temp1_seed42_0062,LSTM (auxiliary pretrain + fine-tune),deep,69,9.173925,8.637472,0.08497988,False
+lstm_temp1_seed42_0063,LSTM (auxiliary pretrain + fine-tune),deep,75,12.022449,7.6142044,0.09618831,False
+lstm_temp1_seed42_0064,LSTM (auxiliary pretrain + fine-tune),deep,72,13.141062,9.556875,0.073909715,False
+lstm_temp1_seed42_0065,LSTM (auxiliary pretrain + fine-tune),deep,74,9.1965475,9.224569,0.08664344,False
+lstm_temp1_seed42_0066,LSTM (auxiliary pretrain + fine-tune),deep,73,11.594974,8.154117,0.06605707,False
+lstm_temp1_seed42_0067,LSTM (auxiliary pretrain + fine-tune),deep,75,10.736909,8.224609,0.097873904,False
+lstm_temp1_seed42_0068,LSTM (auxiliary pretrain + fine-tune),deep,74,10.023708,10.121737,0.06248951,False
+lstm_temp1_seed42_0069,LSTM (auxiliary pretrain + fine-tune),deep,71,13.077173,7.630202,0.012216793,False
+lstm_temp1_seed42_0070,LSTM (auxiliary pretrain + fine-tune),deep,72,12.491965,9.1344,0.04919782,False
+lstm_temp1_seed42_0071,LSTM (auxiliary pretrain + fine-tune),deep,73,11.801891,6.0376754,0.09649888,False
+lstm_temp1_seed42_0072,LSTM (auxiliary pretrain + fine-tune),deep,72,13.012123,7.5656004,0.053604297,False
+lstm_temp1_seed42_0073,LSTM (auxiliary pretrain + fine-tune),deep,73,10.903426,8.386185,0.052691408,False
+lstm_temp1_seed42_0074,LSTM (auxiliary pretrain + fine-tune),deep,73,11.745983,9.645559,0.038438,False
+lstm_temp1_seed42_0075,LSTM (auxiliary pretrain + fine-tune),deep,71,11.882963,10.24295,0.064440176,False
+lstm_temp1_seed42_0076,LSTM (auxiliary pretrain + fine-tune),deep,72,13.227182,9.369388,0.05902854,False
+lstm_temp1_seed42_0077,LSTM (auxiliary pretrain + fine-tune),deep,72,13.122209,8.485329,0.07015465,False
+lstm_temp1_seed42_0078,LSTM (auxiliary pretrain + fine-tune),deep,72,11.437068,8.57429,0.03428242,False
+lstm_temp1_seed42_0079,LSTM (auxiliary pretrain + fine-tune),deep,73,7.418512,7.837485,0.123809874,False
+lstm_temp1_seed42_0080,LSTM (auxiliary pretrain + fine-tune),deep,73,9.910839,9.888943,0.0738952,False
+lstm_temp1_seed42_0081,LSTM (auxiliary pretrain + fine-tune),deep,70,11.386471,8.175056,0.073223464,False
+lstm_temp1_seed42_0082,LSTM (auxiliary pretrain + fine-tune),deep,71,12.198795,9.968279,0.031070191,False
+lstm_temp1_seed42_0083,LSTM (auxiliary pretrain + fine-tune),deep,74,9.124951,8.345731,0.06762651,False
+lstm_temp1_seed42_0084,LSTM (auxiliary pretrain + fine-tune),deep,73,12.722934,9.862598,0.0541398,False
+lstm_temp1_seed42_0085,LSTM (auxiliary pretrain + fine-tune),deep,72,11.153046,10.373651,0.05728207,False
+lstm_temp1_seed42_0086,LSTM (auxiliary pretrain + fine-tune),deep,73,13.123432,8.205439,0.073348716,False
+lstm_temp1_seed42_0087,LSTM (auxiliary pretrain + fine-tune),deep,84,13.172119,7.023817,0.12668853,False
+lstm_temp1_seed42_0088,LSTM (auxiliary pretrain + fine-tune),deep,76,12.769521,9.398507,0.075288,False
+lstm_temp1_seed42_0089,LSTM (auxiliary pretrain + fine-tune),deep,71,12.495664,9.171368,0.0619059,False
+lstm_temp1_seed42_0090,LSTM (auxiliary pretrain + fine-tune),deep,71,11.591851,8.310158,0.052755848,False
+lstm_temp1_seed42_0091,LSTM (auxiliary pretrain + fine-tune),deep,73,10.443547,9.102646,0.08192437,False
+lstm_temp1_seed42_0092,LSTM (auxiliary pretrain + fine-tune),deep,71,11.7731905,9.625741,0.10399359,False
+lstm_temp1_seed42_0093,LSTM (auxiliary pretrain + fine-tune),deep,79,11.7497425,6.481929,0.0675445,False
+lstm_temp1_seed42_0094,LSTM (auxiliary pretrain + fine-tune),deep,72,13.373772,7.9208174,0.04411723,False
+lstm_temp1_seed42_0095,LSTM (auxiliary pretrain + fine-tune),deep,72,12.446778,10.514576,0.062955156,False
+lstm_temp1_seed42_0096,LSTM (auxiliary pretrain + fine-tune),deep,72,12.105897,7.881974,0.06651746,False
+lstm_temp1_seed42_0097,LSTM (auxiliary pretrain + fine-tune),deep,71,10.353429,9.771677,0.06510091,False
+lstm_temp1_seed42_0098,LSTM (auxiliary pretrain + fine-tune),deep,71,9.957354,9.436702,0.05018263,False
+lstm_temp1_seed42_0099,LSTM (auxiliary pretrain + fine-tune),deep,75,11.040103,10.306282,0.06071891,False
+vae_empirical_scale0.75_temp0.6_seed42_0000,VAE (empirical length control),deep,72,2.7568917,5.1249595,0.52613294,True
+vae_empirical_scale0.75_temp0.6_seed42_0001,VAE (empirical length control),deep,72,10.119759,10.0832405,0.024883188,False
+vae_empirical_scale0.75_temp0.6_seed42_0002,VAE (empirical length control),deep,75,7.1265187,6.994469,0.13347907,False
+vae_empirical_scale0.75_temp0.6_seed42_0003,VAE (empirical length control),deep,60,7.2135596,6.3594913,0.1496118,True
+vae_empirical_scale0.75_temp0.6_seed42_0004,VAE (empirical length control),deep,72,9.59584,8.649316,0.13671264,False
+vae_empirical_scale0.75_temp0.6_seed42_0005,VAE (empirical length control),deep,72,10.720075,9.0812,0.049281344,False
+vae_empirical_scale0.75_temp0.6_seed42_0006,VAE (empirical length control),deep,72,10.95891,8.632796,0.09652358,False
+vae_empirical_scale0.75_temp0.6_seed42_0007,VAE (empirical length control),deep,72,4.2478657,4.6413307,0.61574316,True
+vae_empirical_scale0.75_temp0.6_seed42_0008,VAE (empirical length control),deep,71,3.5391984,6.154416,0.454433,True
+vae_empirical_scale0.75_temp0.6_seed42_0009,VAE (empirical length control),deep,71,6.228432,6.150394,0.23069933,True
+vae_empirical_scale0.75_temp0.6_seed42_0010,VAE (empirical length control),deep,72,6.10383,6.2182145,0.26490888,True
+vae_empirical_scale0.75_temp0.6_seed42_0011,VAE (empirical length control),deep,59,6.645084,6.4534917,0.2217684,True
+vae_empirical_scale0.75_temp0.6_seed42_0012,VAE (empirical length control),deep,72,11.165376,8.50808,0.03169882,False
+vae_empirical_scale0.75_temp0.6_seed42_0013,VAE (empirical length control),deep,59,9.756919,8.476159,0.10705058,False
+vae_empirical_scale0.75_temp0.6_seed42_0014,VAE (empirical length control),deep,72,2.419079,4.7940254,0.73117375,True
+vae_empirical_scale0.75_temp0.6_seed42_0015,VAE (empirical length control),deep,84,3.67316,6.421684,0.45489904,True
+vae_empirical_scale0.75_temp0.6_seed42_0016,VAE (empirical length control),deep,72,11.02409,7.3197846,0.08627116,False
+vae_empirical_scale0.75_temp0.6_seed42_0017,VAE (empirical length control),deep,71,6.690306,6.2755,0.19692753,True
+vae_empirical_scale0.75_temp0.6_seed42_0018,VAE (empirical length control),deep,71,12.403343,9.322826,0.031100871,False
+vae_empirical_scale0.75_temp0.6_seed42_0019,VAE (empirical length control),deep,74,12.954625,9.427002,0.046411127,False
+vae_empirical_scale0.75_temp0.6_seed42_0020,VAE (empirical length control),deep,73,5.986415,6.129482,0.2894911,True
+vae_empirical_scale0.75_temp0.6_seed42_0021,VAE (empirical length control),deep,72,11.499687,8.290342,0.012192374,False
+vae_empirical_scale0.75_temp0.6_seed42_0022,VAE (empirical length control),deep,71,11.848605,6.3046656,0.043935817,False
+vae_empirical_scale0.75_temp0.6_seed42_0023,VAE (empirical length control),deep,73,11.492073,8.45044,0.06813929,False
+vae_empirical_scale0.75_temp0.6_seed42_0024,VAE (empirical length control),deep,71,6.749783,6.1225586,0.2463576,True
+vae_empirical_scale0.75_temp0.6_seed42_0025,VAE (empirical length control),deep,71,2.2599947,5.31345,0.60832036,True
+vae_empirical_scale0.75_temp0.6_seed42_0026,VAE (empirical length control),deep,74,12.857158,7.742561,0.028542535,False
+vae_empirical_scale0.75_temp0.6_seed42_0027,VAE (empirical length control),deep,72,2.2806175,5.146426,0.70223784,True
+vae_empirical_scale0.75_temp0.6_seed42_0028,VAE (empirical length control),deep,72,4.3996773,4.6359158,0.54348654,True
+vae_empirical_scale0.75_temp0.6_seed42_0029,VAE (empirical length control),deep,72,12.831529,7.783504,0.05757269,False
+vae_empirical_scale0.75_temp0.6_seed42_0030,VAE (empirical length control),deep,73,8.530441,8.440554,0.16436921,True
+vae_empirical_scale0.75_temp0.6_seed42_0031,VAE (empirical length control),deep,72,11.332179,8.507708,0.0,False
+vae_empirical_scale0.75_temp0.6_seed42_0032,VAE (empirical length control),deep,71,5.1348,5.0185094,0.4436302,True
+vae_empirical_scale0.75_temp0.6_seed42_0033,VAE (empirical length control),deep,72,6.0727034,6.172193,0.25845072,True
+vae_empirical_scale0.75_temp0.6_seed42_0034,VAE (empirical length control),deep,59,10.701683,8.146285,0.09757137,False
+vae_empirical_scale0.75_temp0.6_seed42_0035,VAE (empirical length control),deep,72,11.414335,8.328343,0.012192374,False
+vae_empirical_scale0.75_temp0.6_seed42_0036,VAE (empirical length control),deep,72,12.926358,9.303926,0.024012815,False
+vae_empirical_scale0.75_temp0.6_seed42_0037,VAE (empirical length control),deep,72,2.615867,5.5744166,0.48660037,True
+vae_empirical_scale0.75_temp0.6_seed42_0038,VAE (empirical length control),deep,71,2.1105063,5.4190655,0.7992069,True
+vae_empirical_scale0.75_temp0.6_seed42_0039,VAE (empirical length control),deep,72,2.410135,5.205481,0.6249128,True
+vae_empirical_scale0.75_temp0.6_seed42_0040,VAE (empirical length control),deep,72,2.485964,4.764811,0.6878958,True
+vae_empirical_scale0.75_temp0.6_seed42_0041,VAE (empirical length control),deep,61,9.693475,8.576675,0.101836205,False
+vae_empirical_scale0.75_temp0.6_seed42_0042,VAE (empirical length control),deep,72,3.6035962,6.097651,0.4433384,True
+vae_empirical_scale0.75_temp0.6_seed42_0043,VAE (empirical length control),deep,71,2.1522188,5.2286687,0.6708912,True
+vae_empirical_scale0.75_temp0.6_seed42_0044,VAE (empirical length control),deep,72,2.0142307,5.2097807,0.7471491,True
+vae_empirical_scale0.75_temp0.6_seed42_0045,VAE (empirical length control),deep,80,9.498344,9.039584,0.11874323,False
+vae_empirical_scale0.75_temp0.6_seed42_0046,VAE (empirical length control),deep,72,5.305205,4.9741473,0.61859643,True
+vae_empirical_scale0.75_temp0.6_seed42_0047,VAE (empirical length control),deep,72,8.76668,8.50948,0.14686272,False
+vae_empirical_scale0.75_temp0.6_seed42_0048,VAE (empirical length control),deep,72,9.52884,8.828223,0.23053056,True
+vae_empirical_scale0.75_temp0.6_seed42_0049,VAE (empirical length control),deep,72,8.85227,8.3538065,0.19960493,True
+vae_empirical_scale0.75_temp0.6_seed42_0050,VAE (empirical length control),deep,60,2.5308013,5.7246275,0.52146846,True
+vae_empirical_scale0.75_temp0.6_seed42_0051,VAE (empirical length control),deep,73,2.4054646,5.410254,0.62169564,True
+vae_empirical_scale0.75_temp0.6_seed42_0052,VAE (empirical length control),deep,73,7.004647,6.3294106,0.1757514,True
+vae_empirical_scale0.75_temp0.6_seed42_0053,VAE (empirical length control),deep,71,4.9536996,6.1393237,0.2542689,True
+vae_empirical_scale0.75_temp0.6_seed42_0054,VAE (empirical length control),deep,72,12.869502,9.348773,0.019242246,False
+vae_empirical_scale0.75_temp0.6_seed42_0055,VAE (empirical length control),deep,71,12.797302,7.5676827,0.034136064,False
+vae_empirical_scale0.75_temp0.6_seed42_0056,VAE (empirical length control),deep,71,5.929698,6.270264,0.24989532,True
+vae_empirical_scale0.75_temp0.6_seed42_0057,VAE (empirical length control),deep,80,2.4388688,4.8072333,0.73790026,True
+vae_empirical_scale0.75_temp0.6_seed42_0058,VAE (empirical length control),deep,72,5.054716,4.873697,0.46553642,True
+vae_empirical_scale0.75_temp0.6_seed42_0059,VAE (empirical length control),deep,71,6.5317783,6.289457,0.20640585,True
+vae_empirical_scale0.75_temp0.6_seed42_0060,VAE (empirical length control),deep,72,6.7546096,6.0903044,0.280777,True
+vae_empirical_scale0.75_temp0.6_seed42_0061,VAE (empirical length control),deep,71,2.348881,5.2512703,0.5500518,True
+vae_empirical_scale0.75_temp0.6_seed42_0062,VAE (empirical length control),deep,72,2.5225542,4.8608403,0.6608836,True
+vae_empirical_scale0.75_temp0.6_seed42_0063,VAE (empirical length control),deep,72,10.972709,7.4532003,0.08650713,False
+vae_empirical_scale0.75_temp0.6_seed42_0064,VAE (empirical length control),deep,72,11.1963825,8.974551,0.039582416,False
+vae_empirical_scale0.75_temp0.6_seed42_0065,VAE (empirical length control),deep,72,7.307187,6.4981484,0.10909453,False
+vae_empirical_scale0.75_temp0.6_seed42_0066,VAE (empirical length control),deep,72,12.532079,7.3168426,0.12076351,False
+vae_empirical_scale0.75_temp0.6_seed42_0067,VAE (empirical length control),deep,72,12.559855,7.5266695,0.055182263,False
+vae_empirical_scale0.75_temp0.6_seed42_0068,VAE (empirical length control),deep,72,12.645567,10.130021,0.00069053395,False
+vae_empirical_scale0.75_temp0.6_seed42_0069,VAE (empirical length control),deep,73,10.974059,8.8936205,0.067466795,False
+vae_empirical_scale0.75_temp0.6_seed42_0070,VAE (empirical length control),deep,72,13.405086,7.8381414,0.02327417,False
+vae_empirical_scale0.75_temp0.6_seed42_0071,VAE (empirical length control),deep,72,5.2241964,4.8927617,0.565058,True
+vae_empirical_scale0.75_temp0.6_seed42_0072,VAE (empirical length control),deep,71,2.008944,5.14949,0.72883946,True
+vae_empirical_scale0.75_temp0.6_seed42_0073,VAE (empirical length control),deep,71,8.926774,7.8500175,0.13971543,False
+vae_empirical_scale0.75_temp0.6_seed42_0074,VAE (empirical length control),deep,72,2.0312312,5.055829,0.7264211,True
+vae_empirical_scale0.75_temp0.6_seed42_0075,VAE (empirical length control),deep,72,4.7555447,6.2580986,0.34953725,True
+vae_empirical_scale0.75_temp0.6_seed42_0076,VAE (empirical length control),deep,73,10.084944,9.982163,0.028374981,False
+vae_empirical_scale0.75_temp0.6_seed42_0077,VAE (empirical length control),deep,72,9.468205,9.530741,0.04166015,False
+vae_empirical_scale0.75_temp0.6_seed42_0078,VAE (empirical length control),deep,72,1.9000114,5.013307,1.1633654,True
+vae_empirical_scale0.75_temp0.6_seed42_0079,VAE (empirical length control),deep,71,6.204119,6.097832,0.23127554,True
+vae_empirical_scale0.75_temp0.6_seed42_0080,VAE (empirical length control),deep,72,2.437244,5.003381,0.66414994,True
+vae_empirical_scale0.75_temp0.6_seed42_0081,VAE (empirical length control),deep,72,4.8578954,6.191848,0.32117867,True
+vae_empirical_scale0.75_temp0.6_seed42_0082,VAE (empirical length control),deep,72,3.976101,6.238876,0.38726646,True
+vae_empirical_scale0.75_temp0.6_seed42_0083,VAE (empirical length control),deep,71,7.010307,6.2123876,0.21951488,True
+vae_empirical_scale0.75_temp0.6_seed42_0084,VAE (empirical length control),deep,71,4.9902043,6.385789,0.26431805,True
+vae_empirical_scale0.75_temp0.6_seed42_0085,VAE (empirical length control),deep,71,1.993239,5.0228777,0.7560702,True
+vae_empirical_scale0.75_temp0.6_seed42_0086,VAE (empirical length control),deep,60,6.8527627,6.093946,0.2678947,True
+vae_empirical_scale0.75_temp0.6_seed42_0087,VAE (empirical length control),deep,75,2.3050668,5.1040893,0.6171268,True
+vae_empirical_scale0.75_temp0.6_seed42_0088,VAE (empirical length control),deep,71,6.1284714,5.8352327,0.39582115,True
+vae_empirical_scale0.75_temp0.6_seed42_0089,VAE (empirical length control),deep,72,4.634535,5.7431,0.37752318,True
+vae_empirical_scale0.75_temp0.6_seed42_0090,VAE (empirical length control),deep,72,8.181192,7.8007836,0.1129783,False
+vae_empirical_scale0.75_temp0.6_seed42_0091,VAE (empirical length control),deep,71,6.309522,6.157539,0.26145124,True
+vae_empirical_scale0.75_temp0.6_seed42_0092,VAE (empirical length control),deep,72,6.459225,6.4892817,0.26740366,True
+vae_empirical_scale0.75_temp0.6_seed42_0093,VAE (empirical length control),deep,72,9.197904,8.976284,0.104025684,False
+vae_empirical_scale0.75_temp0.6_seed42_0094,VAE (empirical length control),deep,72,7.262261,6.345594,0.13454874,False
+vae_empirical_scale0.75_temp0.6_seed42_0095,VAE (empirical length control),deep,71,4.318322,4.6326447,0.59598655,True
+vae_empirical_scale0.75_temp0.6_seed42_0096,VAE (empirical length control),deep,72,6.771949,7.308991,0.1792122,True
+vae_empirical_scale0.75_temp0.6_seed42_0097,VAE (empirical length control),deep,72,4.8089867,5.6744733,0.38098237,True
+vae_empirical_scale0.75_temp0.6_seed42_0098,VAE (empirical length control),deep,73,5.6989493,6.064131,0.32766455,True
+vae_empirical_scale0.75_temp0.6_seed42_0099,VAE (empirical length control),deep,71,7.939829,8.147793,0.118734196,False
+gan_temp0.1_seed42_0000,GAN (composition + hydrophobic filter),deep,72,3.1098917,9.328472,0.4175083,True
+gan_temp0.1_seed42_0001,GAN (composition + hydrophobic filter),deep,72,8.129219,10.115301,0.16348091,True
+gan_temp0.1_seed42_0002,GAN (composition + hydrophobic filter),deep,75,3.2443807,9.229877,0.40969226,True
+gan_temp0.1_seed42_0003,GAN (composition + hydrophobic filter),deep,60,6.7688904,9.566046,0.14971852,True
+gan_temp0.1_seed42_0004,GAN (composition + hydrophobic filter),deep,72,3.8649824,9.647177,0.33920613,True
+gan_temp0.1_seed42_0005,GAN (composition + hydrophobic filter),deep,72,6.7075305,9.774284,0.20330685,True
+gan_temp0.1_seed42_0006,GAN (composition + hydrophobic filter),deep,72,5.229365,9.736217,0.2734669,True
+gan_temp0.1_seed42_0007,GAN (composition + hydrophobic filter),deep,72,4.5386677,9.623903,0.28319344,True
+gan_temp0.1_seed42_0008,GAN (composition + hydrophobic filter),deep,71,7.839488,9.96539,0.14579141,False
+gan_temp0.1_seed42_0009,GAN (composition + hydrophobic filter),deep,71,5.1595244,9.889479,0.26593763,True
+gan_temp0.1_seed42_0010,GAN (composition + hydrophobic filter),deep,72,5.4326425,9.715591,0.21239392,True
+gan_temp0.1_seed42_0011,GAN (composition + hydrophobic filter),deep,59,9.916129,8.894675,0.14881447,False
+gan_temp0.1_seed42_0012,GAN (composition + hydrophobic filter),deep,72,6.241336,9.9452095,0.2666552,True
+gan_temp0.1_seed42_0013,GAN (composition + hydrophobic filter),deep,59,6.1306567,9.410072,0.23576401,True
+gan_temp0.1_seed42_0014,GAN (composition + hydrophobic filter),deep,72,7.997611,10.063367,0.13140346,False
+gan_temp0.1_seed42_0015,GAN (composition + hydrophobic filter),deep,84,3.2299569,9.650641,0.45465645,True
+gan_temp0.1_seed42_0016,GAN (composition + hydrophobic filter),deep,72,4.9009266,9.655581,0.29901874,True
+gan_temp0.1_seed42_0017,GAN (composition + hydrophobic filter),deep,71,6.5619698,9.75701,0.19515711,True
+gan_temp0.1_seed42_0018,GAN (composition + hydrophobic filter),deep,71,5.055617,9.68031,0.2475362,True
+gan_temp0.1_seed42_0019,GAN (composition + hydrophobic filter),deep,74,5.370763,9.587968,0.25026354,True
+gan_temp0.1_seed42_0020,GAN (composition + hydrophobic filter),deep,73,6.1409297,9.886443,0.25311178,True
+gan_temp0.1_seed42_0021,GAN (composition + hydrophobic filter),deep,72,5.0510354,9.265981,0.2714991,True
+gan_temp0.1_seed42_0022,GAN (composition + hydrophobic filter),deep,71,7.2184286,10.031981,0.17291121,True
+gan_temp0.1_seed42_0023,GAN (composition + hydrophobic filter),deep,73,7.1182394,10.038326,0.16987978,True
+gan_temp0.1_seed42_0024,GAN (composition + hydrophobic filter),deep,71,6.178035,9.715209,0.22154252,True
+gan_temp0.1_seed42_0025,GAN (composition + hydrophobic filter),deep,71,4.3785806,9.814458,0.31822285,True
+gan_temp0.1_seed42_0026,GAN (composition + hydrophobic filter),deep,74,6.873458,9.634539,0.17012136,True
+gan_temp0.1_seed42_0027,GAN (composition + hydrophobic filter),deep,72,3.17841,9.165243,0.42004663,True
+gan_temp0.1_seed42_0028,GAN (composition + hydrophobic filter),deep,72,3.8082075,9.782729,0.32150918,True
+gan_temp0.1_seed42_0029,GAN (composition + hydrophobic filter),deep,72,6.794868,9.687958,0.18403701,True
+gan_temp0.1_seed42_0030,GAN (composition + hydrophobic filter),deep,73,3.4237173,9.735964,0.39786685,True
+gan_temp0.1_seed42_0031,GAN (composition + hydrophobic filter),deep,72,3.7773948,9.59683,0.3524939,True
+gan_temp0.1_seed42_0032,GAN (composition + hydrophobic filter),deep,71,6.501972,9.6633415,0.20017745,True
+gan_temp0.1_seed42_0033,GAN (composition + hydrophobic filter),deep,72,5.0391035,9.875014,0.25283778,True
+gan_temp0.1_seed42_0034,GAN (composition + hydrophobic filter),deep,59,6.5401454,9.542398,0.18297294,True
+gan_temp0.1_seed42_0035,GAN (composition + hydrophobic filter),deep,72,5.0867543,9.459293,0.28842217,True
+gan_temp0.1_seed42_0036,GAN (composition + hydrophobic filter),deep,72,4.239796,9.824821,0.32634288,True
+gan_temp0.1_seed42_0037,GAN (composition + hydrophobic filter),deep,72,5.484128,9.746522,0.2758733,True
+gan_temp0.1_seed42_0038,GAN (composition + hydrophobic filter),deep,71,5.8785143,9.825072,0.2610207,True
+gan_temp0.1_seed42_0039,GAN (composition + hydrophobic filter),deep,72,3.1804051,9.587896,0.41005683,True
+gan_temp0.1_seed42_0040,GAN (composition + hydrophobic filter),deep,72,7.537265,10.032487,0.17705296,True
+gan_temp0.1_seed42_0041,GAN (composition + hydrophobic filter),deep,61,7.0805902,9.979569,0.16591075,True
+gan_temp0.1_seed42_0042,GAN (composition + hydrophobic filter),deep,72,4.4810314,9.880999,0.30387476,True
+gan_temp0.1_seed42_0043,GAN (composition + hydrophobic filter),deep,71,5.4860106,9.7796135,0.2534596,True
+gan_temp0.1_seed42_0044,GAN (composition + hydrophobic filter),deep,72,5.264514,9.407445,0.21422446,True
+gan_temp0.1_seed42_0045,GAN (composition + hydrophobic filter),deep,80,3.917313,9.682808,0.32193884,True
+gan_temp0.1_seed42_0046,GAN (composition + hydrophobic filter),deep,72,6.078123,9.801254,0.24658832,True
+gan_temp0.1_seed42_0047,GAN (composition + hydrophobic filter),deep,72,3.3449929,9.602287,0.46038565,True
+gan_temp0.1_seed42_0048,GAN (composition + hydrophobic filter),deep,72,6.5938826,9.802659,0.19377692,True
+gan_temp0.1_seed42_0049,GAN (composition + hydrophobic filter),deep,72,6.6609015,9.754818,0.18329613,True
+gan_temp0.1_seed42_0050,GAN (composition + hydrophobic filter),deep,60,4.944624,9.420813,0.2578074,True
+gan_temp0.1_seed42_0051,GAN (composition + hydrophobic filter),deep,73,7.557726,10.042167,0.15943635,True
+gan_temp0.1_seed42_0052,GAN (composition + hydrophobic filter),deep,73,8.04493,10.041332,0.16856633,True
+gan_temp0.1_seed42_0053,GAN (composition + hydrophobic filter),deep,71,6.4569144,9.824574,0.2171809,True
+gan_temp0.1_seed42_0054,GAN (composition + hydrophobic filter),deep,72,6.374255,9.657023,0.22016747,True
+gan_temp0.1_seed42_0055,GAN (composition + hydrophobic filter),deep,71,4.63476,9.764887,0.29834104,True
+gan_temp0.1_seed42_0056,GAN (composition + hydrophobic filter),deep,71,5.3101854,9.753251,0.2697965,True
+gan_temp0.1_seed42_0057,GAN (composition + hydrophobic filter),deep,80,3.2064953,9.421238,0.4407933,True
+gan_temp0.1_seed42_0058,GAN (composition + hydrophobic filter),deep,72,3.5769207,9.389063,0.35670558,True
+gan_temp0.1_seed42_0059,GAN (composition + hydrophobic filter),deep,71,7.6881776,10.077284,0.18116419,True
+gan_temp0.1_seed42_0060,GAN (composition + hydrophobic filter),deep,72,6.3994694,9.7933655,0.20724908,True
+gan_temp0.1_seed42_0061,GAN (composition + hydrophobic filter),deep,71,3.5883179,9.559114,0.36280233,True
+gan_temp0.1_seed42_0062,GAN (composition + hydrophobic filter),deep,72,5.4413404,9.646668,0.23470537,True
+gan_temp0.1_seed42_0063,GAN (composition + hydrophobic filter),deep,72,3.5573103,9.795141,0.3501043,True
+gan_temp0.1_seed42_0064,GAN (composition + hydrophobic filter),deep,72,6.6773834,10.056168,0.19633096,True
+gan_temp0.1_seed42_0065,GAN (composition + hydrophobic filter),deep,72,6.0475783,9.499735,0.23058794,True
+gan_temp0.1_seed42_0066,GAN (composition + hydrophobic filter),deep,72,3.690462,9.523367,0.3419937,True
+gan_temp0.1_seed42_0067,GAN (composition + hydrophobic filter),deep,72,7.6339564,10.093747,0.18165736,True
+gan_temp0.1_seed42_0068,GAN (composition + hydrophobic filter),deep,72,4.8005805,9.835952,0.29152107,True
+gan_temp0.1_seed42_0069,GAN (composition + hydrophobic filter),deep,73,4.16625,9.731475,0.30971104,True
+gan_temp0.1_seed42_0070,GAN (composition + hydrophobic filter),deep,72,6.5709944,9.612844,0.19687425,True
+gan_temp0.1_seed42_0071,GAN (composition + hydrophobic filter),deep,72,3.127434,9.255799,0.3814325,True
+gan_temp0.1_seed42_0072,GAN (composition + hydrophobic filter),deep,71,6.6638813,9.749376,0.1893842,True
+gan_temp0.1_seed42_0073,GAN (composition + hydrophobic filter),deep,71,3.8086536,9.373644,0.3581036,True
+gan_temp0.1_seed42_0074,GAN (composition + hydrophobic filter),deep,72,3.342217,9.55711,0.37913883,True
+gan_temp0.1_seed42_0075,GAN (composition + hydrophobic filter),deep,72,7.199928,9.927609,0.1766799,True
+gan_temp0.1_seed42_0076,GAN (composition + hydrophobic filter),deep,73,4.2826805,9.327948,0.29381084,True
+gan_temp0.1_seed42_0077,GAN (composition + hydrophobic filter),deep,72,5.526112,9.663285,0.25758374,True
+gan_temp0.1_seed42_0078,GAN (composition + hydrophobic filter),deep,72,3.643907,9.54129,0.3487906,True
+gan_temp0.1_seed42_0079,GAN (composition + hydrophobic filter),deep,71,5.13656,9.567089,0.23558596,True
+gan_temp0.1_seed42_0080,GAN (composition + hydrophobic filter),deep,72,6.4956546,9.898529,0.21709278,True
+gan_temp0.1_seed42_0081,GAN (composition + hydrophobic filter),deep,72,6.520443,9.949265,0.21531044,True
+gan_temp0.1_seed42_0082,GAN (composition + hydrophobic filter),deep,72,5.3629613,9.726042,0.24891905,True
+gan_temp0.1_seed42_0083,GAN (composition + hydrophobic filter),deep,71,3.180454,9.378415,0.39382237,True
+gan_temp0.1_seed42_0084,GAN (composition + hydrophobic filter),deep,71,3.503604,9.173937,0.3640475,True
+gan_temp0.1_seed42_0085,GAN (composition + hydrophobic filter),deep,71,7.244479,9.890966,0.17952223,True
+gan_temp0.1_seed42_0086,GAN (composition + hydrophobic filter),deep,60,4.0140605,9.157263,0.32407972,True
+gan_temp0.1_seed42_0087,GAN (composition + hydrophobic filter),deep,75,5.883633,9.776561,0.25531507,True
+gan_temp0.1_seed42_0088,GAN (composition + hydrophobic filter),deep,71,4.7997246,9.63197,0.28269017,True
+gan_temp0.1_seed42_0089,GAN (composition + hydrophobic filter),deep,72,3.3280387,9.795385,0.38979846,True
+gan_temp0.1_seed42_0090,GAN (composition + hydrophobic filter),deep,72,8.322033,10.155626,0.15837032,True
+gan_temp0.1_seed42_0091,GAN (composition + hydrophobic filter),deep,71,4.5055404,9.875727,0.2968736,True
+gan_temp0.1_seed42_0092,GAN (composition + hydrophobic filter),deep,72,7.2948594,9.926509,0.20939325,True
+gan_temp0.1_seed42_0093,GAN (composition + hydrophobic filter),deep,72,4.9897184,9.291879,0.26134703,True
+gan_temp0.1_seed42_0094,GAN (composition + hydrophobic filter),deep,72,5.1955557,9.589941,0.24101812,True
+gan_temp0.1_seed42_0095,GAN (composition + hydrophobic filter),deep,71,3.6874037,9.653769,0.34998798,True
+gan_temp0.1_seed42_0096,GAN (composition + hydrophobic filter),deep,72,4.6089253,9.648813,0.30330735,True
+gan_temp0.1_seed42_0097,GAN (composition + hydrophobic filter),deep,72,6.585004,9.982479,0.21204847,True
+gan_temp0.1_seed42_0098,GAN (composition + hydrophobic filter),deep,73,3.2639313,9.723867,0.38213834,True
+gan_temp0.1_seed42_0099,GAN (composition + hydrophobic filter),deep,71,5.215043,9.427154,0.26724243,True
