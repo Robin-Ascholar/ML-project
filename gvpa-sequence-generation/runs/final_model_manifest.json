@@ -1,0 +1,36 @@
+{
+  "reference": "../data/processed/dataset_v1/all.fasta",
+  "reference_label": "data/processed/dataset_v1/all.fasta",
+  "runs": [
+    {
+      "model": "AA-frequency baseline",
+      "model_type": "baseline",
+      "generated": "local_cpu_aa_frequency_seed42/generated.fasta",
+      "metrics": "local_cpu_aa_frequency_seed42/eval/metrics.json"
+    },
+    {
+      "model": "3-mer baseline",
+      "model_type": "baseline",
+      "generated": "local_cpu_kmer3_seed42/generated.fasta",
+      "metrics": "local_cpu_kmer3_seed42/eval/metrics.json"
+    },
+    {
+      "model": "LSTM (auxiliary pretrain + fine-tune)",
+      "model_type": "deep",
+      "generated": "opt_lstm_pretrain_finetune_seed42/generated_t1.0_masked.fasta",
+      "metrics": "opt_lstm_pretrain_finetune_seed42/eval_pf_t1.0_masked/metrics.json"
+    },
+    {
+      "model": "VAE (empirical length control)",
+      "model_type": "deep",
+      "generated": "formal_vae_50ep_seed42/generated_empirical_s0.75_t0.6_masked.fasta",
+      "metrics": "formal_vae_50ep_seed42/eval_pf_empirical_s0.75_t0.6_masked/metrics.json"
+    },
+    {
+      "model": "GAN (composition + hydrophobic filter)",
+      "model_type": "deep",
+      "generated": "opt_gan_composition_hydro_seed42/generated_t0.1_filtered.fasta",
+      "metrics": "opt_gan_composition_hydro_seed42/eval_pf_t0.1_filtered/metrics.json"
+    }
+  ]
+}
