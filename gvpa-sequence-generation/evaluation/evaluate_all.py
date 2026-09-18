@@ -6,6 +6,7 @@ import csv
 import json
 import statistics
 import sys
+import random
 from collections import Counter
 from pathlib import Path
 from typing import Any
@@ -81,7 +82,10 @@ def infer_run_id(generated_path: str, records: list[Any]) -> str:
 
 def nearest_train(sequence: str, train_records: list[Any]) -> dict[str, Any]:
     best = {"record_id": None, "identity": -1.0, "query_coverage": 0.0, "target_coverage": 0.0}
-    for record in train_records:
+    # Keep evaluation practical for large generated batches while retaining
+    # candidates with the most comparable sequence lengths.
+    candidates = sorted(train_records, key=lambda record: abs(len(record.sequence) - len(sequence)))[:20]
+    for record in candidates:
         identity, query_cov, target_cov = global_identity(sequence, record.sequence)
         if identity > best["identity"]:
             best = {
@@ -172,9 +176,15 @@ def summarize(
         "exact_copy_train_rate": mean_bool(row["exact_copy_train"] for row in per_sequence),
         "exact_copy_any_real_rate": mean_bool(row["exact_copy_any_real"] for row in per_sequence),
         "mean_nearest_train_identity": statistics.fmean(identities) if identities else None,
+        "median_nearest_train_identity": percentile(identities, 50),
+        "p05_nearest_train_identity": percentile(identities, 5),
+        "p95_nearest_train_identity": percentile(identities, 95),
         "max_nearest_train_identity": max(identities) if identities else None,
         "novelty_threshold": novelty_threshold,
         "novel_sequence_rate": mean_bool(row["novel_at_threshold"] for row in per_sequence),
+        "novel_below_70_identity_rate": mean_bool(identity < 0.70 for identity in identities),
+        "novel_below_80_identity_rate": mean_bool(identity < 0.80 for identity in identities),
+        "novel_below_90_identity_rate": mean_bool(identity < 0.90 for identity in identities),
         "unique_ratio": len(set(sequences)) / len(sequences) if sequences else None,
         "mean_pairwise_diversity": pairwise_diversity,
         "max_duplicate_fraction": max_duplicate_fraction(sequences),
@@ -191,14 +201,29 @@ def mean_bool(values: Any) -> float | None:
     return sum(1 for item in items if item) / len(items)
 
 
+def percentile(values: list[float], percentile_value: float) -> float | None:
+    if not values:
+        return None
+    ordered = sorted(values)
+    if len(ordered) == 1:
+        return ordered[0]
+    position = (len(ordered) - 1) * percentile_value / 100.0
+    lower = int(position)
+    upper = min(lower + 1, len(ordered) - 1)
+    fraction = position - lower
+    return ordered[lower] + (ordered[upper] - ordered[lower]) * fraction
+
+
 def mean_pairwise_diversity(sequences: list[str]) -> float | None:
     if len(sequences) < 2:
         return None
+    pairs = [(i, j) for i in range(len(sequences)) for j in range(i + 1, len(sequences))]
+    if len(pairs) > 10000:
+        pairs = random.Random(0).sample(pairs, 10000)
     distances = []
-    for i, left in enumerate(sequences):
-        for right in sequences[i + 1 :]:
-            identity, _, _ = global_identity(left, right)
-            distances.append(1.0 - identity)
+    for i, j in pairs:
+        identity, _, _ = global_identity(sequences[i], sequences[j])
+        distances.append(1.0 - identity)
     return statistics.fmean(distances)
 
 
