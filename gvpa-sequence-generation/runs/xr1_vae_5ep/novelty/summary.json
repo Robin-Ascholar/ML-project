@@ -1,0 +1,51 @@
+{
+  "schema_version": "gvpa_novelty_v1",
+  "generated_fasta": "runs/xr1_vae_5ep/generated.fasta",
+  "reference_fasta": "data/processed/dataset_v1/all.fasta",
+  "sequence": {
+    "n_generated": 20,
+    "n_reference": 165,
+    "reference_length_min": 59,
+    "reference_length_max": 91,
+    "identity_threshold": 0.95,
+    "coverage_threshold": 0.8,
+    "kmer_size": 3,
+    "legal_sequence_rate": 0.9,
+    "length_in_reference_range_rate": 0.2,
+    "valid_sequence_rate": 0.2,
+    "exact_copy_reference_rate": 0.0,
+    "near_duplicate_rate": 0.0,
+    "sequence_novel_rate_all": 0.2,
+    "sequence_novel_rate_valid": 1.0,
+    "mean_sequence_novelty_valid": 0.6708502071405298,
+    "median_sequence_novelty_valid": 0.658008658008658,
+    "mean_nearest_reference_identity_valid": 0.3807457467905229,
+    "mean_nearest_kmer_jaccard_valid": 0.06423271198025882,
+    "unique_ratio": 0.95,
+    "mean_pairwise_full_length_identity": 0.18866956319654477,
+    "mean_pairwise_diversity": 0.8113304368034553,
+    "max_duplicate_fraction": 0.1
+  },
+  "profile": {
+    "status": "hmmsearch_unavailable",
+    "evalue_threshold": 1e-05,
+    "profile_hit_rate": null,
+    "mean_profile_bit_score": null
+  },
+  "structure": {
+    "generated_structure_status": "not_run",
+    "reference_structure_status": "not_run",
+    "structure_similarity_threshold": 0.5,
+    "n_generated_structures_loaded": 0,
+    "n_reference_structures_loaded": 0,
+    "n_structures_compared": 0,
+    "structure_comparison_rate": 0.0,
+    "mean_best_tm_score_symmetric": null,
+    "median_best_tm_score_symmetric": null,
+    "mean_structure_novelty": null
+  },
+  "candidate_classes": {
+    "sequence_novel": 4,
+    "invalid_sequence": 16
+  }
+}

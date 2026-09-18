@@ -135,6 +135,22 @@ python3 evaluation/summarize_runs.py \
 
 评价器 v0.1 已计算合法字符、长度范围、exact copy、nearest-train identity/coverage、novelty、unique ratio、pairwise diversity 和 AA composition distance。family/profile 字段当前显式为 `null/not_run`，等待 P2 接入 HMMER 扫描结果，不使用 mock 分数。
 
+## 新颖性评价模块
+
+独立的序列与结构新颖性评价位于 `novelty_evaluation/`。它修正了短片段高
+identity 的 coverage 问题，并支持可选 HMMER profile、PDB CA RMSD、近似
+TM-score、GDT-TS 和结构置信度：
+
+```bash
+python3 -m novelty_evaluation.evaluate \
+  --generated runs/xr1_vae_5ep/generated.fasta \
+  --reference data/processed/dataset_v1/all.fasta \
+  --output-dir runs/xr1_vae_5ep/novelty
+```
+
+结果包括逐序列 `per_sequence_novelty.csv`、集合级 `summary.json` 和可读的
+`report.md`。完整参数和结构目录约定见 `novelty_evaluation/README.md`。
+
 ## LSTM/VAE 入口
 
 已补充 PyTorch 版 LSTM 与 VAE 最小训练/生成入口。已在 `xr1` 环境（Python 3.10.20、PyTorch 2.11.0+cu130）完成 CPU smoke test。运行时会自动选择 CUDA（可用时）或 CPU，也可以用 `--device cpu/cuda` 显式指定：
