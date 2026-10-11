@@ -1,0 +1,152 @@
+[
+  {
+    "epoch": 1,
+    "beta": 0.01,
+    "train_total": 0.1972837597131729,
+    "train_reconstruction": 0.18804064989089966,
+    "train_kl": 0.924311101436615,
+    "valid_total": 0.5877121090888977,
+    "valid_reconstruction": 0.5761523246765137,
+    "valid_kl": 1.1559756994247437
+  },
+  {
+    "epoch": 2,
+    "beta": 0.01,
+    "train_total": 0.18323570489883423,
+    "train_reconstruction": 0.17393374145030976,
+    "train_kl": 0.9301966071128845,
+    "valid_total": 0.575854480266571,
+    "valid_reconstruction": 0.5636861324310303,
+    "valid_kl": 1.2168340682983398
+  },
+  {
+    "epoch": 3,
+    "beta": 0.01,
+    "train_total": 0.17625599801540376,
+    "train_reconstruction": 0.16641181707382202,
+    "train_kl": 0.9844184517860413,
+    "valid_total": 0.5772197842597961,
+    "valid_reconstruction": 0.5650920867919922,
+    "valid_kl": 1.2127703428268433
+  },
+  {
+    "epoch": 4,
+    "beta": 0.01,
+    "train_total": 0.17642301321029663,
+    "train_reconstruction": 0.16661725342273712,
+    "train_kl": 0.9805761337280273,
+    "valid_total": 0.5726944208145142,
+    "valid_reconstruction": 0.5607293248176575,
+    "valid_kl": 1.1965105533599854
+  },
+  {
+    "epoch": 5,
+    "beta": 0.01,
+    "train_total": 0.16884816586971282,
+    "train_reconstruction": 0.15928196609020234,
+    "train_kl": 0.9566203713417053,
+    "valid_total": 0.5655550360679626,
+    "valid_reconstruction": 0.5537853837013245,
+    "valid_kl": 1.1769672632217407
+  },
+  {
+    "epoch": 6,
+    "beta": 0.01,
+    "train_total": 0.17211157381534575,
+    "train_reconstruction": 0.16284915804862976,
+    "train_kl": 0.9262415528297424,
+    "valid_total": 0.5732578635215759,
+    "valid_reconstruction": 0.5615211725234985,
+    "valid_kl": 1.1736681461334229
+  },
+  {
+    "epoch": 7,
+    "beta": 0.01,
+    "train_total": 0.16546937227249145,
+    "train_reconstruction": 0.1561249703168869,
+    "train_kl": 0.9344403505325317,
+    "valid_total": 0.563505232334137,
+    "valid_reconstruction": 0.5517621040344238,
+    "valid_kl": 1.174310326576233
+  },
+  {
+    "epoch": 8,
+    "beta": 0.01,
+    "train_total": 0.15809639543294907,
+    "train_reconstruction": 0.14887279272079468,
+    "train_kl": 0.9223602175712585,
+    "valid_total": 0.576200544834137,
+    "valid_reconstruction": 0.5644873380661011,
+    "valid_kl": 1.1713201999664307
+  },
+  {
+    "epoch": 9,
+    "beta": 0.01,
+    "train_total": 0.16014580726623534,
+    "train_reconstruction": 0.15078019201755524,
+    "train_kl": 0.936561918258667,
+    "valid_total": 0.5692036747932434,
+    "valid_reconstruction": 0.5575953125953674,
+    "valid_kl": 1.1608387231826782
+  },
+  {
+    "epoch": 10,
+    "beta": 0.01,
+    "train_total": 0.16523038148880004,
+    "train_reconstruction": 0.1560998558998108,
+    "train_kl": 0.913052749633789,
+    "valid_total": 0.567085862159729,
+    "valid_reconstruction": 0.5551986694335938,
+    "valid_kl": 1.188720464706421
+  },
+  {
+    "epoch": 11,
+    "beta": 0.01,
+    "train_total": 0.16689542531967164,
+    "train_reconstruction": 0.15749371945858,
+    "train_kl": 0.9401709198951721,
+    "valid_total": 0.5696583390235901,
+    "valid_reconstruction": 0.5577282905578613,
+    "valid_kl": 1.193007469177246
+  },
+  {
+    "epoch": 12,
+    "beta": 0.01,
+    "train_total": 0.16016154289245604,
+    "train_reconstruction": 0.15105627179145814,
+    "train_kl": 0.9105269193649292,
+    "valid_total": 0.5830110907554626,
+    "valid_reconstruction": 0.5710428357124329,
+    "valid_kl": 1.196828007698059
+  },
+  {
+    "epoch": 13,
+    "beta": 0.01,
+    "train_total": 0.15666769146919252,
+    "train_reconstruction": 0.1474105179309845,
+    "train_kl": 0.9257173776626587,
+    "valid_total": 0.568275511264801,
+    "valid_reconstruction": 0.5564160943031311,
+    "valid_kl": 1.1859400272369385
+  },
+  {
+    "epoch": 14,
+    "beta": 0.01,
+    "train_total": 0.16046339869499207,
+    "train_reconstruction": 0.15168306827545167,
+    "train_kl": 0.8780332326889038,
+    "valid_total": 0.5668394565582275,
+    "valid_reconstruction": 0.5549026727676392,
+    "valid_kl": 1.1936776638031006
+  },
+  {
+    "epoch": 15,
+    "beta": 0.01,
+    "train_total": 0.15158170759677886,
+    "train_reconstruction": 0.1424729347229004,
+    "train_kl": 0.9108773469924927,
+    "valid_total": 0.5769259333610535,
+    "valid_reconstruction": 0.5648615956306458,
+    "valid_kl": 1.206435203552246
+  }
+]

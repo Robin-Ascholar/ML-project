@@ -1,0 +1,1352 @@
+[
+  {
+    "epoch": 1,
+    "temperature": 1.0,
+    "critic_loss": 3.602048897743225,
+    "generator_loss": 1.6292720079421996,
+    "gradient_penalty": 0.44328226149082184,
+    "composition_loss": 0.07050687223672866,
+    "hydrophobic_run_loss": 0.0009790158830583096
+  },
+  {
+    "epoch": 2,
+    "temperature": 0.9966442953020134,
+    "critic_loss": -3.932129907608032,
+    "generator_loss": 2.14520058631897,
+    "gradient_penalty": 0.022087974287569524,
+    "composition_loss": 0.0695677176117897,
+    "hydrophobic_run_loss": 0.0007275032927282155
+  },
+  {
+    "epoch": 3,
+    "temperature": 0.9932885906040269,
+    "critic_loss": -7.203285598754883,
+    "generator_loss": 1.9252968072891234,
+    "gradient_penalty": 0.07451501935720443,
+    "composition_loss": 0.06999341249465943,
+    "hydrophobic_run_loss": 0.0005946356570348144
+  },
+  {
+    "epoch": 4,
+    "temperature": 0.9899328859060402,
+    "critic_loss": -8.764714241027832,
+    "generator_loss": 1.5310226917266845,
+    "gradient_penalty": 0.12310934662818909,
+    "composition_loss": 0.0695652887225151,
+    "hydrophobic_run_loss": 0.0005297870258800686
+  },
+  {
+    "epoch": 5,
+    "temperature": 0.9865771812080537,
+    "critic_loss": -9.107353782653808,
+    "generator_loss": 1.1450164198875428,
+    "gradient_penalty": 0.13877078145742416,
+    "composition_loss": 0.06963123679161072,
+    "hydrophobic_run_loss": 0.0004761394171509892
+  },
+  {
+    "epoch": 6,
+    "temperature": 0.9832214765100671,
+    "critic_loss": -9.222469520568847,
+    "generator_loss": 0.8616033792495728,
+    "gradient_penalty": 0.14705089926719667,
+    "composition_loss": 0.06918365061283112,
+    "hydrophobic_run_loss": 0.00042097719851881267
+  },
+  {
+    "epoch": 7,
+    "temperature": 0.9798657718120806,
+    "critic_loss": -9.140061569213866,
+    "generator_loss": 0.5432559490203858,
+    "gradient_penalty": 0.1538957476615906,
+    "composition_loss": 0.06799570322036744,
+    "hydrophobic_run_loss": 0.0003813779097981751
+  },
+  {
+    "epoch": 8,
+    "temperature": 0.9765100671140939,
+    "critic_loss": -9.154105758666992,
+    "generator_loss": 0.6025499939918518,
+    "gradient_penalty": 0.15112513899803162,
+    "composition_loss": 0.06765852719545365,
+    "hydrophobic_run_loss": 0.00039375775959342717
+  },
+  {
+    "epoch": 9,
+    "temperature": 0.9731543624161074,
+    "critic_loss": -9.18727378845215,
+    "generator_loss": 0.5487135410308838,
+    "gradient_penalty": 0.14855681657791137,
+    "composition_loss": 0.06779979765415192,
+    "hydrophobic_run_loss": 0.0004458165552932769
+  },
+  {
+    "epoch": 10,
+    "temperature": 0.9697986577181208,
+    "critic_loss": -9.149503898620605,
+    "generator_loss": 0.4944349080324173,
+    "gradient_penalty": 0.1587013602256775,
+    "composition_loss": 0.06661261767148971,
+    "hydrophobic_run_loss": 0.0005102163297124207
+  },
+  {
+    "epoch": 11,
+    "temperature": 0.9664429530201343,
+    "critic_loss": -9.092497253417969,
+    "generator_loss": 0.3506281614303589,
+    "gradient_penalty": 0.14441586583852767,
+    "composition_loss": 0.0662872090935707,
+    "hydrophobic_run_loss": 0.0004870073113124818
+  },
+  {
+    "epoch": 12,
+    "temperature": 0.9630872483221476,
+    "critic_loss": -9.144589233398438,
+    "generator_loss": 0.35668755620718,
+    "gradient_penalty": 0.13546647727489472,
+    "composition_loss": 0.06589760854840279,
+    "hydrophobic_run_loss": 0.000522314093541354
+  },
+  {
+    "epoch": 13,
+    "temperature": 0.9597315436241611,
+    "critic_loss": -9.11265754699707,
+    "generator_loss": 0.3659922182559967,
+    "gradient_penalty": 0.1370932787656784,
+    "composition_loss": 0.06595676392316818,
+    "hydrophobic_run_loss": 0.0005854558665305376
+  },
+  {
+    "epoch": 14,
+    "temperature": 0.9563758389261745,
+    "critic_loss": -9.183674812316895,
+    "generator_loss": 0.15062324330210686,
+    "gradient_penalty": 0.15106370747089387,
+    "composition_loss": 0.06601029634475708,
+    "hydrophobic_run_loss": 0.0005473977304063738
+  },
+  {
+    "epoch": 15,
+    "temperature": 0.9530201342281879,
+    "critic_loss": -9.128447914123536,
+    "generator_loss": 0.18161490485072135,
+    "gradient_penalty": 0.147010999917984,
+    "composition_loss": 0.06594894081354141,
+    "hydrophobic_run_loss": 0.0005362575757317245
+  },
+  {
+    "epoch": 16,
+    "temperature": 0.9496644295302014,
+    "critic_loss": -9.114812469482422,
+    "generator_loss": 0.32689078748226164,
+    "gradient_penalty": 0.14732629656791688,
+    "composition_loss": 0.06522481590509414,
+    "hydrophobic_run_loss": 0.0005515399156138301
+  },
+  {
+    "epoch": 17,
+    "temperature": 0.9463087248322147,
+    "critic_loss": -9.112255096435547,
+    "generator_loss": 0.42253235578536985,
+    "gradient_penalty": 0.1557367116212845,
+    "composition_loss": 0.06548135876655578,
+    "hydrophobic_run_loss": 0.0005106137890834361
+  },
+  {
+    "epoch": 18,
+    "temperature": 0.9429530201342282,
+    "critic_loss": -9.088241004943848,
+    "generator_loss": 0.2826444566249847,
+    "gradient_penalty": 0.1505272328853607,
+    "composition_loss": 0.06537285000085831,
+    "hydrophobic_run_loss": 0.0005563251790590585
+  },
+  {
+    "epoch": 19,
+    "temperature": 0.9395973154362416,
+    "critic_loss": -9.098533248901367,
+    "generator_loss": 0.32525535821914675,
+    "gradient_penalty": 0.1355847090482712,
+    "composition_loss": 0.06517981141805648,
+    "hydrophobic_run_loss": 0.0005353763466700911
+  },
+  {
+    "epoch": 20,
+    "temperature": 0.9362416107382551,
+    "critic_loss": -9.073828506469727,
+    "generator_loss": 0.4861878752708435,
+    "gradient_penalty": 0.15220975875854492,
+    "composition_loss": 0.06500135213136674,
+    "hydrophobic_run_loss": 0.0005420870729722083
+  },
+  {
+    "epoch": 21,
+    "temperature": 0.9328859060402684,
+    "critic_loss": -9.095466041564942,
+    "generator_loss": 0.5287012696266175,
+    "gradient_penalty": 0.1404350996017456,
+    "composition_loss": 0.06516664922237396,
+    "hydrophobic_run_loss": 0.0005706660391297192
+  },
+  {
+    "epoch": 22,
+    "temperature": 0.9295302013422819,
+    "critic_loss": -9.079881477355958,
+    "generator_loss": 0.2881913982331753,
+    "gradient_penalty": 0.1429422080516815,
+    "composition_loss": 0.0644418939948082,
+    "hydrophobic_run_loss": 0.0005545763997361064
+  },
+  {
+    "epoch": 23,
+    "temperature": 0.9261744966442953,
+    "critic_loss": -8.984025382995606,
+    "generator_loss": 0.28982385247945786,
+    "gradient_penalty": 0.15774368941783906,
+    "composition_loss": 0.06418004184961319,
+    "hydrophobic_run_loss": 0.0005537559161894023
+  },
+  {
+    "epoch": 24,
+    "temperature": 0.9228187919463087,
+    "critic_loss": -9.053554344177247,
+    "generator_loss": 0.23896405398845671,
+    "gradient_penalty": 0.1290937125682831,
+    "composition_loss": 0.06466455459594726,
+    "hydrophobic_run_loss": 0.0005564662860706449
+  },
+  {
+    "epoch": 25,
+    "temperature": 0.9194630872483222,
+    "critic_loss": -9.00932674407959,
+    "generator_loss": 0.35705496445298196,
+    "gradient_penalty": 0.1491445779800415,
+    "composition_loss": 0.06429115533828736,
+    "hydrophobic_run_loss": 0.0005918045644648373
+  },
+  {
+    "epoch": 26,
+    "temperature": 0.9161073825503355,
+    "critic_loss": -8.925454711914062,
+    "generator_loss": 0.5036128997802735,
+    "gradient_penalty": 0.1696663111448288,
+    "composition_loss": 0.06381975188851356,
+    "hydrophobic_run_loss": 0.0005923814722336828
+  },
+  {
+    "epoch": 27,
+    "temperature": 0.912751677852349,
+    "critic_loss": -8.938008499145507,
+    "generator_loss": 0.5238645315170288,
+    "gradient_penalty": 0.14519731402397157,
+    "composition_loss": 0.06325290352106094,
+    "hydrophobic_run_loss": 0.0006203652825206518
+  },
+  {
+    "epoch": 28,
+    "temperature": 0.9093959731543624,
+    "critic_loss": -8.95943088531494,
+    "generator_loss": 0.5704827606678009,
+    "gradient_penalty": 0.14329174757003785,
+    "composition_loss": 0.0639087475836277,
+    "hydrophobic_run_loss": 0.0006261619157157839
+  },
+  {
+    "epoch": 29,
+    "temperature": 0.9060402684563759,
+    "critic_loss": -8.997566986083985,
+    "generator_loss": 0.3030791349709034,
+    "gradient_penalty": 0.13701778799295425,
+    "composition_loss": 0.06352570429444312,
+    "hydrophobic_run_loss": 0.0006305782415438443
+  },
+  {
+    "epoch": 30,
+    "temperature": 0.9026845637583892,
+    "critic_loss": -8.906462669372559,
+    "generator_loss": 0.4562965095043182,
+    "gradient_penalty": 0.13645974397659302,
+    "composition_loss": 0.06338647827506065,
+    "hydrophobic_run_loss": 0.0006242681411094964
+  },
+  {
+    "epoch": 31,
+    "temperature": 0.8993288590604027,
+    "critic_loss": -8.886306190490723,
+    "generator_loss": 0.40666724741458893,
+    "gradient_penalty": 0.13985090404748918,
+    "composition_loss": 0.0632811240851879,
+    "hydrophobic_run_loss": 0.0006199476076290012
+  },
+  {
+    "epoch": 32,
+    "temperature": 0.8959731543624161,
+    "critic_loss": -8.747854614257813,
+    "generator_loss": 0.05038885474205017,
+    "gradient_penalty": 0.14774844348430632,
+    "composition_loss": 0.061752615869045256,
+    "hydrophobic_run_loss": 0.0006142077094409615
+  },
+  {
+    "epoch": 33,
+    "temperature": 0.8926174496644296,
+    "critic_loss": -8.822659111022949,
+    "generator_loss": 0.0018566623330116272,
+    "gradient_penalty": 0.13882394134998322,
+    "composition_loss": 0.06270937249064445,
+    "hydrophobic_run_loss": 0.0006778041366487742
+  },
+  {
+    "epoch": 34,
+    "temperature": 0.889261744966443,
+    "critic_loss": -8.78868293762207,
+    "generator_loss": 0.13336086869239808,
+    "gradient_penalty": 0.12928779274225236,
+    "composition_loss": 0.06266047358512879,
+    "hydrophobic_run_loss": 0.0006230981904082
+  },
+  {
+    "epoch": 35,
+    "temperature": 0.8859060402684564,
+    "critic_loss": -8.789669227600097,
+    "generator_loss": 0.2615464128553867,
+    "gradient_penalty": 0.13187106400728227,
+    "composition_loss": 0.06260470300912857,
+    "hydrophobic_run_loss": 0.0006844983377959579
+  },
+  {
+    "epoch": 36,
+    "temperature": 0.8825503355704698,
+    "critic_loss": -8.692036628723145,
+    "generator_loss": 0.07140063792467118,
+    "gradient_penalty": 0.12726141065359114,
+    "composition_loss": 0.06135684996843338,
+    "hydrophobic_run_loss": 0.0006577665451914072
+  },
+  {
+    "epoch": 37,
+    "temperature": 0.8791946308724832,
+    "critic_loss": -8.682291603088379,
+    "generator_loss": 0.2184757709503174,
+    "gradient_penalty": 0.13658909648656845,
+    "composition_loss": 0.06133056804537773,
+    "hydrophobic_run_loss": 0.000717546249506995
+  },
+  {
+    "epoch": 38,
+    "temperature": 0.8758389261744967,
+    "critic_loss": -8.690959548950195,
+    "generator_loss": 0.37992202341556547,
+    "gradient_penalty": 0.1491929695010185,
+    "composition_loss": 0.06153331995010376,
+    "hydrophobic_run_loss": 0.0006759187788702547
+  },
+  {
+    "epoch": 39,
+    "temperature": 0.87248322147651,
+    "critic_loss": -8.62104778289795,
+    "generator_loss": 0.4148869335651398,
+    "gradient_penalty": 0.13488787710666655,
+    "composition_loss": 0.0606329008936882,
+    "hydrophobic_run_loss": 0.0006318869185633957
+  },
+  {
+    "epoch": 40,
+    "temperature": 0.8691275167785235,
+    "critic_loss": -8.601243209838866,
+    "generator_loss": 0.2011477530002594,
+    "gradient_penalty": 0.1188145935535431,
+    "composition_loss": 0.061050242930650714,
+    "hydrophobic_run_loss": 0.000695227028336376
+  },
+  {
+    "epoch": 41,
+    "temperature": 0.8657718120805369,
+    "critic_loss": -8.524962234497071,
+    "generator_loss": 0.20026015490293503,
+    "gradient_penalty": 0.1255894973874092,
+    "composition_loss": 0.06029232144355774,
+    "hydrophobic_run_loss": 0.0006635634228587151
+  },
+  {
+    "epoch": 42,
+    "temperature": 0.8624161073825504,
+    "critic_loss": -8.456659126281739,
+    "generator_loss": 0.19933537393808365,
+    "gradient_penalty": 0.12125463485717773,
+    "composition_loss": 0.05961931645870209,
+    "hydrophobic_run_loss": 0.0007202079461421818
+  },
+  {
+    "epoch": 43,
+    "temperature": 0.8590604026845637,
+    "critic_loss": -8.427803421020508,
+    "generator_loss": 0.41152181327342985,
+    "gradient_penalty": 0.13783984184265136,
+    "composition_loss": 0.05958312898874283,
+    "hydrophobic_run_loss": 0.0007032320951111615
+  },
+  {
+    "epoch": 44,
+    "temperature": 0.8557046979865772,
+    "critic_loss": -8.415172386169434,
+    "generator_loss": 0.4822612553834915,
+    "gradient_penalty": 0.14487842321395875,
+    "composition_loss": 0.05953663364052773,
+    "hydrophobic_run_loss": 0.0006618094048462808
+  },
+  {
+    "epoch": 45,
+    "temperature": 0.8523489932885906,
+    "critic_loss": -8.340011024475098,
+    "generator_loss": 0.4361462354660034,
+    "gradient_penalty": 0.13697127252817154,
+    "composition_loss": 0.05926257744431496,
+    "hydrophobic_run_loss": 0.0006393054150976241
+  },
+  {
+    "epoch": 46,
+    "temperature": 0.848993288590604,
+    "critic_loss": -8.334538459777832,
+    "generator_loss": 0.303515163064003,
+    "gradient_penalty": 0.12700771540403366,
+    "composition_loss": 0.058070408552885054,
+    "hydrophobic_run_loss": 0.0006252069259062409
+  },
+  {
+    "epoch": 47,
+    "temperature": 0.8456375838926175,
+    "critic_loss": -8.304225158691406,
+    "generator_loss": 0.43303690403699874,
+    "gradient_penalty": 0.1314687192440033,
+    "composition_loss": 0.05828405469655991,
+    "hydrophobic_run_loss": 0.0007098721514921635
+  },
+  {
+    "epoch": 48,
+    "temperature": 0.8422818791946309,
+    "critic_loss": -8.240581893920899,
+    "generator_loss": 0.41874552220106126,
+    "gradient_penalty": 0.13481927812099456,
+    "composition_loss": 0.05830646380782127,
+    "hydrophobic_run_loss": 0.0005790589435491711
+  },
+  {
+    "epoch": 49,
+    "temperature": 0.8389261744966443,
+    "critic_loss": -8.094847202301025,
+    "generator_loss": 0.3856708616018295,
+    "gradient_penalty": 0.12222021073102951,
+    "composition_loss": 0.05748144313693047,
+    "hydrophobic_run_loss": 0.0006303138798102736
+  },
+  {
+    "epoch": 50,
+    "temperature": 0.8355704697986577,
+    "critic_loss": -8.137022018432617,
+    "generator_loss": 0.3883275896310806,
+    "gradient_penalty": 0.1283260017633438,
+    "composition_loss": 0.05741315633058548,
+    "hydrophobic_run_loss": 0.0006125358515419066
+  },
+  {
+    "epoch": 51,
+    "temperature": 0.8322147651006712,
+    "critic_loss": -8.033786392211914,
+    "generator_loss": 0.4162971943616867,
+    "gradient_penalty": 0.11998317092657089,
+    "composition_loss": 0.056232739984989163,
+    "hydrophobic_run_loss": 0.0006123108498286456
+  },
+  {
+    "epoch": 52,
+    "temperature": 0.8288590604026845,
+    "critic_loss": -8.044680118560791,
+    "generator_loss": 0.31069897413253783,
+    "gradient_penalty": 0.1236479789018631,
+    "composition_loss": 0.05657570287585258,
+    "hydrophobic_run_loss": 0.0005977181368507445
+  },
+  {
+    "epoch": 53,
+    "temperature": 0.825503355704698,
+    "critic_loss": -8.049468994140625,
+    "generator_loss": 0.42668268755078315,
+    "gradient_penalty": 0.12900194227695466,
+    "composition_loss": 0.0558782733976841,
+    "hydrophobic_run_loss": 0.0006265463423915207
+  },
+  {
+    "epoch": 54,
+    "temperature": 0.8221476510067114,
+    "critic_loss": -7.935531997680664,
+    "generator_loss": 0.5410765886306763,
+    "gradient_penalty": 0.11155596375465393,
+    "composition_loss": 0.055466289073228835,
+    "hydrophobic_run_loss": 0.000622070807730779
+  },
+  {
+    "epoch": 55,
+    "temperature": 0.8187919463087249,
+    "critic_loss": -7.916738700866699,
+    "generator_loss": 0.33431962728500364,
+    "gradient_penalty": 0.10698037296533584,
+    "composition_loss": 0.055098769068717954,
+    "hydrophobic_run_loss": 0.0005759171617683023
+  },
+  {
+    "epoch": 56,
+    "temperature": 0.8154362416107382,
+    "critic_loss": -7.865042972564697,
+    "generator_loss": 0.5124233543872834,
+    "gradient_penalty": 0.1132990688085556,
+    "composition_loss": 0.05490116849541664,
+    "hydrophobic_run_loss": 0.0005940973816905171
+  },
+  {
+    "epoch": 57,
+    "temperature": 0.8120805369127517,
+    "critic_loss": -7.823487949371338,
+    "generator_loss": 0.4467450499534607,
+    "gradient_penalty": 0.12314527332782746,
+    "composition_loss": 0.053825550526380536,
+    "hydrophobic_run_loss": 0.0005638464936055243
+  },
+  {
+    "epoch": 58,
+    "temperature": 0.8087248322147651,
+    "critic_loss": -7.7414710998535154,
+    "generator_loss": 0.44862878024578096,
+    "gradient_penalty": 0.10926879793405533,
+    "composition_loss": 0.0538251243531704,
+    "hydrophobic_run_loss": 0.0005789418413769454
+  },
+  {
+    "epoch": 59,
+    "temperature": 0.8053691275167785,
+    "critic_loss": -7.685696315765381,
+    "generator_loss": 0.4004914879798889,
+    "gradient_penalty": 0.10588614344596863,
+    "composition_loss": 0.052848564088344575,
+    "hydrophobic_run_loss": 0.000681660242844373
+  },
+  {
+    "epoch": 60,
+    "temperature": 0.802013422818792,
+    "critic_loss": -7.7173285484313965,
+    "generator_loss": 0.3148572951555252,
+    "gradient_penalty": 0.09913206398487091,
+    "composition_loss": 0.05283549949526787,
+    "hydrophobic_run_loss": 0.0005625303834676743
+  },
+  {
+    "epoch": 61,
+    "temperature": 0.7986577181208054,
+    "critic_loss": -7.603622627258301,
+    "generator_loss": 0.6377537965774536,
+    "gradient_penalty": 0.10483684986829758,
+    "composition_loss": 0.05294382944703102,
+    "hydrophobic_run_loss": 0.0006112001661676914
+  },
+  {
+    "epoch": 62,
+    "temperature": 0.7953020134228188,
+    "critic_loss": -7.615704917907715,
+    "generator_loss": 0.3155934728682041,
+    "gradient_penalty": 0.10938596725463867,
+    "composition_loss": 0.0522858738899231,
+    "hydrophobic_run_loss": 0.0005694083636626601
+  },
+  {
+    "epoch": 63,
+    "temperature": 0.7919463087248322,
+    "critic_loss": -7.469498062133789,
+    "generator_loss": 0.4048104375600815,
+    "gradient_penalty": 0.10082087367773056,
+    "composition_loss": 0.051647954434156415,
+    "hydrophobic_run_loss": 0.0005500886938534677
+  },
+  {
+    "epoch": 64,
+    "temperature": 0.7885906040268457,
+    "critic_loss": -7.445532512664795,
+    "generator_loss": 0.6471621215343475,
+    "gradient_penalty": 0.11152367144823075,
+    "composition_loss": 0.051494081318378446,
+    "hydrophobic_run_loss": 0.0005847951164469123
+  },
+  {
+    "epoch": 65,
+    "temperature": 0.785234899328859,
+    "critic_loss": -7.408719921112061,
+    "generator_loss": 0.5868527889251709,
+    "gradient_penalty": 0.10119234025478363,
+    "composition_loss": 0.05020207390189171,
+    "hydrophobic_run_loss": 0.0006150135421194136
+  },
+  {
+    "epoch": 66,
+    "temperature": 0.7818791946308725,
+    "critic_loss": -7.29043436050415,
+    "generator_loss": 0.5522292852401733,
+    "gradient_penalty": 0.10528364628553391,
+    "composition_loss": 0.05033043548464775,
+    "hydrophobic_run_loss": 0.0006335259007755667
+  },
+  {
+    "epoch": 67,
+    "temperature": 0.7785234899328859,
+    "critic_loss": -7.272380352020264,
+    "generator_loss": 0.7089047491550445,
+    "gradient_penalty": 0.1007184699177742,
+    "composition_loss": 0.05008221641182899,
+    "hydrophobic_run_loss": 0.0005149983800947667
+  },
+  {
+    "epoch": 68,
+    "temperature": 0.7751677852348993,
+    "critic_loss": -7.267590141296386,
+    "generator_loss": 0.7698239088058472,
+    "gradient_penalty": 0.10467625558376312,
+    "composition_loss": 0.04955644384026527,
+    "hydrophobic_run_loss": 0.0005497714504599571
+  },
+  {
+    "epoch": 69,
+    "temperature": 0.7718120805369127,
+    "critic_loss": -7.261819839477539,
+    "generator_loss": 0.6671241581439972,
+    "gradient_penalty": 0.09897553622722625,
+    "composition_loss": 0.04875820353627205,
+    "hydrophobic_run_loss": 0.0005638127506244928
+  },
+  {
+    "epoch": 70,
+    "temperature": 0.7684563758389262,
+    "critic_loss": -7.2090448379516605,
+    "generator_loss": 0.8472229242324829,
+    "gradient_penalty": 0.10079677402973175,
+    "composition_loss": 0.04882112145423889,
+    "hydrophobic_run_loss": 0.0005390529753640294
+  },
+  {
+    "epoch": 71,
+    "temperature": 0.7651006711409396,
+    "critic_loss": -7.086988925933838,
+    "generator_loss": 0.6756532073020936,
+    "gradient_penalty": 0.0932284340262413,
+    "composition_loss": 0.04785019457340241,
+    "hydrophobic_run_loss": 0.000615948234917596
+  },
+  {
+    "epoch": 72,
+    "temperature": 0.761744966442953,
+    "critic_loss": -7.056505966186523,
+    "generator_loss": 0.8075371623039246,
+    "gradient_penalty": 0.09359779953956604,
+    "composition_loss": 0.04803227484226227,
+    "hydrophobic_run_loss": 0.0004898070590570569
+  },
+  {
+    "epoch": 73,
+    "temperature": 0.7583892617449665,
+    "critic_loss": -7.02327070236206,
+    "generator_loss": 0.8329654693603515,
+    "gradient_penalty": 0.09336549192667007,
+    "composition_loss": 0.04715479910373688,
+    "hydrophobic_run_loss": 0.000521940179169178
+  },
+  {
+    "epoch": 74,
+    "temperature": 0.7550335570469798,
+    "critic_loss": -7.059872722625732,
+    "generator_loss": 0.857268488407135,
+    "gradient_penalty": 0.09557942599058152,
+    "composition_loss": 0.046335918456315996,
+    "hydrophobic_run_loss": 0.0005856494943145662
+  },
+  {
+    "epoch": 75,
+    "temperature": 0.7516778523489933,
+    "critic_loss": -6.95818395614624,
+    "generator_loss": 0.856184470653534,
+    "gradient_penalty": 0.09048969596624375,
+    "composition_loss": 0.04620373025536537,
+    "hydrophobic_run_loss": 0.0005623430944979191
+  },
+  {
+    "epoch": 76,
+    "temperature": 0.7483221476510067,
+    "critic_loss": -6.895724105834961,
+    "generator_loss": 1.1350101232528687,
+    "gradient_penalty": 0.09205186367034912,
+    "composition_loss": 0.04580566212534905,
+    "hydrophobic_run_loss": 0.0005748064490035176
+  },
+  {
+    "epoch": 77,
+    "temperature": 0.7449664429530201,
+    "critic_loss": -6.872089767456055,
+    "generator_loss": 1.138081693649292,
+    "gradient_penalty": 0.08283483386039733,
+    "composition_loss": 0.045682177692651746,
+    "hydrophobic_run_loss": 0.0005019576754420995
+  },
+  {
+    "epoch": 78,
+    "temperature": 0.7416107382550335,
+    "critic_loss": -6.803082084655761,
+    "generator_loss": 1.0540268182754517,
+    "gradient_penalty": 0.09041445106267929,
+    "composition_loss": 0.04439113289117813,
+    "hydrophobic_run_loss": 0.0005559928482398391
+  },
+  {
+    "epoch": 79,
+    "temperature": 0.738255033557047,
+    "critic_loss": -6.720941638946533,
+    "generator_loss": 0.9840851783752441,
+    "gradient_penalty": 0.09377134591341019,
+    "composition_loss": 0.04457629472017288,
+    "hydrophobic_run_loss": 0.000552952557336539
+  },
+  {
+    "epoch": 80,
+    "temperature": 0.7348993288590604,
+    "critic_loss": -6.644596099853516,
+    "generator_loss": 0.939466404914856,
+    "gradient_penalty": 0.0879190519452095,
+    "composition_loss": 0.043578337877988815,
+    "hydrophobic_run_loss": 0.0006161401048302651
+  },
+  {
+    "epoch": 81,
+    "temperature": 0.7315436241610738,
+    "critic_loss": -6.681252956390381,
+    "generator_loss": 0.9023837208747864,
+    "gradient_penalty": 0.09402262419462204,
+    "composition_loss": 0.043489071726799014,
+    "hydrophobic_run_loss": 0.0004800069611519575
+  },
+  {
+    "epoch": 82,
+    "temperature": 0.7281879194630873,
+    "critic_loss": -6.546661853790283,
+    "generator_loss": 1.0419929504394532,
+    "gradient_penalty": 0.08731940686702729,
+    "composition_loss": 0.042922414094209674,
+    "hydrophobic_run_loss": 0.0005722149624489247
+  },
+  {
+    "epoch": 83,
+    "temperature": 0.7248322147651007,
+    "critic_loss": -6.52047061920166,
+    "generator_loss": 0.954974627494812,
+    "gradient_penalty": 0.08570314943790436,
+    "composition_loss": 0.0417385995388031,
+    "hydrophobic_run_loss": 0.0005261644022539258
+  },
+  {
+    "epoch": 84,
+    "temperature": 0.7214765100671141,
+    "critic_loss": -6.517043685913086,
+    "generator_loss": 0.9444546699523926,
+    "gradient_penalty": 0.07717048674821854,
+    "composition_loss": 0.04215563237667084,
+    "hydrophobic_run_loss": 0.0005657436791807413
+  },
+  {
+    "epoch": 85,
+    "temperature": 0.7181208053691275,
+    "critic_loss": -6.401214122772217,
+    "generator_loss": 1.0852096676826477,
+    "gradient_penalty": 0.08495145440101623,
+    "composition_loss": 0.04117272719740868,
+    "hydrophobic_run_loss": 0.0005683419411070644
+  },
+  {
+    "epoch": 86,
+    "temperature": 0.714765100671141,
+    "critic_loss": -6.322580051422119,
+    "generator_loss": 0.9478558421134948,
+    "gradient_penalty": 0.08477419465780259,
+    "composition_loss": 0.040671329200267795,
+    "hydrophobic_run_loss": 0.00048467075685039164
+  },
+  {
+    "epoch": 87,
+    "temperature": 0.7114093959731543,
+    "critic_loss": -6.302215957641602,
+    "generator_loss": 0.8058144330978394,
+    "gradient_penalty": 0.0731501504778862,
+    "composition_loss": 0.03990758284926414,
+    "hydrophobic_run_loss": 0.0005068286554887891
+  },
+  {
+    "epoch": 88,
+    "temperature": 0.7080536912751678,
+    "critic_loss": -6.231122875213623,
+    "generator_loss": 0.8012921333312988,
+    "gradient_penalty": 0.07121465057134628,
+    "composition_loss": 0.039565809071063995,
+    "hydrophobic_run_loss": 0.0006008261698298156
+  },
+  {
+    "epoch": 89,
+    "temperature": 0.7046979865771812,
+    "critic_loss": -6.248995685577393,
+    "generator_loss": 0.709853446483612,
+    "gradient_penalty": 0.06650262475013732,
+    "composition_loss": 0.03821265324950218,
+    "hydrophobic_run_loss": 0.0005751439079176634
+  },
+  {
+    "epoch": 90,
+    "temperature": 0.7013422818791946,
+    "critic_loss": -6.14022970199585,
+    "generator_loss": 0.909593403339386,
+    "gradient_penalty": 0.0803423210978508,
+    "composition_loss": 0.03818875476717949,
+    "hydrophobic_run_loss": 0.0005773325741756707
+  },
+  {
+    "epoch": 91,
+    "temperature": 0.697986577181208,
+    "critic_loss": -6.004135417938232,
+    "generator_loss": 0.8289135098457336,
+    "gradient_penalty": 0.0717730775475502,
+    "composition_loss": 0.03801167905330658,
+    "hydrophobic_run_loss": 0.0005745631264289841
+  },
+  {
+    "epoch": 92,
+    "temperature": 0.6946308724832215,
+    "critic_loss": -5.906054592132568,
+    "generator_loss": 0.8902998924255371,
+    "gradient_penalty": 0.07456748485565186,
+    "composition_loss": 0.0366489477455616,
+    "hydrophobic_run_loss": 0.0005692484672181308
+  },
+  {
+    "epoch": 93,
+    "temperature": 0.6912751677852349,
+    "critic_loss": -5.862679862976075,
+    "generator_loss": 0.9639869332313538,
+    "gradient_penalty": 0.06600239649415016,
+    "composition_loss": 0.03618546277284622,
+    "hydrophobic_run_loss": 0.000590950099285692
+  },
+  {
+    "epoch": 94,
+    "temperature": 0.6879194630872483,
+    "critic_loss": -5.771567153930664,
+    "generator_loss": 0.9975582361221313,
+    "gradient_penalty": 0.07076491340994835,
+    "composition_loss": 0.03575916811823845,
+    "hydrophobic_run_loss": 0.0006093739182688295
+  },
+  {
+    "epoch": 95,
+    "temperature": 0.6845637583892618,
+    "critic_loss": -5.711660480499267,
+    "generator_loss": 0.9611003875732422,
+    "gradient_penalty": 0.0726271465420723,
+    "composition_loss": 0.035170821100473405,
+    "hydrophobic_run_loss": 0.0006364687695167958
+  },
+  {
+    "epoch": 96,
+    "temperature": 0.6812080536912752,
+    "critic_loss": -5.678339862823487,
+    "generator_loss": 0.9932842969894409,
+    "gradient_penalty": 0.06809412091970443,
+    "composition_loss": 0.034735902398824695,
+    "hydrophobic_run_loss": 0.0005908655119128525
+  },
+  {
+    "epoch": 97,
+    "temperature": 0.6778523489932886,
+    "critic_loss": -5.648895168304444,
+    "generator_loss": 1.0138962149620057,
+    "gradient_penalty": 0.07170862182974816,
+    "composition_loss": 0.03415522053837776,
+    "hydrophobic_run_loss": 0.0006107377354055643
+  },
+  {
+    "epoch": 98,
+    "temperature": 0.674496644295302,
+    "critic_loss": -5.511351108551025,
+    "generator_loss": 1.3254452466964721,
+    "gradient_penalty": 0.06928079426288605,
+    "composition_loss": 0.03414204195141792,
+    "hydrophobic_run_loss": 0.0006003625108860433
+  },
+  {
+    "epoch": 99,
+    "temperature": 0.6711409395973154,
+    "critic_loss": -5.534562778472901,
+    "generator_loss": 1.2052107810974122,
+    "gradient_penalty": 0.06118406876921654,
+    "composition_loss": 0.03307277709245682,
+    "hydrophobic_run_loss": 0.0006174890440888703
+  },
+  {
+    "epoch": 100,
+    "temperature": 0.6677852348993288,
+    "critic_loss": -5.381440830230713,
+    "generator_loss": 1.2303245544433594,
+    "gradient_penalty": 0.06262659654021263,
+    "composition_loss": 0.03255707696080208,
+    "hydrophobic_run_loss": 0.0006220332463271916
+  },
+  {
+    "epoch": 101,
+    "temperature": 0.6644295302013423,
+    "critic_loss": -5.389491367340088,
+    "generator_loss": 1.17672438621521,
+    "gradient_penalty": 0.06220608055591583,
+    "composition_loss": 0.0320258304476738,
+    "hydrophobic_run_loss": 0.0006098562385886908
+  },
+  {
+    "epoch": 102,
+    "temperature": 0.6610738255033557,
+    "critic_loss": -5.285641765594482,
+    "generator_loss": 1.1850226879119874,
+    "gradient_penalty": 0.06468581929802894,
+    "composition_loss": 0.030785239487886428,
+    "hydrophobic_run_loss": 0.0005770857445895672
+  },
+  {
+    "epoch": 103,
+    "temperature": 0.6577181208053691,
+    "critic_loss": -5.287022590637207,
+    "generator_loss": 1.179152739048004,
+    "gradient_penalty": 0.059654482454061505,
+    "composition_loss": 0.029896732419729233,
+    "hydrophobic_run_loss": 0.0006646979483775795
+  },
+  {
+    "epoch": 104,
+    "temperature": 0.6543624161073825,
+    "critic_loss": -5.119192504882813,
+    "generator_loss": 1.3671953916549682,
+    "gradient_penalty": 0.05608826503157616,
+    "composition_loss": 0.030012216418981552,
+    "hydrophobic_run_loss": 0.0006308093201369047
+  },
+  {
+    "epoch": 105,
+    "temperature": 0.651006711409396,
+    "critic_loss": -5.116028785705566,
+    "generator_loss": 1.3807578325271606,
+    "gradient_penalty": 0.05403551161289215,
+    "composition_loss": 0.029179925099015236,
+    "hydrophobic_run_loss": 0.0005253780342172832
+  },
+  {
+    "epoch": 106,
+    "temperature": 0.6476510067114094,
+    "critic_loss": -5.108505535125732,
+    "generator_loss": 1.2687275648117065,
+    "gradient_penalty": 0.05064968913793564,
+    "composition_loss": 0.0292033314704895,
+    "hydrophobic_run_loss": 0.0006107133405748755
+  },
+  {
+    "epoch": 107,
+    "temperature": 0.6442953020134228,
+    "critic_loss": -5.004527854919433,
+    "generator_loss": 1.2251390218734741,
+    "gradient_penalty": 0.05218985304236412,
+    "composition_loss": 0.027970512211322785,
+    "hydrophobic_run_loss": 0.0006092129624448717
+  },
+  {
+    "epoch": 108,
+    "temperature": 0.6409395973154363,
+    "critic_loss": -4.913006591796875,
+    "generator_loss": 1.3560201168060302,
+    "gradient_penalty": 0.055697521567344664,
+    "composition_loss": 0.02754559777677059,
+    "hydrophobic_run_loss": 0.0005818055768031627
+  },
+  {
+    "epoch": 109,
+    "temperature": 0.6375838926174497,
+    "critic_loss": -4.81733922958374,
+    "generator_loss": 1.5094643354415893,
+    "gradient_penalty": 0.05470284521579742,
+    "composition_loss": 0.027255912870168687,
+    "hydrophobic_run_loss": 0.000637852429645136
+  },
+  {
+    "epoch": 110,
+    "temperature": 0.6342281879194631,
+    "critic_loss": -4.812737846374512,
+    "generator_loss": 1.4752056360244752,
+    "gradient_penalty": 0.050300195813179016,
+    "composition_loss": 0.026291672512888907,
+    "hydrophobic_run_loss": 0.0005226616107393056
+  },
+  {
+    "epoch": 111,
+    "temperature": 0.6308724832214765,
+    "critic_loss": -4.787288761138916,
+    "generator_loss": 1.4850451231002808,
+    "gradient_penalty": 0.044773364812135695,
+    "composition_loss": 0.025946281850337982,
+    "hydrophobic_run_loss": 0.000622199650388211
+  },
+  {
+    "epoch": 112,
+    "temperature": 0.6275167785234899,
+    "critic_loss": -4.725702381134033,
+    "generator_loss": 1.4975541591644288,
+    "gradient_penalty": 0.046756545454263686,
+    "composition_loss": 0.025066135078668596,
+    "hydrophobic_run_loss": 0.0005592607252765447
+  },
+  {
+    "epoch": 113,
+    "temperature": 0.6241610738255033,
+    "critic_loss": -4.688264560699463,
+    "generator_loss": 1.5420524835586549,
+    "gradient_penalty": 0.04789984673261642,
+    "composition_loss": 0.025053104758262633,
+    "hydrophobic_run_loss": 0.0005925359029788524
+  },
+  {
+    "epoch": 114,
+    "temperature": 0.6208053691275168,
+    "critic_loss": -4.599900627136231,
+    "generator_loss": 1.821770715713501,
+    "gradient_penalty": 0.05599876642227173,
+    "composition_loss": 0.024825768172740938,
+    "hydrophobic_run_loss": 0.0005201814754400402
+  },
+  {
+    "epoch": 115,
+    "temperature": 0.6174496644295302,
+    "critic_loss": -4.658835124969483,
+    "generator_loss": 1.7076891660690308,
+    "gradient_penalty": 0.04077451527118683,
+    "composition_loss": 0.02403452284634113,
+    "hydrophobic_run_loss": 0.0005267452099360526
+  },
+  {
+    "epoch": 116,
+    "temperature": 0.6140939597315436,
+    "critic_loss": -4.530568695068359,
+    "generator_loss": 1.609840416908264,
+    "gradient_penalty": 0.0437613695859909,
+    "composition_loss": 0.023649876192212104,
+    "hydrophobic_run_loss": 0.0006003123999107629
+  },
+  {
+    "epoch": 117,
+    "temperature": 0.610738255033557,
+    "critic_loss": -4.409096527099609,
+    "generator_loss": 1.8399542331695558,
+    "gradient_penalty": 0.04458702579140663,
+    "composition_loss": 0.023284567147493364,
+    "hydrophobic_run_loss": 0.0005046342528657987
+  },
+  {
+    "epoch": 118,
+    "temperature": 0.6073825503355705,
+    "critic_loss": -4.457432460784912,
+    "generator_loss": 1.6480024099349975,
+    "gradient_penalty": 0.04172954559326172,
+    "composition_loss": 0.022843252494931222,
+    "hydrophobic_run_loss": 0.0005615858419332654
+  },
+  {
+    "epoch": 119,
+    "temperature": 0.6040268456375839,
+    "critic_loss": -4.427060127258301,
+    "generator_loss": 1.8451029300689696,
+    "gradient_penalty": 0.04906434863805771,
+    "composition_loss": 0.022461913898587225,
+    "hydrophobic_run_loss": 0.00047541248495690523
+  },
+  {
+    "epoch": 120,
+    "temperature": 0.6006711409395973,
+    "critic_loss": -4.3587054252624515,
+    "generator_loss": 1.79316086769104,
+    "gradient_penalty": 0.041140255704522136,
+    "composition_loss": 0.021863629668951036,
+    "hydrophobic_run_loss": 0.0004488279053475708
+  },
+  {
+    "epoch": 121,
+    "temperature": 0.5973154362416108,
+    "critic_loss": -4.267131805419922,
+    "generator_loss": 1.8489498376846314,
+    "gradient_penalty": 0.04689658433198929,
+    "composition_loss": 0.02101048231124878,
+    "hydrophobic_run_loss": 0.00047839192266110333
+  },
+  {
+    "epoch": 122,
+    "temperature": 0.5939597315436241,
+    "critic_loss": -4.23204607963562,
+    "generator_loss": 1.8754254579544067,
+    "gradient_penalty": 0.03443698585033417,
+    "composition_loss": 0.02099267840385437,
+    "hydrophobic_run_loss": 0.0004079820238985121
+  },
+  {
+    "epoch": 123,
+    "temperature": 0.5906040268456376,
+    "critic_loss": -4.243235874176025,
+    "generator_loss": 1.9636342525482178,
+    "gradient_penalty": 0.043007172644138336,
+    "composition_loss": 0.02052562013268471,
+    "hydrophobic_run_loss": 0.0004495832632528618
+  },
+  {
+    "epoch": 124,
+    "temperature": 0.587248322147651,
+    "critic_loss": -4.12962121963501,
+    "generator_loss": 1.9494633197784423,
+    "gradient_penalty": 0.042555829882621764,
+    "composition_loss": 0.01991155780851841,
+    "hydrophobic_run_loss": 0.0004710620967671275
+  },
+  {
+    "epoch": 125,
+    "temperature": 0.5838926174496644,
+    "critic_loss": -4.096134853363037,
+    "generator_loss": 2.265982460975647,
+    "gradient_penalty": 0.040064704790711406,
+    "composition_loss": 0.02007784806191921,
+    "hydrophobic_run_loss": 0.0004183211160125211
+  },
+  {
+    "epoch": 126,
+    "temperature": 0.5805369127516778,
+    "critic_loss": -4.103858613967896,
+    "generator_loss": 2.351695346832275,
+    "gradient_penalty": 0.03637728169560432,
+    "composition_loss": 0.01942327879369259,
+    "hydrophobic_run_loss": 0.00039652383420616386
+  },
+  {
+    "epoch": 127,
+    "temperature": 0.5771812080536913,
+    "critic_loss": -4.025170850753784,
+    "generator_loss": 2.2287216186523438,
+    "gradient_penalty": 0.04189775809645653,
+    "composition_loss": 0.01894901618361473,
+    "hydrophobic_run_loss": 0.00034634529147297143
+  },
+  {
+    "epoch": 128,
+    "temperature": 0.5738255033557047,
+    "critic_loss": -4.072666072845459,
+    "generator_loss": 2.4467522144317626,
+    "gradient_penalty": 0.050251854956150054,
+    "composition_loss": 0.01889505535364151,
+    "hydrophobic_run_loss": 0.0014153186930343509
+  },
+  {
+    "epoch": 129,
+    "temperature": 0.5704697986577181,
+    "critic_loss": -3.9559194087982177,
+    "generator_loss": 2.3574140548706053,
+    "gradient_penalty": 0.03984061032533646,
+    "composition_loss": 0.018499826639890672,
+    "hydrophobic_run_loss": 0.0001897657595691271
+  },
+  {
+    "epoch": 130,
+    "temperature": 0.5671140939597316,
+    "critic_loss": -3.9219481468200685,
+    "generator_loss": 2.3394174098968508,
+    "gradient_penalty": 0.03923940509557724,
+    "composition_loss": 0.017810345441102982,
+    "hydrophobic_run_loss": 0.00042872694320976733
+  },
+  {
+    "epoch": 131,
+    "temperature": 0.563758389261745,
+    "critic_loss": -3.912190818786621,
+    "generator_loss": 2.3259886264801026,
+    "gradient_penalty": 0.035765575245022774,
+    "composition_loss": 0.01801796294748783,
+    "hydrophobic_run_loss": 0.0004889104573521763
+  },
+  {
+    "epoch": 132,
+    "temperature": 0.5604026845637584,
+    "critic_loss": -3.9648838520050047,
+    "generator_loss": 2.2372791528701783,
+    "gradient_penalty": 0.03641418516635895,
+    "composition_loss": 0.017209206148982047,
+    "hydrophobic_run_loss": 0.00033895326778292655
+  },
+  {
+    "epoch": 133,
+    "temperature": 0.5570469798657718,
+    "critic_loss": -3.8719308376312256,
+    "generator_loss": 2.5326359987258913,
+    "gradient_penalty": 0.04325912483036518,
+    "composition_loss": 0.017370499670505524,
+    "hydrophobic_run_loss": 0.00037377466942416503
+  },
+  {
+    "epoch": 134,
+    "temperature": 0.5536912751677852,
+    "critic_loss": -3.903966522216797,
+    "generator_loss": 2.6053667783737184,
+    "gradient_penalty": 0.05004633255302906,
+    "composition_loss": 0.018080493062734605,
+    "hydrophobic_run_loss": 0.0003905750170815736
+  },
+  {
+    "epoch": 135,
+    "temperature": 0.5503355704697986,
+    "critic_loss": -3.786889886856079,
+    "generator_loss": 2.634586524963379,
+    "gradient_penalty": 0.036770100519061086,
+    "composition_loss": 0.01736290901899338,
+    "hydrophobic_run_loss": 0.00036956398107577113
+  },
+  {
+    "epoch": 136,
+    "temperature": 0.5469798657718121,
+    "critic_loss": -3.8245081901550293,
+    "generator_loss": 2.6174540519714355,
+    "gradient_penalty": 0.03110475540161133,
+    "composition_loss": 0.015892459079623222,
+    "hydrophobic_run_loss": 0.00033449378388468177
+  },
+  {
+    "epoch": 137,
+    "temperature": 0.5436241610738255,
+    "critic_loss": -3.8071663856506346,
+    "generator_loss": 2.728908348083496,
+    "gradient_penalty": 0.0314361222088337,
+    "composition_loss": 0.01632134336978197,
+    "hydrophobic_run_loss": 0.00029994988872203974
+  },
+  {
+    "epoch": 138,
+    "temperature": 0.5402684563758389,
+    "critic_loss": -3.6931091785430907,
+    "generator_loss": 2.6496903896331787,
+    "gradient_penalty": 0.0352300051599741,
+    "composition_loss": 0.015619306825101376,
+    "hydrophobic_run_loss": 0.000520762603264302
+  },
+  {
+    "epoch": 139,
+    "temperature": 0.5369127516778524,
+    "critic_loss": -3.770309591293335,
+    "generator_loss": 2.5702845573425295,
+    "gradient_penalty": 0.03017566315829754,
+    "composition_loss": 0.016013672575354576,
+    "hydrophobic_run_loss": 0.0003484135871985927
+  },
+  {
+    "epoch": 140,
+    "temperature": 0.5335570469798658,
+    "critic_loss": -3.704906129837036,
+    "generator_loss": 2.874400568008423,
+    "gradient_penalty": 0.035359031334519384,
+    "composition_loss": 0.015458322502672673,
+    "hydrophobic_run_loss": 0.0003654685351648368
+  },
+  {
+    "epoch": 141,
+    "temperature": 0.5302013422818792,
+    "critic_loss": -3.7316996574401857,
+    "generator_loss": 2.738278865814209,
+    "gradient_penalty": 0.029474915564060213,
+    "composition_loss": 0.015124015882611275,
+    "hydrophobic_run_loss": 0.00044201969576533883
+  },
+  {
+    "epoch": 142,
+    "temperature": 0.5268456375838926,
+    "critic_loss": -3.6331968784332274,
+    "generator_loss": 2.8655228137969972,
+    "gradient_penalty": 0.03430134505033493,
+    "composition_loss": 0.015098859369754792,
+    "hydrophobic_run_loss": 0.0003026567559572868
+  },
+  {
+    "epoch": 143,
+    "temperature": 0.5234899328859061,
+    "critic_loss": -3.695278453826904,
+    "generator_loss": 2.9688232421875,
+    "gradient_penalty": 0.029472057521343232,
+    "composition_loss": 0.015064385533332825,
+    "hydrophobic_run_loss": 0.00037112584395799787
+  },
+  {
+    "epoch": 144,
+    "temperature": 0.5201342281879195,
+    "critic_loss": -3.660763692855835,
+    "generator_loss": 2.810033988952637,
+    "gradient_penalty": 0.029311954975128174,
+    "composition_loss": 0.014915496855974198,
+    "hydrophobic_run_loss": 0.0003714504564413801
+  },
+  {
+    "epoch": 145,
+    "temperature": 0.5167785234899329,
+    "critic_loss": -3.674660587310791,
+    "generator_loss": 3.0635047912597657,
+    "gradient_penalty": 0.04548177644610405,
+    "composition_loss": 0.015153267793357373,
+    "hydrophobic_run_loss": 0.00024674183514434845
+  },
+  {
+    "epoch": 146,
+    "temperature": 0.5134228187919463,
+    "critic_loss": -3.549493741989136,
+    "generator_loss": 3.0249821662902834,
+    "gradient_penalty": 0.03534256033599377,
+    "composition_loss": 0.01444295234978199,
+    "hydrophobic_run_loss": 0.0002653228322742507
+  },
+  {
+    "epoch": 147,
+    "temperature": 0.5100671140939597,
+    "critic_loss": -3.5512088775634765,
+    "generator_loss": 3.2892783164978026,
+    "gradient_penalty": 0.03282582946121693,
+    "composition_loss": 0.014795555733144283,
+    "hydrophobic_run_loss": 0.000305182536249049
+  },
+  {
+    "epoch": 148,
+    "temperature": 0.5067114093959731,
+    "critic_loss": -3.526203966140747,
+    "generator_loss": 3.1224456310272215,
+    "gradient_penalty": 0.03496010117232799,
+    "composition_loss": 0.014291133172810078,
+    "hydrophobic_run_loss": 0.00026470624434296044
+  },
+  {
+    "epoch": 149,
+    "temperature": 0.5033557046979866,
+    "critic_loss": -3.536796236038208,
+    "generator_loss": 3.21946268081665,
+    "gradient_penalty": 0.035365072265267375,
+    "composition_loss": 0.013713479228317737,
+    "hydrophobic_run_loss": 0.0002252521888294723
+  },
+  {
+    "epoch": 150,
+    "temperature": 0.5,
+    "critic_loss": -3.5363951206207274,
+    "generator_loss": 3.133371353149414,
+    "gradient_penalty": 0.0429371327161789,
+    "composition_loss": 0.013800476118922234,
+    "hydrophobic_run_loss": 0.00024979160662041977
+  }
+]

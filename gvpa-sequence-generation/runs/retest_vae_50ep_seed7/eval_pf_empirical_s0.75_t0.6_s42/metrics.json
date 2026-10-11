@@ -1,0 +1,22 @@
+{
+  "schema_version": "gvpa_eval_v0.1",
+  "run_id": "retest_vae_trainseed7",
+  "n_generated": 100,
+  "legal_char_rate": 1.0,
+  "length_in_train_range_rate": 0.99,
+  "mean_length": 71.24,
+  "train_length_min": 59,
+  "train_length_max": 91,
+  "exact_copy_train_rate": 0.06,
+  "exact_copy_any_real_rate": 0.06,
+  "mean_nearest_train_identity": 0.9005932358919445,
+  "max_nearest_train_identity": 1.0,
+  "novelty_threshold": 0.95,
+  "novel_sequence_rate": 0.35,
+  "unique_ratio": 0.95,
+  "mean_pairwise_diversity": 0.2323691245277914,
+  "max_duplicate_fraction": 0.03,
+  "aa_composition_l1_distance": 0.1552553928515018,
+  "family_profile_hit_rate": 0.82,
+  "family_profile_status": "ok"
+}

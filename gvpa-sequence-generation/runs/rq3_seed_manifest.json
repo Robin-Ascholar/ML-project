@@ -1,0 +1,16 @@
+{
+  "reference": "../data/processed/dataset_v1/all.fasta",
+  "reference_label": "data/processed/dataset_v1/all.fasta",
+  "sampling_seed_retest": true,
+  "runs": [
+    {"model": "LSTM / sample seed 42", "model_type": "lstm", "generated": "opt_lstm_pretrain_finetune_seed42/generated_t1.0_masked.fasta"},
+    {"model": "LSTM / sample seed 7", "model_type": "lstm", "generated": "opt_lstm_pretrain_finetune_seed42/generated_t1.0_s7.fasta"},
+    {"model": "LSTM / sample seed 123", "model_type": "lstm", "generated": "opt_lstm_pretrain_finetune_seed42/generated_t1.0_s123.fasta"},
+    {"model": "VAE / sample seed 42", "model_type": "vae", "generated": "formal_vae_50ep_seed42/generated_empirical_s0.75_t0.6_masked.fasta"},
+    {"model": "VAE / sample seed 7", "model_type": "vae", "generated": "formal_vae_50ep_seed42/generated_empirical_s0.75_t0.6_s7.fasta"},
+    {"model": "VAE / sample seed 123", "model_type": "vae", "generated": "formal_vae_50ep_seed42/generated_empirical_s0.75_t0.6_s123.fasta"},
+    {"model": "GAN / sample seed 42", "model_type": "gan", "generated": "opt_gan_composition_hydro_seed42/generated_t0.1_filtered.fasta"},
+    {"model": "GAN / sample seed 7", "model_type": "gan", "generated": "opt_gan_composition_hydro_seed42/generated_t0.1_s7.fasta"},
+    {"model": "GAN / sample seed 123", "model_type": "gan", "generated": "opt_gan_composition_hydro_seed42/generated_t0.1_s123.fasta"}
+  ]
+}

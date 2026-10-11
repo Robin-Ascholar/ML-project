@@ -1,0 +1,1066 @@
+sequence_id,source,source_type,length,projection_1,projection_2,nearest_train_embedding_distance,embedding_outlier
+ABG51546.1,Real cyanobacterial GvpA,real,75,1.3060867,-5.480239,0.07263255,False
+ABG51547.1,Real cyanobacterial GvpA,real,72,1.0786792,-5.5545774,0.06647443,False
+ABU55390.1,Real cyanobacterial GvpA,real,72,1.33391,-3.5611925,0.0,False
+AOC53260.1,Real cyanobacterial GvpA,real,60,-1.9256095,-4.8157687,0.0,False
+GAB4214070.1,Real cyanobacterial GvpA,real,72,2.5474997,-5.7135735,0.0673368,False
+GAB4386638.1,Real cyanobacterial GvpA,real,72,2.2800314,-3.953009,0.00069053395,False
+GEA25652.1,Real cyanobacterial GvpA,real,84,-2.4230847,-6.7292557,0.0,False
+WP_002735503.1,Real cyanobacterial GvpA,real,71,-1.0598264,-7.0393777,0.0,False
+WP_007357596.1,Real cyanobacterial GvpA,real,72,0.42284682,-1.986961,0.00048828125,False
+WP_008311322.1,Real cyanobacterial GvpA,real,72,1.5728046,-4.8975325,0.00048828125,False
+WP_009626980.1,Real cyanobacterial GvpA,real,72,1.3821617,-4.322652,0.00048828125,False
+WP_009768191.1,Real cyanobacterial GvpA,real,72,2.253124,-5.800902,0.0,False
+WP_010996411.1,Real cyanobacterial GvpA,real,71,-1.3688987,-6.4941354,0.0,False
+WP_011316976.1,Real cyanobacterial GvpA,real,71,-1.1896716,-6.52687,0.00077204045,False
+WP_011429717.1,Real cyanobacterial GvpA,real,72,1.9747026,-3.2038734,0.03515286,False
+WP_012408764.1,Real cyanobacterial GvpA,real,73,-1.6679025,-4.3840466,0.00034526698,False
+WP_015080752.1,Real cyanobacterial GvpA,real,71,-1.0715362,-6.2393193,0.0,False
+WP_015146561.1,Real cyanobacterial GvpA,real,72,0.4312422,-3.9340534,0.0,False
+WP_015164085.1,Real cyanobacterial GvpA,real,73,1.8702774,-3.2927163,0.0,False
+WP_015167036.1,Real cyanobacterial GvpA,real,72,1.6203469,-3.443724,0.0,False
+WP_015171018.1,Real cyanobacterial GvpA,real,72,1.5031253,-5.2379556,0.00034526698,False
+WP_015224598.1,Real cyanobacterial GvpA,real,72,10.326426,2.1737235,0.22117767,False
+WP_015229078.1,Real cyanobacterial GvpA,real,72,1.6069326,-1.4529887,0.13307388,False
+WP_016922591.1,Real cyanobacterial GvpA,real,71,0.53865415,-5.3706865,0.00069053395,False
+WP_017300094.1,Real cyanobacterial GvpA,real,72,1.9542477,-5.952102,0.00048828125,False
+WP_017322549.1,Real cyanobacterial GvpA,real,73,0.61372304,-6.10657,0.00034526698,False
+WP_017721725.1,Real cyanobacterial GvpA,real,72,1.9163841,-3.6732826,0.0,False
+WP_017721733.1,Real cyanobacterial GvpA,real,72,1.1589072,-3.371299,0.00034526698,False
+WP_017803923.1,Real cyanobacterial GvpA,real,71,-1.375165,-6.1373177,0.0,False
+WP_017803924.1,Real cyanobacterial GvpA,real,71,-1.5885489,-6.1933417,0.0,False
+WP_019501601.1,Real cyanobacterial GvpA,real,72,1.8528112,-3.1253953,0.00069053395,False
+WP_026789190.1,Real cyanobacterial GvpA,real,72,-0.2772784,-3.79815,0.00069053395,False
+WP_036004549.1,Real cyanobacterial GvpA,real,72,2.4267414,-5.50728,0.0,False
+WP_036534731.1,Real cyanobacterial GvpA,real,72,0.9280089,-3.6168137,0.0,False
+WP_038082255.1,Real cyanobacterial GvpA,real,72,1.8302698,-6.188055,0.0,False
+WP_039726782.1,Real cyanobacterial GvpA,real,72,2.180888,-4.4713483,0.00048828125,False
+WP_039752851.1,Real cyanobacterial GvpA,real,72,1.0756654,-2.1805468,0.0010918301,False
+WP_042152734.1,Real cyanobacterial GvpA,real,72,-0.27783442,-3.5752602,0.0,False
+WP_045871251.1,Real cyanobacterial GvpA,real,71,-1.0219682,-6.369214,0.0,False
+WP_054464971.1,Real cyanobacterial GvpA,real,72,-0.375029,-4.1260276,0.08143764,False
+WP_054470142.1,Real cyanobacterial GvpA,real,71,-0.98353493,-7.0267625,0.00034526698,False
+WP_057178839.1,Real cyanobacterial GvpA,real,71,-0.8645452,-6.3440166,0.00048828125,False
+WP_063873374.1,Real cyanobacterial GvpA,real,71,-1.5188607,-6.6706247,0.0,False
+WP_063873375.1,Real cyanobacterial GvpA,real,71,-1.3668958,-6.970322,0.0,False
+WP_068510916.1,Real cyanobacterial GvpA,real,72,2.4188838,-5.6081476,0.00048828125,False
+WP_069965561.1,Real cyanobacterial GvpA,real,75,1.5856738,-5.040986,0.0,False
+WP_072717742.1,Real cyanobacterial GvpA,real,72,-0.06940535,-3.692839,0.0,False
+WP_073608715.1,Real cyanobacterial GvpA,real,72,1.563967,-6.35137,0.0,False
+WP_073640805.1,Real cyanobacterial GvpA,real,73,-1.9866195,-4.566133,0.00048828125,False
+WP_075598971.1,Real cyanobacterial GvpA,real,72,1.4992198,-4.7440534,0.0,False
+WP_083620231.1,Real cyanobacterial GvpA,real,72,0.83070934,-3.5420074,0.0,False
+WP_084989880.1,Real cyanobacterial GvpA,real,71,-1.3730891,-6.8096986,0.00069053395,False
+WP_086756007.1,Real cyanobacterial GvpA,real,73,-2.0303555,-4.50703,0.0,False
+WP_088893383.1,Real cyanobacterial GvpA,real,72,1.7797998,-4.9843884,0.0,False
+WP_096607388.1,Real cyanobacterial GvpA,real,72,-1.9285207,-4.7349453,0.06506794,False
+WP_099068598.1,Real cyanobacterial GvpA,real,73,-2.0533059,-4.6784554,0.00059802,False
+WP_103666325.1,Real cyanobacterial GvpA,real,74,0.010825291,-3.2296,0.00048828125,False
+WP_106257461.1,Real cyanobacterial GvpA,real,72,0.87134117,-5.7388506,0.0,False
+WP_107805940.1,Real cyanobacterial GvpA,real,71,-1.5544039,-6.0343275,0.00048828125,False
+WP_138500607.1,Real cyanobacterial GvpA,real,73,-2.0089962,-4.6073675,0.0,False
+WP_153228363.1,Real cyanobacterial GvpA,real,61,-0.2539266,-1.6691364,0.00069053395,False
+WP_162425313.1,Real cyanobacterial GvpA,real,72,1.4914678,-4.0241013,0.0008457279,False
+WP_163931998.1,Real cyanobacterial GvpA,real,73,-1.7799306,-4.4322743,0.0,False
+WP_168569945.1,Real cyanobacterial GvpA,real,72,1.7919827,-2.4091084,0.04500274,False
+WP_169262979.1,Real cyanobacterial GvpA,real,72,1.030448,-2.313354,0.0,False
+WP_169617606.1,Real cyanobacterial GvpA,real,72,1.7282293,-2.87871,0.0,False
+WP_171572203.1,Real cyanobacterial GvpA,real,72,-0.07913574,-4.3806257,0.0,False
+WP_190377542.1,Real cyanobacterial GvpA,real,72,2.3674793,-5.6582665,0.00034526698,False
+WP_190387978.1,Real cyanobacterial GvpA,real,71,-1.0347008,-6.287449,0.00034526698,False
+WP_190432663.1,Real cyanobacterial GvpA,real,72,0.6673146,-5.3519177,0.00059802,False
+WP_190463961.1,Real cyanobacterial GvpA,real,72,-1.1201279,-7.135176,0.0,False
+WP_190464766.1,Real cyanobacterial GvpA,real,72,2.2867026,-4.0857644,0.0,False
+WP_190483017.1,Real cyanobacterial GvpA,real,72,1.784894,-2.6170511,0.00048828125,False
+WP_190503885.1,Real cyanobacterial GvpA,real,72,2.2549057,-4.273097,0.0,False
+WP_190553740.1,Real cyanobacterial GvpA,real,72,0.86274797,-6.2117114,0.00048828125,False
+WP_190575773.1,Real cyanobacterial GvpA,real,72,2.038546,-4.269395,0.0,False
+WP_190627385.1,Real cyanobacterial GvpA,real,72,1.3074719,-6.3920913,0.0,False
+WP_190643620.1,Real cyanobacterial GvpA,real,72,2.1334894,-4.3188114,0.0,False
+WP_190774558.1,Real cyanobacterial GvpA,real,72,2.226001,-4.177494,0.0,False
+WP_190775818.1,Real cyanobacterial GvpA,real,72,1.9639637,-3.0735998,0.0,False
+WP_190804824.1,Real cyanobacterial GvpA,real,72,2.5271442,-5.688253,0.065363154,False
+WP_190828481.1,Real cyanobacterial GvpA,real,72,0.56952584,-3.0983307,0.0,False
+WP_193875962.1,Real cyanobacterial GvpA,real,72,2.0367508,-3.928676,0.00069053395,False
+WP_193897365.1,Real cyanobacterial GvpA,real,71,-1.4422479,-6.2459126,0.0008457279,False
+WP_193955741.1,Real cyanobacterial GvpA,real,71,-1.2872393,-7.0084033,0.0,False
+WP_193959329.1,Real cyanobacterial GvpA,real,71,-1.1703408,-7.0981083,0.00048828125,False
+WP_193963479.1,Real cyanobacterial GvpA,real,72,1.5162077,-6.4080386,0.0,False
+WP_193980327.1,Real cyanobacterial GvpA,real,71,-1.32333,-7.025471,0.00034526698,False
+WP_194056178.1,Real cyanobacterial GvpA,real,71,0.47289768,-4.6424103,0.00059802,False
+WP_200989004.1,Real cyanobacterial GvpA,real,71,-0.22618254,-4.711214,0.00034526698,False
+WP_201320714.1,Real cyanobacterial GvpA,real,75,0.45185852,-2.7465615,0.00034526698,False
+WP_202218625.1,Real cyanobacterial GvpA,real,90,1.3871177,-1.1176898,0.15411134,False
+WP_204152466.1,Real cyanobacterial GvpA,real,71,0.101589195,-4.6897473,0.0,False
+WP_224341338.1,Real cyanobacterial GvpA,real,72,1.3228894,-5.779648,0.00059802,False
+WP_235277851.1,Real cyanobacterial GvpA,real,72,2.539659,-5.6840463,0.06583201,False
+WP_254567340.1,Real cyanobacterial GvpA,real,72,0.20715044,-4.1231456,0.00048828125,False
+WP_261225443.1,Real cyanobacterial GvpA,real,75,0.93572676,-3.420429,0.0,False
+WP_265902100.1,Real cyanobacterial GvpA,real,72,2.255893,-5.808565,0.0,False
+WP_268609013.1,Real cyanobacterial GvpA,real,72,2.2115512,-5.927699,0.0,False
+WP_271933955.1,Real cyanobacterial GvpA,real,71,-1.6590496,-6.468032,0.00034526698,False
+WP_271944488.1,Real cyanobacterial GvpA,real,72,1.7895612,-2.5126328,0.0,False
+WP_272058300.1,Real cyanobacterial GvpA,real,71,-1.524969,-6.782887,0.0009134906,False
+WP_272074942.1,Real cyanobacterial GvpA,real,71,-1.4028289,-7.0105624,0.0,False
+WP_272092571.1,Real cyanobacterial GvpA,real,71,-1.3009106,-6.069261,0.00077204045,False
+WP_280652748.1,Real cyanobacterial GvpA,real,71,-1.0688963,-7.0139422,0.0,False
+WP_280793164.1,Real cyanobacterial GvpA,real,71,-1.3711545,-6.9703474,0.0,False
+WP_283753117.1,Real cyanobacterial GvpA,real,72,1.4163601,-2.4759712,0.00059802,False
+WP_283757384.1,Real cyanobacterial GvpA,real,72,0.980867,-3.5309997,0.00069053395,False
+WP_287130436.1,Real cyanobacterial GvpA,real,72,0.9281253,-2.9798312,0.00048828125,False
+WP_287280996.1,Real cyanobacterial GvpA,real,72,2.2598944,-5.7529163,0.0,False
+WP_287627019.1,Real cyanobacterial GvpA,real,71,-0.91636384,-6.496767,0.00048828125,False
+WP_287674806.1,Real cyanobacterial GvpA,real,71,-0.9984155,-6.6405435,0.0,False
+WP_292781623.1,Real cyanobacterial GvpA,real,73,-1.0884892,-4.067414,0.0,False
+WP_293061633.1,Real cyanobacterial GvpA,real,90,1.3725935,-1.1826307,0.10823776,False
+WP_293087767.1,Real cyanobacterial GvpA,real,90,1.249786,-1.1392064,0.08270207,False
+WP_293100807.1,Real cyanobacterial GvpA,real,89,1.4681171,-1.2781895,0.09743566,False
+WP_293124005.1,Real cyanobacterial GvpA,real,72,1.4834905,-1.9670146,0.00034526698,False
+WP_293126616.1,Real cyanobacterial GvpA,real,90,1.3817652,-1.2012961,0.10693025,False
+WP_293160100.1,Real cyanobacterial GvpA,real,90,1.3442428,-1.0847372,0.11389049,False
+WP_298916699.1,Real cyanobacterial GvpA,real,75,0.20591034,-1.8850142,0.10739746,False
+WP_322681236.1,Real cyanobacterial GvpA,real,72,0.6803252,-4.5700545,0.00069053395,False
+WP_322732512.1,Real cyanobacterial GvpA,real,72,0.899739,-4.134582,0.0,False
+WP_323244924.1,Real cyanobacterial GvpA,real,70,0.024640525,-4.043536,0.00048828125,False
+WP_324632560.1,Real cyanobacterial GvpA,real,72,1.6588066,-2.1715763,0.049761586,False
+WP_324704072.1,Real cyanobacterial GvpA,real,72,1.4801608,-3.0632405,0.0008457279,False
+WP_330483830.1,Real cyanobacterial GvpA,real,72,1.2382382,-4.458148,0.0,False
+WP_330936551.1,Real cyanobacterial GvpA,real,59,-0.36625302,-1.7162827,0.0009765625,False
+WP_334710560.1,Real cyanobacterial GvpA,real,73,-1.1129968,-4.1231475,0.00048828125,False
+WP_334779866.1,Real cyanobacterial GvpA,real,71,-1.3873156,-6.075495,0.0,False
+WP_334789054.1,Real cyanobacterial GvpA,real,74,-0.65043074,-6.615577,0.00069053395,False
+WP_335049349.1,Real cyanobacterial GvpA,real,73,-1.182787,-4.1826043,0.0009134906,False
+WP_335059862.1,Real cyanobacterial GvpA,real,71,-1.5037745,-5.908139,0.0,False
+WP_335072082.1,Real cyanobacterial GvpA,real,78,0.151187,-1.9998412,0.0968577,False
+WP_377962562.1,Real cyanobacterial GvpA,real,72,1.4901538,-6.4104295,0.00059802,False
+WP_392535573.1,Real cyanobacterial GvpA,real,71,-1.2414726,-6.653454,0.00048828125,False
+WP_408963110.1,Real cyanobacterial GvpA,real,72,1.0178487,-1.3655298,0.0,False
+WP_413173344.1,Real cyanobacterial GvpA,real,76,-0.786984,-3.8300424,0.00059802,False
+WP_413173345.1,Real cyanobacterial GvpA,real,75,-0.66703504,-3.5284276,0.0,False
+WP_413173346.1,Real cyanobacterial GvpA,real,73,0.19173452,-1.873318,0.00059802,False
+WP_413173347.1,Real cyanobacterial GvpA,real,74,0.21245612,-1.9680643,0.0,False
+WP_413173348.1,Real cyanobacterial GvpA,real,75,-0.6384563,-3.6711957,0.0,False
+WP_414362100.1,Real cyanobacterial GvpA,real,75,2.4038272,-5.836393,0.062609576,False
+WP_414395174.1,Real cyanobacterial GvpA,real,75,2.3848114,-5.8596544,0.06339294,False
+WP_414404485.1,Real cyanobacterial GvpA,real,75,2.4742346,-5.952118,0.052689143,False
+WP_425311603.1,Real cyanobacterial GvpA,real,80,-2.4304695,-6.7790637,0.0,False
+WP_425589715.1,Real cyanobacterial GvpA,real,80,-2.4031746,-6.756562,0.0,False
+WP_426542028.1,Real cyanobacterial GvpA,real,89,1.4214094,-1.2847095,0.0886523,False
+WP_426585015.1,Real cyanobacterial GvpA,real,91,1.4528887,-1.326444,0.09134188,False
+WP_430686742.1,Real cyanobacterial GvpA,real,72,2.0965774,-4.0305896,0.0,False
+WP_431662249.1,Real cyanobacterial GvpA,real,72,1.261387,-6.0612016,0.0,False
+WP_439345357.1,Real cyanobacterial GvpA,real,72,2.3455713,-3.7767146,0.0,False
+WP_441007279.1,Real cyanobacterial GvpA,real,80,-2.387515,-6.737869,0.0,False
+WP_446859740.1,Real cyanobacterial GvpA,real,72,-0.09791406,-4.200191,0.00069053395,False
+WP_458646425.1,Real cyanobacterial GvpA,real,91,-0.89486116,-3.6397107,0.0,False
+WP_461927368.1,Real cyanobacterial GvpA,real,74,-0.42432624,-6.807925,0.0,False
+WP_461930966.1,Real cyanobacterial GvpA,real,71,-1.3765774,-6.0014715,0.00048828125,False
+WP_472408654.1,Real cyanobacterial GvpA,real,80,-2.4393494,-6.785428,0.0,False
+WP_479716902.1,Real cyanobacterial GvpA,real,72,1.7461511,-6.223628,0.00069053395,False
+WP_488204244.1,Real cyanobacterial GvpA,real,72,2.3168714,-4.3063197,0.0,False
+WP_488739600.1,Real cyanobacterial GvpA,real,72,0.99169546,-2.8969724,0.00069053395,False
+WP_496081776.1,Real cyanobacterial GvpA,real,72,1.3837872,-5.6647935,0.0009765625,False
+WP_502249006.1,Real cyanobacterial GvpA,real,72,0.7651088,-3.1079507,0.04616647,False
+WP_502881973.1,Real cyanobacterial GvpA,real,80,-2.38987,-6.7446246,0.0,False
+WP_505716830.1,Real cyanobacterial GvpA,real,72,1.7078476,-6.083853,0.00048828125,False
+WP_506081038.1,Real cyanobacterial GvpA,real,72,1.9050899,-5.6503563,0.0,False
+lstm_temp1_seed42_0000,LSTM / sample seed 42,lstm,73,1.5227338,-3.22022,0.05449862,False
+lstm_temp1_seed42_0001,LSTM / sample seed 42,lstm,70,0.07088304,-4.9372435,0.061640553,False
+lstm_temp1_seed42_0002,LSTM / sample seed 42,lstm,77,2.1571586,-3.5458946,0.115292296,False
+lstm_temp1_seed42_0003,LSTM / sample seed 42,lstm,72,-1.5573927,-6.038512,0.05085983,False
+lstm_temp1_seed42_0004,LSTM / sample seed 42,lstm,73,0.30839068,-6.735301,0.04799832,False
+lstm_temp1_seed42_0005,LSTM / sample seed 42,lstm,73,2.1081889,-5.73289,0.054246485,False
+lstm_temp1_seed42_0006,LSTM / sample seed 42,lstm,71,-0.6931738,-6.4048586,0.028398078,False
+lstm_temp1_seed42_0007,LSTM / sample seed 42,lstm,72,0.9987222,-6.0330877,0.05209185,False
+lstm_temp1_seed42_0008,LSTM / sample seed 42,lstm,71,1.2493252,-4.4584904,0.06359102,False
+lstm_temp1_seed42_0009,LSTM / sample seed 42,lstm,73,0.42196742,-4.628786,0.04725619,False
+lstm_temp1_seed42_0010,LSTM / sample seed 42,lstm,72,-0.69145834,-6.922317,0.05435296,False
+lstm_temp1_seed42_0011,LSTM / sample seed 42,lstm,72,1.0742701,-4.5001597,0.07008835,False
+lstm_temp1_seed42_0012,LSTM / sample seed 42,lstm,71,0.6942292,-5.809674,0.045322128,False
+lstm_temp1_seed42_0013,LSTM / sample seed 42,lstm,71,1.750442,-4.456154,0.037825253,False
+lstm_temp1_seed42_0014,LSTM / sample seed 42,lstm,72,1.5746197,-5.2231956,0.011850255,False
+lstm_temp1_seed42_0015,LSTM / sample seed 42,lstm,74,-2.0537162,-4.3917265,0.05778144,False
+lstm_temp1_seed42_0016,LSTM / sample seed 42,lstm,74,-1.646794,-4.4356747,0.10468424,False
+lstm_temp1_seed42_0017,LSTM / sample seed 42,lstm,91,-0.43965128,-2.668065,0.20005742,True
+lstm_temp1_seed42_0018,LSTM / sample seed 42,lstm,71,-0.022163333,-3.7587047,0.06203094,False
+lstm_temp1_seed42_0019,LSTM / sample seed 42,lstm,71,0.20107159,-5.376909,0.04800701,False
+lstm_temp1_seed42_0020,LSTM / sample seed 42,lstm,61,-0.5962268,-1.7702336,0.10294342,False
+lstm_temp1_seed42_0021,LSTM / sample seed 42,lstm,71,-2.0740929,-5.01674,0.111347936,False
+lstm_temp1_seed42_0022,LSTM / sample seed 42,lstm,72,2.2483084,-3.7831678,0.049777154,False
+lstm_temp1_seed42_0023,LSTM / sample seed 42,lstm,74,-0.88009274,-7.032493,0.050767165,False
+lstm_temp1_seed42_0024,LSTM / sample seed 42,lstm,69,0.23078474,-5.382244,0.10619752,False
+lstm_temp1_seed42_0025,LSTM / sample seed 42,lstm,71,-0.5819135,-4.117741,0.06978921,False
+lstm_temp1_seed42_0026,LSTM / sample seed 42,lstm,71,-0.23598002,-4.2438006,0.0309722,False
+lstm_temp1_seed42_0027,LSTM / sample seed 42,lstm,79,0.62457883,-0.7714422,0.18008974,True
+lstm_temp1_seed42_0028,LSTM / sample seed 42,lstm,71,-0.8904254,-5.673412,0.042358223,False
+lstm_temp1_seed42_0029,LSTM / sample seed 42,lstm,70,0.64319134,-6.6547437,0.13153584,False
+lstm_temp1_seed42_0030,LSTM / sample seed 42,lstm,64,-2.1806822,-4.957864,0.14262995,False
+lstm_temp1_seed42_0031,LSTM / sample seed 42,lstm,71,1.2820395,-5.037808,0.052794244,False
+lstm_temp1_seed42_0032,LSTM / sample seed 42,lstm,69,1.3917766,-1.334469,0.11029429,False
+lstm_temp1_seed42_0033,LSTM / sample seed 42,lstm,73,1.5050426,-5.0068183,0.0369129,False
+lstm_temp1_seed42_0034,LSTM / sample seed 42,lstm,72,1.1215937,-2.8808806,0.05272759,False
+lstm_temp1_seed42_0035,LSTM / sample seed 42,lstm,82,-1.2644427,-5.867633,0.113054246,False
+lstm_temp1_seed42_0036,LSTM / sample seed 42,lstm,81,-0.93822116,-4.1121764,0.119514756,False
+lstm_temp1_seed42_0037,LSTM / sample seed 42,lstm,74,-0.3419766,-6.937259,0.097533494,False
+lstm_temp1_seed42_0038,LSTM / sample seed 42,lstm,82,-0.984047,-4.8471656,0.15455548,True
+lstm_temp1_seed42_0039,LSTM / sample seed 42,lstm,76,0.6860528,-1.3747286,0.107350275,False
+lstm_temp1_seed42_0040,LSTM / sample seed 42,lstm,84,-1.3483862,-3.6565053,0.14119267,False
+lstm_temp1_seed42_0041,LSTM / sample seed 42,lstm,72,1.2960733,-5.8311434,0.053362463,False
+lstm_temp1_seed42_0042,LSTM / sample seed 42,lstm,59,1.0885761,-1.6891377,0.37333885,True
+lstm_temp1_seed42_0043,LSTM / sample seed 42,lstm,73,0.7814916,-3.0191648,0.0541376,False
+lstm_temp1_seed42_0044,LSTM / sample seed 42,lstm,69,0.21675391,-4.808976,0.11593467,False
+lstm_temp1_seed42_0045,LSTM / sample seed 42,lstm,72,-1.9790876,-4.6324234,0.022959605,False
+lstm_temp1_seed42_0046,LSTM / sample seed 42,lstm,73,1.4578272,-5.1810617,0.031219468,False
+lstm_temp1_seed42_0047,LSTM / sample seed 42,lstm,73,1.0361938,-1.8650291,0.17323528,True
+lstm_temp1_seed42_0048,LSTM / sample seed 42,lstm,72,0.43415636,-5.144816,0.06831227,False
+lstm_temp1_seed42_0049,LSTM / sample seed 42,lstm,68,-0.7011964,-6.810625,0.090016074,False
+lstm_temp1_seed42_0050,LSTM / sample seed 42,lstm,71,1.2604802,-3.2006838,0.08960127,False
+lstm_temp1_seed42_0051,LSTM / sample seed 42,lstm,71,1.4721282,-3.4236975,0.047468875,False
+lstm_temp1_seed42_0052,LSTM / sample seed 42,lstm,70,-1.4468681,-6.3885984,0.047511548,False
+lstm_temp1_seed42_0053,LSTM / sample seed 42,lstm,71,-0.99113286,-1.9574965,0.09440258,False
+lstm_temp1_seed42_0054,LSTM / sample seed 42,lstm,76,0.2597069,-3.3882155,0.09286655,False
+lstm_temp1_seed42_0055,LSTM / sample seed 42,lstm,70,1.5128886,-3.3666577,0.048147105,False
+lstm_temp1_seed42_0056,LSTM / sample seed 42,lstm,84,-1.7751578,-4.113009,0.13181469,False
+lstm_temp1_seed42_0057,LSTM / sample seed 42,lstm,72,-0.8909709,-6.4723315,0.038469,False
+lstm_temp1_seed42_0058,LSTM / sample seed 42,lstm,74,-1.1787636,-3.3551362,0.18411376,True
+lstm_temp1_seed42_0059,LSTM / sample seed 42,lstm,71,1.6209321,-3.077908,0.04682411,False
+lstm_temp1_seed42_0060,LSTM / sample seed 42,lstm,72,0.95374846,-3.6140642,0.030133324,False
+lstm_temp1_seed42_0061,LSTM / sample seed 42,lstm,71,-1.937689,-4.497218,0.077449165,False
+lstm_temp1_seed42_0062,LSTM / sample seed 42,lstm,69,0.6054824,-1.8311294,0.08497988,False
+lstm_temp1_seed42_0063,LSTM / sample seed 42,lstm,75,-1.0759631,-5.8581133,0.09618831,False
+lstm_temp1_seed42_0064,LSTM / sample seed 42,lstm,72,0.68509865,-6.589754,0.073909715,False
+lstm_temp1_seed42_0065,LSTM / sample seed 42,lstm,74,1.0808998,-1.6261394,0.08664344,False
+lstm_temp1_seed42_0066,LSTM / sample seed 42,lstm,73,0.0067127887,-3.698168,0.06605707,False
+lstm_temp1_seed42_0067,LSTM / sample seed 42,lstm,75,-0.39321578,-3.6725538,0.097873904,False
+lstm_temp1_seed42_0068,LSTM / sample seed 42,lstm,74,1.9756957,-2.6210237,0.06248951,False
+lstm_temp1_seed42_0069,LSTM / sample seed 42,lstm,71,-0.9801156,-6.173432,0.012216793,False
+lstm_temp1_seed42_0070,LSTM / sample seed 42,lstm,72,0.47670013,-5.7748375,0.04919782,False
+lstm_temp1_seed42_0071,LSTM / sample seed 42,lstm,73,-2.136645,-4.877673,0.09649888,False
+lstm_temp1_seed42_0072,LSTM / sample seed 42,lstm,72,-0.96277255,-6.3657827,0.053604297,False
+lstm_temp1_seed42_0073,LSTM / sample seed 42,lstm,73,-0.35196435,-4.094268,0.052691408,False
+lstm_temp1_seed42_0074,LSTM / sample seed 42,lstm,73,1.3943275,-4.907021,0.038438,False
+lstm_temp1_seed42_0075,LSTM / sample seed 42,lstm,71,2.2247968,-4.4474053,0.064440176,False
+lstm_temp1_seed42_0076,LSTM / sample seed 42,lstm,72,0.18908063,-6.8210044,0.05902854,False
+lstm_temp1_seed42_0077,LSTM / sample seed 42,lstm,72,1.1635499,-5.87984,0.07015465,False
+lstm_temp1_seed42_0078,LSTM / sample seed 42,lstm,72,0.11919218,-3.8903332,0.03428242,False
+lstm_temp1_seed42_0079,LSTM / sample seed 42,lstm,73,0.7662263,-1.0136037,0.123809874,False
+lstm_temp1_seed42_0080,LSTM / sample seed 42,lstm,73,1.6332335,-2.772632,0.0738952,False
+lstm_temp1_seed42_0081,LSTM / sample seed 42,lstm,70,-0.026973918,-4.2106667,0.073223464,False
+lstm_temp1_seed42_0082,LSTM / sample seed 42,lstm,71,1.6731176,-4.8756847,0.031070191,False
+lstm_temp1_seed42_0083,LSTM / sample seed 42,lstm,74,0.35223305,-1.7212054,0.06762651,False
+lstm_temp1_seed42_0084,LSTM / sample seed 42,lstm,73,1.4498473,-5.7059097,0.0541398,False
+lstm_temp1_seed42_0085,LSTM / sample seed 42,lstm,72,2.385089,-3.8985283,0.05728207,False
+lstm_temp1_seed42_0086,LSTM / sample seed 42,lstm,73,-0.28176296,-6.4714656,0.073348716,False
+lstm_temp1_seed42_0087,LSTM / sample seed 42,lstm,84,-1.607183,-4.0184417,0.12668853,False
+lstm_temp1_seed42_0088,LSTM / sample seed 42,lstm,76,0.30967563,-6.2741356,0.075288,False
+lstm_temp1_seed42_0089,LSTM / sample seed 42,lstm,71,0.7579764,-5.518334,0.0619059,False
+lstm_temp1_seed42_0090,LSTM / sample seed 42,lstm,71,-0.3114559,-4.804979,0.052755848,False
+lstm_temp1_seed42_0091,LSTM / sample seed 42,lstm,73,0.85124177,-3.2878861,0.08192437,False
+lstm_temp1_seed42_0092,LSTM / sample seed 42,lstm,71,0.60056716,-4.8869395,0.10399359,False
+lstm_temp1_seed42_0093,LSTM / sample seed 42,lstm,79,-1.7103888,-4.294626,0.06754538,False
+lstm_temp1_seed42_0094,LSTM / sample seed 42,lstm,72,-0.6321483,-6.6614585,0.04411723,False
+lstm_temp1_seed42_0095,LSTM / sample seed 42,lstm,72,2.1723912,-5.8033376,0.062955156,False
+lstm_temp1_seed42_0096,LSTM / sample seed 42,lstm,72,-0.58606833,-4.4862094,0.06651746,False
+lstm_temp1_seed42_0097,LSTM / sample seed 42,lstm,71,1.384336,-3.200502,0.06510091,False
+lstm_temp1_seed42_0098,LSTM / sample seed 42,lstm,71,1.2340198,-2.572369,0.05018263,False
+lstm_temp1_seed42_0099,LSTM / sample seed 42,lstm,75,2.142192,-3.9720755,0.06071891,False
+lstm_temp1_seed7_0000,LSTM / sample seed 7,lstm,72,-0.5098886,-3.9161887,0.046612322,False
+lstm_temp1_seed7_0001,LSTM / sample seed 7,lstm,72,0.72962046,-5.2799387,0.02673089,False
+lstm_temp1_seed7_0002,LSTM / sample seed 7,lstm,71,-0.77951026,-3.775081,0.06559346,False
+lstm_temp1_seed7_0003,LSTM / sample seed 7,lstm,71,-1.2757344,-6.0177774,0.03220991,False
+lstm_temp1_seed7_0004,LSTM / sample seed 7,lstm,74,1.6830508,-6.2859473,0.057588216,False
+lstm_temp1_seed7_0005,LSTM / sample seed 7,lstm,72,-1.9444486,-4.834735,0.084608026,False
+lstm_temp1_seed7_0006,LSTM / sample seed 7,lstm,78,0.45170686,-2.7495983,0.098768085,False
+lstm_temp1_seed7_0007,LSTM / sample seed 7,lstm,73,-0.9487628,-5.7074656,0.06897307,False
+lstm_temp1_seed7_0008,LSTM / sample seed 7,lstm,71,-1.0363021,-5.85077,0.038182843,False
+lstm_temp1_seed7_0009,LSTM / sample seed 7,lstm,72,1.0126806,-2.109012,0.07563475,False
+lstm_temp1_seed7_0010,LSTM / sample seed 7,lstm,71,-0.62544703,-4.9523807,0.04699691,False
+lstm_temp1_seed7_0011,LSTM / sample seed 7,lstm,72,0.93717587,-2.3009071,0.09046983,False
+lstm_temp1_seed7_0012,LSTM / sample seed 7,lstm,71,-0.8312813,-6.5037203,0.06793605,False
+lstm_temp1_seed7_0013,LSTM / sample seed 7,lstm,71,-0.15536581,-5.995781,0.11843664,False
+lstm_temp1_seed7_0014,LSTM / sample seed 7,lstm,70,-0.23052911,-5.063945,0.05914656,False
+lstm_temp1_seed7_0015,LSTM / sample seed 7,lstm,71,0.26539087,-3.331858,0.038840618,False
+lstm_temp1_seed7_0016,LSTM / sample seed 7,lstm,70,-2.2441165,-5.029237,0.09226319,False
+lstm_temp1_seed7_0017,LSTM / sample seed 7,lstm,90,1.3037143,-1.3957722,0.17358553,True
+lstm_temp1_seed7_0018,LSTM / sample seed 7,lstm,72,-0.40681574,-6.9178996,0.046109628,False
+lstm_temp1_seed7_0019,LSTM / sample seed 7,lstm,73,0.9486396,-5.4984274,0.050702546,False
+lstm_temp1_seed7_0020,LSTM / sample seed 7,lstm,72,0.82009226,-5.072249,0.05095116,False
+lstm_temp1_seed7_0021,LSTM / sample seed 7,lstm,72,-0.6316797,-6.267614,0.04768061,False
+lstm_temp1_seed7_0022,LSTM / sample seed 7,lstm,70,1.2873048,-5.9985123,0.063715555,False
+lstm_temp1_seed7_0023,LSTM / sample seed 7,lstm,69,-0.04508624,-4.4440155,0.047902606,False
+lstm_temp1_seed7_0024,LSTM / sample seed 7,lstm,74,-0.06858474,-3.599909,0.04238776,False
+lstm_temp1_seed7_0025,LSTM / sample seed 7,lstm,91,-1.5399235,-3.7243009,0.16005647,True
+lstm_temp1_seed7_0026,LSTM / sample seed 7,lstm,70,2.0498521,-4.1798787,0.06218641,False
+lstm_temp1_seed7_0027,LSTM / sample seed 7,lstm,73,0.5757257,-5.225036,0.055053577,False
+lstm_temp1_seed7_0028,LSTM / sample seed 7,lstm,89,-1.539842,-3.9227526,0.1602738,True
+lstm_temp1_seed7_0029,LSTM / sample seed 7,lstm,70,-0.7629684,-3.9486964,0.077166975,False
+lstm_temp1_seed7_0030,LSTM / sample seed 7,lstm,69,0.59581095,-1.6130874,0.11599429,False
+lstm_temp1_seed7_0031,LSTM / sample seed 7,lstm,71,0.86742055,-5.024984,0.054985326,False
+lstm_temp1_seed7_0032,LSTM / sample seed 7,lstm,72,0.19113816,-4.688068,0.019497652,False
+lstm_temp1_seed7_0033,LSTM / sample seed 7,lstm,72,0.50164944,-3.4777908,0.06462122,False
+lstm_temp1_seed7_0034,LSTM / sample seed 7,lstm,72,-0.6264347,-7.1820645,0.054095745,False
+lstm_temp1_seed7_0035,LSTM / sample seed 7,lstm,72,1.5672141,-5.274407,0.011850255,False
+lstm_temp1_seed7_0036,LSTM / sample seed 7,lstm,72,0.9114428,-6.4027257,0.039018225,False
+lstm_temp1_seed7_0037,LSTM / sample seed 7,lstm,74,2.0040233,-4.609693,0.053232733,False
+lstm_temp1_seed7_0038,LSTM / sample seed 7,lstm,73,-0.14783819,-6.1523876,0.07847441,False
+lstm_temp1_seed7_0039,LSTM / sample seed 7,lstm,71,-0.23768629,-4.5048084,0.04034899,False
+lstm_temp1_seed7_0040,LSTM / sample seed 7,lstm,72,0.6479519,-2.9344323,0.07472698,False
+lstm_temp1_seed7_0041,LSTM / sample seed 7,lstm,72,0.90619653,-6.5466704,0.047978446,False
+lstm_temp1_seed7_0042,LSTM / sample seed 7,lstm,71,1.3129491,-4.6541305,0.072430395,False
+lstm_temp1_seed7_0043,LSTM / sample seed 7,lstm,73,0.9177619,-6.509224,0.06524724,False
+lstm_temp1_seed7_0044,LSTM / sample seed 7,lstm,71,1.4743648,-1.7092565,0.0951234,False
+lstm_temp1_seed7_0045,LSTM / sample seed 7,lstm,87,-1.4580703,-3.5694356,0.15823628,True
+lstm_temp1_seed7_0046,LSTM / sample seed 7,lstm,72,-0.3940909,-7.0676217,0.055972666,False
+lstm_temp1_seed7_0047,LSTM / sample seed 7,lstm,73,0.8441197,-6.5247493,0.046376437,False
+lstm_temp1_seed7_0048,LSTM / sample seed 7,lstm,71,-0.27581316,-3.7492645,0.04405098,False
+lstm_temp1_seed7_0049,LSTM / sample seed 7,lstm,74,1.050634,-3.1777163,0.06556528,False
+lstm_temp1_seed7_0050,LSTM / sample seed 7,lstm,71,2.1353068,-4.250444,0.024158822,False
+lstm_temp1_seed7_0051,LSTM / sample seed 7,lstm,71,-2.1499708,-4.932181,0.076828696,False
+lstm_temp1_seed7_0052,LSTM / sample seed 7,lstm,72,-0.2553009,-5.876447,0.047203187,False
+lstm_temp1_seed7_0053,LSTM / sample seed 7,lstm,73,2.0911214,-4.454729,0.06718793,False
+lstm_temp1_seed7_0054,LSTM / sample seed 7,lstm,70,0.3625998,-2.1883266,0.06000895,False
+lstm_temp1_seed7_0055,LSTM / sample seed 7,lstm,70,1.3211831,-1.845372,0.08284969,False
+lstm_temp1_seed7_0056,LSTM / sample seed 7,lstm,70,-0.68792546,-5.5757265,0.06522988,False
+lstm_temp1_seed7_0057,LSTM / sample seed 7,lstm,71,0.4612407,-5.6440206,0.06754979,False
+lstm_temp1_seed7_0058,LSTM / sample seed 7,lstm,88,-1.4277356,-3.600677,0.13660929,False
+lstm_temp1_seed7_0059,LSTM / sample seed 7,lstm,73,0.10331719,-5.916747,0.057797942,False
+lstm_temp1_seed7_0060,LSTM / sample seed 7,lstm,73,0.7599834,-1.1686057,0.100873515,False
+lstm_temp1_seed7_0061,LSTM / sample seed 7,lstm,71,1.0409713,-5.1305428,0.047902606,False
+lstm_temp1_seed7_0062,LSTM / sample seed 7,lstm,73,-1.3142347,-5.7587085,0.044183385,False
+lstm_temp1_seed7_0063,LSTM / sample seed 7,lstm,64,10.552349,2.4163446,0.21911074,True
+lstm_temp1_seed7_0064,LSTM / sample seed 7,lstm,72,1.3469311,-2.8889332,0.04992422,False
+lstm_temp1_seed7_0065,LSTM / sample seed 7,lstm,71,1.4582237,-2.1853454,0.057351746,False
+lstm_temp1_seed7_0066,LSTM / sample seed 7,lstm,70,0.5054923,-1.5738333,0.09441648,False
+lstm_temp1_seed7_0067,LSTM / sample seed 7,lstm,75,10.521009,2.4745839,0.27721176,True
+lstm_temp1_seed7_0068,LSTM / sample seed 7,lstm,71,1.0516046,-5.8720837,0.060557704,False
+lstm_temp1_seed7_0069,LSTM / sample seed 7,lstm,75,0.4274681,-2.913149,0.092174,False
+lstm_temp1_seed7_0070,LSTM / sample seed 7,lstm,72,0.33833715,-3.3519568,0.067837715,False
+lstm_temp1_seed7_0071,LSTM / sample seed 7,lstm,73,8.157727,0.21398064,0.20444062,True
+lstm_temp1_seed7_0072,LSTM / sample seed 7,lstm,72,1.0789603,-1.3018457,0.09538371,False
+lstm_temp1_seed7_0073,LSTM / sample seed 7,lstm,72,0.79062206,-1.1096257,0.12931989,False
+lstm_temp1_seed7_0074,LSTM / sample seed 7,lstm,63,0.59039587,-2.5462148,0.095846884,False
+lstm_temp1_seed7_0075,LSTM / sample seed 7,lstm,70,-0.49678853,-5.968898,0.098980285,False
+lstm_temp1_seed7_0076,LSTM / sample seed 7,lstm,71,0.54589665,-2.8400397,0.049455203,False
+lstm_temp1_seed7_0077,LSTM / sample seed 7,lstm,80,-0.3119616,-2.5836136,0.1272748,False
+lstm_temp1_seed7_0078,LSTM / sample seed 7,lstm,72,-0.5992853,-5.4682417,0.037537366,False
+lstm_temp1_seed7_0079,LSTM / sample seed 7,lstm,78,0.657768,-2.9978175,0.18027334,True
+lstm_temp1_seed7_0080,LSTM / sample seed 7,lstm,71,1.6651361,-4.4193206,0.059992064,False
+lstm_temp1_seed7_0081,LSTM / sample seed 7,lstm,79,0.31637195,-1.0091918,0.13745312,False
+lstm_temp1_seed7_0082,LSTM / sample seed 7,lstm,85,-1.4707841,-3.739433,0.1230023,False
+lstm_temp1_seed7_0083,LSTM / sample seed 7,lstm,73,1.3457985,-5.867257,0.0824704,False
+lstm_temp1_seed7_0084,LSTM / sample seed 7,lstm,69,0.57451326,-2.7664616,0.061288536,False
+lstm_temp1_seed7_0085,LSTM / sample seed 7,lstm,72,0.9395748,-6.200772,0.04551504,False
+lstm_temp1_seed7_0086,LSTM / sample seed 7,lstm,72,-1.0520958,-6.1196995,0.04562491,False
+lstm_temp1_seed7_0087,LSTM / sample seed 7,lstm,77,0.20585279,-3.581175,0.0733349,False
+lstm_temp1_seed7_0088,LSTM / sample seed 7,lstm,73,1.1517648,-5.954024,0.06452522,False
+lstm_temp1_seed7_0089,LSTM / sample seed 7,lstm,72,1.181262,-2.9822888,0.054428577,False
+lstm_temp1_seed7_0090,LSTM / sample seed 7,lstm,71,2.0802631,-4.158601,0.02564755,False
+lstm_temp1_seed7_0091,LSTM / sample seed 7,lstm,73,0.23704723,-2.0476172,0.058370546,False
+lstm_temp1_seed7_0092,LSTM / sample seed 7,lstm,72,1.9031905,-2.5531902,0.035518896,False
+lstm_temp1_seed7_0093,LSTM / sample seed 7,lstm,72,2.170949,-3.9495556,0.056042906,False
+lstm_temp1_seed7_0094,LSTM / sample seed 7,lstm,72,1.940341,-6.148389,0.061623145,False
+lstm_temp1_seed7_0095,LSTM / sample seed 7,lstm,72,0.018173406,-6.6173086,0.04494575,False
+lstm_temp1_seed7_0096,LSTM / sample seed 7,lstm,69,-1.4949511,-6.0343466,0.030135302,False
+lstm_temp1_seed7_0097,LSTM / sample seed 7,lstm,72,-0.54981136,-6.9338307,0.07082098,False
+lstm_temp1_seed7_0098,LSTM / sample seed 7,lstm,72,1.4542319,-5.486429,0.024416504,False
+lstm_temp1_seed7_0099,LSTM / sample seed 7,lstm,72,-2.125288,-4.9823437,0.0509535,False
+lstm_temp1_seed123_0000,LSTM / sample seed 123,lstm,73,-0.92162395,-5.83761,0.08514734,False
+lstm_temp1_seed123_0001,LSTM / sample seed 123,lstm,71,-0.81732893,-5.7700744,0.0984907,False
+lstm_temp1_seed123_0002,LSTM / sample seed 123,lstm,73,0.4489462,-2.9230337,0.062531464,False
+lstm_temp1_seed123_0003,LSTM / sample seed 123,lstm,71,2.0945458,-4.1746407,0.02898598,False
+lstm_temp1_seed123_0004,LSTM / sample seed 123,lstm,70,-1.3657175,-6.1163507,0.06252193,False
+lstm_temp1_seed123_0005,LSTM / sample seed 123,lstm,72,0.6375279,-4.1374755,0.05740784,False
+lstm_temp1_seed123_0006,LSTM / sample seed 123,lstm,71,-0.9580628,-7.1449113,0.05545164,False
+lstm_temp1_seed123_0007,LSTM / sample seed 123,lstm,75,0.789639,-1.5045745,0.1014098,False
+lstm_temp1_seed123_0008,LSTM / sample seed 123,lstm,72,0.22002968,-1.7819364,0.07044546,False
+lstm_temp1_seed123_0009,LSTM / sample seed 123,lstm,83,-1.6726733,-4.0415998,0.14097214,False
+lstm_temp1_seed123_0010,LSTM / sample seed 123,lstm,73,0.9692936,-6.1113873,0.0595493,False
+lstm_temp1_seed123_0011,LSTM / sample seed 123,lstm,73,0.21626164,-2.0833862,0.06520612,False
+lstm_temp1_seed123_0012,LSTM / sample seed 123,lstm,91,11.43387,3.8825734,0.3321926,True
+lstm_temp1_seed123_0013,LSTM / sample seed 123,lstm,69,0.5450126,-2.7071497,0.053158782,False
+lstm_temp1_seed123_0014,LSTM / sample seed 123,lstm,60,-1.5948411,-3.858109,0.25226307,True
+lstm_temp1_seed123_0015,LSTM / sample seed 123,lstm,72,1.1568738,-3.2164433,0.07909403,False
+lstm_temp1_seed123_0016,LSTM / sample seed 123,lstm,71,-1.0021622,-6.0740485,0.01916154,False
+lstm_temp1_seed123_0017,LSTM / sample seed 123,lstm,72,-0.1609605,-3.645406,0.041801553,False
+lstm_temp1_seed123_0018,LSTM / sample seed 123,lstm,71,-0.92573327,-6.313652,0.04471041,False
+lstm_temp1_seed123_0019,LSTM / sample seed 123,lstm,73,0.33602858,-3.618892,0.07033539,False
+lstm_temp1_seed123_0020,LSTM / sample seed 123,lstm,73,-2.1708715,-4.5661006,0.056054603,False
+lstm_temp1_seed123_0021,LSTM / sample seed 123,lstm,72,-1.1438593,-5.745706,0.0547768,False
+lstm_temp1_seed123_0022,LSTM / sample seed 123,lstm,71,0.4198512,-1.8268228,0.100269005,False
+lstm_temp1_seed123_0023,LSTM / sample seed 123,lstm,72,-0.8719012,-7.114701,0.029584365,False
+lstm_temp1_seed123_0024,LSTM / sample seed 123,lstm,72,1.2974449,-6.331676,0.05841342,False
+lstm_temp1_seed123_0025,LSTM / sample seed 123,lstm,72,-0.36901525,-5.728889,0.049060725,False
+lstm_temp1_seed123_0026,LSTM / sample seed 123,lstm,71,0.9542329,-2.6255312,0.06077974,False
+lstm_temp1_seed123_0027,LSTM / sample seed 123,lstm,73,-1.9888082,-4.364191,0.12277725,False
+lstm_temp1_seed123_0028,LSTM / sample seed 123,lstm,71,-1.1532646,-6.32141,0.06968237,False
+lstm_temp1_seed123_0029,LSTM / sample seed 123,lstm,73,-0.41482085,-6.4034743,0.04054058,False
+lstm_temp1_seed123_0030,LSTM / sample seed 123,lstm,72,0.6916261,-4.2567067,0.044180684,False
+lstm_temp1_seed123_0031,LSTM / sample seed 123,lstm,71,-0.37107304,-5.4634304,0.0799582,False
+lstm_temp1_seed123_0032,LSTM / sample seed 123,lstm,74,0.9785924,-2.4405863,0.053025186,False
+lstm_temp1_seed123_0033,LSTM / sample seed 123,lstm,76,1.5191987,-1.5627483,0.09383579,False
+lstm_temp1_seed123_0034,LSTM / sample seed 123,lstm,72,1.5836638,-5.5365276,0.040801443,False
+lstm_temp1_seed123_0035,LSTM / sample seed 123,lstm,81,-1.1175625,-4.477563,0.13049585,False
+lstm_temp1_seed123_0036,LSTM / sample seed 123,lstm,72,-1.9023213,-5.196638,0.059922475,False
+lstm_temp1_seed123_0037,LSTM / sample seed 123,lstm,71,-0.20122339,-4.4314957,0.04932849,False
+lstm_temp1_seed123_0038,LSTM / sample seed 123,lstm,71,1.3702147,-6.343596,0.042620547,False
+lstm_temp1_seed123_0039,LSTM / sample seed 123,lstm,71,0.038080394,-1.9956673,0.106263734,False
+lstm_temp1_seed123_0040,LSTM / sample seed 123,lstm,69,-0.49466416,-4.176047,0.071849555,False
+lstm_temp1_seed123_0041,LSTM / sample seed 123,lstm,71,0.25718188,-1.6183046,0.12010627,False
+lstm_temp1_seed123_0042,LSTM / sample seed 123,lstm,87,0.72675,-4.946467,0.14321715,False
+lstm_temp1_seed123_0043,LSTM / sample seed 123,lstm,71,-0.3167447,-4.626916,0.047778014,False
+lstm_temp1_seed123_0044,LSTM / sample seed 123,lstm,74,2.051883,-4.436724,0.08032189,False
+lstm_temp1_seed123_0045,LSTM / sample seed 123,lstm,75,0.0007125156,-4.0921755,0.043756377,False
+lstm_temp1_seed123_0046,LSTM / sample seed 123,lstm,74,0.9164801,-1.7651834,0.15852831,True
+lstm_temp1_seed123_0047,LSTM / sample seed 123,lstm,72,1.0185894,-4.8221335,0.05706314,False
+lstm_temp1_seed123_0048,LSTM / sample seed 123,lstm,71,0.1774822,-4.5826726,0.06601556,False
+lstm_temp1_seed123_0049,LSTM / sample seed 123,lstm,71,-1.3226042,-6.0218086,0.030604368,False
+lstm_temp1_seed123_0050,LSTM / sample seed 123,lstm,73,0.7656161,-1.4019638,0.08996839,False
+lstm_temp1_seed123_0051,LSTM / sample seed 123,lstm,70,1.1432539,-6.4716187,0.09969371,False
+lstm_temp1_seed123_0052,LSTM / sample seed 123,lstm,72,-0.1368524,-6.6705794,0.042725306,False
+lstm_temp1_seed123_0053,LSTM / sample seed 123,lstm,71,-2.050418,-4.8472147,0.05031311,False
+lstm_temp1_seed123_0054,LSTM / sample seed 123,lstm,72,-0.90272415,-7.122333,0.031347122,False
+lstm_temp1_seed123_0055,LSTM / sample seed 123,lstm,78,0.18134186,-1.7512151,0.10532171,False
+lstm_temp1_seed123_0056,LSTM / sample seed 123,lstm,72,0.4967524,-6.5687995,0.0645363,False
+lstm_temp1_seed123_0057,LSTM / sample seed 123,lstm,91,-1.2663722,-4.452756,0.19370893,True
+lstm_temp1_seed123_0058,LSTM / sample seed 123,lstm,72,2.443814,-5.577862,0.014160156,False
+lstm_temp1_seed123_0059,LSTM / sample seed 123,lstm,72,-0.22135371,-6.8087754,0.051042326,False
+lstm_temp1_seed123_0060,LSTM / sample seed 123,lstm,72,0.96442753,-6.603618,0.02744384,False
+lstm_temp1_seed123_0061,LSTM / sample seed 123,lstm,72,-2.1232884,-4.9636574,0.061244756,False
+lstm_temp1_seed123_0062,LSTM / sample seed 123,lstm,73,0.6754035,-4.92169,0.08502756,False
+lstm_temp1_seed123_0063,LSTM / sample seed 123,lstm,73,-1.1709573,-6.454709,0.06429294,False
+lstm_temp1_seed123_0064,LSTM / sample seed 123,lstm,73,1.5192264,-3.9053278,0.043170802,False
+lstm_temp1_seed123_0065,LSTM / sample seed 123,lstm,77,1.9234035,-4.0610394,0.064798065,False
+lstm_temp1_seed123_0066,LSTM / sample seed 123,lstm,73,0.7173231,-1.0854005,0.12709202,False
+lstm_temp1_seed123_0067,LSTM / sample seed 123,lstm,75,-1.2578697,-4.255498,0.048423618,False
+lstm_temp1_seed123_0068,LSTM / sample seed 123,lstm,72,1.3824934,-2.850152,0.108659856,False
+lstm_temp1_seed123_0069,LSTM / sample seed 123,lstm,73,1.2547547,-5.7838044,0.06791499,False
+lstm_temp1_seed123_0070,LSTM / sample seed 123,lstm,73,0.8492555,-5.683521,0.04695885,False
+lstm_temp1_seed123_0071,LSTM / sample seed 123,lstm,72,0.5315396,-6.4898233,0.035589308,False
+lstm_temp1_seed123_0072,LSTM / sample seed 123,lstm,72,-0.11057042,-5.510726,0.053792994,False
+lstm_temp1_seed123_0073,LSTM / sample seed 123,lstm,72,0.92698723,-1.3423506,0.13535391,False
+lstm_temp1_seed123_0074,LSTM / sample seed 123,lstm,86,1.144701,-1.6435258,0.2894779,True
+lstm_temp1_seed123_0075,LSTM / sample seed 123,lstm,73,-1.0452322,-6.510209,0.03646778,False
+lstm_temp1_seed123_0076,LSTM / sample seed 123,lstm,76,0.5466067,-1.8127376,0.20400546,True
+lstm_temp1_seed123_0077,LSTM / sample seed 123,lstm,67,0.40128478,-3.5617158,0.13655517,False
+lstm_temp1_seed123_0078,LSTM / sample seed 123,lstm,70,0.06800438,-4.8413925,0.09149445,False
+lstm_temp1_seed123_0079,LSTM / sample seed 123,lstm,70,1.256138,-5.211472,0.06942872,False
+lstm_temp1_seed123_0080,LSTM / sample seed 123,lstm,91,-1.204045,-3.7431343,0.17450675,True
+lstm_temp1_seed123_0081,LSTM / sample seed 123,lstm,71,1.1883124,-1.9865917,0.059929438,False
+lstm_temp1_seed123_0082,LSTM / sample seed 123,lstm,68,-2.0099516,-4.622082,0.0748298,False
+lstm_temp1_seed123_0083,LSTM / sample seed 123,lstm,72,0.96246266,-6.5694284,0.02744384,False
+lstm_temp1_seed123_0084,LSTM / sample seed 123,lstm,73,-0.67136526,-4.805452,0.0506249,False
+lstm_temp1_seed123_0085,LSTM / sample seed 123,lstm,74,-0.072577134,-5.031755,0.065688804,False
+lstm_temp1_seed123_0086,LSTM / sample seed 123,lstm,71,-0.8741504,-7.108553,0.029918933,False
+lstm_temp1_seed123_0087,LSTM / sample seed 123,lstm,79,-0.20805979,-2.5282512,0.15287375,True
+lstm_temp1_seed123_0088,LSTM / sample seed 123,lstm,71,0.30249667,-3.6743762,0.04170162,False
+lstm_temp1_seed123_0089,LSTM / sample seed 123,lstm,79,-1.3186979,-4.7294817,0.16591866,True
+lstm_temp1_seed123_0090,LSTM / sample seed 123,lstm,70,-0.5119633,-4.0531726,0.052790858,False
+lstm_temp1_seed123_0091,LSTM / sample seed 123,lstm,70,-0.59086853,-4.765256,0.07031335,False
+lstm_temp1_seed123_0092,LSTM / sample seed 123,lstm,74,-1.2059721,-6.5744567,0.090106085,False
+lstm_temp1_seed123_0093,LSTM / sample seed 123,lstm,73,0.4814638,-1.6165961,0.088961706,False
+lstm_temp1_seed123_0094,LSTM / sample seed 123,lstm,82,-1.596763,-3.8916273,0.13212858,False
+lstm_temp1_seed123_0095,LSTM / sample seed 123,lstm,71,0.8947799,-5.475862,0.07311757,False
+lstm_temp1_seed123_0096,LSTM / sample seed 123,lstm,74,1.2971778,-4.9146323,0.08366938,False
+lstm_temp1_seed123_0097,LSTM / sample seed 123,lstm,70,-0.37721297,-4.6576777,0.030036243,False
+lstm_temp1_seed123_0098,LSTM / sample seed 123,lstm,79,-1.6562815,-4.35019,0.09563958,False
+lstm_temp1_seed123_0099,LSTM / sample seed 123,lstm,76,-1.2157261,-4.661631,0.1062166,False
+vae_empirical_scale0.75_temp0.6_seed42_0000,VAE / sample seed 42,vae,72,-1.6861731,4.0678043,0.52613294,True
+vae_empirical_scale0.75_temp0.6_seed42_0001,VAE / sample seed 42,vae,72,1.8688862,-2.8238175,0.024883188,False
+vae_empirical_scale0.75_temp0.6_seed42_0002,VAE / sample seed 42,vae,75,-0.4931431,0.0278054,0.13347907,False
+vae_empirical_scale0.75_temp0.6_seed42_0003,VAE / sample seed 42,vae,60,-1.3761401,-0.06289698,0.1496118,True
+vae_empirical_scale0.75_temp0.6_seed42_0004,VAE / sample seed 42,vae,72,-0.23405132,-2.4520705,0.13671264,False
+vae_empirical_scale0.75_temp0.6_seed42_0005,VAE / sample seed 42,vae,72,0.9139087,-3.379955,0.049281344,False
+vae_empirical_scale0.75_temp0.6_seed42_0006,VAE / sample seed 42,vae,72,0.11633848,-5.833028,0.09652358,False
+vae_empirical_scale0.75_temp0.6_seed42_0007,VAE / sample seed 42,vae,72,-0.4623442,2.782667,0.61574316,True
+vae_empirical_scale0.75_temp0.6_seed42_0008,VAE / sample seed 42,vae,71,-2.175921,3.5029848,0.454433,True
+vae_empirical_scale0.75_temp0.6_seed42_0009,VAE / sample seed 42,vae,71,-1.266358,1.2214077,0.23069933,True
+vae_empirical_scale0.75_temp0.6_seed42_0010,VAE / sample seed 42,vae,72,-1.2957387,1.4462404,0.26490888,True
+vae_empirical_scale0.75_temp0.6_seed42_0011,VAE / sample seed 42,vae,59,-0.5163517,0.37927452,0.2217684,True
+vae_empirical_scale0.75_temp0.6_seed42_0012,VAE / sample seed 42,vae,72,0.5723039,-3.795322,0.03169882,False
+vae_empirical_scale0.75_temp0.6_seed42_0013,VAE / sample seed 42,vae,59,-0.25843838,-2.587081,0.10705058,False
+vae_empirical_scale0.75_temp0.6_seed42_0014,VAE / sample seed 42,vae,72,-1.6185426,4.832991,0.73117375,True
+vae_empirical_scale0.75_temp0.6_seed42_0015,VAE / sample seed 42,vae,84,-1.9682649,3.4878442,0.45489904,True
+vae_empirical_scale0.75_temp0.6_seed42_0016,VAE / sample seed 42,vae,72,-0.9675809,-2.1068766,0.08627116,False
+vae_empirical_scale0.75_temp0.6_seed42_0017,VAE / sample seed 42,vae,71,-0.76827526,0.49455753,0.19692753,True
+vae_empirical_scale0.75_temp0.6_seed42_0018,VAE / sample seed 42,vae,71,0.695854,-5.4174433,0.031100871,False
+vae_empirical_scale0.75_temp0.6_seed42_0019,VAE / sample seed 42,vae,74,0.8521722,-6.674867,0.046411127,False
+vae_empirical_scale0.75_temp0.6_seed42_0020,VAE / sample seed 42,vae,73,-1.4095318,1.652731,0.2894911,True
+vae_empirical_scale0.75_temp0.6_seed42_0021,VAE / sample seed 42,vae,72,-0.027384402,-3.8008974,0.012192374,False
+vae_empirical_scale0.75_temp0.6_seed42_0022,VAE / sample seed 42,vae,71,-1.7613202,-4.8758345,0.043935817,False
+vae_empirical_scale0.75_temp0.6_seed42_0023,VAE / sample seed 42,vae,73,-0.219821,-4.028488,0.06813929,False
+vae_empirical_scale0.75_temp0.6_seed42_0024,VAE / sample seed 42,vae,71,-1.176451,0.5907405,0.2463576,True
+vae_empirical_scale0.75_temp0.6_seed42_0025,VAE / sample seed 42,vae,71,-2.4518847,4.820946,0.60832036,True
+vae_empirical_scale0.75_temp0.6_seed42_0026,VAE / sample seed 42,vae,74,-0.69392127,-5.971002,0.028542535,False
+vae_empirical_scale0.75_temp0.6_seed42_0027,VAE / sample seed 42,vae,72,-2.1932914,4.7737393,0.70223784,True
+vae_empirical_scale0.75_temp0.6_seed42_0028,VAE / sample seed 42,vae,72,-0.48285866,2.6043313,0.54348654,True
+vae_empirical_scale0.75_temp0.6_seed42_0029,VAE / sample seed 42,vae,72,-0.5542942,-6.290862,0.05757269,False
+vae_empirical_scale0.75_temp0.6_seed42_0030,VAE / sample seed 42,vae,73,0.21551694,-1.1685913,0.16436921,True
+vae_empirical_scale0.75_temp0.6_seed42_0031,VAE / sample seed 42,vae,72,-0.06997287,-3.647127,0.0,False
+vae_empirical_scale0.75_temp0.6_seed42_0032,VAE / sample seed 42,vae,71,-0.75490296,2.1715791,0.4436302,True
+vae_empirical_scale0.75_temp0.6_seed42_0033,VAE / sample seed 42,vae,72,-1.3251104,1.3248836,0.25845072,True
+vae_empirical_scale0.75_temp0.6_seed42_0034,VAE / sample seed 42,vae,59,-0.65148073,-3.5671334,0.09757137,False
+vae_empirical_scale0.75_temp0.6_seed42_0035,VAE / sample seed 42,vae,72,-0.078427956,-3.785407,0.012192374,False
+vae_empirical_scale0.75_temp0.6_seed42_0036,VAE / sample seed 42,vae,72,0.6174478,-6.404079,0.024012815,False
+vae_empirical_scale0.75_temp0.6_seed42_0037,VAE / sample seed 42,vae,72,-2.179592,3.8502402,0.48660037,True
+vae_empirical_scale0.75_temp0.6_seed42_0038,VAE / sample seed 42,vae,71,-2.601514,5.054179,0.7992069,True
+vae_empirical_scale0.75_temp0.6_seed42_0039,VAE / sample seed 42,vae,72,-2.0727942,4.6990533,0.6249128,True
+vae_empirical_scale0.75_temp0.6_seed42_0040,VAE / sample seed 42,vae,72,-1.3685223,4.734551,0.6878958,True
+vae_empirical_scale0.75_temp0.6_seed42_0041,VAE / sample seed 42,vae,61,-0.17084138,-2.5347226,0.101836205,False
+vae_empirical_scale0.75_temp0.6_seed42_0042,VAE / sample seed 42,vae,72,-2.196863,3.4718137,0.4433384,True
+vae_empirical_scale0.75_temp0.6_seed42_0043,VAE / sample seed 42,vae,71,-2.517902,4.9328337,0.6708912,True
+vae_empirical_scale0.75_temp0.6_seed42_0044,VAE / sample seed 42,vae,72,-2.5391972,5.0102773,0.7471491,True
+vae_empirical_scale0.75_temp0.6_seed42_0045,VAE / sample seed 42,vae,80,0.74581957,-2.435167,0.11874323,False
+vae_empirical_scale0.75_temp0.6_seed42_0046,VAE / sample seed 42,vae,72,-0.59250915,2.0946164,0.61859643,True
+vae_empirical_scale0.75_temp0.6_seed42_0047,VAE / sample seed 42,vae,72,0.23183654,-1.2243196,0.14686272,False
+vae_empirical_scale0.75_temp0.6_seed42_0048,VAE / sample seed 42,vae,72,-0.13343425,-2.3102696,0.23053056,True
+vae_empirical_scale0.75_temp0.6_seed42_0049,VAE / sample seed 42,vae,72,0.16784257,-1.3639356,0.19960493,True
+vae_empirical_scale0.75_temp0.6_seed42_0050,VAE / sample seed 42,vae,60,-2.1786315,3.6980443,0.52146846,True
+vae_empirical_scale0.75_temp0.6_seed42_0051,VAE / sample seed 42,vae,73,-2.2049794,4.499427,0.62169564,True
+vae_empirical_scale0.75_temp0.6_seed42_0052,VAE / sample seed 42,vae,73,-1.3018218,0.10273843,0.1757514,True
+vae_empirical_scale0.75_temp0.6_seed42_0053,VAE / sample seed 42,vae,71,0.19627646,-0.18678863,0.2542689,True
+vae_empirical_scale0.75_temp0.6_seed42_0054,VAE / sample seed 42,vae,72,0.87138593,-6.2725067,0.019242246,False
+vae_empirical_scale0.75_temp0.6_seed42_0055,VAE / sample seed 42,vae,71,-0.5852627,-5.9884434,0.034136064,False
+vae_empirical_scale0.75_temp0.6_seed42_0056,VAE / sample seed 42,vae,71,-1.4660312,1.5634589,0.24989532,True
+vae_empirical_scale0.75_temp0.6_seed42_0057,VAE / sample seed 42,vae,80,-1.3352543,4.736866,0.73790026,True
+vae_empirical_scale0.75_temp0.6_seed42_0058,VAE / sample seed 42,vae,72,-0.75647897,2.0094852,0.46553642,True
+vae_empirical_scale0.75_temp0.6_seed42_0059,VAE / sample seed 42,vae,71,-0.82903504,0.38313255,0.20640585,True
+vae_empirical_scale0.75_temp0.6_seed42_0060,VAE / sample seed 42,vae,72,-1.1489497,0.6731236,0.280777,True
+vae_empirical_scale0.75_temp0.6_seed42_0061,VAE / sample seed 42,vae,71,-2.3998446,4.7852726,0.5500518,True
+vae_empirical_scale0.75_temp0.6_seed42_0062,VAE / sample seed 42,vae,72,-1.7421342,4.758597,0.6608836,True
+vae_empirical_scale0.75_temp0.6_seed42_0063,VAE / sample seed 42,vae,72,-0.90031105,-2.0969744,0.08650713,False
+vae_empirical_scale0.75_temp0.6_seed42_0064,VAE / sample seed 42,vae,72,0.97113264,-3.8454568,0.039582416,False
+vae_empirical_scale0.75_temp0.6_seed42_0065,VAE / sample seed 42,vae,72,-0.5426612,-0.7956531,0.10909453,False
+vae_empirical_scale0.75_temp0.6_seed42_0066,VAE / sample seed 42,vae,72,-1.0847349,-5.7081947,0.12076351,False
+vae_empirical_scale0.75_temp0.6_seed42_0067,VAE / sample seed 42,vae,72,-0.3887064,-5.9764204,0.055182263,False
+vae_empirical_scale0.75_temp0.6_seed42_0068,VAE / sample seed 42,vae,72,1.6982852,-6.2903476,0.00069053395,False
+vae_empirical_scale0.75_temp0.6_seed42_0069,VAE / sample seed 42,vae,73,0.7043409,-4.069483,0.067466795,False
+vae_empirical_scale0.75_temp0.6_seed42_0070,VAE / sample seed 42,vae,72,-0.77997744,-6.7414412,0.02327417,False
+vae_empirical_scale0.75_temp0.6_seed42_0071,VAE / sample seed 42,vae,72,-0.6301435,2.0169775,0.565058,True
+vae_empirical_scale0.75_temp0.6_seed42_0072,VAE / sample seed 42,vae,71,-2.697391,5.144329,0.72883946,True
+vae_empirical_scale0.75_temp0.6_seed42_0073,VAE / sample seed 42,vae,71,0.20824622,-1.7471966,0.13971543,False
+vae_empirical_scale0.75_temp0.6_seed42_0074,VAE / sample seed 42,vae,72,-2.7784204,5.224984,0.7264211,True
+vae_empirical_scale0.75_temp0.6_seed42_0075,VAE / sample seed 42,vae,72,-1.5930359,2.9215884,0.34953725,True
+vae_empirical_scale0.75_temp0.6_seed42_0076,VAE / sample seed 42,vae,73,1.8408552,-2.76573,0.028374981,False
+vae_empirical_scale0.75_temp0.6_seed42_0077,VAE / sample seed 42,vae,72,1.4267712,-2.1407204,0.04166015,False
+vae_empirical_scale0.75_temp0.6_seed42_0078,VAE / sample seed 42,vae,72,-2.8745184,5.3146467,1.1633654,True
+vae_empirical_scale0.75_temp0.6_seed42_0079,VAE / sample seed 42,vae,71,-1.1825639,1.2474416,0.23127554,True
+vae_empirical_scale0.75_temp0.6_seed42_0080,VAE / sample seed 42,vae,72,-2.002677,4.7741346,0.66414994,True
+vae_empirical_scale0.75_temp0.6_seed42_0081,VAE / sample seed 42,vae,72,-1.6796765,3.0469258,0.32117867,True
+vae_empirical_scale0.75_temp0.6_seed42_0082,VAE / sample seed 42,vae,72,-1.882674,3.0158825,0.38726646,True
+vae_empirical_scale0.75_temp0.6_seed42_0083,VAE / sample seed 42,vae,71,-1.605932,-0.08908807,0.21951488,True
+vae_empirical_scale0.75_temp0.6_seed42_0084,VAE / sample seed 42,vae,71,0.36624533,-0.65244144,0.26431805,True
+vae_empirical_scale0.75_temp0.6_seed42_0085,VAE / sample seed 42,vae,71,-2.8446639,5.2916307,0.7560702,True
+vae_empirical_scale0.75_temp0.6_seed42_0086,VAE / sample seed 42,vae,60,-1.1902391,0.49947676,0.2678947,True
+vae_empirical_scale0.75_temp0.6_seed42_0087,VAE / sample seed 42,vae,75,-2.543656,4.956539,0.6171268,True
+vae_empirical_scale0.75_temp0.6_seed42_0088,VAE / sample seed 42,vae,71,-0.76951617,1.5851014,0.39582115,True
+vae_empirical_scale0.75_temp0.6_seed42_0089,VAE / sample seed 42,vae,72,-1.5445869,2.5321047,0.37752318,True
+vae_empirical_scale0.75_temp0.6_seed42_0090,VAE / sample seed 42,vae,72,-0.061728857,-0.4400302,0.1129783,False
+vae_empirical_scale0.75_temp0.6_seed42_0091,VAE / sample seed 42,vae,71,-1.1899681,1.2075983,0.26145124,True
+vae_empirical_scale0.75_temp0.6_seed42_0092,VAE / sample seed 42,vae,72,-0.89624566,1.0524172,0.26740366,True
+vae_empirical_scale0.75_temp0.6_seed42_0093,VAE / sample seed 42,vae,72,0.62582624,-1.616724,0.104025684,False
+vae_empirical_scale0.75_temp0.6_seed42_0094,VAE / sample seed 42,vae,72,-1.3515376,-0.1168298,0.13454874,False
+vae_empirical_scale0.75_temp0.6_seed42_0095,VAE / sample seed 42,vae,71,-0.5126768,2.712866,0.59598655,True
+vae_empirical_scale0.75_temp0.6_seed42_0096,VAE / sample seed 42,vae,72,-0.57159865,0.6605174,0.1792122,True
+vae_empirical_scale0.75_temp0.6_seed42_0097,VAE / sample seed 42,vae,72,-1.3895415,2.4393268,0.38098237,True
+vae_empirical_scale0.75_temp0.6_seed42_0098,VAE / sample seed 42,vae,73,-1.5375484,2.1960428,0.32766455,True
+vae_empirical_scale0.75_temp0.6_seed42_0099,VAE / sample seed 42,vae,71,0.87539214,-1.1759971,0.118734196,False
+vae_empirical_scale0.75_temp0.6_seed7_0000,VAE / sample seed 7,vae,76,0.13190705,-0.68351805,0.13192181,False
+vae_empirical_scale0.75_temp0.6_seed7_0001,VAE / sample seed 7,vae,72,0.7544489,-3.8167136,0.035709687,False
+vae_empirical_scale0.75_temp0.6_seed7_0002,VAE / sample seed 7,vae,75,-0.59526664,2.4868186,0.52907634,True
+vae_empirical_scale0.75_temp0.6_seed7_0003,VAE / sample seed 7,vae,80,-2.2594233,3.7659225,0.47836465,True
+vae_empirical_scale0.75_temp0.6_seed7_0004,VAE / sample seed 7,vae,72,-1.5682881,2.82419,0.3865811,True
+vae_empirical_scale0.75_temp0.6_seed7_0005,VAE / sample seed 7,vae,72,-0.27293617,1.1182201,0.29567173,True
+vae_empirical_scale0.75_temp0.6_seed7_0006,VAE / sample seed 7,vae,72,0.8055291,-3.7400384,0.025888117,False
+vae_empirical_scale0.75_temp0.6_seed7_0007,VAE / sample seed 7,vae,72,0.4118416,-6.26982,0.0580367,False
+vae_empirical_scale0.75_temp0.6_seed7_0008,VAE / sample seed 7,vae,72,-0.8861461,2.2460394,0.41444266,True
+vae_empirical_scale0.75_temp0.6_seed7_0009,VAE / sample seed 7,vae,73,-1.3685141,4.6898327,0.6276139,True
+vae_empirical_scale0.75_temp0.6_seed7_0010,VAE / sample seed 7,vae,61,-2.8451874,5.29144,0.8394846,True
+vae_empirical_scale0.75_temp0.6_seed7_0011,VAE / sample seed 7,vae,74,0.80149984,-6.6468663,0.046411127,False
+vae_empirical_scale0.75_temp0.6_seed7_0012,VAE / sample seed 7,vae,74,-0.6356056,0.5673102,0.14586212,False
+vae_empirical_scale0.75_temp0.6_seed7_0013,VAE / sample seed 7,vae,72,-1.9601594,4.790356,0.7049961,True
+vae_empirical_scale0.75_temp0.6_seed7_0014,VAE / sample seed 7,vae,80,-1.4166822,4.5632014,0.69671506,True
+vae_empirical_scale0.75_temp0.6_seed7_0015,VAE / sample seed 7,vae,71,-2.1123857,3.5061295,0.4350357,True
+vae_empirical_scale0.75_temp0.6_seed7_0016,VAE / sample seed 7,vae,73,-0.99233866,-1.950735,0.10411446,False
+vae_empirical_scale0.75_temp0.6_seed7_0017,VAE / sample seed 7,vae,73,-1.0468674,0.32669097,0.1860374,True
+vae_empirical_scale0.75_temp0.6_seed7_0018,VAE / sample seed 7,vae,72,-0.29148814,1.1347666,0.3335045,True
+vae_empirical_scale0.75_temp0.6_seed7_0019,VAE / sample seed 7,vae,71,-1.4999101,0.70765483,0.23490997,True
+vae_empirical_scale0.75_temp0.6_seed7_0020,VAE / sample seed 7,vae,72,-0.35611108,0.32793847,0.16631085,True
+vae_empirical_scale0.75_temp0.6_seed7_0021,VAE / sample seed 7,vae,83,-1.6605954,3.216222,0.40777668,True
+vae_empirical_scale0.75_temp0.6_seed7_0022,VAE / sample seed 7,vae,72,1.8291796,-2.7156606,0.020568756,False
+vae_empirical_scale0.75_temp0.6_seed7_0023,VAE / sample seed 7,vae,80,-2.5362344,4.9966564,0.6840614,True
+vae_empirical_scale0.75_temp0.6_seed7_0024,VAE / sample seed 7,vae,60,-1.3868525,2.6665277,0.43994305,True
+vae_empirical_scale0.75_temp0.6_seed7_0025,VAE / sample seed 7,vae,72,0.82595855,-3.435058,0.02615383,False
+vae_empirical_scale0.75_temp0.6_seed7_0026,VAE / sample seed 7,vae,75,-1.1918598,0.5194876,0.22712742,True
+vae_empirical_scale0.75_temp0.6_seed7_0027,VAE / sample seed 7,vae,73,-0.37882313,-6.8407254,0.033158217,False
+vae_empirical_scale0.75_temp0.6_seed7_0028,VAE / sample seed 7,vae,72,-2.8235004,5.2727118,0.7393268,True
+vae_empirical_scale0.75_temp0.6_seed7_0029,VAE / sample seed 7,vae,74,-1.6444083,0.38714123,0.1964199,True
+vae_empirical_scale0.75_temp0.6_seed7_0030,VAE / sample seed 7,vae,71,-1.5743743,4.3115444,0.5439517,True
+vae_empirical_scale0.75_temp0.6_seed7_0031,VAE / sample seed 7,vae,73,0.19038324,-6.774235,0.049168736,False
+vae_empirical_scale0.75_temp0.6_seed7_0032,VAE / sample seed 7,vae,72,-1.0931269,-1.3694564,0.10532115,False
+vae_empirical_scale0.75_temp0.6_seed7_0033,VAE / sample seed 7,vae,72,-1.8646863,4.751859,0.6511271,True
+vae_empirical_scale0.75_temp0.6_seed7_0034,VAE / sample seed 7,vae,72,-2.1969557,4.3441076,0.58807796,True
+vae_empirical_scale0.75_temp0.6_seed7_0035,VAE / sample seed 7,vae,74,-1.3983884,4.5348525,0.64427114,True
+vae_empirical_scale0.75_temp0.6_seed7_0036,VAE / sample seed 7,vae,59,-1.538356,-0.14095491,0.16270283,True
+vae_empirical_scale0.75_temp0.6_seed7_0037,VAE / sample seed 7,vae,72,-1.5635532,3.3375351,0.40632334,True
+vae_empirical_scale0.75_temp0.6_seed7_0038,VAE / sample seed 7,vae,71,-0.9616926,-1.6638876,0.09796582,False
+vae_empirical_scale0.75_temp0.6_seed7_0039,VAE / sample seed 7,vae,71,-1.5733404,3.4970396,0.49347857,True
+vae_empirical_scale0.75_temp0.6_seed7_0040,VAE / sample seed 7,vae,73,-1.5933608,0.21834391,0.17870094,True
+vae_empirical_scale0.75_temp0.6_seed7_0041,VAE / sample seed 7,vae,71,-1.5737869,0.03314333,0.17866991,True
+vae_empirical_scale0.75_temp0.6_seed7_0042,VAE / sample seed 7,vae,72,-2.767425,5.220012,0.7699627,True
+vae_empirical_scale0.75_temp0.6_seed7_0043,VAE / sample seed 7,vae,71,1.5981666,-4.9336348,0.023378935,False
+vae_empirical_scale0.75_temp0.6_seed7_0044,VAE / sample seed 7,vae,72,-2.9865677,5.4291134,1.0252595,True
+vae_empirical_scale0.75_temp0.6_seed7_0045,VAE / sample seed 7,vae,70,-0.7189454,1.6950672,0.4292031,True
+vae_empirical_scale0.75_temp0.6_seed7_0046,VAE / sample seed 7,vae,72,-2.9662664,5.4133396,0.9261433,True
+vae_empirical_scale0.75_temp0.6_seed7_0047,VAE / sample seed 7,vae,71,-1.3751043,0.07329853,0.1467734,False
+vae_empirical_scale0.75_temp0.6_seed7_0048,VAE / sample seed 7,vae,70,-1.6713651,3.7293205,0.52010113,True
+vae_empirical_scale0.75_temp0.6_seed7_0049,VAE / sample seed 7,vae,71,-1.1271877,0.44158486,0.17887029,True
+vae_empirical_scale0.75_temp0.6_seed7_0050,VAE / sample seed 7,vae,72,-1.37558,1.6941946,0.26741746,True
+vae_empirical_scale0.75_temp0.6_seed7_0051,VAE / sample seed 7,vae,71,-1.8580086,3.7035606,0.5413292,True
+vae_empirical_scale0.75_temp0.6_seed7_0052,VAE / sample seed 7,vae,70,-1.5104808,-0.25883853,0.12995759,False
+vae_empirical_scale0.75_temp0.6_seed7_0053,VAE / sample seed 7,vae,72,-2.166558,3.5755444,0.42139378,True
+vae_empirical_scale0.75_temp0.6_seed7_0054,VAE / sample seed 7,vae,71,-0.2504371,-2.4909117,0.19192621,True
+vae_empirical_scale0.75_temp0.6_seed7_0055,VAE / sample seed 7,vae,71,-1.601858,0.05422169,0.20996633,True
+vae_empirical_scale0.75_temp0.6_seed7_0056,VAE / sample seed 7,vae,72,0.6713267,-4.2533712,0.06226208,False
+vae_empirical_scale0.75_temp0.6_seed7_0057,VAE / sample seed 7,vae,71,-1.0830534,0.43154097,0.23150866,True
+vae_empirical_scale0.75_temp0.6_seed7_0058,VAE / sample seed 7,vae,72,-1.6691235,3.307734,0.4216103,True
+vae_empirical_scale0.75_temp0.6_seed7_0059,VAE / sample seed 7,vae,72,0.35116252,-0.9085282,0.18566088,True
+vae_empirical_scale0.75_temp0.6_seed7_0060,VAE / sample seed 7,vae,72,-2.713471,5.152634,0.83633584,True
+vae_empirical_scale0.75_temp0.6_seed7_0061,VAE / sample seed 7,vae,80,-1.4188802,2.3255644,0.34778482,True
+vae_empirical_scale0.75_temp0.6_seed7_0062,VAE / sample seed 7,vae,72,-1.2283736,-1.0625436,0.11066386,False
+vae_empirical_scale0.75_temp0.6_seed7_0063,VAE / sample seed 7,vae,72,-2.169685,3.497004,0.431455,True
+vae_empirical_scale0.75_temp0.6_seed7_0064,VAE / sample seed 7,vae,74,-0.17047083,-2.3330555,0.17776087,True
+vae_empirical_scale0.75_temp0.6_seed7_0065,VAE / sample seed 7,vae,75,1.6547586,-5.0382714,0.0317007,False
+vae_empirical_scale0.75_temp0.6_seed7_0066,VAE / sample seed 7,vae,71,0.6328216,-5.286874,0.03337144,False
+vae_empirical_scale0.75_temp0.6_seed7_0067,VAE / sample seed 7,vae,80,-2.9012747,5.34854,0.88395196,True
+vae_empirical_scale0.75_temp0.6_seed7_0068,VAE / sample seed 7,vae,72,-1.6706094,3.732627,0.5464585,True
+vae_empirical_scale0.75_temp0.6_seed7_0069,VAE / sample seed 7,vae,72,0.9319208,-3.9136808,0.015674513,False
+vae_empirical_scale0.75_temp0.6_seed7_0070,VAE / sample seed 7,vae,72,1.2171175,-6.2306037,0.0,False
+vae_empirical_scale0.75_temp0.6_seed7_0071,VAE / sample seed 7,vae,72,-0.3036169,1.2558565,0.33121544,True
+vae_empirical_scale0.75_temp0.6_seed7_0072,VAE / sample seed 7,vae,72,-0.56603605,2.8108466,0.5194536,True
+vae_empirical_scale0.75_temp0.6_seed7_0073,VAE / sample seed 7,vae,71,0.9859359,-4.3003736,0.041409012,False
+vae_empirical_scale0.75_temp0.6_seed7_0074,VAE / sample seed 7,vae,71,-1.0986769,0.24668929,0.13602993,False
+vae_empirical_scale0.75_temp0.6_seed7_0075,VAE / sample seed 7,vae,72,-0.5449989,2.3828747,0.58084685,True
+vae_empirical_scale0.75_temp0.6_seed7_0076,VAE / sample seed 7,vae,72,-2.1299114,3.3416321,0.38726968,True
+vae_empirical_scale0.75_temp0.6_seed7_0077,VAE / sample seed 7,vae,72,-0.52953815,2.3729722,0.6034913,True
+vae_empirical_scale0.75_temp0.6_seed7_0078,VAE / sample seed 7,vae,71,-1.6200378,0.3109348,0.1760408,True
+vae_empirical_scale0.75_temp0.6_seed7_0079,VAE / sample seed 7,vae,71,0.71569884,-5.333667,0.031100871,False
+vae_empirical_scale0.75_temp0.6_seed7_0080,VAE / sample seed 7,vae,71,-1.3288649,1.3113201,0.26683554,True
+vae_empirical_scale0.75_temp0.6_seed7_0081,VAE / sample seed 7,vae,72,-1.3965315,4.782038,0.777005,True
+vae_empirical_scale0.75_temp0.6_seed7_0082,VAE / sample seed 7,vae,73,-1.4328392,0.036590718,0.1478521,False
+vae_empirical_scale0.75_temp0.6_seed7_0083,VAE / sample seed 7,vae,71,0.92349774,-6.1668797,0.046897884,False
+vae_empirical_scale0.75_temp0.6_seed7_0084,VAE / sample seed 7,vae,73,-1.5407597,3.5506473,0.496315,True
+vae_empirical_scale0.75_temp0.6_seed7_0085,VAE / sample seed 7,vae,72,-1.3423392,1.8280917,0.31625703,True
+vae_empirical_scale0.75_temp0.6_seed7_0086,VAE / sample seed 7,vae,70,-1.1538912,0.32718658,0.14929633,True
+vae_empirical_scale0.75_temp0.6_seed7_0087,VAE / sample seed 7,vae,72,-1.6629889,2.6648564,0.3489669,True
+vae_empirical_scale0.75_temp0.6_seed7_0088,VAE / sample seed 7,vae,72,0.94925046,-3.3386376,0.02615383,False
+vae_empirical_scale0.75_temp0.6_seed7_0089,VAE / sample seed 7,vae,72,1.142687,-1.107808,0.0912877,False
+vae_empirical_scale0.75_temp0.6_seed7_0090,VAE / sample seed 7,vae,72,-2.1682076,4.7371073,0.6212594,True
+vae_empirical_scale0.75_temp0.6_seed7_0091,VAE / sample seed 7,vae,71,-0.56208175,1.5256574,0.36484167,True
+vae_empirical_scale0.75_temp0.6_seed7_0092,VAE / sample seed 7,vae,72,-0.3098715,-0.041610654,0.1344202,False
+vae_empirical_scale0.75_temp0.6_seed7_0093,VAE / sample seed 7,vae,73,-1.532261,-0.33016497,0.15523235,True
+vae_empirical_scale0.75_temp0.6_seed7_0094,VAE / sample seed 7,vae,73,-1.0748873,1.1670697,0.28270766,True
+vae_empirical_scale0.75_temp0.6_seed7_0095,VAE / sample seed 7,vae,73,-0.68057734,1.7995362,0.44462118,True
+vae_empirical_scale0.75_temp0.6_seed7_0096,VAE / sample seed 7,vae,71,-0.8571676,0.09420361,0.15471236,True
+vae_empirical_scale0.75_temp0.6_seed7_0097,VAE / sample seed 7,vae,72,-1.526061,4.4009323,0.5705109,True
+vae_empirical_scale0.75_temp0.6_seed7_0098,VAE / sample seed 7,vae,75,-0.67779106,1.871517,0.47667155,True
+vae_empirical_scale0.75_temp0.6_seed7_0099,VAE / sample seed 7,vae,72,-1.6039253,-0.21473822,0.16420594,True
+vae_empirical_scale0.75_temp0.6_seed123_0000,VAE / sample seed 123,vae,71,-1.018956,1.2075384,0.21761738,True
+vae_empirical_scale0.75_temp0.6_seed123_0001,VAE / sample seed 123,vae,71,0.19306266,-1.78055,0.11340273,False
+vae_empirical_scale0.75_temp0.6_seed123_0002,VAE / sample seed 123,vae,72,-0.9756823,0.8101633,0.26523,True
+vae_empirical_scale0.75_temp0.6_seed123_0003,VAE / sample seed 123,vae,72,-1.1804564,0.85557556,0.24842529,True
+vae_empirical_scale0.75_temp0.6_seed123_0004,VAE / sample seed 123,vae,72,-0.51247466,2.7413096,0.56380534,True
+vae_empirical_scale0.75_temp0.6_seed123_0005,VAE / sample seed 123,vae,72,-0.9275204,-2.0999458,0.12269178,False
+vae_empirical_scale0.75_temp0.6_seed123_0006,VAE / sample seed 123,vae,71,-0.39090854,0.28178138,0.16103809,True
+vae_empirical_scale0.75_temp0.6_seed123_0007,VAE / sample seed 123,vae,72,0.7814153,-3.7527084,0.025888117,False
+vae_empirical_scale0.75_temp0.6_seed123_0008,VAE / sample seed 123,vae,72,1.09538,-3.5123773,0.026806597,False
+vae_empirical_scale0.75_temp0.6_seed123_0009,VAE / sample seed 123,vae,72,0.91782993,-5.5398765,0.028934527,False
+vae_empirical_scale0.75_temp0.6_seed123_0010,VAE / sample seed 123,vae,91,-0.6121715,2.506401,0.53524476,True
+vae_empirical_scale0.75_temp0.6_seed123_0011,VAE / sample seed 123,vae,71,-0.53339666,2.5170178,0.4759599,True
+vae_empirical_scale0.75_temp0.6_seed123_0012,VAE / sample seed 123,vae,60,-0.3461021,-2.6888688,0.08490901,False
+vae_empirical_scale0.75_temp0.6_seed123_0013,VAE / sample seed 123,vae,72,-1.1918472,1.1415972,0.23183334,True
+vae_empirical_scale0.75_temp0.6_seed123_0014,VAE / sample seed 123,vae,59,-1.4762008,-0.18335733,0.1621454,True
+vae_empirical_scale0.75_temp0.6_seed123_0015,VAE / sample seed 123,vae,72,-2.7046893,5.144272,0.88106704,True
+vae_empirical_scale0.75_temp0.6_seed123_0016,VAE / sample seed 123,vae,74,-1.258541,0.57431483,0.22727905,True
+vae_empirical_scale0.75_temp0.6_seed123_0017,VAE / sample seed 123,vae,72,-2.1444228,3.5634193,0.47892687,True
+vae_empirical_scale0.75_temp0.6_seed123_0018,VAE / sample seed 123,vae,72,-1.7532047,4.674634,0.64267135,True
+vae_empirical_scale0.75_temp0.6_seed123_0019,VAE / sample seed 123,vae,71,-0.804759,0.73248374,0.17232974,True
+vae_empirical_scale0.75_temp0.6_seed123_0020,VAE / sample seed 123,vae,72,-0.0473332,-3.6564004,0.0,False
+vae_empirical_scale0.75_temp0.6_seed123_0021,VAE / sample seed 123,vae,61,-0.25890958,-2.528512,0.093399025,False
+vae_empirical_scale0.75_temp0.6_seed123_0022,VAE / sample seed 123,vae,72,-0.5300709,2.3907685,0.45263568,True
+vae_empirical_scale0.75_temp0.6_seed123_0023,VAE / sample seed 123,vae,71,-1.4064633,4.6207747,0.7058437,True
+vae_empirical_scale0.75_temp0.6_seed123_0024,VAE / sample seed 123,vae,72,-2.7786484,5.2330303,0.734075,True
+vae_empirical_scale0.75_temp0.6_seed123_0025,VAE / sample seed 123,vae,71,2.276919,-4.486772,0.02441162,False
+vae_empirical_scale0.75_temp0.6_seed123_0026,VAE / sample seed 123,vae,72,-1.5049022,2.4671082,0.36451545,True
+vae_empirical_scale0.75_temp0.6_seed123_0027,VAE / sample seed 123,vae,72,-2.6314116,5.0772953,0.65500087,True
+vae_empirical_scale0.75_temp0.6_seed123_0028,VAE / sample seed 123,vae,72,-1.47055,0.47334635,0.18181643,True
+vae_empirical_scale0.75_temp0.6_seed123_0029,VAE / sample seed 123,vae,71,-0.5348607,2.294155,0.44807115,True
+vae_empirical_scale0.75_temp0.6_seed123_0030,VAE / sample seed 123,vae,75,-1.3724931,4.659568,0.73699015,True
+vae_empirical_scale0.75_temp0.6_seed123_0031,VAE / sample seed 123,vae,72,0.38957924,-3.3273926,0.030625785,False
+vae_empirical_scale0.75_temp0.6_seed123_0032,VAE / sample seed 123,vae,72,-0.17300265,-5.7949476,0.047203187,False
+vae_empirical_scale0.75_temp0.6_seed123_0033,VAE / sample seed 123,vae,71,2.2166748,-4.534263,0.020513624,False
+vae_empirical_scale0.75_temp0.6_seed123_0034,VAE / sample seed 123,vae,72,-1.4862924,2.38023,0.37887824,True
+vae_empirical_scale0.75_temp0.6_seed123_0035,VAE / sample seed 123,vae,71,0.24014412,-1.9644159,0.1450557,False
+vae_empirical_scale0.75_temp0.6_seed123_0036,VAE / sample seed 123,vae,72,-2.6764235,5.142156,0.7075533,True
+vae_empirical_scale0.75_temp0.6_seed123_0037,VAE / sample seed 123,vae,75,1.8085675,-6.3325796,0.055750728,False
+vae_empirical_scale0.75_temp0.6_seed123_0038,VAE / sample seed 123,vae,71,0.76791203,-5.410404,0.031100871,False
+vae_empirical_scale0.75_temp0.6_seed123_0039,VAE / sample seed 123,vae,72,-2.1185906,3.5395603,0.42283705,True
+vae_empirical_scale0.75_temp0.6_seed123_0040,VAE / sample seed 123,vae,72,-0.6950146,0.57087046,0.22453585,True
+vae_empirical_scale0.75_temp0.6_seed123_0041,VAE / sample seed 123,vae,73,0.7219661,-3.5026712,0.05177163,False
+vae_empirical_scale0.75_temp0.6_seed123_0042,VAE / sample seed 123,vae,75,-1.3839248,2.3112106,0.41223952,True
+vae_empirical_scale0.75_temp0.6_seed123_0043,VAE / sample seed 123,vae,74,-1.3705053,0.65440214,0.2598934,True
+vae_empirical_scale0.75_temp0.6_seed123_0044,VAE / sample seed 123,vae,72,-0.99044347,1.5660652,0.36749595,True
+vae_empirical_scale0.75_temp0.6_seed123_0045,VAE / sample seed 123,vae,72,-0.46772218,2.5888526,0.5387653,True
+vae_empirical_scale0.75_temp0.6_seed123_0046,VAE / sample seed 123,vae,71,-1.6136703,2.7655513,0.47771066,True
+vae_empirical_scale0.75_temp0.6_seed123_0047,VAE / sample seed 123,vae,72,-1.153917,-1.3929063,0.104143076,False
+vae_empirical_scale0.75_temp0.6_seed123_0048,VAE / sample seed 123,vae,73,-0.7619645,0.8358323,0.19107369,True
+vae_empirical_scale0.75_temp0.6_seed123_0049,VAE / sample seed 123,vae,71,0.55966383,-5.331211,0.03337144,False
+vae_empirical_scale0.75_temp0.6_seed123_0050,VAE / sample seed 123,vae,72,0.29376692,-1.9332091,0.099309735,False
+vae_empirical_scale0.75_temp0.6_seed123_0051,VAE / sample seed 123,vae,72,-0.47828,0.23053809,0.15563041,True
+vae_empirical_scale0.75_temp0.6_seed123_0052,VAE / sample seed 123,vae,71,-0.44079965,-4.7815723,0.02450666,False
+vae_empirical_scale0.75_temp0.6_seed123_0053,VAE / sample seed 123,vae,72,-1.8383011,4.779384,0.67047346,True
+vae_empirical_scale0.75_temp0.6_seed123_0054,VAE / sample seed 123,vae,71,-1.2518592,0.43488285,0.19081055,True
+vae_empirical_scale0.75_temp0.6_seed123_0055,VAE / sample seed 123,vae,72,-0.3123303,1.175061,0.3027192,True
+vae_empirical_scale0.75_temp0.6_seed123_0056,VAE / sample seed 123,vae,71,-1.8798794,3.8119373,0.5204781,True
+vae_empirical_scale0.75_temp0.6_seed123_0057,VAE / sample seed 123,vae,72,-1.5064485,2.4799879,0.42464975,True
+vae_empirical_scale0.75_temp0.6_seed123_0058,VAE / sample seed 123,vae,72,-0.5583135,2.3531454,0.45136127,True
+vae_empirical_scale0.75_temp0.6_seed123_0059,VAE / sample seed 123,vae,72,-1.1536664,0.54212147,0.22822852,True
+vae_empirical_scale0.75_temp0.6_seed123_0060,VAE / sample seed 123,vae,71,-0.5573793,2.3818123,0.40818077,True
+vae_empirical_scale0.75_temp0.6_seed123_0061,VAE / sample seed 123,vae,72,-0.9528465,0.54871017,0.2011624,True
+vae_empirical_scale0.75_temp0.6_seed123_0062,VAE / sample seed 123,vae,71,-1.7140625,0.470481,0.22491355,True
+vae_empirical_scale0.75_temp0.6_seed123_0063,VAE / sample seed 123,vae,71,-1.616041,-0.11882511,0.22555977,True
+vae_empirical_scale0.75_temp0.6_seed123_0064,VAE / sample seed 123,vae,72,1.3994629,-3.003316,0.023361081,False
+vae_empirical_scale0.75_temp0.6_seed123_0065,VAE / sample seed 123,vae,71,0.58449936,-5.277397,0.03337144,False
+vae_empirical_scale0.75_temp0.6_seed123_0066,VAE / sample seed 123,vae,72,-0.636911,-6.7304125,0.030722942,False
+vae_empirical_scale0.75_temp0.6_seed123_0067,VAE / sample seed 123,vae,71,-1.348129,1.1266265,0.23499165,True
+vae_empirical_scale0.75_temp0.6_seed123_0068,VAE / sample seed 123,vae,71,-1.848902,3.7787745,0.5649196,True
+vae_empirical_scale0.75_temp0.6_seed123_0069,VAE / sample seed 123,vae,72,-0.8641006,0.77703446,0.23107958,True
+vae_empirical_scale0.75_temp0.6_seed123_0070,VAE / sample seed 123,vae,72,-0.08949041,-3.7529142,0.0,False
+vae_empirical_scale0.75_temp0.6_seed123_0071,VAE / sample seed 123,vae,72,1.0222179,-6.463385,0.025791235,False
+vae_empirical_scale0.75_temp0.6_seed123_0072,VAE / sample seed 123,vae,72,-2.949563,5.3991647,0.8328316,True
+vae_empirical_scale0.75_temp0.6_seed123_0073,VAE / sample seed 123,vae,72,-1.4273818,4.6911054,0.63047594,True
+vae_empirical_scale0.75_temp0.6_seed123_0074,VAE / sample seed 123,vae,72,-0.5573749,0.273422,0.14851418,False
+vae_empirical_scale0.75_temp0.6_seed123_0075,VAE / sample seed 123,vae,72,-1.6163216,-4.76592,0.05517578,False
+vae_empirical_scale0.75_temp0.6_seed123_0076,VAE / sample seed 123,vae,74,-2.8839679,5.3322396,0.8203745,True
+vae_empirical_scale0.75_temp0.6_seed123_0077,VAE / sample seed 123,vae,71,-1.1112297,-1.4947158,0.110040545,False
+vae_empirical_scale0.75_temp0.6_seed123_0078,VAE / sample seed 123,vae,73,0.10039838,0.13764022,0.27822906,True
+vae_empirical_scale0.75_temp0.6_seed123_0079,VAE / sample seed 123,vae,72,-1.6586183,2.622246,0.36896393,True
+vae_empirical_scale0.75_temp0.6_seed123_0080,VAE / sample seed 123,vae,72,-0.33655256,-4.637996,0.027199501,False
+vae_empirical_scale0.75_temp0.6_seed123_0081,VAE / sample seed 123,vae,73,-0.48661384,2.8087456,0.6470786,True
+vae_empirical_scale0.75_temp0.6_seed123_0082,VAE / sample seed 123,vae,72,-1.6200149,3.4980493,0.44990116,True
+vae_empirical_scale0.75_temp0.6_seed123_0083,VAE / sample seed 123,vae,72,-1.4233477,4.5784335,0.6077348,True
+vae_empirical_scale0.75_temp0.6_seed123_0084,VAE / sample seed 123,vae,72,-0.7366697,1.6974577,0.40909636,True
+vae_empirical_scale0.75_temp0.6_seed123_0085,VAE / sample seed 123,vae,71,-1.6869174,2.802219,0.35449353,True
+vae_empirical_scale0.75_temp0.6_seed123_0086,VAE / sample seed 123,vae,73,-0.5229411,2.2533903,0.7069121,True
+vae_empirical_scale0.75_temp0.6_seed123_0087,VAE / sample seed 123,vae,74,-2.0980678,3.550943,0.44155017,True
+vae_empirical_scale0.75_temp0.6_seed123_0088,VAE / sample seed 123,vae,73,-0.8511665,0.16973831,0.21214935,True
+vae_empirical_scale0.75_temp0.6_seed123_0089,VAE / sample seed 123,vae,71,-2.9561539,5.4024663,0.94214743,True
+vae_empirical_scale0.75_temp0.6_seed123_0090,VAE / sample seed 123,vae,72,0.81004786,-6.479244,0.04805665,False
+vae_empirical_scale0.75_temp0.6_seed123_0091,VAE / sample seed 123,vae,72,-1.7512137,4.645953,0.61081874,True
+vae_empirical_scale0.75_temp0.6_seed123_0092,VAE / sample seed 123,vae,72,-1.6668904,4.0692153,0.67496413,True
+vae_empirical_scale0.75_temp0.6_seed123_0093,VAE / sample seed 123,vae,80,-1.3490422,1.6214494,0.2890887,True
+vae_empirical_scale0.75_temp0.6_seed123_0094,VAE / sample seed 123,vae,75,-0.6514331,2.6446354,0.46627754,True
+vae_empirical_scale0.75_temp0.6_seed123_0095,VAE / sample seed 123,vae,72,-1.6238197,2.3979068,0.3139952,True
+vae_empirical_scale0.75_temp0.6_seed123_0096,VAE / sample seed 123,vae,73,-0.16490737,-2.3934114,0.1645975,True
+vae_empirical_scale0.75_temp0.6_seed123_0097,VAE / sample seed 123,vae,72,-1.6363769,-0.13846725,0.2041477,True
+vae_empirical_scale0.75_temp0.6_seed123_0098,VAE / sample seed 123,vae,72,-1.4913144,0.14949392,0.15444978,True
+vae_empirical_scale0.75_temp0.6_seed123_0099,VAE / sample seed 123,vae,71,0.64899397,-5.293015,0.0333768,False
+gan_temp0.1_seed42_0000,GAN / sample seed 42,gan,72,11.7810335,5.0047426,0.4175083,True
+gan_temp0.1_seed42_0001,GAN / sample seed 42,gan,72,8.0803995,0.20773558,0.16348091,True
+gan_temp0.1_seed42_0002,GAN / sample seed 42,gan,75,11.6528635,5.179682,0.40969226,True
+gan_temp0.1_seed42_0003,GAN / sample seed 42,gan,60,8.563181,1.7653749,0.14971852,True
+gan_temp0.1_seed42_0004,GAN / sample seed 42,gan,72,10.333364,4.2173095,0.33920613,True
+gan_temp0.1_seed42_0005,GAN / sample seed 42,gan,72,8.751122,1.980414,0.20330685,True
+gan_temp0.1_seed42_0006,GAN / sample seed 42,gan,72,9.686492,3.1654658,0.2734669,True
+gan_temp0.1_seed42_0007,GAN / sample seed 42,gan,72,10.899417,3.4664357,0.28319344,True
+gan_temp0.1_seed42_0008,GAN / sample seed 42,gan,71,8.416034,0.4548134,0.14579141,False
+gan_temp0.1_seed42_0009,GAN / sample seed 42,gan,71,9.824909,2.4533837,0.26593763,True
+gan_temp0.1_seed42_0010,GAN / sample seed 42,gan,72,9.613899,2.5730445,0.21239392,True
+gan_temp0.1_seed42_0011,GAN / sample seed 42,gan,59,0.011839095,-2.567195,0.14881447,False
+gan_temp0.1_seed42_0012,GAN / sample seed 42,gan,72,9.571634,1.8660712,0.2666552,True
+gan_temp0.1_seed42_0013,GAN / sample seed 42,gan,59,9.385771,2.492273,0.23576401,True
+gan_temp0.1_seed42_0014,GAN / sample seed 42,gan,72,8.223927,0.37386307,0.13140346,False
+gan_temp0.1_seed42_0015,GAN / sample seed 42,gan,84,11.110937,5.180364,0.45465645,True
+gan_temp0.1_seed42_0016,GAN / sample seed 42,gan,72,10.88218,3.1205094,0.29901874,True
+gan_temp0.1_seed42_0017,GAN / sample seed 42,gan,71,9.171482,1.7092787,0.19515711,True
+gan_temp0.1_seed42_0018,GAN / sample seed 42,gan,71,10.03475,2.323981,0.2475362,True
+gan_temp0.1_seed42_0019,GAN / sample seed 42,gan,74,9.811741,2.839036,0.25026354,True
+gan_temp0.1_seed42_0020,GAN / sample seed 42,gan,73,9.516031,2.0230997,0.25311178,True
+gan_temp0.1_seed42_0021,GAN / sample seed 42,gan,72,10.822693,3.1519427,0.2714991,True
+gan_temp0.1_seed42_0022,GAN / sample seed 42,gan,71,8.360993,0.70783937,0.17291121,True
+gan_temp0.1_seed42_0023,GAN / sample seed 42,gan,73,8.520678,0.8893754,0.16987978,True
+gan_temp0.1_seed42_0024,GAN / sample seed 42,gan,71,9.07305,2.1092603,0.22154252,True
+gan_temp0.1_seed42_0025,GAN / sample seed 42,gan,71,10.713946,3.6067116,0.31822285,True
+gan_temp0.1_seed42_0026,GAN / sample seed 42,gan,74,8.6163225,1.1874124,0.17012136,True
+gan_temp0.1_seed42_0027,GAN / sample seed 42,gan,72,11.839114,5.0771313,0.42004663,True
+gan_temp0.1_seed42_0028,GAN / sample seed 42,gan,72,10.368311,4.3219957,0.32150918,True
+gan_temp0.1_seed42_0029,GAN / sample seed 42,gan,72,8.888604,1.3298975,0.18403701,True
+gan_temp0.1_seed42_0030,GAN / sample seed 42,gan,73,10.935641,5.092576,0.39786685,True
+gan_temp0.1_seed42_0031,GAN / sample seed 42,gan,72,10.301278,4.159308,0.3524939,True
+gan_temp0.1_seed42_0032,GAN / sample seed 42,gan,71,9.145538,1.6335523,0.20017745,True
+gan_temp0.1_seed42_0033,GAN / sample seed 42,gan,72,9.84231,2.424577,0.25283778,True
+gan_temp0.1_seed42_0034,GAN / sample seed 42,gan,59,8.973871,1.5904461,0.18297294,True
+gan_temp0.1_seed42_0035,GAN / sample seed 42,gan,72,10.879885,2.9851744,0.28842217,True
+gan_temp0.1_seed42_0036,GAN / sample seed 42,gan,72,10.775581,4.2334657,0.32634288,True
+gan_temp0.1_seed42_0037,GAN / sample seed 42,gan,72,9.339127,3.088656,0.2758733,True
+gan_temp0.1_seed42_0038,GAN / sample seed 42,gan,71,9.528071,2.3906379,0.2610207,True
+gan_temp0.1_seed42_0039,GAN / sample seed 42,gan,72,11.243508,5.0889883,0.41005683,True
+gan_temp0.1_seed42_0040,GAN / sample seed 42,gan,72,8.071722,0.7484588,0.17705296,True
+gan_temp0.1_seed42_0041,GAN / sample seed 42,gan,61,8.41482,0.73784554,0.16591075,True
+gan_temp0.1_seed42_0042,GAN / sample seed 42,gan,72,10.305643,3.7204251,0.30387476,True
+gan_temp0.1_seed42_0043,GAN / sample seed 42,gan,71,9.69505,2.8378928,0.2534596,True
+gan_temp0.1_seed42_0044,GAN / sample seed 42,gan,72,10.029694,2.5537748,0.21422446,True
+gan_temp0.1_seed42_0045,GAN / sample seed 42,gan,80,10.143732,4.0352793,0.32193884,True
+gan_temp0.1_seed42_0046,GAN / sample seed 42,gan,72,9.488184,1.8799214,0.24658832,True
+gan_temp0.1_seed42_0047,GAN / sample seed 42,gan,72,11.677751,5.2301555,0.46038565,True
+gan_temp0.1_seed42_0048,GAN / sample seed 42,gan,72,8.961009,1.2446567,0.19377692,True
+gan_temp0.1_seed42_0049,GAN / sample seed 42,gan,72,9.035666,1.4484917,0.18329613,True
+gan_temp0.1_seed42_0050,GAN / sample seed 42,gan,60,10.566932,2.8205614,0.2578074,True
+gan_temp0.1_seed42_0051,GAN / sample seed 42,gan,73,8.025447,0.7437862,0.15943635,True
+gan_temp0.1_seed42_0052,GAN / sample seed 42,gan,73,8.011732,0.27461416,0.16856633,True
+gan_temp0.1_seed42_0053,GAN / sample seed 42,gan,71,9.128731,1.9214041,0.2171809,True
+gan_temp0.1_seed42_0054,GAN / sample seed 42,gan,72,9.078354,1.9095064,0.22016747,True
+gan_temp0.1_seed42_0055,GAN / sample seed 42,gan,71,10.487054,3.5006557,0.29834104,True
+gan_temp0.1_seed42_0056,GAN / sample seed 42,gan,71,9.717165,3.353251,0.2697965,True
+gan_temp0.1_seed42_0057,GAN / sample seed 42,gan,80,11.579283,5.251656,0.4407933,True
+gan_temp0.1_seed42_0058,GAN / sample seed 42,gan,72,10.711783,4.5839553,0.35670558,True
+gan_temp0.1_seed42_0059,GAN / sample seed 42,gan,71,8.160546,0.55324256,0.18116419,True
+gan_temp0.1_seed42_0060,GAN / sample seed 42,gan,72,8.846282,2.1283839,0.20724908,True
+gan_temp0.1_seed42_0061,GAN / sample seed 42,gan,71,11.340021,4.6457834,0.36280233,True
+gan_temp0.1_seed42_0062,GAN / sample seed 42,gan,72,9.760394,2.663744,0.23470537,True
+gan_temp0.1_seed42_0063,GAN / sample seed 42,gan,72,10.6637335,4.591641,0.3501043,True
+gan_temp0.1_seed42_0064,GAN / sample seed 42,gan,72,9.097576,1.2242575,0.19633096,True
+gan_temp0.1_seed42_0065,GAN / sample seed 42,gan,72,9.181817,2.577133,0.23058794,True
+gan_temp0.1_seed42_0066,GAN / sample seed 42,gan,72,11.307371,4.304652,0.3419937,True
+gan_temp0.1_seed42_0067,GAN / sample seed 42,gan,72,8.023152,0.6289556,0.18165736,True
+gan_temp0.1_seed42_0068,GAN / sample seed 42,gan,72,10.282327,2.8790658,0.29152107,True
+gan_temp0.1_seed42_0069,GAN / sample seed 42,gan,73,10.646159,4.2815375,0.30971104,True
+gan_temp0.1_seed42_0070,GAN / sample seed 42,gan,72,8.93655,1.677875,0.19687425,True
+gan_temp0.1_seed42_0071,GAN / sample seed 42,gan,72,11.801038,4.820648,0.3814325,True
+gan_temp0.1_seed42_0072,GAN / sample seed 42,gan,71,8.711691,1.9982272,0.1893842,True
+gan_temp0.1_seed42_0073,GAN / sample seed 42,gan,71,11.648296,4.548266,0.3581036,True
+gan_temp0.1_seed42_0074,GAN / sample seed 42,gan,72,11.476007,4.674578,0.37913883,True
+gan_temp0.1_seed42_0075,GAN / sample seed 42,gan,72,8.320258,0.93967986,0.1766799,True
+gan_temp0.1_seed42_0076,GAN / sample seed 42,gan,73,9.968963,3.870361,0.29381025,True
+gan_temp0.1_seed42_0077,GAN / sample seed 42,gan,72,9.484343,3.065327,0.25758398,True
+gan_temp0.1_seed42_0078,GAN / sample seed 42,gan,72,10.52853,4.4316363,0.34879023,True
+gan_temp0.1_seed42_0079,GAN / sample seed 42,gan,71,10.135625,2.4018252,0.23558621,True
+gan_temp0.1_seed42_0080,GAN / sample seed 42,gan,72,9.006648,1.7648648,0.2170925,True
+gan_temp0.1_seed42_0081,GAN / sample seed 42,gan,72,9.290982,1.452292,0.21531016,True
+gan_temp0.1_seed42_0082,GAN / sample seed 42,gan,72,9.800574,2.8060048,0.24891858,True
+gan_temp0.1_seed42_0083,GAN / sample seed 42,gan,71,11.606611,5.0667243,0.39382222,True
+gan_temp0.1_seed42_0084,GAN / sample seed 42,gan,71,11.428293,4.3087225,0.3640475,True
+gan_temp0.1_seed42_0085,GAN / sample seed 42,gan,71,8.214196,1.1664737,0.1795219,True
+gan_temp0.1_seed42_0086,GAN / sample seed 42,gan,60,11.613721,4.252455,0.32407972,True
+gan_temp0.1_seed42_0087,GAN / sample seed 42,gan,75,9.252213,2.5027757,0.25531554,True
+gan_temp0.1_seed42_0088,GAN / sample seed 42,gan,71,10.576635,3.2042885,0.28268975,True
+gan_temp0.1_seed42_0089,GAN / sample seed 42,gan,72,10.791178,4.8872275,0.38979846,True
+gan_temp0.1_seed42_0090,GAN / sample seed 42,gan,72,7.991191,0.14279328,0.15837069,True
+gan_temp0.1_seed42_0091,GAN / sample seed 42,gan,71,10.422067,3.5816576,0.2968736,True
+gan_temp0.1_seed42_0092,GAN / sample seed 42,gan,72,8.202111,1.2597183,0.20939325,True
+gan_temp0.1_seed42_0093,GAN / sample seed 42,gan,72,10.727465,3.1517015,0.2613477,True
+gan_temp0.1_seed42_0094,GAN / sample seed 42,gan,72,9.768012,3.318174,0.24101762,True
+gan_temp0.1_seed42_0095,GAN / sample seed 42,gan,71,11.358384,4.483533,0.34998816,True
+gan_temp0.1_seed42_0096,GAN / sample seed 42,gan,72,10.675582,3.3908412,0.30330756,True
+gan_temp0.1_seed42_0097,GAN / sample seed 42,gan,72,9.023617,1.1276815,0.21204847,True
+gan_temp0.1_seed42_0098,GAN / sample seed 42,gan,73,11.109321,4.915245,0.3821382,True
+gan_temp0.1_seed42_0099,GAN / sample seed 42,gan,71,10.490909,2.7984111,0.26724198,True
+gan_temp0.1_seed7_0000,GAN / sample seed 7,gan,76,8.504532,0.61943465,0.17569782,True
+gan_temp0.1_seed7_0001,GAN / sample seed 7,gan,72,8.7914095,1.6119583,0.18712929,True
+gan_temp0.1_seed7_0002,GAN / sample seed 7,gan,75,10.1543865,3.5497396,0.30593947,True
+gan_temp0.1_seed7_0003,GAN / sample seed 7,gan,80,9.248314,2.0563726,0.24896336,True
+gan_temp0.1_seed7_0004,GAN / sample seed 7,gan,72,10.450663,3.4016538,0.30278695,True
+gan_temp0.1_seed7_0005,GAN / sample seed 7,gan,72,11.618052,4.9681673,0.40897554,True
+gan_temp0.1_seed7_0006,GAN / sample seed 7,gan,72,10.629302,3.1664155,0.26362982,True
+gan_temp0.1_seed7_0007,GAN / sample seed 7,gan,72,10.580734,3.8253481,0.32676414,True
+gan_temp0.1_seed7_0008,GAN / sample seed 7,gan,72,10.81804,4.7067585,0.36650622,True
+gan_temp0.1_seed7_0009,GAN / sample seed 7,gan,73,10.728273,2.993559,0.27597913,True
+gan_temp0.1_seed7_0010,GAN / sample seed 7,gan,61,10.450198,2.5912113,0.2535165,True
+gan_temp0.1_seed7_0011,GAN / sample seed 7,gan,74,11.058483,5.093725,0.3966105,True
+gan_temp0.1_seed7_0012,GAN / sample seed 7,gan,74,9.08214,1.769256,0.20595545,True
+gan_temp0.1_seed7_0013,GAN / sample seed 7,gan,72,10.303643,2.6735423,0.26594254,True
+gan_temp0.1_seed7_0014,GAN / sample seed 7,gan,80,11.715134,4.7578254,0.37593564,True
+gan_temp0.1_seed7_0015,GAN / sample seed 7,gan,71,9.497248,3.2604573,0.25599447,True
+gan_temp0.1_seed7_0016,GAN / sample seed 7,gan,73,11.5754795,4.190415,0.35408807,True
+gan_temp0.1_seed7_0017,GAN / sample seed 7,gan,73,8.52449,0.6542524,0.14385623,False
+gan_temp0.1_seed7_0018,GAN / sample seed 7,gan,72,8.488485,0.9909707,0.18260609,True
+gan_temp0.1_seed7_0019,GAN / sample seed 7,gan,71,9.697565,3.5003967,0.2697565,True
+gan_temp0.1_seed7_0020,GAN / sample seed 7,gan,72,11.353957,4.131547,0.34005958,True
+gan_temp0.1_seed7_0021,GAN / sample seed 7,gan,84,9.495731,2.273157,0.2780422,True
+gan_temp0.1_seed7_0022,GAN / sample seed 7,gan,72,9.502558,2.684852,0.27238807,True
+gan_temp0.1_seed7_0023,GAN / sample seed 7,gan,80,9.525089,2.7655373,0.27181044,True
+gan_temp0.1_seed7_0024,GAN / sample seed 7,gan,60,8.397054,1.526181,0.16190076,True
+gan_temp0.1_seed7_0025,GAN / sample seed 7,gan,72,8.981652,1.7073106,0.18332799,True
+gan_temp0.1_seed7_0026,GAN / sample seed 7,gan,75,8.187388,0.26367232,0.17027684,True
+gan_temp0.1_seed7_0027,GAN / sample seed 7,gan,73,10.716673,3.7453668,0.3037653,True
+gan_temp0.1_seed7_0028,GAN / sample seed 7,gan,72,11.735376,4.47464,0.35784355,True
+gan_temp0.1_seed7_0029,GAN / sample seed 7,gan,74,11.521133,5.243971,0.41426498,True
+gan_temp0.1_seed7_0030,GAN / sample seed 7,gan,71,10.684308,3.7602024,0.31345984,True
+gan_temp0.1_seed7_0031,GAN / sample seed 7,gan,73,8.995799,2.4206827,0.2625521,True
+gan_temp0.1_seed7_0032,GAN / sample seed 7,gan,72,11.272203,5.071805,0.40674135,True
+gan_temp0.1_seed7_0033,GAN / sample seed 7,gan,72,8.757105,0.897632,0.18344793,True
+gan_temp0.1_seed7_0034,GAN / sample seed 7,gan,72,9.000716,1.7397201,0.21676168,True
+gan_temp0.1_seed7_0035,GAN / sample seed 7,gan,74,10.182533,3.5429237,0.31006896,True
+gan_temp0.1_seed7_0036,GAN / sample seed 7,gan,59,8.900637,1.6476206,0.19088581,True
+gan_temp0.1_seed7_0037,GAN / sample seed 7,gan,72,11.668531,4.7461867,0.37785903,True
+gan_temp0.1_seed7_0038,GAN / sample seed 7,gan,71,10.879552,3.0670636,0.28966233,True
+gan_temp0.1_seed7_0039,GAN / sample seed 7,gan,71,9.611106,2.4910593,0.23710492,True
+gan_temp0.1_seed7_0040,GAN / sample seed 7,gan,73,9.405682,3.0819366,0.26204696,True
+gan_temp0.1_seed7_0041,GAN / sample seed 7,gan,72,11.383643,5.2031317,0.39698812,True
+gan_temp0.1_seed7_0042,GAN / sample seed 7,gan,72,8.866269,2.0230818,0.21261047,True
+gan_temp0.1_seed7_0043,GAN / sample seed 7,gan,71,9.701554,2.0816903,0.25234577,True
+gan_temp0.1_seed7_0044,GAN / sample seed 7,gan,72,10.557695,3.6640608,0.28869522,True
+gan_temp0.1_seed7_0045,GAN / sample seed 7,gan,71,11.192411,4.508769,0.35409802,True
+gan_temp0.1_seed7_0046,GAN / sample seed 7,gan,72,8.406904,0.46523833,0.14515756,False
+gan_temp0.1_seed7_0047,GAN / sample seed 7,gan,71,9.8862295,2.2981176,0.24098101,True
+gan_temp0.1_seed7_0048,GAN / sample seed 7,gan,70,8.351266,0.6461778,0.1406678,False
+gan_temp0.1_seed7_0049,GAN / sample seed 7,gan,71,11.486707,4.3821983,0.3255245,True
+gan_temp0.1_seed7_0050,GAN / sample seed 7,gan,72,11.123414,4.354439,0.35039002,True
+gan_temp0.1_seed7_0051,GAN / sample seed 7,gan,71,9.201923,1.52083,0.19066773,True
+gan_temp0.1_seed7_0052,GAN / sample seed 7,gan,70,10.540142,2.7136219,0.26938394,True
+gan_temp0.1_seed7_0053,GAN / sample seed 7,gan,72,9.883736,2.359073,0.26392335,True
+gan_temp0.1_seed7_0054,GAN / sample seed 7,gan,71,11.427683,4.985737,0.39333895,True
+gan_temp0.1_seed7_0055,GAN / sample seed 7,gan,71,10.327676,4.107299,0.3009443,True
+gan_temp0.1_seed7_0056,GAN / sample seed 7,gan,72,11.673262,4.689051,0.42068923,True
+gan_temp0.1_seed7_0057,GAN / sample seed 7,gan,72,11.285851,5.0522447,0.41042835,True
+gan_temp0.1_seed7_0058,GAN / sample seed 7,gan,72,10.842214,3.3809638,0.30446714,True
+gan_temp0.1_seed7_0059,GAN / sample seed 7,gan,72,9.899923,3.7766693,0.28390458,True
+gan_temp0.1_seed7_0060,GAN / sample seed 7,gan,72,9.8834915,2.6456141,0.27037093,True
+gan_temp0.1_seed7_0061,GAN / sample seed 7,gan,80,11.528887,4.6194983,0.39978218,True
+gan_temp0.1_seed7_0062,GAN / sample seed 7,gan,72,10.718114,4.5905395,0.33086902,True
+gan_temp0.1_seed7_0063,GAN / sample seed 7,gan,72,8.937101,2.0473936,0.20666327,True
+gan_temp0.1_seed7_0064,GAN / sample seed 7,gan,74,9.369523,3.09523,0.2677151,True
+gan_temp0.1_seed7_0065,GAN / sample seed 7,gan,75,10.134494,3.1279263,0.2791893,True
+gan_temp0.1_seed7_0066,GAN / sample seed 7,gan,71,7.952795,0.1194619,0.12748723,False
+gan_temp0.1_seed7_0067,GAN / sample seed 7,gan,80,11.54654,5.2033744,0.39998206,True
+gan_temp0.1_seed7_0068,GAN / sample seed 7,gan,72,11.750166,4.68543,0.3662876,True
+gan_temp0.1_seed7_0069,GAN / sample seed 7,gan,72,9.19838,1.7897918,0.23238109,True
+gan_temp0.1_seed7_0070,GAN / sample seed 7,gan,72,9.740949,2.3653874,0.24205925,True
+gan_temp0.1_seed7_0071,GAN / sample seed 7,gan,72,9.556285,2.3178189,0.24855913,True
+gan_temp0.1_seed7_0072,GAN / sample seed 7,gan,72,10.871766,4.4944315,0.34130982,True
+gan_temp0.1_seed7_0073,GAN / sample seed 7,gan,71,10.981272,4.0551414,0.3456871,True
+gan_temp0.1_seed7_0074,GAN / sample seed 7,gan,72,10.3538,4.0797496,0.35333416,True
+gan_temp0.1_seed7_0075,GAN / sample seed 7,gan,72,9.410129,2.8684378,0.25928286,True
+gan_temp0.1_seed7_0076,GAN / sample seed 7,gan,72,11.232706,4.899441,0.3706907,True
+gan_temp0.1_seed7_0077,GAN / sample seed 7,gan,72,10.983567,3.6705406,0.317132,True
+gan_temp0.1_seed7_0078,GAN / sample seed 7,gan,71,9.502959,2.6066575,0.23028298,True
+gan_temp0.1_seed7_0079,GAN / sample seed 7,gan,71,10.012544,2.1795063,0.24806273,True
+gan_temp0.1_seed7_0080,GAN / sample seed 7,gan,71,9.204212,1.977978,0.21854255,True
+gan_temp0.1_seed7_0081,GAN / sample seed 7,gan,72,11.688679,4.5244684,0.37824026,True
+gan_temp0.1_seed7_0082,GAN / sample seed 7,gan,73,11.237533,5.120921,0.4037689,True
+gan_temp0.1_seed7_0083,GAN / sample seed 7,gan,71,9.828393,2.030276,0.22959734,True
+gan_temp0.1_seed7_0084,GAN / sample seed 7,gan,73,11.209733,4.1098185,0.32968804,True
+gan_temp0.1_seed7_0085,GAN / sample seed 7,gan,72,10.010896,2.6129532,0.25202692,True
+gan_temp0.1_seed7_0086,GAN / sample seed 7,gan,70,11.519577,4.3166924,0.34366813,True
+gan_temp0.1_seed7_0087,GAN / sample seed 7,gan,72,11.40807,4.0692554,0.33731648,True
+gan_temp0.1_seed7_0088,GAN / sample seed 7,gan,72,9.912316,3.5578258,0.28210297,True
+gan_temp0.1_seed7_0089,GAN / sample seed 7,gan,72,10.180279,3.8191156,0.30911925,True
+gan_temp0.1_seed7_0090,GAN / sample seed 7,gan,72,8.350174,0.8866836,0.17733787,True
+gan_temp0.1_seed7_0091,GAN / sample seed 7,gan,71,10.77747,4.844305,0.3854932,True
+gan_temp0.1_seed7_0092,GAN / sample seed 7,gan,72,11.025052,4.3935375,0.37708607,True
+gan_temp0.1_seed7_0093,GAN / sample seed 7,gan,73,11.5802555,5.3549004,0.44070607,True
+gan_temp0.1_seed7_0094,GAN / sample seed 7,gan,73,11.515186,5.3540573,0.43708864,True
+gan_temp0.1_seed7_0095,GAN / sample seed 7,gan,73,9.79865,2.5476162,0.2365215,True
+gan_temp0.1_seed7_0096,GAN / sample seed 7,gan,71,8.123048,0.30199307,0.15811644,True
+gan_temp0.1_seed7_0097,GAN / sample seed 7,gan,72,8.815258,1.0670341,0.18370378,True
+gan_temp0.1_seed7_0098,GAN / sample seed 7,gan,75,10.745396,3.1748614,0.30757418,True
+gan_temp0.1_seed7_0099,GAN / sample seed 7,gan,72,8.046793,0.32121363,0.14484598,False
+gan_temp0.1_seed123_0000,GAN / sample seed 123,gan,71,8.599983,0.99761134,0.14798829,False
+gan_temp0.1_seed123_0001,GAN / sample seed 123,gan,71,8.005669,0.18417458,0.17181395,True
+gan_temp0.1_seed123_0002,GAN / sample seed 123,gan,72,11.499286,4.244431,0.3274766,True
+gan_temp0.1_seed123_0003,GAN / sample seed 123,gan,72,11.439031,4.2510934,0.38549703,True
+gan_temp0.1_seed123_0004,GAN / sample seed 123,gan,72,9.910631,3.724375,0.269724,True
+gan_temp0.1_seed123_0005,GAN / sample seed 123,gan,72,11.729825,5.0288754,0.4100801,True
+gan_temp0.1_seed123_0006,GAN / sample seed 123,gan,71,9.727149,2.9020483,0.24339485,True
+gan_temp0.1_seed123_0007,GAN / sample seed 123,gan,72,10.686386,3.0949388,0.26438436,True
+gan_temp0.1_seed123_0008,GAN / sample seed 123,gan,72,10.260222,3.907078,0.30204508,True
+gan_temp0.1_seed123_0009,GAN / sample seed 123,gan,72,10.9288435,3.2410178,0.30467752,True
+gan_temp0.1_seed123_0010,GAN / sample seed 123,gan,91,11.305905,5.0406756,0.47800252,True
+gan_temp0.1_seed123_0011,GAN / sample seed 123,gan,71,8.273062,1.3460499,0.17651215,True
+gan_temp0.1_seed123_0012,GAN / sample seed 123,gan,60,8.776594,1.4947612,0.14104314,False
+gan_temp0.1_seed123_0013,GAN / sample seed 123,gan,72,9.846923,2.7866595,0.2748915,True
+gan_temp0.1_seed123_0014,GAN / sample seed 123,gan,59,11.123292,3.84595,0.32228062,True
+gan_temp0.1_seed123_0015,GAN / sample seed 123,gan,72,8.148525,1.0735471,0.1866311,True
+gan_temp0.1_seed123_0016,GAN / sample seed 123,gan,74,10.165774,3.6210418,0.30560225,True
+gan_temp0.1_seed123_0017,GAN / sample seed 123,gan,72,9.689871,1.973575,0.22810078,True
+gan_temp0.1_seed123_0018,GAN / sample seed 123,gan,72,10.639101,3.4990408,0.30179098,True
+gan_temp0.1_seed123_0019,GAN / sample seed 123,gan,71,8.663874,0.7284334,0.1693942,True
+gan_temp0.1_seed123_0020,GAN / sample seed 123,gan,72,8.447301,0.7114842,0.1493562,True
+gan_temp0.1_seed123_0021,GAN / sample seed 123,gan,61,8.479963,0.99846745,0.1699075,True
+gan_temp0.1_seed123_0022,GAN / sample seed 123,gan,72,10.211717,3.3680153,0.30260342,True
+gan_temp0.1_seed123_0023,GAN / sample seed 123,gan,71,8.8302965,2.0460587,0.19699048,True
+gan_temp0.1_seed123_0024,GAN / sample seed 123,gan,72,10.149796,3.2523022,0.27300578,True
+gan_temp0.1_seed123_0025,GAN / sample seed 123,gan,71,10.314786,2.4820635,0.27767086,True
+gan_temp0.1_seed123_0026,GAN / sample seed 123,gan,72,11.545323,5.33422,0.45777416,True
+gan_temp0.1_seed123_0027,GAN / sample seed 123,gan,72,8.647912,0.7939986,0.17802958,True
+gan_temp0.1_seed123_0028,GAN / sample seed 123,gan,72,10.594238,4.012905,0.34797704,True
+gan_temp0.1_seed123_0029,GAN / sample seed 123,gan,71,9.435165,1.6844478,0.21571866,True
+gan_temp0.1_seed123_0030,GAN / sample seed 123,gan,75,10.692511,4.7810206,0.36417794,True
+gan_temp0.1_seed123_0031,GAN / sample seed 123,gan,72,9.7571125,3.4385905,0.2551306,True
+gan_temp0.1_seed123_0032,GAN / sample seed 123,gan,72,8.053296,0.11175289,0.16501811,True
+gan_temp0.1_seed123_0033,GAN / sample seed 123,gan,71,9.561718,1.811927,0.25183812,True
+gan_temp0.1_seed123_0034,GAN / sample seed 123,gan,72,11.005993,3.3760033,0.2822555,True
+gan_temp0.1_seed123_0035,GAN / sample seed 123,gan,71,11.634035,4.5663657,0.3723134,True
+gan_temp0.1_seed123_0036,GAN / sample seed 123,gan,72,11.119684,5.067393,0.3847416,True
+gan_temp0.1_seed123_0037,GAN / sample seed 123,gan,75,8.558431,0.7534604,0.1699275,True
+gan_temp0.1_seed123_0038,GAN / sample seed 123,gan,71,11.829613,4.937248,0.40199485,True
+gan_temp0.1_seed123_0039,GAN / sample seed 123,gan,72,10.156821,2.7957299,0.27487653,True
+gan_temp0.1_seed123_0040,GAN / sample seed 123,gan,72,11.093554,4.376676,0.35291168,True
+gan_temp0.1_seed123_0041,GAN / sample seed 123,gan,73,8.253929,0.4837907,0.17219825,True
+gan_temp0.1_seed123_0042,GAN / sample seed 123,gan,75,10.625352,4.0468073,0.34361714,True
+gan_temp0.1_seed123_0043,GAN / sample seed 123,gan,74,9.604217,3.2459393,0.25886023,True
+gan_temp0.1_seed123_0044,GAN / sample seed 123,gan,72,11.722144,4.892326,0.3827197,True
+gan_temp0.1_seed123_0045,GAN / sample seed 123,gan,72,9.109672,1.5584611,0.1850776,True
+gan_temp0.1_seed123_0046,GAN / sample seed 123,gan,71,10.187249,2.320703,0.24422313,True
+gan_temp0.1_seed123_0047,GAN / sample seed 123,gan,72,11.725622,5.23971,0.4595965,True
+gan_temp0.1_seed123_0048,GAN / sample seed 123,gan,73,9.757993,2.6644683,0.24206983,True
+gan_temp0.1_seed123_0049,GAN / sample seed 123,gan,71,11.779944,4.5739903,0.36738873,True
+gan_temp0.1_seed123_0050,GAN / sample seed 123,gan,72,8.016166,0.39491928,0.1484921,False
+gan_temp0.1_seed123_0051,GAN / sample seed 123,gan,72,11.037235,5.10782,0.4049343,True
+gan_temp0.1_seed123_0052,GAN / sample seed 123,gan,71,10.685673,4.6192155,0.33625886,True
+gan_temp0.1_seed123_0053,GAN / sample seed 123,gan,72,10.694365,2.9232721,0.28191677,True
+gan_temp0.1_seed123_0054,GAN / sample seed 123,gan,71,9.997209,3.6450937,0.2948475,True
+gan_temp0.1_seed123_0055,GAN / sample seed 123,gan,72,8.446698,1.3822173,0.1955632,True
+gan_temp0.1_seed123_0056,GAN / sample seed 123,gan,71,11.107818,3.657516,0.31553853,True
+gan_temp0.1_seed123_0057,GAN / sample seed 123,gan,72,10.204781,3.7177067,0.29432264,True
+gan_temp0.1_seed123_0058,GAN / sample seed 123,gan,72,10.41024,4.4615693,0.35647675,True
+gan_temp0.1_seed123_0059,GAN / sample seed 123,gan,72,8.631947,1.8146073,0.18924977,True
+gan_temp0.1_seed123_0060,GAN / sample seed 123,gan,71,8.304856,0.6155654,0.15250055,True
+gan_temp0.1_seed123_0061,GAN / sample seed 123,gan,72,11.194636,4.7117047,0.39146212,True
+gan_temp0.1_seed123_0062,GAN / sample seed 123,gan,71,9.009581,1.6072261,0.18077917,True
+gan_temp0.1_seed123_0063,GAN / sample seed 123,gan,71,9.988653,4.045287,0.31569678,True
+gan_temp0.1_seed123_0064,GAN / sample seed 123,gan,72,11.022322,5.1222324,0.44368353,True
+gan_temp0.1_seed123_0065,GAN / sample seed 123,gan,71,10.338134,4.02486,0.3351872,True
+gan_temp0.1_seed123_0066,GAN / sample seed 123,gan,72,10.541799,3.778836,0.31936058,True
+gan_temp0.1_seed123_0067,GAN / sample seed 123,gan,71,10.140193,3.9965672,0.30062664,True
+gan_temp0.1_seed123_0068,GAN / sample seed 123,gan,72,10.377074,3.0188203,0.25900778,True
+gan_temp0.1_seed123_0069,GAN / sample seed 123,gan,72,9.05611,2.2647018,0.23280188,True
+gan_temp0.1_seed123_0070,GAN / sample seed 123,gan,72,8.479669,0.89546025,0.177394,True
+gan_temp0.1_seed123_0071,GAN / sample seed 123,gan,72,10.016098,2.0847788,0.24983281,True
+gan_temp0.1_seed123_0072,GAN / sample seed 123,gan,72,9.9571295,2.4785178,0.24592124,True
+gan_temp0.1_seed123_0073,GAN / sample seed 123,gan,72,10.389637,2.9114714,0.27424264,True
+gan_temp0.1_seed123_0074,GAN / sample seed 123,gan,72,11.561171,4.58167,0.38035855,True
+gan_temp0.1_seed123_0075,GAN / sample seed 123,gan,72,10.94338,4.844705,0.38004014,True
+gan_temp0.1_seed123_0076,GAN / sample seed 123,gan,74,10.478124,2.6088705,0.29705203,True
+gan_temp0.1_seed123_0077,GAN / sample seed 123,gan,72,11.510471,4.4711404,0.34373873,True
+gan_temp0.1_seed123_0078,GAN / sample seed 123,gan,73,8.500575,1.1694669,0.19997814,True
+gan_temp0.1_seed123_0079,GAN / sample seed 123,gan,72,9.415857,2.660532,0.23998614,True
+gan_temp0.1_seed123_0080,GAN / sample seed 123,gan,72,9.727195,3.531171,0.272602,True
+gan_temp0.1_seed123_0081,GAN / sample seed 123,gan,73,8.309222,0.49263924,0.17744339,True
+gan_temp0.1_seed123_0082,GAN / sample seed 123,gan,72,11.237656,4.235549,0.35922486,True
+gan_temp0.1_seed123_0083,GAN / sample seed 123,gan,72,9.736045,2.7779596,0.2288891,True
+gan_temp0.1_seed123_0084,GAN / sample seed 123,gan,72,7.9930644,0.1646514,0.16153772,True
+gan_temp0.1_seed123_0085,GAN / sample seed 123,gan,71,8.640232,0.86955225,0.18464813,True
+gan_temp0.1_seed123_0086,GAN / sample seed 123,gan,73,10.420772,2.6697934,0.26949278,True
+gan_temp0.1_seed123_0087,GAN / sample seed 123,gan,74,9.917173,2.1538656,0.2878154,True
+gan_temp0.1_seed123_0088,GAN / sample seed 123,gan,73,10.205469,2.6407382,0.2982831,True
+gan_temp0.1_seed123_0089,GAN / sample seed 123,gan,71,11.813412,4.91662,0.4142722,True
+gan_temp0.1_seed123_0090,GAN / sample seed 123,gan,72,11.878807,4.7448425,0.37721995,True
+gan_temp0.1_seed123_0091,GAN / sample seed 123,gan,72,11.885271,4.9098377,0.4025896,True
+gan_temp0.1_seed123_0092,GAN / sample seed 123,gan,72,11.748376,5.260948,0.4694868,True
+gan_temp0.1_seed123_0093,GAN / sample seed 123,gan,80,10.365051,3.9331257,0.34001487,True
+gan_temp0.1_seed123_0094,GAN / sample seed 123,gan,75,10.925876,4.0869937,0.34376335,True
+gan_temp0.1_seed123_0095,GAN / sample seed 123,gan,72,8.616887,1.3075933,0.1878354,True
+gan_temp0.1_seed123_0096,GAN / sample seed 123,gan,73,9.184615,2.6731186,0.23933254,True
+gan_temp0.1_seed123_0097,GAN / sample seed 123,gan,72,9.580325,3.200202,0.2615399,True
+gan_temp0.1_seed123_0098,GAN / sample seed 123,gan,72,11.171893,4.694778,0.41252947,True
+gan_temp0.1_seed123_0099,GAN / sample seed 123,gan,71,10.600738,4.401826,0.34286645,True

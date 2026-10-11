@@ -1,0 +1,113 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+lstm_temp1_seed42_0009 -          Gas_vesicle          PF00741.24   6.9e-20   63.7   6.3   9.4e-20   63.3   6.3   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=9
+lstm_temp1_seed42_0030 -          Gas_vesicle          PF00741.24   1.1e-19   63.0   6.2   1.4e-19   62.7   6.2   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=30
+lstm_temp1_seed42_0047 -          Gas_vesicle          PF00741.24   1.4e-19   62.7   7.1   1.7e-19   62.4   7.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=47
+lstm_temp1_seed42_0039 -          Gas_vesicle          PF00741.24   1.5e-19   62.6   6.3   1.8e-19   62.3   6.3   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=39
+lstm_temp1_seed42_0056 -          Gas_vesicle          PF00741.24     2e-19   62.2   7.1   2.5e-19   61.9   7.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=56
+lstm_temp1_seed42_0043 -          Gas_vesicle          PF00741.24     2e-19   62.2   7.1   2.6e-19   61.8   7.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=43
+lstm_temp1_seed42_0014 -          Gas_vesicle          PF00741.24     2e-19   62.2   7.1   2.5e-19   61.9   7.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=14
+lstm_temp1_seed42_0051 -          Gas_vesicle          PF00741.24   2.1e-19   62.2   6.3   2.8e-19   61.7   6.3   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=51
+lstm_temp1_seed42_0042 -          Gas_vesicle          PF00741.24   2.1e-19   62.1   7.0     3e-19   61.7   7.0   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=42
+lstm_temp1_seed42_0000 -          Gas_vesicle          PF00741.24   2.2e-19   62.1   7.1   2.6e-19   61.8   7.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=0
+lstm_temp1_seed42_0053 -          Gas_vesicle          PF00741.24   2.2e-19   62.0   7.0   3.2e-19   61.5   7.0   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=53
+lstm_temp1_seed42_0057 -          Gas_vesicle          PF00741.24   2.3e-19   62.0   7.0   3.1e-19   61.6   7.0   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=57
+lstm_temp1_seed42_0026 -          Gas_vesicle          PF00741.24   2.4e-19   62.0   7.0     3e-19   61.7   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=26
+lstm_temp1_seed42_0010 -          Gas_vesicle          PF00741.24   2.5e-19   61.9   7.0   3.1e-19   61.6   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=10
+lstm_temp1_seed42_0054 -          Gas_vesicle          PF00741.24   2.5e-19   61.9   7.0   3.1e-19   61.6   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=54
+lstm_temp1_seed42_0079 -          Gas_vesicle          PF00741.24   2.5e-19   61.9   7.0   3.1e-19   61.6   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=79
+lstm_temp1_seed42_0082 -          Gas_vesicle          PF00741.24   2.5e-19   61.9   7.1   3.4e-19   61.5   7.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=82
+lstm_temp1_seed42_0035 -          Gas_vesicle          PF00741.24   2.6e-19   61.8   7.0   3.3e-19   61.5   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=35
+lstm_temp1_seed42_0083 -          Gas_vesicle          PF00741.24   2.8e-19   61.7   7.0   3.6e-19   61.4   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=83
+lstm_temp1_seed42_0001 -          Gas_vesicle          PF00741.24     3e-19   61.6   7.1   4.2e-19   61.2   7.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=1
+lstm_temp1_seed42_0005 -          Gas_vesicle          PF00741.24   3.1e-19   61.6   7.0   3.9e-19   61.3   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=5
+lstm_temp1_seed42_0006 -          Gas_vesicle          PF00741.24   3.2e-19   61.6   6.9   3.9e-19   61.3   6.9   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=6
+lstm_temp1_seed42_0023 -          Gas_vesicle          PF00741.24   3.5e-19   61.4   5.2   4.3e-19   61.1   5.2   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=23
+lstm_temp1_seed42_0050 -          Gas_vesicle          PF00741.24   3.6e-19   61.4   6.2   4.5e-19   61.1   6.2   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=50
+lstm_temp1_seed42_0020 -          Gas_vesicle          PF00741.24   3.9e-19   61.3   7.1   5.2e-19   60.9   7.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=20
+lstm_temp1_seed42_0074 -          Gas_vesicle          PF00741.24   4.5e-19   61.1   7.1   5.6e-19   60.8   7.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=74
+lstm_temp1_seed42_0013 -          Gas_vesicle          PF00741.24   4.6e-19   61.0   6.3   5.7e-19   60.7   6.3   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=13
+lstm_temp1_seed42_0007 -          Gas_vesicle          PF00741.24   4.7e-19   61.0   6.3   5.9e-19   60.7   6.3   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=7
+lstm_temp1_seed42_0080 -          Gas_vesicle          PF00741.24   4.9e-19   61.0   7.2     6e-19   60.7   7.2   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=80
+lstm_temp1_seed42_0084 -          Gas_vesicle          PF00741.24   5.5e-19   60.8   7.0   6.9e-19   60.5   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=84
+lstm_temp1_seed42_0098 -          Gas_vesicle          PF00741.24   5.8e-19   60.7   6.5   7.6e-19   60.4   6.5   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=98
+lstm_temp1_seed42_0089 -          Gas_vesicle          PF00741.24   7.6e-19   60.4   7.1   1.1e-18   59.9   7.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=89
+lstm_temp1_seed42_0062 -          Gas_vesicle          PF00741.24   7.6e-19   60.4   7.1   9.6e-19   60.0   7.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=62
+lstm_temp1_seed42_0060 -          Gas_vesicle          PF00741.24   7.6e-19   60.4   7.1     1e-18   59.9   7.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=60
+lstm_temp1_seed42_0045 -          Gas_vesicle          PF00741.24   8.2e-19   60.3   7.1     1e-18   59.9   7.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=45
+lstm_temp1_seed42_0092 -          Gas_vesicle          PF00741.24   8.5e-19   60.2   6.0   1.1e-18   59.8   6.0   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=92
+lstm_temp1_seed42_0069 -          Gas_vesicle          PF00741.24   8.8e-19   60.2   5.0   1.2e-18   59.8   5.0   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=69
+lstm_temp1_seed42_0093 -          Gas_vesicle          PF00741.24   8.9e-19   60.1   5.9   1.1e-18   59.8   5.9   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=93
+lstm_temp1_seed42_0044 -          Gas_vesicle          PF00741.24   9.6e-19   60.0   7.0   1.3e-18   59.6   7.0   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=44
+lstm_temp1_seed42_0029 -          Gas_vesicle          PF00741.24     1e-18   59.9   7.0   1.3e-18   59.7   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=29
+lstm_temp1_seed42_0078 -          Gas_vesicle          PF00741.24     1e-18   59.9   7.0   1.3e-18   59.7   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=78
+lstm_temp1_seed42_0085 -          Gas_vesicle          PF00741.24     1e-18   59.9   7.2   1.4e-18   59.5   7.2   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=85
+lstm_temp1_seed42_0015 -          Gas_vesicle          PF00741.24     1e-18   59.9   7.1   1.3e-18   59.6   7.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=15
+lstm_temp1_seed42_0067 -          Gas_vesicle          PF00741.24   1.1e-18   59.9   6.3   1.4e-18   59.5   6.3   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=67
+lstm_temp1_seed42_0022 -          Gas_vesicle          PF00741.24   1.1e-18   59.8   7.1   1.4e-18   59.5   7.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=22
+lstm_temp1_seed42_0041 -          Gas_vesicle          PF00741.24   1.1e-18   59.8   7.1   1.5e-18   59.4   7.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=41
+lstm_temp1_seed42_0068 -          Gas_vesicle          PF00741.24   1.3e-18   59.6   7.2   1.7e-18   59.2   7.2   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=68
+lstm_temp1_seed42_0087 -          Gas_vesicle          PF00741.24   1.6e-18   59.4   5.6     2e-18   59.0   5.6   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=87
+lstm_temp1_seed42_0031 -          Gas_vesicle          PF00741.24   1.6e-18   59.3   7.1   2.1e-18   58.9   7.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=31
+lstm_temp1_seed42_0019 -          Gas_vesicle          PF00741.24   1.7e-18   59.2   6.0   2.3e-18   58.8   6.0   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=19
+lstm_temp1_seed42_0065 -          Gas_vesicle          PF00741.24   1.7e-18   59.2   6.5   2.3e-18   58.8   6.5   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=65
+lstm_temp1_seed42_0059 -          Gas_vesicle          PF00741.24   1.9e-18   59.1   6.0   2.3e-18   58.8   6.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=59
+lstm_temp1_seed42_0094 -          Gas_vesicle          PF00741.24     2e-18   59.0   7.2   2.4e-18   58.8   7.2   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=94
+lstm_temp1_seed42_0012 -          Gas_vesicle          PF00741.24     2e-18   59.0   6.0   2.5e-18   58.7   6.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=12
+lstm_temp1_seed42_0091 -          Gas_vesicle          PF00741.24   3.1e-18   58.4   6.9   4.3e-18   57.9   6.9   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=91
+lstm_temp1_seed42_0090 -          Gas_vesicle          PF00741.24   3.6e-18   58.2   7.2   4.4e-18   57.9   7.2   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=90
+lstm_temp1_seed42_0033 -          Gas_vesicle          PF00741.24   4.1e-18   58.0   6.0   5.1e-18   57.7   6.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=33
+lstm_temp1_seed42_0048 -          Gas_vesicle          PF00741.24   4.5e-18   57.9   3.3   5.5e-18   57.6   3.3   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=48
+lstm_temp1_seed42_0088 -          Gas_vesicle          PF00741.24   4.8e-18   57.8   8.1   5.9e-18   57.5   8.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=88
+lstm_temp1_seed42_0096 -          Gas_vesicle          PF00741.24   5.1e-18   57.7   5.5   6.5e-18   57.4   5.5   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=96
+lstm_temp1_seed42_0037 -          Gas_vesicle          PF00741.24   5.2e-18   57.7   5.8   7.1e-18   57.2   5.8   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=37
+lstm_temp1_seed42_0040 -          Gas_vesicle          PF00741.24   6.1e-18   57.5   3.4   8.9e-18   56.9   3.4   1.3   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=40
+lstm_temp1_seed42_0017 -          Gas_vesicle          PF00741.24   6.1e-18   57.5   5.8   8.3e-18   57.0   5.8   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=17
+lstm_temp1_seed42_0027 -          Gas_vesicle          PF00741.24   7.2e-18   57.2   6.3   9.8e-18   56.8   6.3   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=27
+lstm_temp1_seed42_0021 -          Gas_vesicle          PF00741.24   8.4e-18   57.0   6.9   1.1e-17   56.6   6.9   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=21
+lstm_temp1_seed42_0099 -          Gas_vesicle          PF00741.24   1.1e-17   56.7   7.0   1.3e-17   56.4   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=99
+lstm_temp1_seed42_0066 -          Gas_vesicle          PF00741.24   1.2e-17   56.6   4.2   1.7e-17   56.0   4.2   1.3   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=66
+lstm_temp1_seed42_0073 -          Gas_vesicle          PF00741.24   1.2e-17   56.5   6.1   1.6e-17   56.1   6.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=73
+lstm_temp1_seed42_0032 -          Gas_vesicle          PF00741.24   1.3e-17   56.4   6.9   1.6e-17   56.1   6.9   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=32
+lstm_temp1_seed42_0097 -          Gas_vesicle          PF00741.24   1.7e-17   56.1   7.1   2.1e-17   55.7   7.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=97
+lstm_temp1_seed42_0071 -          Gas_vesicle          PF00741.24   1.8e-17   56.0   6.9   2.2e-17   55.7   6.9   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=71
+lstm_temp1_seed42_0004 -          Gas_vesicle          PF00741.24   3.2e-17   55.2   5.1   3.9e-17   54.9   5.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=4
+lstm_temp1_seed42_0075 -          Gas_vesicle          PF00741.24   3.9e-17   54.9   6.2   5.4e-17   54.4   6.2   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=75
+lstm_temp1_seed42_0025 -          Gas_vesicle          PF00741.24   9.8e-17   53.6   6.7   1.4e-16   53.1   6.7   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=25
+lstm_temp1_seed42_0036 -          Gas_vesicle          PF00741.24     1e-16   53.5   5.8   1.7e-16   52.8   5.8   1.4   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=36
+lstm_temp1_seed42_0072 -          Gas_vesicle          PF00741.24   1.1e-16   53.5   7.0   1.5e-16   53.0   7.0   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=72
+lstm_temp1_seed42_0028 -          Gas_vesicle          PF00741.24   1.1e-16   53.4   6.9   1.4e-16   53.1   6.9   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=28
+lstm_temp1_seed42_0003 -          Gas_vesicle          PF00741.24   1.2e-16   53.3   6.3   1.7e-16   52.9   6.3   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=3
+lstm_temp1_seed42_0081 -          Gas_vesicle          PF00741.24   1.3e-16   53.2   7.2   1.6e-16   52.9   7.2   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=81
+lstm_temp1_seed42_0064 -          Gas_vesicle          PF00741.24   2.1e-16   52.6   5.6   2.8e-16   52.2   5.6   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=64
+lstm_temp1_seed42_0063 -          Gas_vesicle          PF00741.24   2.9e-16   52.1   7.0   3.6e-16   51.8   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=63
+lstm_temp1_seed42_0011 -          Gas_vesicle          PF00741.24   3.3e-16   51.9   5.6   3.3e-16   51.9   5.6   1.4   2   0   0   2   2   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=11
+lstm_temp1_seed42_0076 -          Gas_vesicle          PF00741.24     6e-16   51.1   7.0   8.2e-16   50.7   7.0   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=76
+lstm_temp1_seed42_0038 -          Gas_vesicle          PF00741.24   6.3e-16   51.0   6.5   9.1e-16   50.5   6.5   1.3   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=38
+lstm_temp1_seed42_0070 -          Gas_vesicle          PF00741.24   9.2e-16   50.5   5.9   1.2e-15   50.1   5.9   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=70
+lstm_temp1_seed42_0077 -          Gas_vesicle          PF00741.24   1.3e-15   50.0   8.1   1.8e-15   49.6   8.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=77
+lstm_temp1_seed42_0055 -          Gas_vesicle          PF00741.24   1.6e-15   49.7   4.2   2.1e-15   49.3   4.2   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=55
+lstm_temp1_seed42_0008 -          Gas_vesicle          PF00741.24   1.6e-15   49.7   5.7   2.2e-15   49.3   5.7   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=8
+lstm_temp1_seed42_0052 -          Gas_vesicle          PF00741.24   2.1e-15   49.3   4.1   2.6e-15   49.0   4.1   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=52
+lstm_temp1_seed42_0049 -          Gas_vesicle          PF00741.24   3.2e-15   48.7   4.9   6.4e-15   47.8   4.0   1.8   1   1   1   2   2   2   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=49
+lstm_temp1_seed42_0034 -          Gas_vesicle          PF00741.24   3.8e-15   48.5   8.1   5.1e-15   48.1   8.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=34
+lstm_temp1_seed42_0018 -          Gas_vesicle          PF00741.24   1.8e-14   46.3   7.0   2.3e-14   46.0   7.0   1.1   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=18
+lstm_temp1_seed42_0061 -          Gas_vesicle          PF00741.24   2.5e-14   45.9   7.8   3.4e-14   45.5   7.8   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=61
+lstm_temp1_seed42_0046 -          Gas_vesicle          PF00741.24   6.3e-14   44.6   5.1   8.3e-14   44.2   5.1   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=46
+lstm_temp1_seed42_0058 -          Gas_vesicle          PF00741.24   1.2e-13   43.7   6.9   1.8e-13   43.1   6.9   1.3   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=58
+lstm_temp1_seed42_0016 -          Gas_vesicle          PF00741.24   1.7e-13   43.2   5.8   2.3e-13   42.8   5.8   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=16
+lstm_temp1_seed42_0002 -          Gas_vesicle          PF00741.24   2.6e-13   42.7   7.7   3.4e-13   42.3   7.7   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=2
+lstm_temp1_seed42_0095 -          Gas_vesicle          PF00741.24   2.7e-12   39.4   5.9   3.6e-12   39.0   5.9   1.2   1   0   0   1   1   1   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=95
+lstm_temp1_seed42_0024 -          Gas_vesicle          PF00741.24   1.7e-10   33.7   4.3   1.7e-10   33.7   4.3   1.7   1   1   1   2   2   2   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=24
+lstm_temp1_seed42_0086 -          Gas_vesicle          PF00741.24   1.2e-07   24.5   9.2     2e-07   23.8   5.1   2.1   2   0   0   2   2   2   1 run_id=lstm_temp1_seed42 model=lstm temperature=1.0 seed=42 index=86
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      data/processed/dataset_v1/profiles/PF00741.hmm
+# Target file:     runs/retest_lstm_pretrain_finetune_seed7/generated_t1.0_s42_masked.fasta
+# Option settings: /tmp/gvpa-hmmer-20260918/bin/hmmsearch --tblout runs/retest_lstm_pretrain_finetune_seed7/eval_pf_t1.0_s42_masked/hmmsearch.tblout --noali -E 0.001 data/processed/dataset_v1/profiles/PF00741.hmm runs/retest_lstm_pretrain_finetune_seed7/generated_t1.0_s42_masked.fasta 
+# Current dir:     /home/robin/ML-project/gvpa-sequence-generation
+# Date:            Fri Sep 18 15:16:12 2026
+# [ok]

@@ -1,9 +1,14 @@
-# Recommended environment: Python 3.10.20+
-# 环境：RTX 5060 + WSL
-# install the verified CUDA 13.0 build separately with:
+# Recommended environment: Python 3.10+
+# PyTorch depends on CPU/CUDA and platform. Install an appropriate build first,
+# e.g. the verified CUDA 13.0 build:
 # python -m pip install torch==2.11.0 torchvision --index-url https://download.pytorch.org/whl/cu130
+# HMMER (hmmsearch) is a system dependency, not a pip package.
 
 requests>=2.31,<3
 numpy>=1.26,<3
 pandas>=2.2,<3
 matplotlib>=3.8,<4
+torch>=2.0
+transformers>=4.40
+scikit-learn>=1.4
+umap-learn>=0.5
