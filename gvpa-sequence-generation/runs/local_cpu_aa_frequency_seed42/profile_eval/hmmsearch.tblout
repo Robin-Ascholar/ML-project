@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      data/processed/dataset_v1/profiles/PF00741.hmm
+# Target file:     runs/local_cpu_aa_frequency_seed42/generated.fasta
+# Option settings: /tmp/gvpa-hmmer-20261011/bin/hmmsearch --tblout runs/local_cpu_aa_frequency_seed42/profile_eval/hmmsearch.tblout --noali -E 0.001 data/processed/dataset_v1/profiles/PF00741.hmm runs/local_cpu_aa_frequency_seed42/generated.fasta 
+# Current dir:     /home/robin/ML-project/gvpa-sequence-generation
+# Date:            Sun Oct 11 21:11:25 2026
+# [ok]

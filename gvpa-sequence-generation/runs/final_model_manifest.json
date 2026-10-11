@@ -6,13 +6,13 @@
       "model": "AA-frequency baseline",
       "model_type": "baseline",
       "generated": "local_cpu_aa_frequency_seed42/generated.fasta",
-      "metrics": "local_cpu_aa_frequency_seed42/eval/metrics.json"
+      "metrics": "local_cpu_aa_frequency_seed42/profile_eval/metrics.json"
     },
     {
       "model": "3-mer baseline",
       "model_type": "baseline",
       "generated": "local_cpu_kmer3_seed42/generated.fasta",
-      "metrics": "local_cpu_kmer3_seed42/eval/metrics.json"
+      "metrics": "local_cpu_kmer3_seed42/profile_eval/metrics.json"
     },
     {
       "model": "LSTM (auxiliary pretrain + fine-tune)",

@@ -8,7 +8,7 @@
 |---|---|---|
 | `fig_01_optimisation_package_comparison.png` | 优化前后/约束前后的对照 | LSTM 用少量 profile 换取明显更高的新颖性和多样性，并消除了精确复制；VAE 的长度控制消除了 91 aa 上限堆积，且改善 profile 和组成，但牺牲部分探索性；GAN 约束将 profile 从 0.85 提至 1.00，但多样性下降，组成漂移仍没有根治。 |
 | `fig_02_sampling_parameter_controls.png` | 固定 checkpoint 的采样参数对照 | LSTM 的 `T=1.0` 是 fidelity 与 novelty 的折中，`T=1.2` 虽新颖率高但 profile 降到 0.94；VAE 的 `scale=0.75, T=0.6` 是唯一达到 0.95 profile 筛选线的选定设置；GAN 在 0.1--0.2 的温度内几乎不变。 |
-| `fig_03_final_three_objective_tradeoff.png` | RQ2 三目标权衡图 | LSTM 最接近真实组成、最保守；VAE 居中；GAN 新颖性最高但组成偏离最大。图中只放了 profile 已评估的深度模型；两个 baseline 仍需补 HMMER 后才适合并列。 |
+| `fig_03_final_three_objective_tradeoff.png` | RQ2 三目标权衡图 | LSTM 最接近真实组成、最保守；VAE 居中；GAN 新颖性最高但组成偏离最大。图中只放通过 profile 筛选的深度模型；AA-frequency（0%）和 3-mer（56%）均未通过 PF00741 筛选线，作为负对照见统一表。 |
 | `fig_04_rq3_distribution_summary.png` | RQ3 三个采样种子复测汇总 | LSTM 的 MMD 和离群率都显著低于 VAE/GAN，但仍高于真实-真实自然差异；VAE/GAN 的结论在三个采样种子下稳定。 |
 | `fig_05_vae_length_control.png` | 失败模式及修复图 | 自由采样 VAE 中有 47% 序列停在 91 aa 最大长度；经验长度控制将该比例降到 0。 |
 

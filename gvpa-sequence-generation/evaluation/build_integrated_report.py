@@ -296,7 +296,7 @@ def build_report(rows: list[dict[str, Any]], reference_path: str, coverage_thres
         "## Reading the table",
         "",
         "- Higher novelty and diversity are not automatically better: they must be interpreted together with the fidelity screen and composition distance.",
-        "- A missing profile value means unassessed, not failed. Such a baseline is retained only as a methodological comparison.",
+        "- A failed profile screen means that matching simple sequence statistics is insufficient for a GvpA candidate; such a baseline is retained as a negative methodological comparison.",
         "- The CSV retains the three novelty thresholds (0.90, 0.95 and 0.98), exact-copy rate and duplicate statistics for the final report or plots.",
         "",
     ])
