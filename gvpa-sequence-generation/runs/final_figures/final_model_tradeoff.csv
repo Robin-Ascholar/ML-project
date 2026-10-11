@@ -1,0 +1,4 @@
+model,profile_hit_rate,strict_novelty_all_165,pairwise_diversity,aa_composition_l1
+LSTM,0.98,0.42,0.131,0.04
+VAE,0.97,0.62,0.176,0.098
+GAN,1.0,1.0,0.157,0.17

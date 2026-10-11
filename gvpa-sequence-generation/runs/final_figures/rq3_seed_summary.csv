@@ -1,0 +1,4 @@
+model,mmd2_mean,mmd2_min,mmd2_max,embedding_outlier_rate_mean,embedding_outlier_rate_min,embedding_outlier_rate_max
+LSTM,0.0264,0.0221,0.033,0.0767,0.06,0.09
+VAE,0.2858,0.271,0.3075,0.6667,0.61,0.7
+GAN,0.7395,0.7216,0.7587,0.9633,0.95,0.97

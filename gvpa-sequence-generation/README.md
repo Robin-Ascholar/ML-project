@@ -165,6 +165,27 @@ GAN 使用适合小样本的条件 WGAN-GP：目标长度从蓝藻训练集的�
 已完成的优化实验及统一评价见 `runs/optimization_summary.md` 和 `runs/optimized_model_comparison.csv`。
 独立训练 seed 复测及提交判定见 `runs/optimization_retest.md`。
 
+## 最终实验与图表
+
+最终的三目标联合比较在 `runs/integrated_model_evaluation.md`；其中 LSTM、VAE、GAN 使用同一保真筛选规则，再分别解释新颖性、多样性和组成偏差，不采用单一总分。
+
+RQ3 的 ESM-2 表示空间结果位于 `runs/rq3_esm2/`，三个生成采样 seed 的复测和结论位于 `runs/rq3_esm2_seed_retest/`。最终的优化方案对照、固定 checkpoint 参数对照、三目标图、RQ3 汇总图和 VAE 长度修复图位于 `runs/final_figures/`；每张图的正确口径和可直接使用的结论见其中的 `README.md`。
+
+重建最终图表：
+
+```bash
+python3 evaluation/build_final_figures.py --output-dir runs/final_figures
+```
+
+重跑 RQ3（需要 PyTorch、Transformers、scikit-learn、UMAP 和可下载的 ESM-2 权重）：
+
+```bash
+python3 evaluation/analyze_plm_embeddings.py \
+  --manifest runs/rq3_seed_manifest.json \
+  --output-dir runs/rq3_esm2_seed_retest \
+  --device cpu
+```
+
 LSTM/VAE 入口已通过 CPU smoke test；GAN 已在 NVIDIA RTX 4060 Laptop GPU 上完成 5-epoch smoke test 和 100-epoch 初测。模型、batch 和 checkpoint 均通过统一的 `device` 参数管理。
 
 中间清洗输出：
